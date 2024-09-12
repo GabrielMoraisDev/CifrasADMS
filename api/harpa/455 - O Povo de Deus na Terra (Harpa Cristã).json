@@ -1,0 +1,62 @@
+{
+  "id": 1661295928259,
+  "title": "455 - O Povo de Deus na Terra",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O povo de Deus, aqui na terra tem um sinal: \nPovo que vive em santa guerra contra o mal; \nPovo que espera a Jesus Cristo, que presto vem \nE pois Ele mesmo, quem nos diz isto:  \"Vigiai mui bem\". \n\nA minha paz, sim, não a do mundo, \nEu vos darei O coração de gozo profundo, \nEu encherei;\nCom o Seu braço Ele nos guia, \noh! grande amor Para os que Lhe pedem, \nlogo envia o Consolador! \n\nó vinde a Mim, Jesus convida, quem sede tem! \nBeber, vinde, da àgua da vida, celeste bem! \nCristo sacia a alma sedenta do pecador! \nSalva, purifica e alimenta, enche de amor! \n\nEm Cristo, crendo sempre \nO seguindo quão doce é \nA paz profunda e o amor sentindo: \nTudo por Feliz o homem que guarda isto, \npois vida tem Há de reinar sempre \ncom Jesus Cristo na mansão de além. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O povo de Deus, aqui na terra tem um sinal: \nPovo que vive em santa guerra contra o mal; \nPovo que espera a Jesus Cristo, que presto vem \nE pois Ele mesmo, quem nos diz isto:  \"Vigiai mui bem\". ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A minha paz, sim, não a do mundo, \nEu vos darei O coração de gozo profundo, \nEu encherei;\nCom o Seu braço Ele nos guia, \noh! grande amor Para os que Lhe pedem, \nlogo envia o Consolador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "ó vinde a Mim, Jesus convida, quem sede tem! \nBeber, vinde, da àgua da vida, celeste bem! \nCristo sacia a alma sedenta do pecador! \nSalva, purifica e alimenta, enche de amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Em Cristo, crendo sempre \nO seguindo quão doce é \nA paz profunda e o amor sentindo: \nTudo por Feliz o homem que guarda isto, \npois vida tem Há de reinar sempre \ncom Jesus Cristo na mansão de além. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

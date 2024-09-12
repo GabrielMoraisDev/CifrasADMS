@@ -1,0 +1,76 @@
+{
+  "id": 1631483016708,
+  "title": "193 - A Alma Abatida",
+  "artist": "Harpa Cristã ",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Se tu, minh'alma\nA Deus suplicas\nE não recebes\nConfiando fica\nEm Suas promessas\nQue são mui ricas\nE infalíveis\nPra te valer\n\nPor que te abates\nÓ minha alma?\nE te comoves\nPerdendo a calma?\nNão tenhas medo\nEm Deus espera\nPorque bem cedo\nJesus virá!\n\nEle intercede por ti\nMinh'alma\nEspera nEle\nCom fé e calma\nJesus de todos\nTeus males salva\nE te abençoa\nDos altos céus\n\nPor que te abates\nÓ minha alma?\nE te comoves\nPerdendo a calma?\nNão tenhas medo\nEm Deus espera\nPorque bem cedo\nJesus virá!\n\nTerás em breve\nAs dores findas\nNo dia alegre\nDa Sua vinda\nSe Cristo tarda\nEspera ainda\nMais um pouquinho\nE O verás\n\nPor que te abates\nÓ minha alma?\nE te comoves\nPerdendo a calma?\nNão tenhas medo\nEm Deus espera\nPorque bem cedo\nJesus virá!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Se tu, minh'alma\nA Deus suplicas\nE não recebes\nConfiando fica\nEm Suas promessas\nQue são mui ricas\nE infalíveis\nPra te valer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Por que te abates\nÓ minha alma?\nE te comoves\nPerdendo a calma?\nNão tenhas medo\nEm Deus espera\nPorque bem cedo\nJesus virá!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ele intercede por ti\nMinh'alma\nEspera nEle\nCom fé e calma\nJesus de todos\nTeus males salva\nE te abençoa\nDos altos céus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Por que te abates\nÓ minha alma?\nE te comoves\nPerdendo a calma?\nNão tenhas medo\nEm Deus espera\nPorque bem cedo\nJesus virá!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Terás em breve\nAs dores findas\nNo dia alegre\nDa Sua vinda\nSe Cristo tarda\nEspera ainda\nMais um pouquinho\nE O verás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Por que te abates\nÓ minha alma?\nE te comoves\nPerdendo a calma?\nNão tenhas medo\nEm Deus espera\nPorque bem cedo\nJesus virá!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

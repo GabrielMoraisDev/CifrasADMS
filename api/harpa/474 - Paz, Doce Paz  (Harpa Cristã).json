@@ -1,0 +1,83 @@
+{
+  "id": 1663717099001,
+  "title": "474 - Paz, Doce Paz ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Paz, doce paz! \nQue brota, lá da cruz; \nNos trouxe paz o sangue de Jesus.  \n\nPaz, doce paz! \nAndar no Teu querer, \nDe Cristo, a nós a paz vai nos trazer.  \n\nPaz, doce paz! \nPra todo o pecador! \nDescanso e paz tereis no Salvador.  \n\nPaz, doce paz! \nPaz na separação, \nA paz de Cristo dá consolação!  \n\nPaz, doce paz! \nEnquanto ao meu porvir, \nJesus, paz, sempre me fará fruir.  \n\nPaz, doce paz! \nNão temo a morte, a dor, \nJesus venceu a morte e seu terror.  \n\nPaz, doce paz! \nNão tardará Jesus, \nE nos dará celeste paz e luz. Amém.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Paz, doce paz! \nQue brota, lá da cruz; \nNos trouxe paz o sangue de Jesus.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Paz, doce paz! \nAndar no Teu querer, \nDe Cristo, a nós a paz vai nos trazer.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Paz, doce paz! \nPra todo o pecador! \nDescanso e paz tereis no Salvador.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Paz, doce paz! \nPaz na separação, \nA paz de Cristo dá consolação!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Paz, doce paz! \nEnquanto ao meu porvir, \nJesus, paz, sempre me fará fruir.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Paz, doce paz! \nNão temo a morte, a dor, \nJesus venceu a morte e seu terror.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Paz, doce paz! \nNão tardará Jesus, \nE nos dará celeste paz e luz. Amém.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

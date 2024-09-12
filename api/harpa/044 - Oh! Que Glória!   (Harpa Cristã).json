@@ -1,0 +1,62 @@
+{
+  "id": 1652481118207,
+  "title": "044 - Oh! Que Glória!  ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "G",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": " Meu Senhor, que me salvaste, \nTeu, e Teu somente, eu sou; \nCom Teu sangue me saraste; \nGlória, glória a Ti Te dou. \n\nOh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE, crendo, tenho salvação. \nOh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE em Seu sangue achei perdão. \n(2x)\n\nPara obter tão grande gozo,\nMuito e muito trabalhei; \nMas debalde todo esforço, \nCrendo só é que o achei.\n\nOh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE, crendo, tenho salvação. \nOh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE em Seu sangue achei perdão. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": " Meu Senhor, que me salvaste, \nTeu, e Teu somente, eu sou; \nCom Teu sangue me saraste; \nGlória, glória a Ti Te dou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE, crendo, tenho salvação. \nOh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE em Seu sangue achei perdão. \n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Para obter tão grande gozo,\nMuito e muito trabalhei; \nMas debalde todo esforço, \nCrendo só é que o achei.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE, crendo, tenho salvação. \nOh! Que glória! Oh! Que glória! \nGozo em meu coração! \nEu confio em Jesus, \nE em Seu sangue achei perdão. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

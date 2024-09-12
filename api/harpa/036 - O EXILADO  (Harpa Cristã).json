@@ -1,0 +1,62 @@
+{
+  "id": 1644151856732,
+  "title": "036 - O EXILADO ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "D",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Da linda pátria estou bem longe; Cansado estou; \nEu tenho de Jesus saudade, \nOh, quando é que eu vou? Passarinhos, belas flores, \nQuerem m'encantar; \nSão vãos terrestres esplendores, \nMas contemplo o meu lar. \n\nJesus me deu a Sua promessa; \nMe vem buscar; \nMeu coração está com pressa, \nEu quero já voar. \nMeus pecados foram muitos, \nMui culpado sou; \nPorém, Seu sangue põe-me limpo; \nEu para pátria vou. \n\nQual filho de seu lar saudoso, \nEu quero ir; \nQual passarinho para o ninho, \nPra os braços Seus fugir; \nÉ fiel - Sua vinda é certa, \nQuando... Eu não sei. \nMas Ele manda estar alerta; \nDo exílio voltarei.   \n\nSua vinda aguardo eu cantando; \nMeu lar no céu; \nSeus passos hei de ouvir soando \nAlém do escuro véu. \nPassarinhos, belas flores,\nQuerem m'encantar; \nSão vãos terrestres esplendores, \nMas contemplo o meu lar.  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Da linda pátria estou bem longe; Cansado estou; \nEu tenho de Jesus saudade, \nOh, quando é que eu vou? Passarinhos, belas flores, \nQuerem m'encantar; \nSão vãos terrestres esplendores, \nMas contemplo o meu lar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Jesus me deu a Sua promessa; \nMe vem buscar; \nMeu coração está com pressa, \nEu quero já voar. \nMeus pecados foram muitos, \nMui culpado sou; \nPorém, Seu sangue põe-me limpo; \nEu para pátria vou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Qual filho de seu lar saudoso, \nEu quero ir; \nQual passarinho para o ninho, \nPra os braços Seus fugir; \nÉ fiel - Sua vinda é certa, \nQuando... Eu não sei. \nMas Ele manda estar alerta; \nDo exílio voltarei.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Sua vinda aguardo eu cantando; \nMeu lar no céu; \nSeus passos hei de ouvir soando \nAlém do escuro véu. \nPassarinhos, belas flores,\nQuerem m'encantar; \nSão vãos terrestres esplendores, \nMas contemplo o meu lar.  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

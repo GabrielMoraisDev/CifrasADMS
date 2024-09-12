@@ -1,0 +1,76 @@
+{
+  "id": 1659482417156,
+  "title": "273 - Só a Ti Recorrerei",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quer nas trevas quer na luz, \nSó a Ti recorrerei,\nSó a Ti meu bom Jesus, \nE socorro acharei. \n\nSó a Ti, meu Senhor, \nSó a Ti recorrerei;\nSó em Ti, Salvador,\nUm refúgio encontrarei!\n\nQuando lutas, penas, dor, \nNeste mundo encontrar, \nEu Te buscarei, Senhor, \nE virás me consolar! \n\nSó a Ti, meu Senhor, \nSó a Ti recorrerei;\nSó em Ti, Salvador,\nUm refúgio encontrarei!\n\nQuando o grande tentador\nA minh'alma combater,\nPela graça do Senhor,\nTodo o mal hei de vencer. \n\nSó a Ti, meu Senhor, \nSó a Ti recorrerei;\nSó em Ti, Salvador,\nUm refúgio encontrarei!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quer nas trevas quer na luz, \nSó a Ti recorrerei,\nSó a Ti meu bom Jesus, \nE socorro acharei. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Só a Ti, meu Senhor, \nSó a Ti recorrerei;\nSó em Ti, Salvador,\nUm refúgio encontrarei!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando lutas, penas, dor, \nNeste mundo encontrar, \nEu Te buscarei, Senhor, \nE virás me consolar! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Só a Ti, meu Senhor, \nSó a Ti recorrerei;\nSó em Ti, Salvador,\nUm refúgio encontrarei!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quando o grande tentador\nA minh'alma combater,\nPela graça do Senhor,\nTodo o mal hei de vencer. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Só a Ti, meu Senhor, \nSó a Ti recorrerei;\nSó em Ti, Salvador,\nUm refúgio encontrarei!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

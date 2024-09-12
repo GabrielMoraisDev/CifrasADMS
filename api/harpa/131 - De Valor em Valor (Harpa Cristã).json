@@ -1,0 +1,76 @@
+{
+  "id": 1653609542277,
+  "title": "131 - De Valor em Valor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Ab",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Só em Ti, meu Senhor eu desejo estar, \nE também receber Tua luz;\nDe valor em valor só por Ti avançar, \nO me traz junto a Ti, meu Jesus.\n\nEu desejo, ó Deus, em Jesus habitar; \nPois minh'alma suspira por Ti;\nDe valor em valor, e na fé aumentar, \nPara que vejam Cristo em mim.\n\nO caminho, Senhor, faz-me mais conhecer, \nQue me leva à santa Sião;\nPor Teu grande favor, e com muito prazer \nEntrarei na eternal mansão.\n\nEu desejo, ó Deus, em Jesus habitar; \nPois minh'alma suspira por Ti;\nDe valor em valor, e na fé aumentar, \nPara que vejam Cristo em mim.\n\nTua mão, ó Senhor! \nQueira me proteger, \nE dos males daqui me livrar;\nNa manhã d'esplendor, eu também quero ser\nDos fiéis, que vão ressucitar.\n\nEu desejo, ó Deus, em Jesus habitar; \nPois minh'alma suspira por Ti;\nDe valor em valor, e na fé aumentar, \nPara que vejam Cristo em mim.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Só em Ti, meu Senhor eu desejo estar, \nE também receber Tua luz;\nDe valor em valor só por Ti avançar, \nO me traz junto a Ti, meu Jesus.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu desejo, ó Deus, em Jesus habitar; \nPois minh'alma suspira por Ti;\nDe valor em valor, e na fé aumentar, \nPara que vejam Cristo em mim.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O caminho, Senhor, faz-me mais conhecer, \nQue me leva à santa Sião;\nPor Teu grande favor, e com muito prazer \nEntrarei na eternal mansão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu desejo, ó Deus, em Jesus habitar; \nPois minh'alma suspira por Ti;\nDe valor em valor, e na fé aumentar, \nPara que vejam Cristo em mim.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tua mão, ó Senhor! \nQueira me proteger, \nE dos males daqui me livrar;\nNa manhã d'esplendor, eu também quero ser\nDos fiéis, que vão ressucitar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu desejo, ó Deus, em Jesus habitar; \nPois minh'alma suspira por Ti;\nDe valor em valor, e na fé aumentar, \nPara que vejam Cristo em mim.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

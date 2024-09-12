@@ -1,0 +1,90 @@
+{
+  "id": 1659483518768,
+  "title": "286 - Não Tarda Vir Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó Jesus, nesta terra, \nHá só tristeza e dor; \nOs Ímpios fazem guerra \nAos santos do Senhor.  \n\nCristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!\n\nDo mundo nós não somos, \nMas do Senhor Jesus; \nRemidos todos fomos \nCom sangue, lá na cruz! \n\nCristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!\n\nNo mundo tenebroso \nNão vamos descansar, \nMas para o céu, de gozo, \nQueremos já voar!  \n\nCristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!\n\nOlhamos para cima \nDonde virá Jesus; \nPois isto nos anima \nPara viver na luz.\n\nCristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó Jesus, nesta terra, \nHá só tristeza e dor; \nOs Ímpios fazem guerra \nAos santos do Senhor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Cristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Do mundo nós não somos, \nMas do Senhor Jesus; \nRemidos todos fomos \nCom sangue, lá na cruz! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Cristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "No mundo tenebroso \nNão vamos descansar, \nMas para o céu, de gozo, \nQueremos já voar!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Cristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Olhamos para cima \nDonde virá Jesus; \nPois isto nos anima \nPara viver na luz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Cristo volta \nEm fulgurante luz; \nO mar já se revolta, \nNão tarda vir Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

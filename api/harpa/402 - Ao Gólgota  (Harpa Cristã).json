@@ -1,0 +1,62 @@
+{
+  "id": 1653220516244,
+  "title": "402 - Ao Gólgota ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ao Gólgota ascende alma minha,\nContempla ali teu Senhor,\nTambém a agonia que tinha,\nSofrendo por ti com amor;\nNão vês uma rubra torrente\nCobrindo a terra de horror?\nE o sangue de Cristo inocente\nVertido por mim, pecador.  \n\nMinh'alma, te lava contente \nNo sangue do teu Redentor! \nÉ Cristo a senda somente. \nQue leva ao repouso de amor; \nJubila no onipotente \nPor toda a Sua mercê, \nTambém pelo dom excelente \nDe Cristo em todo o que crê!  \n\nMinh’alma, ó sobe p'ra o alto\n Ali ouvirás o falar \nD'Aquele a quem eu exalto; \nNão sabes que vê teu penar? \nNa graça divina medita, \nQue tens em Jesus, teu Senhor; \nRecebe a glória bendita \nOrando a Deus, com fervor!  \n\nHosanas ao onisciente! \nJesus veio aqui pra salvar \nMinh'alma da \"velha serpente” \nQue anda no mundo a tentar; \nHosanas a Deus entoemos \nPor Sua Palavra de amor; \nHosanas e glória rendemos, \nA Cristo Jesus, o Senhor.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ao Gólgota ascende alma minha,\nContempla ali teu Senhor,\nTambém a agonia que tinha,\nSofrendo por ti com amor;\nNão vês uma rubra torrente\nCobrindo a terra de horror?\nE o sangue de Cristo inocente\nVertido por mim, pecador.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Minh'alma, te lava contente \nNo sangue do teu Redentor! \nÉ Cristo a senda somente. \nQue leva ao repouso de amor; \nJubila no onipotente \nPor toda a Sua mercê, \nTambém pelo dom excelente \nDe Cristo em todo o que crê!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Minh’alma, ó sobe p'ra o alto\n Ali ouvirás o falar \nD'Aquele a quem eu exalto; \nNão sabes que vê teu penar? \nNa graça divina medita, \nQue tens em Jesus, teu Senhor; \nRecebe a glória bendita \nOrando a Deus, com fervor!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Hosanas ao onisciente! \nJesus veio aqui pra salvar \nMinh'alma da \"velha serpente” \nQue anda no mundo a tentar; \nHosanas a Deus entoemos \nPor Sua Palavra de amor; \nHosanas e glória rendemos, \nA Cristo Jesus, o Senhor.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

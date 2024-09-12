@@ -1,0 +1,76 @@
+{
+  "id": 1676157686806,
+  "title": "Quando Jesus Estendeu Sua Mão",
+  "artist": "Corinhos Evangélicos",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "A minha alma estava longe\nDo caminho do céu\nEu era pobre\nPerdido, pecador\n\nMas Jesus transformou\nMinhas trevas em luz\nQuando Ele estendeu\nA Sua mão para mim\n\nQuando Jesus\nEstendeu a Sua mão\nQuando Ele estendeu\nA Sua mão para mim\n\nEu era pobre, perdido\nSem Deus, sem Jesus\nQuando Ele estendeu\nA Sua mão para mim\n\nAgora me regozijo\nDesde que O aceitei\nE na tempestade\nEu posso sossegar\n\nPois com Ele estou liberto\nDo perigo e do mal\nDesde que estendeu \nA Sua mão para mim",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "A minha alma estava longe\nDo caminho do céu\nEu era pobre\nPerdido, pecador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mas Jesus transformou\nMinhas trevas em luz\nQuando Ele estendeu\nA Sua mão para mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando Jesus\nEstendeu a Sua mão\nQuando Ele estendeu\nA Sua mão para mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu era pobre, perdido\nSem Deus, sem Jesus\nQuando Ele estendeu\nA Sua mão para mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Agora me regozijo\nDesde que O aceitei\nE na tempestade\nEu posso sossegar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Pois com Ele estou liberto\nDo perigo e do mal\nDesde que estendeu \nA Sua mão para mim",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

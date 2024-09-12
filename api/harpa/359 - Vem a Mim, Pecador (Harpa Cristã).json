@@ -1,0 +1,69 @@
+{
+  "id": 1661901028056,
+  "title": "359 - Vem a Mim, Pecador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eis que clamo, Eu Jesus, o poderoso,\nVem a Mim, pecador;\nQuero dar-te Minha paz, perdão e gozo, \nVem a Mim, sofredor. \n\nEu te amo,  pecador perdido,\nMorri p'ra ser teu Salvador,\nPor teus crimes e pecados fui ferido; \nVem a Mim, sofredor.\n\nDos pecados hoje posso libertar-te,\nVem a Mim, pecador; \nPois na cruz, Eu padecendo, quis livrar-te, \nVem a Mim, sofredor. \n\nHoje quero te fazer feliz, ditoso,\nVem a Mim, pecador;\nCom meu sangue abri um trilho glorioso,\nVem a Mim, sofredor. \n\nNão desprezes com orgulho o Meu convite \nVem a Mim, pecador;\nPois teu coração é fraco, não resiste,\nVem a Mim, sofredor.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eis que clamo, Eu Jesus, o poderoso,\nVem a Mim, pecador;\nQuero dar-te Minha paz, perdão e gozo, \nVem a Mim, sofredor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu te amo,  pecador perdido,\nMorri p'ra ser teu Salvador,\nPor teus crimes e pecados fui ferido; \nVem a Mim, sofredor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Dos pecados hoje posso libertar-te,\nVem a Mim, pecador; \nPois na cruz, Eu padecendo, quis livrar-te, \nVem a Mim, sofredor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Hoje quero te fazer feliz, ditoso,\nVem a Mim, pecador;\nCom meu sangue abri um trilho glorioso,\nVem a Mim, sofredor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Não desprezes com orgulho o Meu convite \nVem a Mim, pecador;\nPois teu coração é fraco, não resiste,\nVem a Mim, sofredor.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

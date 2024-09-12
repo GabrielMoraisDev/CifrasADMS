@@ -1,0 +1,69 @@
+{
+  "id": 1640553468919,
+  "title": "Yeshua",
+  "artist": "Fernandinho",
+  "author": "Fernandinho",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "( Yeshua 4x )\n\nVem saltando sobre os montes\nDe Jerusalém\nSou Tua Noiva apaixonada\nTe esperando para dançar\n\n( Yeshua 4x )\n\nVem saltando sobre os montes\nDe Jerusalém\nSou Tua Noiva apaixonada\nTe esperando para dançar\n\n( Yeshua 8x )",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "( Yeshua 4x )",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vem saltando sobre os montes\nDe Jerusalém\nSou Tua Noiva apaixonada\nTe esperando para dançar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "( Yeshua 4x )",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vem saltando sobre os montes\nDe Jerusalém\nSou Tua Noiva apaixonada\nTe esperando para dançar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "( Yeshua 8x )",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

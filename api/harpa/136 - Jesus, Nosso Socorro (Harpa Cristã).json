@@ -1,0 +1,62 @@
+{
+  "id": 1658445693111,
+  "title": "136 - Jesus, Nosso Socorro",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "F",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Em nosso socorro vem, ó vem, Jesus! \nPois grande tristeza nos ofusca a luz; \nA Ti recorremos, vem nos dar vigor, \nReveste-nos todos do \nTeu grande amor! \n\nEm nosso socorro vem, ó vem Jesus! \nEm Ti confiamos, és a nossa luz; \nProtege-nos sempre do vil tentador, \nReveste-nos todos do \nTeu grande amor! \n\nEm nosso socorro vem, ó vem, Jesus! \nCombate o inimigo com a Tua luz; \nA Ti nós clamamos, responde, Senhor, \nReveste-nos todos do \nTeu grande amor! \n\nEm nosso socorro vem, ó vem, Jesus! \nA plena vitória, hoje nos conduz; \nDá-nos Tua graça, poder e valor. \nReveste-nos todos do \nTeu grande amor! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Em nosso socorro vem, ó vem, Jesus! \nPois grande tristeza nos ofusca a luz; \nA Ti recorremos, vem nos dar vigor, \nReveste-nos todos do \nTeu grande amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Em nosso socorro vem, ó vem Jesus! \nEm Ti confiamos, és a nossa luz; \nProtege-nos sempre do vil tentador, \nReveste-nos todos do \nTeu grande amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Em nosso socorro vem, ó vem, Jesus! \nCombate o inimigo com a Tua luz; \nA Ti nós clamamos, responde, Senhor, \nReveste-nos todos do \nTeu grande amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Em nosso socorro vem, ó vem, Jesus! \nA plena vitória, hoje nos conduz; \nDá-nos Tua graça, poder e valor. \nReveste-nos todos do \nTeu grande amor! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

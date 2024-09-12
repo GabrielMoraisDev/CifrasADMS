@@ -1,0 +1,90 @@
+{
+  "id": 1670696039405,
+  "title": "Por Amor",
+  "artist": "Voz da Verdade",
+  "author": "Samuel Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Foi tentado o Rei dos reis\nHumilhado\nPor quem não o conheceu\n\nVeio para os seus\nMas ninguém o recebeu\nSofreu tanta solidão\nFoi até a cruz\nE não se entregou\n\nQuão pesada era aquela cruz\nPelo mundo carregou Jesus\nEle veio para dar amor\nMas ninguém o aceitou\nFoi levado para a morte\nO meu Senhor\n\nFoi cuspido e humilhado\nFoi diante de Pilatos\nMas não, não o quis julgar\nFoi levado para Herodes\nNem Herodes o condenou\n\nPois eles não sabiam\nQue esse homem\nVeio ao mundo por amor\nPor amor\n\nPor amor, por amor\nPor amor\nSó por amor\n\nA minha paz vos deixo\nA minha paz vos dou\nPor amor, por amor\nPelos seus pecados\nSofri tanta dor\n\nPor amor, por amor\nSó por amor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Foi tentado o Rei dos reis\nHumilhado\nPor quem não o conheceu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Veio para os seus\nMas ninguém o recebeu\nSofreu tanta solidão\nFoi até a cruz\nE não se entregou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quão pesada era aquela cruz\nPelo mundo carregou Jesus\nEle veio para dar amor\nMas ninguém o aceitou\nFoi levado para a morte\nO meu Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Foi cuspido e humilhado\nFoi diante de Pilatos\nMas não, não o quis julgar\nFoi levado para Herodes\nNem Herodes o condenou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Pois eles não sabiam\nQue esse homem\nVeio ao mundo por amor\nPor amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Por amor, por amor\nPor amor\nSó por amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "A minha paz vos deixo\nA minha paz vos dou\nPor amor, por amor\nPelos seus pecados\nSofri tanta dor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Por amor, por amor\nSó por amor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

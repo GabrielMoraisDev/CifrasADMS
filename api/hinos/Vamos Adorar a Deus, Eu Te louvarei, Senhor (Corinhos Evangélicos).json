@@ -1,0 +1,69 @@
+{
+  "id": 1648381036025,
+  "title": "Vamos Adorar a Deus, Eu Te louvarei, Senhor",
+  "artist": "Corinhos Evangélicos",
+  "author": "Pr Wagner Romero, Pr João A. S. Filho",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vamos adorar a Deus\nVamos adorar a Deus\nVamos invocar Seu nome\nVamos adorar Deus\n\nEle veio em minha vida\nEm um dia especial\nTrocou meu coração\nPor outro sem igual\n\nE esta é a razão\nPor que eu digo que:\nVamos adorar a Deus\n\nEu Te louvarei, Senhor\nDe todo o meu coração\nEu Te louvarei, Senhor\nDe todo o meu coração\n\nNa presença dos anjos \nA Ti cantarei louvores\nNa presença dos anjos \nA Ti cantarei louvores",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vamos adorar a Deus\nVamos adorar a Deus\nVamos invocar Seu nome\nVamos adorar Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ele veio em minha vida\nEm um dia especial\nTrocou meu coração\nPor outro sem igual",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E esta é a razão\nPor que eu digo que:\nVamos adorar a Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu Te louvarei, Senhor\nDe todo o meu coração\nEu Te louvarei, Senhor\nDe todo o meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Na presença dos anjos \nA Ti cantarei louvores\nNa presença dos anjos \nA Ti cantarei louvores",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

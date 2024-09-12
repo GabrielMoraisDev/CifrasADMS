@@ -1,0 +1,76 @@
+{
+  "id": 1657149811630,
+  "title": "220 - Ide Segar",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Para os campos a segar, \nEis o trigo a lourejar, \nIde ceifar, ide segar; \nTodo dia trabalhai \nE só de Jesus falai; \nIde ceifar, ide pregar!   \n\nIde segar, ide ceifar! \nSim, trabalhai, e proclamai! \nEis que o amor do Salvador \nVos impele ao Seu labor \nSem demorar, ide segar\n\nPara o vale, monte ou mar, \nO Senhor vos quer mandar \nA proclamar, anunciar; \nOs perdidos procurar, \nPois Jesus os quer salvar; \nIde falar, e proclamar!  \n\nIde segar, ide ceifar! \nSim, trabalhai, e proclamai! \nEis que o amor do Salvador \nVos impele ao Seu labor \nSem demorar, ide segar\n\nFalaremos com fervor.\nDo poder do Salvador, \nAo pecador, ao sof redor; \nPronto chegará o fim, \nSoará do céu o clarim, \nTereis, então, o galardão.\n\nIde segar, ide ceifar! \nSim, trabalhai, e proclamai! \nEis que o amor do Salvador \nVos impele ao Seu labor \nSem demorar, ide segar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Para os campos a segar, \nEis o trigo a lourejar, \nIde ceifar, ide segar; \nTodo dia trabalhai \nE só de Jesus falai; \nIde ceifar, ide pregar!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ide segar, ide ceifar! \nSim, trabalhai, e proclamai! \nEis que o amor do Salvador \nVos impele ao Seu labor \nSem demorar, ide segar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Para o vale, monte ou mar, \nO Senhor vos quer mandar \nA proclamar, anunciar; \nOs perdidos procurar, \nPois Jesus os quer salvar; \nIde falar, e proclamar!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ide segar, ide ceifar! \nSim, trabalhai, e proclamai! \nEis que o amor do Salvador \nVos impele ao Seu labor \nSem demorar, ide segar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Falaremos com fervor.\nDo poder do Salvador, \nAo pecador, ao sof redor; \nPronto chegará o fim, \nSoará do céu o clarim, \nTereis, então, o galardão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ide segar, ide ceifar! \nSim, trabalhai, e proclamai! \nEis que o amor do Salvador \nVos impele ao Seu labor \nSem demorar, ide segar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

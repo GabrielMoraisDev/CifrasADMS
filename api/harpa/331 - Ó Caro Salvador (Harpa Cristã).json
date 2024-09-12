@@ -1,0 +1,62 @@
+{
+  "id": 1659874901476,
+  "title": "331 - Ó Caro Salvador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O caro Salvador, manancial de amor, \nTe sinto em mim! \nTeu gozo a mim virá, jamais me faltará, \nO qual me levará ao céu enfim.  \n\nÓ caro Salvador, riqueza de amor, \nVela por mim; Tem-me na \nTua mão, ó grande Capitão, \nE lutarei, então, contigo assim.  \n\nÓ caro Salvador, meu vero intercessor. \nOra por mim; \nEu posso então falar, \noh! deste amor sem par, \nQue veio me salvar do mundo, sim!  \n\nÓ caro Salvador, \nCom Teu poder, Senhor, \nOpera em mim; \nNa senda de valor, repleto de vigor, \nSem ter nenhum temor, irei assim!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O caro Salvador, manancial de amor, \nTe sinto em mim! \nTeu gozo a mim virá, jamais me faltará, \nO qual me levará ao céu enfim.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó caro Salvador, riqueza de amor, \nVela por mim; Tem-me na \nTua mão, ó grande Capitão, \nE lutarei, então, contigo assim.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ó caro Salvador, meu vero intercessor. \nOra por mim; \nEu posso então falar, \noh! deste amor sem par, \nQue veio me salvar do mundo, sim!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó caro Salvador, \nCom Teu poder, Senhor, \nOpera em mim; \nNa senda de valor, repleto de vigor, \nSem ter nenhum temor, irei assim!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

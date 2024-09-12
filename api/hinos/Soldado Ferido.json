@@ -1,0 +1,69 @@
+{
+  "id": 1655072617222,
+  "title": "Soldado Ferido",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Há muitos feridos \nChoram de angústia e de dor \nClamam por proteção e por paz \nAmigos que sofrem \nSua necessidade atende hoje \nNão deixe o soldado ferido morrer\n\nVerta o bálsamo e ferida sarará \nProtege-o com teu manto de amor \nO pão partiremos sim, \nDescanso lhe darás \nE toda angústia sairá \nNão deixes fiéis soldados feridos morrer\n\nSeguindo sua ordem, \nLutaram na frente para o Rei \nE o forte inimigo poderão vencer, \nMas por este esforço \nSatã intentou suas vidas matar \nNão deixes um soldado ferido morrer\n\nVerta o bálsamo e ferida sarará \nProtege-o com teu manto de amor \nO pão partiremos sim, \nDescanso lhe darás \nE toda angústia sairá \nNão deixes fiéis soldados feridos morrer\n\nNão podes olhar sem socorrer \nO amor é mais forte e faz viver \nNão poder deixar um soldado ferido morrer",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Há muitos feridos \nChoram de angústia e de dor \nClamam por proteção e por paz \nAmigos que sofrem \nSua necessidade atende hoje \nNão deixe o soldado ferido morrer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Verta o bálsamo e ferida sarará \nProtege-o com teu manto de amor \nO pão partiremos sim, \nDescanso lhe darás \nE toda angústia sairá \nNão deixes fiéis soldados feridos morrer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Seguindo sua ordem, \nLutaram na frente para o Rei \nE o forte inimigo poderão vencer, \nMas por este esforço \nSatã intentou suas vidas matar \nNão deixes um soldado ferido morrer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Verta o bálsamo e ferida sarará \nProtege-o com teu manto de amor \nO pão partiremos sim, \nDescanso lhe darás \nE toda angústia sairá \nNão deixes fiéis soldados feridos morrer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Não podes olhar sem socorrer \nO amor é mais forte e faz viver \nNão poder deixar um soldado ferido morrer",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

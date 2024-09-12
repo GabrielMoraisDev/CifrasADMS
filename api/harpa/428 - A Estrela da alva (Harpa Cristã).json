@@ -1,0 +1,76 @@
+{
+  "id": 1663715835150,
+  "title": "428 - A Estrela da alva",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Mostra-Te, estrela da manhã, \nÓ bondoso Salvador! \nSem Tua luz, a vida é vã, \nSem Tua luz não temos vigor! \nSem Tua luz não temos vigor!  \n\nÓ estrela da alva, estrela que salva \nA perdida alma que vaga sem ter direção!  \n\nCristo Jesus é, do fiel, \nA estrela de fulgor, \nTambém o bom Emanuel, \nQue de manhã nos enche de amor, \nQue de manhã nos enche de amor.  \n\nÓ estrela da alva, estrela que salva \nA perdida alma que vaga sem ter direção!  \n\nBendita estrela dos hebreus, \nQue o mundo iluminou. \nE nos mandou os raios Seus, \nRaios d’amor, que já nos salvou, \nRaios d’amor, que já nos salvou.\n\nÓ estrela da alva, estrela que salva \nA perdida alma que vaga sem ter direção!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Mostra-Te, estrela da manhã, \nÓ bondoso Salvador! \nSem Tua luz, a vida é vã, \nSem Tua luz não temos vigor! \nSem Tua luz não temos vigor!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó estrela da alva, estrela que salva \nA perdida alma que vaga sem ter direção!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Cristo Jesus é, do fiel, \nA estrela de fulgor, \nTambém o bom Emanuel, \nQue de manhã nos enche de amor, \nQue de manhã nos enche de amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó estrela da alva, estrela que salva \nA perdida alma que vaga sem ter direção!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Bendita estrela dos hebreus, \nQue o mundo iluminou. \nE nos mandou os raios Seus, \nRaios d’amor, que já nos salvou, \nRaios d’amor, que já nos salvou.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ó estrela da alva, estrela que salva \nA perdida alma que vaga sem ter direção!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

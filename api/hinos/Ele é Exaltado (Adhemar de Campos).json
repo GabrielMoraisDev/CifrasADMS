@@ -1,0 +1,62 @@
+{
+  "id": 1675027499224,
+  "title": "Ele é Exaltado",
+  "artist": "Adhemar de Campos",
+  "author": "Adhemar de Campos, Twila Paris",
+  "note": "Só isso mesmo",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "\nEle é exaltado, o Rei é exaltado nos céus\nEu o louvarei\nEle é exaltado, pra sempre exaltado\nSeu nome louvarei\n\nEle é o Senhor, Sua verdade vai sempre reinar\nTerra e céus glorificam Seu santo nome\nEle é exaltado, o Rei é exaltado nos céus\n\nEle é exaltado, o Rei é exaltado nos céus\nEu o louvarei\nEle é exaltado, pra sempre exaltado\nSeu nome louvarei\n\nEle é o Senhor, Sua verdade vai sempre reinar\nTerra e céus glorificam Seu santo nome\nEle é exaltado, o Rei é exaltado nos céus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "\nEle é exaltado, o Rei é exaltado nos céus\nEu o louvarei\nEle é exaltado, pra sempre exaltado\nSeu nome louvarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ele é o Senhor, Sua verdade vai sempre reinar\nTerra e céus glorificam Seu santo nome\nEle é exaltado, o Rei é exaltado nos céus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ele é exaltado, o Rei é exaltado nos céus\nEu o louvarei\nEle é exaltado, pra sempre exaltado\nSeu nome louvarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ele é o Senhor, Sua verdade vai sempre reinar\nTerra e céus glorificam Seu santo nome\nEle é exaltado, o Rei é exaltado nos céus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

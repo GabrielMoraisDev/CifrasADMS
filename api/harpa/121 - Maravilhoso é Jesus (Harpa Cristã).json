@@ -1,0 +1,90 @@
+{
+  "id": 1658442942232,
+  "title": "121 - Maravilhoso é Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "G",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Maravilhoso é Jesus, \nDa minha vida a luz, \nPois me salvando, me perdoando, \nPara Sião me conduz. \n\nMaravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. \n\nNunca podia saber, \nQual é o grande prazer, \nDum que perdido, arrependido, \nA graça vem receber.   \n\nMaravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. \n\nEle nas trevas me achou, \nEternamente me amou; \nVida abundante, gozo bastante. \nTenho por quem me salvou. \n\nMaravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. \n\nCristo é tudo pra mim, \nTambém será para ti; \nVou caminhando, sempre \nO louvando, \nPois Ele salvou-me a mim! \n\nMaravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Maravilhoso é Jesus, \nDa minha vida a luz, \nPois me salvando, me perdoando, \nPara Sião me conduz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Maravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Nunca podia saber, \nQual é o grande prazer, \nDum que perdido, arrependido, \nA graça vem receber.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Maravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ele nas trevas me achou, \nEternamente me amou; \nVida abundante, gozo bastante. \nTenho por quem me salvou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Maravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Cristo é tudo pra mim, \nTambém será para ti; \nVou caminhando, sempre \nO louvando, \nPois Ele salvou-me a mim! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Maravilhoso, sim, maravilhoso! \nÉ Cristo, pois salvou-me a mim! \nMaravilhoso e mui glorioso, \nÉ Cristo, que vive em mim. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

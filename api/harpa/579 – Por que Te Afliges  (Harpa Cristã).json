@@ -1,0 +1,55 @@
+{
+  "id": 1661297506105,
+  "title": "579 – Por que Te Afliges ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Oh! por que te afliges, pobre coração? \nPois o teu Jesus quer dar consolação. \nSão demais as cargas? \nÉ cruel a dor? \nOlha para o céu e vê teu lar de amor.  \n\nPesa na consciência teu pecado vil? \nOlha para a cruz, Jesus é tão gentil! \nSeu precioso sangue Ele já verteu \nPara dar perdão e abrir caminho ao céu.  \n\nQuando te comprimem garras de temor, \nQuando em aflições, confia no Senhor. \nEle te protege, triste coração! \nEle te conduz ao céu com sua mão!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Oh! por que te afliges, pobre coração? \nPois o teu Jesus quer dar consolação. \nSão demais as cargas? \nÉ cruel a dor? \nOlha para o céu e vê teu lar de amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pesa na consciência teu pecado vil? \nOlha para a cruz, Jesus é tão gentil! \nSeu precioso sangue Ele já verteu \nPara dar perdão e abrir caminho ao céu.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando te comprimem garras de temor, \nQuando em aflições, confia no Senhor. \nEle te protege, triste coração! \nEle te conduz ao céu com sua mão!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

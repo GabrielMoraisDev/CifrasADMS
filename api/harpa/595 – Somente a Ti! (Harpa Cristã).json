@@ -1,0 +1,48 @@
+{
+  "id": 1661902310588,
+  "title": "595 – Somente a Ti!",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quem tenho, ó Deus, no céu aí \nSenão a ti - somente a ti! \nE mais ninguém adoro aqui \nAlém de ti, somente a ti!  \n\nA Rocha deste coração \nÉs tu, Senhor, e meu quinhão. \nCom teu olhar guiar-me-ás  \nE em glória me receberás.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quem tenho, ó Deus, no céu aí \nSenão a ti - somente a ti! \nE mais ninguém adoro aqui \nAlém de ti, somente a ti!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A Rocha deste coração \nÉs tu, Senhor, e meu quinhão. \nCom teu olhar guiar-me-ás  \nE em glória me receberás.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

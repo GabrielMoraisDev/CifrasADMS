@@ -1,0 +1,62 @@
+{
+  "id": 1654555029337,
+  "title": "187 - Mais Perto, Meu Deus, De Ti",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Mais perto quero estar\nMeu Deus, de Ti!\nInda que seja a dor\nQue me una a Ti,\nSempre hei de suplicar\nMais perto quero estar\nMais perto quero estar\nMeu Deus, de Ti! \n\nAndando triste, aqui \nNa solidão, \nPaz e descanso a mim \nTeus braços dão; \nNas trevas vou sonhar, \nMaia perto quero estar, \nMais perto quero estar, \nMeu Deus, de Ti! \n\nMinh'alma cantará \nA Ti, Senhor! \nE em Betel alçará \nPadrão de amor, \nEu sempre hei de rogar \nMais perto quero estar, \nMais perto quero estar, \nMeu Deus, de Ti! \n\nE, quando Cristo, enfim, \nMe vier chamar,\nNos céus com serafins, \nIrei morar. \nEntão me alegrarei \nPerto de Ti, meu Rei. \nPerto de TI, meu Rei, \nMeus Deus, de Ti! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Mais perto quero estar\nMeu Deus, de Ti!\nInda que seja a dor\nQue me una a Ti,\nSempre hei de suplicar\nMais perto quero estar\nMais perto quero estar\nMeu Deus, de Ti! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Andando triste, aqui \nNa solidão, \nPaz e descanso a mim \nTeus braços dão; \nNas trevas vou sonhar, \nMaia perto quero estar, \nMais perto quero estar, \nMeu Deus, de Ti! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Minh'alma cantará \nA Ti, Senhor! \nE em Betel alçará \nPadrão de amor, \nEu sempre hei de rogar \nMais perto quero estar, \nMais perto quero estar, \nMeu Deus, de Ti! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E, quando Cristo, enfim, \nMe vier chamar,\nNos céus com serafins, \nIrei morar. \nEntão me alegrarei \nPerto de Ti, meu Rei. \nPerto de TI, meu Rei, \nMeus Deus, de Ti! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

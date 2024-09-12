@@ -1,0 +1,69 @@
+{
+  "id": 1636064830526,
+  "title": "Sou um Milagre",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Nunca houve noite que pudesse impedir\nO nascer do Sol e a esperança\nE não há problema que possa impedir\nAs mãos de Jesus pra me ajudar\n2x\n\nHaverá um milagre dentro de mim\nVem descendo um rio pra me dar a vida\nEste rio que emana lá da cruz\nDo lado de Jesus\n2x\n\nAquilo que parecia impossível\nAquilo que parecia não ter saída\nAquilo que parecia ser minha morte\nMas Jesus mudou minha sorte\nSou um milagre e estou aqui\n2x\n\nUsa-me, sou o teu milagre\nUsa-me, eu quero te servir\nUsa-me, sou a tua imagem\nUsa-me, ó filho de Davi\n\nAquilo que parecia impossível\nAquilo que parecia não ter saída\nAquilo que parecia ser minha morte\nMas Jesus mudou minha sorte\nSou um milagre e estou aqui\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Nunca houve noite que pudesse impedir\nO nascer do Sol e a esperança\nE não há problema que possa impedir\nAs mãos de Jesus pra me ajudar\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Haverá um milagre dentro de mim\nVem descendo um rio pra me dar a vida\nEste rio que emana lá da cruz\nDo lado de Jesus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Aquilo que parecia impossível\nAquilo que parecia não ter saída\nAquilo que parecia ser minha morte\nMas Jesus mudou minha sorte\nSou um milagre e estou aqui\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Usa-me, sou o teu milagre\nUsa-me, eu quero te servir\nUsa-me, sou a tua imagem\nUsa-me, ó filho de Davi",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Aquilo que parecia impossível\nAquilo que parecia não ter saída\nAquilo que parecia ser minha morte\nMas Jesus mudou minha sorte\nSou um milagre e estou aqui\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

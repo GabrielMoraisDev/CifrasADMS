@@ -1,0 +1,83 @@
+{
+  "id": 1659874433809,
+  "title": "319 - Ainda Há Lugar",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Inda há lugar, p'ra ti, á pecador! \nOuve o convite do teu Salvador. \nEntra, entra, `inda há p'ra ti lugar.\n\nA tua vida breve vai findar,\nAs sombras crescem, onde vais morar? \nEntra, entra, `inda há p'ra ti lugar.\n\nEis lá no céu, Jesus nos preparou \nBodas festivas, e nos convidou, \nEntra, entra, `inda há p'ra ti lugar. \n\nA multidão que salva Iá já está, \nVem, pois t'espera a ela te ajuntar. \nEntra, entra, `inda há p'ra ti lugar. \n\nVês tu a porta aberta por Jesus? \nEle te chama, vem p'ra Sua luz; \nEntra, entra, `inda há p'ra ti lugar. \n\nEnche-se a sala, vem sem demorar; \nQuem se descuida, perde o seu lugar; \nEntra, entra, `inda há p'ra ti lugar. \n\nAli se encontra gozo, paz sem fim, \nGlória te espera; a luta terá fim.\nEntra, entra, `inda há p'ra ti lugar.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Inda há lugar, p'ra ti, á pecador! \nOuve o convite do teu Salvador. \nEntra, entra, `inda há p'ra ti lugar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A tua vida breve vai findar,\nAs sombras crescem, onde vais morar? \nEntra, entra, `inda há p'ra ti lugar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eis lá no céu, Jesus nos preparou \nBodas festivas, e nos convidou, \nEntra, entra, `inda há p'ra ti lugar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "A multidão que salva Iá já está, \nVem, pois t'espera a ela te ajuntar. \nEntra, entra, `inda há p'ra ti lugar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Vês tu a porta aberta por Jesus? \nEle te chama, vem p'ra Sua luz; \nEntra, entra, `inda há p'ra ti lugar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Enche-se a sala, vem sem demorar; \nQuem se descuida, perde o seu lugar; \nEntra, entra, `inda há p'ra ti lugar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Ali se encontra gozo, paz sem fim, \nGlória te espera; a luta terá fim.\nEntra, entra, `inda há p'ra ti lugar.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

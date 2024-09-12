@@ -1,0 +1,62 @@
+{
+  "id": 1659875210071,
+  "title": "345 - Oh! Tenho Gozo ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Oh! Tenho gozo no meu coração, \nTambém a vida, e santo fervor; \nPois Cristo me deu real salvação \nE a certeza dum reino de amor!    \n\nNo mundo nunca irás conhecer \nO gozo santo do meu Salvador, \nQue já desfruta, sim, todo o que crer, \n vive sempre repleto de amor.  \n\nLouvemos juntos o Rei de Israel, \nPor Sua graça, que nos dá vigor, \nPois Ele esconde o crente fiel, \nEm Suas asas de paz e amor.  \n\nO Pai Eterno Seu povo selou, \nCom a promessa do Consolador; \nOh! Foi de graça, que Deus me salvou \nPor Seu imenso e santo amor!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Oh! Tenho gozo no meu coração, \nTambém a vida, e santo fervor; \nPois Cristo me deu real salvação \nE a certeza dum reino de amor!    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "No mundo nunca irás conhecer \nO gozo santo do meu Salvador, \nQue já desfruta, sim, todo o que crer, \n vive sempre repleto de amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Louvemos juntos o Rei de Israel, \nPor Sua graça, que nos dá vigor, \nPois Ele esconde o crente fiel, \nEm Suas asas de paz e amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "O Pai Eterno Seu povo selou, \nCom a promessa do Consolador; \nOh! Foi de graça, que Deus me salvou \nPor Seu imenso e santo amor!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

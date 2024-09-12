@@ -1,0 +1,90 @@
+{
+  "id": 1633044283291,
+  "title": "Tá Chorando Por Quê?",
+  "artist": "Amanda Wanessa",
+  "author": "Filipe Escandurras",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tá chorando por quê?\nSe você tem um Deus\nQue cuida de você, oh\nE jamais te esqueceu\n\nEle sabe de tudo\nQue você tá passando\nE mandou te dizer\nQue Ele está cuidando\n\nLembra de onde você veio\nE aonde que você chegou\n\nLembra de todos\nOs livramentos\nQue você já passou\n\nNem era para você tá aqui\nMas Deus falou assim:\n\"Esse aí vou levantar\"\n\nE onde colocar a mão\nEu vou abençoar\n\nNão chore\nQuem cuida de você\nNão dorme, levanta\nTem muita gente que te ama\n\nDeus mandou te dizer\nQue vai acontecer\nDeus mandou te falar\nQue tudo vai passar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tá chorando por quê?\nSe você tem um Deus\nQue cuida de você, oh\nE jamais te esqueceu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ele sabe de tudo\nQue você tá passando\nE mandou te dizer\nQue Ele está cuidando",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Lembra de onde você veio\nE aonde que você chegou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Lembra de todos\nOs livramentos\nQue você já passou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Nem era para você tá aqui\nMas Deus falou assim:\n\"Esse aí vou levantar\"",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E onde colocar a mão\nEu vou abençoar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Não chore\nQuem cuida de você\nNão dorme, levanta\nTem muita gente que te ama",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Deus mandou te dizer\nQue vai acontecer\nDeus mandou te falar\nQue tudo vai passar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

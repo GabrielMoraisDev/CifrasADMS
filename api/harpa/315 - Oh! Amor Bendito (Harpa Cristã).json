@@ -1,0 +1,76 @@
+{
+  "id": 1659053481010,
+  "title": "315 - Oh! Amor Bendito",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Oh! Amor bendito, Tu possues a mim! \nEnches o infinito, oh! amor sem fim! \nVivo hoje em Cristo, vivo no Fiel; \nPor Deus sou benquisto no Emanuel. \n\nOh! Amor bendito: \nTu possues a mim! \nEnches o infinito, \noh! amor sem fim!\n\nPaz e glória eterna, p'ra mim no céu, \nVida sempiterna com o nosso Deus. \nEm verdade sinto vida no Senhor, \nE do céu pressinto gozo e esplendor! \n\nOh! Amor bendito: \nTu possues a mim! \nEnches o infinito, \noh! amor sem fim!\n\nCoração, desfruta deste grande amor;\nNa paz ou na luta, faz-te vencedor;\nQue este amor é forte, viu-se ali na cruz;\nForte mais que a morte: O amor de Jesus!\n\nOh! Amor bendito: \nTu possues a mim! \nEnches o infinito, \noh! amor sem fim!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Oh! Amor bendito, Tu possues a mim! \nEnches o infinito, oh! amor sem fim! \nVivo hoje em Cristo, vivo no Fiel; \nPor Deus sou benquisto no Emanuel. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! Amor bendito: \nTu possues a mim! \nEnches o infinito, \noh! amor sem fim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Paz e glória eterna, p'ra mim no céu, \nVida sempiterna com o nosso Deus. \nEm verdade sinto vida no Senhor, \nE do céu pressinto gozo e esplendor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh! Amor bendito: \nTu possues a mim! \nEnches o infinito, \noh! amor sem fim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Coração, desfruta deste grande amor;\nNa paz ou na luta, faz-te vencedor;\nQue este amor é forte, viu-se ali na cruz;\nForte mais que a morte: O amor de Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Oh! Amor bendito: \nTu possues a mim! \nEnches o infinito, \noh! amor sem fim!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1659479625089,
+  "title": "258 - Na Rocha Eterna Firmado",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Um Salvador meigo é Cristo Jesus, \nPois Ele minh'alma salvou;\nTambém meus pecados tomou sobre Si,\nNa cruz quando me resgatou. \n\nNa rocha eterna firmado estou eu,\nE tenho a salvação;\nMe esconde Jesus Cristo no manto Seu, \nVelando-me com Sua mão. \nVelando-me com Sua mão.\n\nAs bênçãos do céu desfrutando eu estou, \nEm Cristo, o Filho de Deus;\nAlegre eu vivo e ando na luz,\nProssigo na senda do céu. \n\nAs cargas que eu tive Jesus as tomou, \nAgora liberto estou;\nA graça me basta que Cristo me deu, \nAssim para o céu presto eu vou. \n\nFindando a lida então O verei,\nCom anjos e santos no céu;\nE hinos de glória eu entoarei,\nAquele que por mim morreu.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Um Salvador meigo é Cristo Jesus, \nPois Ele minh'alma salvou;\nTambém meus pecados tomou sobre Si,\nNa cruz quando me resgatou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Na rocha eterna firmado estou eu,\nE tenho a salvação;\nMe esconde Jesus Cristo no manto Seu, \nVelando-me com Sua mão. \nVelando-me com Sua mão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "As bênçãos do céu desfrutando eu estou, \nEm Cristo, o Filho de Deus;\nAlegre eu vivo e ando na luz,\nProssigo na senda do céu. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "As cargas que eu tive Jesus as tomou, \nAgora liberto estou;\nA graça me basta que Cristo me deu, \nAssim para o céu presto eu vou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Findando a lida então O verei,\nCom anjos e santos no céu;\nE hinos de glória eu entoarei,\nAquele que por mim morreu.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

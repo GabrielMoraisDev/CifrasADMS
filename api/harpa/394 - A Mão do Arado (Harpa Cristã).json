@@ -1,0 +1,62 @@
+{
+  "id": 1660692308539,
+  "title": "394 - A Mão do Arado",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quem sua mão ao arado já pôs, \nConstante precisa ser;\nO sol declina e, logo após,\nVai escurecer.\nAvante, em Cristo pensando, \nEm oração vigiando,\nCom gozo e amor trabalhando, \nP'ra teu Senhor. \n\nNão desanimes, por ser tua cruz\nMaior que a de teu irmão; \nA mais pesada levou teu Jesus,\nTe consola, então;\nA tua cruz vai levando, \nComo Jesus perdoando, \nAlegremente andando \nP'ra o lindo céu. \n\nSê bom soldado de Cristo Jesus, \nSofrendo as aflições,\nNão sufocando a mensagem da cruz, \nNas perseguições;\nVai Seu amor proclamando,\nNovas de paz, sim, levando,\nAos que estão aguardando\nA salvação. \n\nQuando, enfim, tu largares a cruz, \nJesus te coroará;\nCom santo gozo em glória e luz \nTe consolará.\nEsquecerás teus lidares, \nTribulações e pesares,\nQuando no céu desfrutares, \nPerfeita paz. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quem sua mão ao arado já pôs, \nConstante precisa ser;\nO sol declina e, logo após,\nVai escurecer.\nAvante, em Cristo pensando, \nEm oração vigiando,\nCom gozo e amor trabalhando, \nP'ra teu Senhor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Não desanimes, por ser tua cruz\nMaior que a de teu irmão; \nA mais pesada levou teu Jesus,\nTe consola, então;\nA tua cruz vai levando, \nComo Jesus perdoando, \nAlegremente andando \nP'ra o lindo céu. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sê bom soldado de Cristo Jesus, \nSofrendo as aflições,\nNão sufocando a mensagem da cruz, \nNas perseguições;\nVai Seu amor proclamando,\nNovas de paz, sim, levando,\nAos que estão aguardando\nA salvação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Quando, enfim, tu largares a cruz, \nJesus te coroará;\nCom santo gozo em glória e luz \nTe consolará.\nEsquecerás teus lidares, \nTribulações e pesares,\nQuando no céu desfrutares, \nPerfeita paz. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

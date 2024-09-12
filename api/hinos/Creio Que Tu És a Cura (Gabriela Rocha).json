@@ -1,0 +1,83 @@
+{
+  "id": 1674339517874,
+  "title": "Creio Que Tu És a Cura",
+  "artist": "Gabriela Rocha",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Me escutas quando clamo\nE acalma o meu pensar\nMe levas pelo  fogo\nCurando todo meu ser\nConfio    em   Ti, confio    em Ti\n\nCreio que Tu és a cura\nCreio que és tudo para mim\nCreio que tu és a vida\nCreio que não há outro igual a Ti\nJesus, eu preciso de Ti\n\nMe escutas quando clamo\nE acalma o meu pensar\nMe levas pelo  fogo\nCurando todo meu ser\nConfio    em   Ti, confio    em Ti\n\nCreio que Tu és a cura\nCreio que és tudo para mim\nCreio que tu és a vida\nCreio que não há outro igual a Ti\nJesus, eu preciso de Ti\nnão há outro igual a Ti\n\nNada é impossível para Ti\nNada é impossível\nNada é impossível para Ti\nTens o meu mundo em tuas mãos\n\nNada é impossível para Ti\nNada é impossível\nNada é impossível para  Ti\nTens o meu mundo em tuas mãos\n\nCreio que Tu és a cura\nCreio que és tudo para mim\nCreio que tu és a vida\nCreio que não há outro igual a Ti\nJesus, eu preciso de Ti\nNão há outro igual a Ti\nJesus, eu preciso de Ti",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Me escutas quando clamo\nE acalma o meu pensar\nMe levas pelo  fogo\nCurando todo meu ser\nConfio    em   Ti, confio    em Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Creio que Tu és a cura\nCreio que és tudo para mim\nCreio que tu és a vida\nCreio que não há outro igual a Ti\nJesus, eu preciso de Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Me escutas quando clamo\nE acalma o meu pensar\nMe levas pelo  fogo\nCurando todo meu ser\nConfio    em   Ti, confio    em Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Creio que Tu és a cura\nCreio que és tudo para mim\nCreio que tu és a vida\nCreio que não há outro igual a Ti\nJesus, eu preciso de Ti\nnão há outro igual a Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Nada é impossível para Ti\nNada é impossível\nNada é impossível para Ti\nTens o meu mundo em tuas mãos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Nada é impossível para Ti\nNada é impossível\nNada é impossível para  Ti\nTens o meu mundo em tuas mãos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Creio que Tu és a cura\nCreio que és tudo para mim\nCreio que tu és a vida\nCreio que não há outro igual a Ti\nJesus, eu preciso de Ti\nNão há outro igual a Ti\nJesus, eu preciso de Ti",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

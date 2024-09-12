@@ -1,0 +1,55 @@
+{
+  "id": 1659481474308,
+  "title": "263 - Ao Fim do Culto",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O culto tendo já terminado, \nTe suplicamos, ó Salvador, \nSe em qualquer coisa foi perturbado, \nQue nos perdoes, por Teu amor.  \n\nGravar Tu queiras a sã doutrina, \nPor Teu Espírito Consolador, \nQue nos sustenta, que nos ensina, \nE que nos enche do Teu amor.  \n\nSe nós aqui não mais regressarmos, \nCerteza temos de ver na luz \nOs santos juntos e contemplarmos \nNo céu, um dia, o bom Jesus!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O culto tendo já terminado, \nTe suplicamos, ó Salvador, \nSe em qualquer coisa foi perturbado, \nQue nos perdoes, por Teu amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Gravar Tu queiras a sã doutrina, \nPor Teu Espírito Consolador, \nQue nos sustenta, que nos ensina, \nE que nos enche do Teu amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Se nós aqui não mais regressarmos, \nCerteza temos de ver na luz \nOs santos juntos e contemplarmos \nNo céu, um dia, o bom Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

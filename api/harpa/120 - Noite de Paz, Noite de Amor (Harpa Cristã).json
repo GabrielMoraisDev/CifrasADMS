@@ -1,0 +1,55 @@
+{
+  "id": 1657148373587,
+  "title": "120 - Noite de Paz, Noite de Amor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "C",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Noite de paz, noite de amor;\nTudo dorme, em derredor!\nEntre os astros que espargem a luz\nBela, indicando o menino Jesus,\nBrilha a estrela da paz,\nBrilha a estrela da paz\n\nNoite de paz, noite de amor;                          \nOuve o fiel pastor \nCoros celestes que cantam a paz,\nQue nesta noite sublime nos traz,\nO nosso bom redentor,\nO nosso bom redentor\n\nNoite de paz, noite de amor;\nOh! Que belo resplendor,\nPaira no rosto do meigo Jesus!\nE no presépio do mundo, a luz!\nAstro de eterno fulgor,\nAstro de eterno fulgor.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Noite de paz, noite de amor;\nTudo dorme, em derredor!\nEntre os astros que espargem a luz\nBela, indicando o menino Jesus,\nBrilha a estrela da paz,\nBrilha a estrela da paz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Noite de paz, noite de amor;                          \nOuve o fiel pastor \nCoros celestes que cantam a paz,\nQue nesta noite sublime nos traz,\nO nosso bom redentor,\nO nosso bom redentor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Noite de paz, noite de amor;\nOh! Que belo resplendor,\nPaira no rosto do meigo Jesus!\nE no presépio do mundo, a luz!\nAstro de eterno fulgor,\nAstro de eterno fulgor.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

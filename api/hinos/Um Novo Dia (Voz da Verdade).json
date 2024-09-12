@@ -1,0 +1,69 @@
+{
+  "id": 1640994914011,
+  "title": "Um Novo Dia",
+  "artist": "Voz da Verdade",
+  "author": "Carlos A. Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Um novo dia está nascendo sobre mim\nPor isso eu te louvo meu Jesus\nA luz que bate no meu peito, faz a paz\nE agradecido canto assim\n\nPela paz que sinto agora\nPela volta de um irmão\nE por este amor tão forte\nUnião, União\n\nUm novo dia está nascendo sobre mim\nPor isso eu te louvo meu Jesus\nA luz que bate no meu peito, faz a paz\nE agradecido canto assim\n\nPela paz que sinto agora\nPela volta de um irmão\nE por este amor tão forte\nUnião, União\n\nJá raiou um novo dia, salta o meu coração\nVida e alegria e nova canção\nAleluia, Aleluia, Aleluia, glória a Deus\nAleluia, Aleluia, Aleluia, glória a Deus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Um novo dia está nascendo sobre mim\nPor isso eu te louvo meu Jesus\nA luz que bate no meu peito, faz a paz\nE agradecido canto assim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pela paz que sinto agora\nPela volta de um irmão\nE por este amor tão forte\nUnião, União",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Um novo dia está nascendo sobre mim\nPor isso eu te louvo meu Jesus\nA luz que bate no meu peito, faz a paz\nE agradecido canto assim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Pela paz que sinto agora\nPela volta de um irmão\nE por este amor tão forte\nUnião, União",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Já raiou um novo dia, salta o meu coração\nVida e alegria e nova canção\nAleluia, Aleluia, Aleluia, glória a Deus\nAleluia, Aleluia, Aleluia, glória a Deus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

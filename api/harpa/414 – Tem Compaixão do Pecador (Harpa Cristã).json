@@ -1,0 +1,76 @@
+{
+  "id": 1660866346047,
+  "title": "414 – Tem Compaixão do Pecador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó Salvador, ó Pai de amor? \nTem compaixão do pecador; \nSem ser em Ti não achará \nA salvação, que Tu nos dás.  \n\nTem compaixão, ó Salvador, \nTem compaixão do pecador! \nÓ vem lavar seu coração, \nÓ vem lhe dar a salvação!  \n\nSem ser em Ti não há perdão \nPra o pecador, nem salvação; \nSó mesmo em Ti o pecador \nEncontrará um Salvador.  \n\nTem compaixão, ó Salvador, \nTem compaixão do pecador! \nÓ vem lavar seu coração, \nÓ vem lhe dar a salvação!  \n\nÓ Rei doa reis, tem compaixão \nDo pecador na perdição \nSeu coração, ó vem lavar \nNo sangue Teu purificar.\n\nTem compaixão, ó Salvador, \nTem compaixão do pecador! \nÓ vem lavar seu coração, \nÓ vem lhe dar a salvação!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó Salvador, ó Pai de amor? \nTem compaixão do pecador; \nSem ser em Ti não achará \nA salvação, que Tu nos dás.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tem compaixão, ó Salvador, \nTem compaixão do pecador! \nÓ vem lavar seu coração, \nÓ vem lhe dar a salvação!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sem ser em Ti não há perdão \nPra o pecador, nem salvação; \nSó mesmo em Ti o pecador \nEncontrará um Salvador.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tem compaixão, ó Salvador, \nTem compaixão do pecador! \nÓ vem lavar seu coração, \nÓ vem lhe dar a salvação!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ó Rei doa reis, tem compaixão \nDo pecador na perdição \nSeu coração, ó vem lavar \nNo sangue Teu purificar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Tem compaixão, ó Salvador, \nTem compaixão do pecador! \nÓ vem lavar seu coração, \nÓ vem lhe dar a salvação!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

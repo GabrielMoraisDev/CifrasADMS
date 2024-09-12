@@ -1,0 +1,55 @@
+{
+  "id": 1654644921505,
+  "title": "420 - O Que Buscas Ansioso?",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Que que buscas ansioso \nO perdido pecador?\nTudo que tens por precioso, \nMurchará qual linda flor! \nQuando teu fim chegar, \nQuando teu fim chegar, \nHá de cessar o teu gozo, \nMas vai o crente entrar, \nMas vai o crente entrar, \nNum lar eterno de repouso! \n\nNeste mundo há belas flores, \nQue nos querem seduzir,\nMas espinhos tEm, que dores,\nHão de sempre produzir; \nMas Cristo, o Salvador, \nMas Cristo, o Salvador, \nDe Saron é linda rosa, \nTem excelente odor, \nTem excelente odor,\nE alegra a alma desditosa! \n\nLarga o mundo e o pecado \nQue te trazem perdição; \nE aceita de bom grado \nA Jesus no coração. \nVida eternal terás;\nVida eternal terás;\nSim, fruirás santo gozo; \nCristo será tua paz,\nCristo será tua paz,\nE os altos céus o teu repouso, ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Que que buscas ansioso \nO perdido pecador?\nTudo que tens por precioso, \nMurchará qual linda flor! \nQuando teu fim chegar, \nQuando teu fim chegar, \nHá de cessar o teu gozo, \nMas vai o crente entrar, \nMas vai o crente entrar, \nNum lar eterno de repouso! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Neste mundo há belas flores, \nQue nos querem seduzir,\nMas espinhos tEm, que dores,\nHão de sempre produzir; \nMas Cristo, o Salvador, \nMas Cristo, o Salvador, \nDe Saron é linda rosa, \nTem excelente odor, \nTem excelente odor,\nE alegra a alma desditosa! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Larga o mundo e o pecado \nQue te trazem perdição; \nE aceita de bom grado \nA Jesus no coração. \nVida eternal terás;\nVida eternal terás;\nSim, fruirás santo gozo; \nCristo será tua paz,\nCristo será tua paz,\nE os altos céus o teu repouso, ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

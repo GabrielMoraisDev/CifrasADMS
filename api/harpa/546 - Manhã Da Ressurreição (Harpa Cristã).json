@@ -1,0 +1,55 @@
+{
+  "id": 1661298426231,
+  "title": "546 - Manhã Da Ressurreição",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando, enfim, voltar o Salvador, \nNo venturoso alvor, \nNunca mais serão a morte atroz e a dor.  \n\nQue manhã! feliz ressurreição! \nQueridos lá estão! \nTodos os remidos vida em Deus terão.  \n\nOh! prazer supremo que seduz! \nRessuscitar em luz! \nVer a paz do Céu a contemplar Jesus!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando, enfim, voltar o Salvador, \nNo venturoso alvor, \nNunca mais serão a morte atroz e a dor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Que manhã! feliz ressurreição! \nQueridos lá estão! \nTodos os remidos vida em Deus terão.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Oh! prazer supremo que seduz! \nRessuscitar em luz! \nVer a paz do Céu a contemplar Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

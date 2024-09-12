@@ -1,0 +1,62 @@
+{
+  "id": 1637361141700,
+  "title": "155 - Imploramos Teu Poder",
+  "artist": "Harpa Cristã ",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Imploramos, nosso Salvador\nTeu poder, Teu poder, Teu poder\nDivinal, poder renovador\nTeu poder, Teu poder, Teu poder\nBendita promessa paternal\nVem encher-nos de real valor\nDo pleno poder celestial\nTeu poder, Teu poder, Teu poder\n\nCom o óleo, sim, vem nos ungir\nTeu poder, Teu poder, Teu poder\nPai celeste, faze-nos fruir\nTeu poder, Teu poder, Teu poder\nTu já prometeste derramar\nTuas bênçãos e nos revestir\nPra Tua Palavra proclamar\nCom poder, com poder, com poder\n\nCom o fogo vem nos inflamar\nTeu poder, Teu poder, Teu poder\nE de toda a mancha nos limpar\nTeu poder, Teu poder, Teu poder\nAquece os frios, ó Senhor\nFaze os que dormem despertar\nNós Te suplicamos com fervor\nTeu poder, Teu poder, Teu poder\n\nComo a brisa, queiras assoprar\nTeu poder, Teu poder, Teu poder\nDeus bendito, vem nos outorgar\nTeu poder, Teu poder, Teu poder\nPerene e doce comunhão\nQuero aqui contigo, ó Pai, gozar\nDepressa nos enche o coração\nCom poder, com poder, com poder",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Imploramos, nosso Salvador\nTeu poder, Teu poder, Teu poder\nDivinal, poder renovador\nTeu poder, Teu poder, Teu poder\nBendita promessa paternal\nVem encher-nos de real valor\nDo pleno poder celestial\nTeu poder, Teu poder, Teu poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Com o óleo, sim, vem nos ungir\nTeu poder, Teu poder, Teu poder\nPai celeste, faze-nos fruir\nTeu poder, Teu poder, Teu poder\nTu já prometeste derramar\nTuas bênçãos e nos revestir\nPra Tua Palavra proclamar\nCom poder, com poder, com poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com o fogo vem nos inflamar\nTeu poder, Teu poder, Teu poder\nE de toda a mancha nos limpar\nTeu poder, Teu poder, Teu poder\nAquece os frios, ó Senhor\nFaze os que dormem despertar\nNós Te suplicamos com fervor\nTeu poder, Teu poder, Teu poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Como a brisa, queiras assoprar\nTeu poder, Teu poder, Teu poder\nDeus bendito, vem nos outorgar\nTeu poder, Teu poder, Teu poder\nPerene e doce comunhão\nQuero aqui contigo, ó Pai, gozar\nDepressa nos enche o coração\nCom poder, com poder, com poder",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

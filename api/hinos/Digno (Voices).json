@@ -1,0 +1,76 @@
+{
+  "id": 1657383942880,
+  "title": "Digno",
+  "artist": "Voices",
+  "author": "Kleber Lucas",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "É Jesus, o Verbo Vivo\nO herdeiro de todas as coisas\nVencedor, Vencedor\n\nDigno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor é o Senhor\n\nTu que estás entronizado\nEntre os Querubins na glória\n2x\n\nDigno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor é o Senhor\n\nDigno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor...\n\nDigno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor...é o Senhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "É Jesus, o Verbo Vivo\nO herdeiro de todas as coisas\nVencedor, Vencedor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Digno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor é o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tu que estás entronizado\nEntre os Querubins na glória\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Digno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor é o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Digno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor...",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Digno, óh óh Digno\nDigno de louvor\nDigno de adoração\nDigno de amor...é o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

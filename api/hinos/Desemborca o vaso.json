@@ -1,0 +1,83 @@
+{
+  "id": 1694384672052,
+  "title": "Desemborca o vaso",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Desemborca o vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite\n\nDesemborca o vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite\n\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\n\nBatiza o vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite\n\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\n\nDá unção ao vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite\n\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Desemborca o vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Desemborca o vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Liga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Batiza o vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Liga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Dá unção ao vaso, Jesus\nEnche de azeite\nEnche de azeite\nEnche de azeite",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Liga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora\nLiga, liga, liga, liga, liga, nessa hora\nPede, pede, pede, pede, pra Jesus agora",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

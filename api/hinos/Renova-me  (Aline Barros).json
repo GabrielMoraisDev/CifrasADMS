@@ -1,0 +1,69 @@
+{
+  "id": 1720357781833,
+  "title": "Renova-me ",
+  "artist": "Aline Barros",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Renova-me, Senhor Jesus\nJá não quero ser igual\nRenova-me, Senhor Jesus\nPõe em mim Teu coração\n\nPorque tudo o que há dentro de mim\nNecessita ser mudado, Senhor\nPorque tudo o que há dentro do meu coração\nNecessita mais de Ti\n\nRenova-me, Senhor Jesus\nJá não quero ser igual\nRenova-me, Senhor Jesus\nPõe em mim Teu coração\n\nPorque tudo o que há dentro de mim\nNecessita ser mudado, Senhor\nPorque tudo o que há dentro do meu coração\nNecessita mais de Ti\n\nNecessita mais de Ti\nNecessita mais\nDe Ti",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Renova-me, Senhor Jesus\nJá não quero ser igual\nRenova-me, Senhor Jesus\nPõe em mim Teu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Porque tudo o que há dentro de mim\nNecessita ser mudado, Senhor\nPorque tudo o que há dentro do meu coração\nNecessita mais de Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Renova-me, Senhor Jesus\nJá não quero ser igual\nRenova-me, Senhor Jesus\nPõe em mim Teu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Porque tudo o que há dentro de mim\nNecessita ser mudado, Senhor\nPorque tudo o que há dentro do meu coração\nNecessita mais de Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Necessita mais de Ti\nNecessita mais\nDe Ti",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

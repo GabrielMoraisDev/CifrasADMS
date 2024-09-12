@@ -1,0 +1,90 @@
+{
+  "id": 1652827223009,
+  "title": "049 - Aleluia! Já Creio",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "G",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus tem prometido a salvação dar.\nA quem em Seu Filho Jesus confiar. \n\nAleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! \n\nFoi tal Seu amor, que me substituiu, \nE sobre o Calvário, minh’alma remiu! \n\nAleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! \n\nNão posso jamais desse amor duvidar; \nNão posso senão aos Seus pés me prostrar. \n\nAleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! \n\nE, quando, na glória, eu vir meu bom Rei, \nCom todos os santos ali cantarei. \n\nAleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus tem prometido a salvação dar.\nA quem em Seu Filho Jesus confiar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Aleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Foi tal Seu amor, que me substituiu, \nE sobre o Calvário, minh’alma remiu! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Aleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Não posso jamais desse amor duvidar; \nNão posso senão aos Seus pés me prostrar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Aleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "E, quando, na glória, eu vir meu bom Rei, \nCom todos os santos ali cantarei. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Aleluia! Já creio em Cr!sto Jesus. \nE salvo já estou, \nPelo sangue da cruz! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

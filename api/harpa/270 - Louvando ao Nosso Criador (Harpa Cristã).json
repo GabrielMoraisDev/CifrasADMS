@@ -1,0 +1,76 @@
+{
+  "id": 1657150355203,
+  "title": "270 - Louvando ao Nosso Criador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sinto prazer louvando \nAo nosso Criador, \nE gozo celebrando \nOs feitos do Senhor; \nSaber que sou lavado \nNo sangue de Jesus. \nTambém que sou guiado, \nPela divina luz!  \n\nAlegre irei avante, \nUnido ao Salvador; \nCantando triunfante, \nAo nosso Criador!\n\nEm Cristo, tenho gozo, \nE paz, celeste luz; \nNa obra, eu repouso, \nCumprida lá na cruz; \nDe graça revestido, \nNada me faltará; \nCristo tem prometido, \nQue tudo suprirá!  \n\nAlegre irei avante, \nUnido ao Salvador; \nCantando triunfante, \nAo nosso Criador!\n\nAlegre sigo avante, \nNa senda que conduz \nA porta fulgurante \nDa mansão de Jesus; \nCom Deus aqui eu ando, \nEle me guiará, \nE por fim me tomando, \nAo céu me levará!\n\nAlegre irei avante, \nUnido ao Salvador; \nCantando triunfante, \nAo nosso Criador!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sinto prazer louvando \nAo nosso Criador, \nE gozo celebrando \nOs feitos do Senhor; \nSaber que sou lavado \nNo sangue de Jesus. \nTambém que sou guiado, \nPela divina luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Alegre irei avante, \nUnido ao Salvador; \nCantando triunfante, \nAo nosso Criador!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Em Cristo, tenho gozo, \nE paz, celeste luz; \nNa obra, eu repouso, \nCumprida lá na cruz; \nDe graça revestido, \nNada me faltará; \nCristo tem prometido, \nQue tudo suprirá!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Alegre irei avante, \nUnido ao Salvador; \nCantando triunfante, \nAo nosso Criador!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Alegre sigo avante, \nNa senda que conduz \nA porta fulgurante \nDa mansão de Jesus; \nCom Deus aqui eu ando, \nEle me guiará, \nE por fim me tomando, \nAo céu me levará!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Alegre irei avante, \nUnido ao Salvador; \nCantando triunfante, \nAo nosso Criador!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

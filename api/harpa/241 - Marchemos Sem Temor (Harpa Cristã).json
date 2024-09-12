@@ -1,0 +1,76 @@
+{
+  "id": 1657324606858,
+  "title": "241 - Marchemos Sem Temor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "P'ra Sião marchamos \nSem algum temor, \nPor fé nos chamamos \nFilhos do Senhor; \nPresto caminhamos,\nSem pra trás olhar, \nCom Jesus nós vamos, \nNão podemos errar. \n\nMarchemos sem temor, \nRepletos de valor, \nMarchemos nas pisadas \nDo bom Redentor; \nDepressa, sem tardar, \nAté no céu entrar;\nPor Jesus podemos sempre triunfar. \n\nP'ra Sião marchamos \nSem desanimar, \nA verdade, vamos todos proclamar; \nPresto caminhamos, \nCarregando a cruz, \nPois nós desejamos \nVer no céu a Jesus. \n\nMarchemos sem temor, \nRepletos de valor, \nMarchemos nas pisadas \nDo bom Redentor; \nDepressa, sem tardar, \nAté no céu entrar; \nPor Jesus podemos sempre triunfar. \n\nP'ra Sião marchamos \nEm celeste luz, \nDirigidos vamos p'Io Senhor Jesus; \nPresto caminhamos, \nRasga-se o véu; \nJá daqui estamos, \nPela fé, vendo o céu. \n\nMarchemos sem temor, \nRepletos de valor, \nMarchemos nas pisadas \nDo bom Redentor; \nDepressa, sem tardar, \nAté no céu entrar;\nPor Jesus podemos sempre triunfar. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "P'ra Sião marchamos \nSem algum temor, \nPor fé nos chamamos \nFilhos do Senhor; \nPresto caminhamos,\nSem pra trás olhar, \nCom Jesus nós vamos, \nNão podemos errar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Marchemos sem temor, \nRepletos de valor, \nMarchemos nas pisadas \nDo bom Redentor; \nDepressa, sem tardar, \nAté no céu entrar;\nPor Jesus podemos sempre triunfar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "P'ra Sião marchamos \nSem desanimar, \nA verdade, vamos todos proclamar; \nPresto caminhamos, \nCarregando a cruz, \nPois nós desejamos \nVer no céu a Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Marchemos sem temor, \nRepletos de valor, \nMarchemos nas pisadas \nDo bom Redentor; \nDepressa, sem tardar, \nAté no céu entrar; \nPor Jesus podemos sempre triunfar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "P'ra Sião marchamos \nEm celeste luz, \nDirigidos vamos p'Io Senhor Jesus; \nPresto caminhamos, \nRasga-se o véu; \nJá daqui estamos, \nPela fé, vendo o céu. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Marchemos sem temor, \nRepletos de valor, \nMarchemos nas pisadas \nDo bom Redentor; \nDepressa, sem tardar, \nAté no céu entrar;\nPor Jesus podemos sempre triunfar. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

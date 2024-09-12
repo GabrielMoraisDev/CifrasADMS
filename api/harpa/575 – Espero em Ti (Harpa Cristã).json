@@ -1,0 +1,55 @@
+{
+  "id": 1661902193331,
+  "title": "575 – Espero em Ti",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu só espero em ti, \nCordeiro, que por mim, \nFoste à cruz. \nOuve minha oração. \nDá-me a tua mão, \nEnche meu coração \nCom santa luz!  \n\nDá-me consolação, \nGuarda meu coração! \nTeu grande amor, T\neu sangue carmesim, \nDeste na cruz por mim. \nQue eu viva para ti, \nCom muito ardor! \n\nA trilha seguirei, \nE provas eu terei. \nMeu guia sê. \nDo mal vem me livrar: \nPuro me conservar! \nPra sempre vou cantar \nO teu louvor.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu só espero em ti, \nCordeiro, que por mim, \nFoste à cruz. \nOuve minha oração. \nDá-me a tua mão, \nEnche meu coração \nCom santa luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Dá-me consolação, \nGuarda meu coração! \nTeu grande amor, T\neu sangue carmesim, \nDeste na cruz por mim. \nQue eu viva para ti, \nCom muito ardor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "A trilha seguirei, \nE provas eu terei. \nMeu guia sê. \nDo mal vem me livrar: \nPuro me conservar! \nPra sempre vou cantar \nO teu louvor.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

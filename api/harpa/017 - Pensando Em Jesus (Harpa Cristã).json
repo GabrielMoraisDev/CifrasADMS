@@ -1,0 +1,90 @@
+{
+  "id": 1644150663335,
+  "title": "017 - Pensando Em Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "F",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Nas horas que passo\nPensando em Jesus\nAs trevas desfaço\nBuscando a luz\n\nQue horas de vida\nTão doces pra mim\nJesus me convida\nQue eu suba pra Si\n\nDa vida voando\nSem nenhum temor\nAcima buscando\nDo véu o amor\n\nQue doce ventura\nQue aspecto feliz\nQue nova natura\nMinh'alma bendiz\n\nDo mar o bramido\nDa brisa o langor\nDa ave o carpido\nDe doce amor\n\nMe falam sentidos\nAcordes dos céus\nMe trazem aos ouvidos\nOs hinos de Deus\n\nMinh'alma ansiosa\nJá quer percorrer\nA senda gloriosa\nQue eu hei de ver\n\nQue coisa tão bela\nOh, que luz sem véu\nJesus me revela\nMistérios do céu",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Nas horas que passo\nPensando em Jesus\nAs trevas desfaço\nBuscando a luz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Que horas de vida\nTão doces pra mim\nJesus me convida\nQue eu suba pra Si",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Da vida voando\nSem nenhum temor\nAcima buscando\nDo véu o amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Que doce ventura\nQue aspecto feliz\nQue nova natura\nMinh'alma bendiz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Do mar o bramido\nDa brisa o langor\nDa ave o carpido\nDe doce amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Me falam sentidos\nAcordes dos céus\nMe trazem aos ouvidos\nOs hinos de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Minh'alma ansiosa\nJá quer percorrer\nA senda gloriosa\nQue eu hei de ver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Que coisa tão bela\nOh, que luz sem véu\nJesus me revela\nMistérios do céu",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

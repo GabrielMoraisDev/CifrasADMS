@@ -1,0 +1,69 @@
+{
+  "id": 1657150762524,
+  "title": "310 - Avante Eu Vou",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Jesus é o Redentor, \nque veio nos salvar, \nDo mundo de horror, \ndas ondas deste mar; \nA todo o que crer vitória lhe dará,\nTambém real poder, \nque gozo lhe trará. \n\nAvante eu vou, avante eu vou,\nPara entrar no céu, \nna divinal mansão;\nTenho gozo mui profundo; \nJesus no coração, \nNão olhando para o mundo, \navante eu vou.\n\nJesus meu Salvador, ao céu me levará, \nE do destruidor, o corpo esmagará, \nAo caro Redentor, fiel aqui serei, \nA Ele, com fervor, somente seguirei. \n\nTrombeta soará do nosso Criador;\nA grei se elevará dos santos do Senhor; \nEm glória e poder Jesus regressará,\nSeus servos hão de O ver, pois breve voltará. \n\nEis que virá Jesus, \na fim de me levar,\nA desfrutar em luz, \no Seu amor sem par;\nAbraão, (saque e Jó ali no céu verei,\nAo lado de Jacó, com eles cearei",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Jesus é o Redentor, \nque veio nos salvar, \nDo mundo de horror, \ndas ondas deste mar; \nA todo o que crer vitória lhe dará,\nTambém real poder, \nque gozo lhe trará. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Avante eu vou, avante eu vou,\nPara entrar no céu, \nna divinal mansão;\nTenho gozo mui profundo; \nJesus no coração, \nNão olhando para o mundo, \navante eu vou.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jesus meu Salvador, ao céu me levará, \nE do destruidor, o corpo esmagará, \nAo caro Redentor, fiel aqui serei, \nA Ele, com fervor, somente seguirei. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Trombeta soará do nosso Criador;\nA grei se elevará dos santos do Senhor; \nEm glória e poder Jesus regressará,\nSeus servos hão de O ver, pois breve voltará. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eis que virá Jesus, \na fim de me levar,\nA desfrutar em luz, \no Seu amor sem par;\nAbraão, (saque e Jó ali no céu verei,\nAo lado de Jacó, com eles cearei",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

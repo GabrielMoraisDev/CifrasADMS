@@ -1,0 +1,55 @@
+{
+  "id": 1657322449766,
+  "title": "410 - Jesus, Meu Rei Glorioso",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Jesus é meu Rei glorioso, \nÉ grato cantar-Lhe louvor; \nE Rei, mas me torna ditoso, \nEnchendo-me do Seu amor; \nDeixando  Seu trono de glória \nMe veio livrar desta escória.\nJá sou mui feliz, \njá sou mui feliz com Deus! \n\nJesus é meu Rei mui amado,\nNas lutas, na dor, sempre está\nPaciente e humilde ao meu lado,\nAjuda e consolo me dá;\nPor isso constante O sigo,\nPois é meu Pastor e amigo.\nJá sou mui feliz, \njá sou mui feliz com Deus! \n\nJesus, que pudera eu dar-Te\nPor tanto amor para mim?\nbastante é servir-Te e amar-Te? \nE tudo entregar-me a Ti?\nAceita, então, minha vida,\nQue a Ti só, se prostra rendida.\nJá sou mui feliz, \njá sou mui feliz com Deus! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Jesus é meu Rei glorioso, \nÉ grato cantar-Lhe louvor; \nE Rei, mas me torna ditoso, \nEnchendo-me do Seu amor; \nDeixando  Seu trono de glória \nMe veio livrar desta escória.\nJá sou mui feliz, \njá sou mui feliz com Deus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Jesus é meu Rei mui amado,\nNas lutas, na dor, sempre está\nPaciente e humilde ao meu lado,\nAjuda e consolo me dá;\nPor isso constante O sigo,\nPois é meu Pastor e amigo.\nJá sou mui feliz, \njá sou mui feliz com Deus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jesus, que pudera eu dar-Te\nPor tanto amor para mim?\nbastante é servir-Te e amar-Te? \nE tudo entregar-me a Ti?\nAceita, então, minha vida,\nQue a Ti só, se prostra rendida.\nJá sou mui feliz, \njá sou mui feliz com Deus! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

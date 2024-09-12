@@ -1,0 +1,76 @@
+{
+  "id": 1658062969703,
+  "title": "Divino Companheiro",
+  "artist": "Mara Lima",
+  "author": "Luiz de Carvalho",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Divino companheiro\nNo caminho\nSua presença\nSinto logo ao transitar\n\nPois já dissipaste\nToda sombra\nJá tenho luz\nA luz bendita do amor\n\nFica, Senhor\nJá se faz tarde\nTens meu coração\nPara pousar\n\nFaze em mim\nMorada permanente\nFica, Senhor\nFica, Senhor, meu Salvador\n\nA sombra da noite\nSe aproxima\nE, nela, o tentador\nVai chegar\n\nNão, não me deixes só\nNo caminho\nAjuda-me\nAjuda-me até chegar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Divino companheiro\nNo caminho\nSua presença\nSinto logo ao transitar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pois já dissipaste\nToda sombra\nJá tenho luz\nA luz bendita do amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Fica, Senhor\nJá se faz tarde\nTens meu coração\nPara pousar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Faze em mim\nMorada permanente\nFica, Senhor\nFica, Senhor, meu Salvador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "A sombra da noite\nSe aproxima\nE, nela, o tentador\nVai chegar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Não, não me deixes só\nNo caminho\nAjuda-me\nAjuda-me até chegar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

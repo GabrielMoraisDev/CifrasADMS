@@ -1,0 +1,76 @@
+{
+  "id": 1657664788349,
+  "title": "146 - Caminho Brilhante",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Por um caminho brilhante vou,\nDe majestosa luz;\nPelo caminho que já trilhou,\nNosso Senhor Jesus;\nSem me lembrar do que se passou,\nBem feliz canto, sim,\nPois filho do Rei dos reis eu sou;\nCristo é meu, por fim;\n\nMeu, por fim; meu, por fim! \nCristo da morte livrou-me, sim! \nMe ouviu, me remiu,\nCristo é meu, por fim!\n\nNo mundo não tenho mais prazer,\nPurificado estou,\nNunca jamais hei de perecer,\nPois Jesus me livrou;\nEle me ama e me quer bem,\nTudo é para mim;\nNEle encontro louvor, também.\nCristo é meu, por fim.\n\nMeu, por fim; meu, por fim! \nCristo da morte livrou-me, sim! \nMe ouviu, me remiu,\nCristo é meu, por fim!\n\nQuem de Jesus me separará?\nTenho-O no coração;\nEle nas trevas me guiará\nPara a feliz Sião.\nSempre contente, sem vacilar,\nVenço o mal, assim;\nTenho prazer se na luz andar.\nCristo é meu, por fim.\n\nMeu, por fim; meu, por fim! \nCristo da morte livrou-me, sim! \nMe ouviu, me remiu,\nCristo é meu, por fim!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Por um caminho brilhante vou,\nDe majestosa luz;\nPelo caminho que já trilhou,\nNosso Senhor Jesus;\nSem me lembrar do que se passou,\nBem feliz canto, sim,\nPois filho do Rei dos reis eu sou;\nCristo é meu, por fim;",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Meu, por fim; meu, por fim! \nCristo da morte livrou-me, sim! \nMe ouviu, me remiu,\nCristo é meu, por fim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "No mundo não tenho mais prazer,\nPurificado estou,\nNunca jamais hei de perecer,\nPois Jesus me livrou;\nEle me ama e me quer bem,\nTudo é para mim;\nNEle encontro louvor, também.\nCristo é meu, por fim.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Meu, por fim; meu, por fim! \nCristo da morte livrou-me, sim! \nMe ouviu, me remiu,\nCristo é meu, por fim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quem de Jesus me separará?\nTenho-O no coração;\nEle nas trevas me guiará\nPara a feliz Sião.\nSempre contente, sem vacilar,\nVenço o mal, assim;\nTenho prazer se na luz andar.\nCristo é meu, por fim.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Meu, por fim; meu, por fim! \nCristo da morte livrou-me, sim! \nMe ouviu, me remiu,\nCristo é meu, por fim!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

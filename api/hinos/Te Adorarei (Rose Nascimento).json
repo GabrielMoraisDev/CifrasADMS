@@ -1,0 +1,132 @@
+{
+  "id": 1635288637374,
+  "title": "Te Adorarei",
+  "artist": "Rose Nascimento",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus, estou aqui\nPra sobreviver toda provação\nQue eu atravessar\nSei que tudo é Tua permissão\nPra me ensinar\n\nDeus\nEstou aqui pra Te adorar\nComo o servo Jó\nQue das cinzas Te adorou\n\nAinda que tudo eu perca\nNunca morrerá em mim\nO Seu Louvor, Senhor\n\nTe adorarei\nTu és o Meu Senhor\nNada vai calar\nO som do meu Louvor\n\nSurdo eu quero ser\nÀ voz do opressor\n\nProvas me farão\nMais que vencedor\n2x\n\nDeus\nEstou aqui pra Te adorar\nComo o servo Jó\nQue das cinzas Te adorou\n\nAinda que tudo eu perca\nNunca morrerá em mim\nO Seu Louvor, Senhor\n\nTe adorarei\nTu és o Meu Senhor\nNada vai calar\nO som do meu Louvor\n\nSurdo eu quero ser\nÀ voz do opressor\n\nProvas me farão\nMais que vencedor\n\nTe adorarei\nTu és o Meu Senhor\nNada vai calar\nO som do meu Louvor\n\nSurdo eu quero ser\nÀ voz do opressor\n\nProvas me farão\nMais que vencedor\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus, estou aqui\nPra sobreviver toda provação\nQue eu atravessar\nSei que tudo é Tua permissão\nPra me ensinar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Deus\nEstou aqui pra Te adorar\nComo o servo Jó\nQue das cinzas Te adorou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ainda que tudo eu perca\nNunca morrerá em mim\nO Seu Louvor, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Te adorarei\nTu és o Meu Senhor\nNada vai calar\nO som do meu Louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Surdo eu quero ser\nÀ voz do opressor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Provas me farão\nMais que vencedor\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Deus\nEstou aqui pra Te adorar\nComo o servo Jó\nQue das cinzas Te adorou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Ainda que tudo eu perca\nNunca morrerá em mim\nO Seu Louvor, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Te adorarei\nTu és o Meu Senhor\nNada vai calar\nO som do meu Louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Surdo eu quero ser\nÀ voz do opressor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Provas me farão\nMais que vencedor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "Te adorarei\nTu és o Meu Senhor\nNada vai calar\nO som do meu Louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 13,
+        "description": "",
+        "text": "Surdo eu quero ser\nÀ voz do opressor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 14,
+        "description": "",
+        "text": "Provas me farão\nMais que vencedor\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1644150976594,
+  "title": "025 - JESUS, TU ES BOM ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "C",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Meu Jesus, Tu és bom; \nTu és tudo pra mim! \nFoste morto, mas vives em mim; \nTu mereces louvor, \nÓ Cordeiro de Deus! \nTu és tudo, sim, tudo p'ra mim! \n\nQuero a Ti dar louvor, \nPois és Rei sobre reis; \nTu és tudo, mas nada eu sou; Enche meu coração \nDe ternura e paz; \nHonra eterna e glória Te dou. \n\nO Teu nome é amor, \nPois Tu amas a mim, \nE eu quero andar neste amor; Triunfante estou, \nConfiando em Ti, \nMeu Jesus, grande Consolador. \n\nÓ Ungido de Deus, \nTrazes paz e perdão; \nSalvação, vida, tens para os Teus; Que mensagem do céu \nE de transformação, \nEnviada do trono de Deus!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Meu Jesus, Tu és bom; \nTu és tudo pra mim! \nFoste morto, mas vives em mim; \nTu mereces louvor, \nÓ Cordeiro de Deus! \nTu és tudo, sim, tudo p'ra mim! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quero a Ti dar louvor, \nPois és Rei sobre reis; \nTu és tudo, mas nada eu sou; Enche meu coração \nDe ternura e paz; \nHonra eterna e glória Te dou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O Teu nome é amor, \nPois Tu amas a mim, \nE eu quero andar neste amor; Triunfante estou, \nConfiando em Ti, \nMeu Jesus, grande Consolador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó Ungido de Deus, \nTrazes paz e perdão; \nSalvação, vida, tens para os Teus; Que mensagem do céu \nE de transformação, \nEnviada do trono de Deus!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

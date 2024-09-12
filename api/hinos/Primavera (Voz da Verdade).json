@@ -1,0 +1,55 @@
+{
+  "id": 1631484447845,
+  "title": "Primavera",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Não pare de sonhar, mas fique acordado\nQue Deus indicará, o seu caminho, o seu caminho\nSua vontade tem que estar, nas nuvens\nMas os seus pés, firmados no chão, no chão\n\nE a fé que Deus te deu, poderosa pra vencer\nFará você voar, ao encontro desse Deus\nE a vida deste sonho, está na fé que move os montes\nE o grão de mostarda, virá a ser árvore gigante, gigante\n\nDeus pode nos dar, muito mais além\nDo que nós pedimos, ou pensamos\nO diabo pode nos tirar apenas uma flor\nMas jamais tirará a nossa primavera\n3x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Não pare de sonhar, mas fique acordado\nQue Deus indicará, o seu caminho, o seu caminho\nSua vontade tem que estar, nas nuvens\nMas os seus pés, firmados no chão, no chão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E a fé que Deus te deu, poderosa pra vencer\nFará você voar, ao encontro desse Deus\nE a vida deste sonho, está na fé que move os montes\nE o grão de mostarda, virá a ser árvore gigante, gigante",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Deus pode nos dar, muito mais além\nDo que nós pedimos, ou pensamos\nO diabo pode nos tirar apenas uma flor\nMas jamais tirará a nossa primavera\n3x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

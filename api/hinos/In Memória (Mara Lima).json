@@ -1,0 +1,83 @@
+{
+  "id": 1642719418778,
+  "title": "In Memória",
+  "artist": "Mara Lima",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sempre vou lembrar da coragem do amor\nDa firmeza e vontade da fé e devoção.\nDa igreja do tempo de Paulo, de Pedro e João.\nQue enfrentaram a fúria de Roma\nMas nunca negaram sua fé de Cristão.\nÈ um exemplo pra mim verdadeira lição.\n\nEu queria ver a bravura dos santos\nEm plena arena enfrentando os leões\nQuanto mais a fogueira queimava\nMais se ouvia o louvor dos nossos irmãos,\nSobre o sangue tombavam nas ruas\nChegavam no céu com a vitória nas mãos\nÉ um exemplo pra mim verdadeira lição.\n\nOh meu Deus reaviva tua igreja de novo,\nFaz a chama arder neste povo,\nComo foram os primeiros cristãos.\n\nOh meu Deus reaviva tua igreja de novo;\nFaz a chama arder neste povo,\nComeçando em meu coração.\n\nEu queria ver a bravura dos santos\nEm plena arena enfrentando os leões\nQuanto mais a fogueira queimava\nMais se ouvia o louvor dos nossos irmãos,\nSobre o sangue tombavam nas ruas\nChegavam no céu com a vitória nas mãos\nÉ um exemplo pra mim verdadeira lição.\n\nOh meu Deus reaviva tua igreja de novo,\nFaz a chama arder neste povo,\nComo foram os primeiros cristãos.\n\nOh meu Deus reaviva tua igreja de novo;\nFaz a chama arder neste povo,\nComeçando em meu coração.\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sempre vou lembrar da coragem do amor\nDa firmeza e vontade da fé e devoção.\nDa igreja do tempo de Paulo, de Pedro e João.\nQue enfrentaram a fúria de Roma\nMas nunca negaram sua fé de Cristão.\nÈ um exemplo pra mim verdadeira lição.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu queria ver a bravura dos santos\nEm plena arena enfrentando os leões\nQuanto mais a fogueira queimava\nMais se ouvia o louvor dos nossos irmãos,\nSobre o sangue tombavam nas ruas\nChegavam no céu com a vitória nas mãos\nÉ um exemplo pra mim verdadeira lição.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Oh meu Deus reaviva tua igreja de novo,\nFaz a chama arder neste povo,\nComo foram os primeiros cristãos.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh meu Deus reaviva tua igreja de novo;\nFaz a chama arder neste povo,\nComeçando em meu coração.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu queria ver a bravura dos santos\nEm plena arena enfrentando os leões\nQuanto mais a fogueira queimava\nMais se ouvia o louvor dos nossos irmãos,\nSobre o sangue tombavam nas ruas\nChegavam no céu com a vitória nas mãos\nÉ um exemplo pra mim verdadeira lição.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Oh meu Deus reaviva tua igreja de novo,\nFaz a chama arder neste povo,\nComo foram os primeiros cristãos.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Oh meu Deus reaviva tua igreja de novo;\nFaz a chama arder neste povo,\nComeçando em meu coração.\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

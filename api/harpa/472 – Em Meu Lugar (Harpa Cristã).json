@@ -1,0 +1,48 @@
+{
+  "id": 1663717648744,
+  "title": "472 – Em Meu Lugar",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Cristo Jesus lá na cruz já sofre \nEm meu lugar, em meu lugar; \nTudo por mim Ele ali padeceu, \nPara a minh'alma salvar.  \n\nGlória a Jesus, meu pecado cravou \nSobre a cruz, sobre a cruz; \nSangue precioso minh'alma lavou; \nGlória ao bondoso Jesus.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Cristo Jesus lá na cruz já sofre \nEm meu lugar, em meu lugar; \nTudo por mim Ele ali padeceu, \nPara a minh'alma salvar.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Glória a Jesus, meu pecado cravou \nSobre a cruz, sobre a cruz; \nSangue precioso minh'alma lavou; \nGlória ao bondoso Jesus.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

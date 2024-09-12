@@ -1,0 +1,90 @@
+{
+  "id": 1688426401051,
+  "title": "Hosana",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Hosana! Hosana! Criador e Rei!\n\nDeu vida à criação, graça e paz e muita luz\nRevelou seu coração\nDemonstrando o seu grande amor\n\nE ao som de Sua palavra, tudo veio à existir\nMovimentos de amor, definiram a perfeição\n\nGrande Deus, Eterno Pai Poderoso\nQue fez tudo, com a sua inspiração\nFez o homem a sua imagem o criou\nrevelando o perfeito amor\n\nGrande Deus, Eterno Pai Poderoso\nQue fez tudo, com a sua inspiração\nFez o homem a sua imagem o criou\nrevelando o perfeito amor\nrevelando o perfeito amor\n\nEste é o Grande Deus\nEle é o meu Jesus\n2x\n\nHosana! Príncipe da paz, pedra de Jacó, o Criador\nHosana! Príncipe da paz, pedra de Jacó, a Salvação\n2x\n\nRevelou seu perfeito amor\nPerfeito amor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Hosana! Hosana! Criador e Rei!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Deu vida à criação, graça e paz e muita luz\nRevelou seu coração\nDemonstrando o seu grande amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E ao som de Sua palavra, tudo veio à existir\nMovimentos de amor, definiram a perfeição",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Grande Deus, Eterno Pai Poderoso\nQue fez tudo, com a sua inspiração\nFez o homem a sua imagem o criou\nrevelando o perfeito amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Grande Deus, Eterno Pai Poderoso\nQue fez tudo, com a sua inspiração\nFez o homem a sua imagem o criou\nrevelando o perfeito amor\nrevelando o perfeito amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Este é o Grande Deus\nEle é o meu Jesus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Hosana! Príncipe da paz, pedra de Jacó, o Criador\nHosana! Príncipe da paz, pedra de Jacó, a Salvação\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Revelou seu perfeito amor\nPerfeito amor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

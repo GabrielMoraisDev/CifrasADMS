@@ -1,0 +1,118 @@
+{
+  "id": 1631657716741,
+  "title": "225 - Sê Valente",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Na batalha contra o mal\nSê valente\nSegue em marcha triunfal\nSê valente\n\nOlha o alvo que é Jesus\nQue à vitória te conduz\nOh, não deixes tua cruz\nSê valente\n\nSê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente\n\nSe o maligno te enfrentar\nSê valente\nLutarás sem recuar\nSê valente\n\nSeja aqui, ou onde for\nEscudado no Senhor\nMostrarás o teu valor\nSê valente\n\nSê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente\n\nCom altruísmo, com poder\nSê valente\nFranco, sem o mal temer\nSê valente\n\nAos caídos em redor\nManifesta-lhes o amor\nE serás um vencedor\nSê valente\n\nSê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente\n\nO Evangelho a proclamar\nSê valente\nNo Brasil, em terra ou mar\nSê valente\n\nTua vida enobrecer\nSempre com Jesus viver\nE a ti também vencer\nSê valente\n\nSê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Na batalha contra o mal\nSê valente\nSegue em marcha triunfal\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Olha o alvo que é Jesus\nQue à vitória te conduz\nOh, não deixes tua cruz\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Se o maligno te enfrentar\nSê valente\nLutarás sem recuar\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Seja aqui, ou onde for\nEscudado no Senhor\nMostrarás o teu valor\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Sê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Com altruísmo, com poder\nSê valente\nFranco, sem o mal temer\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Aos caídos em redor\nManifesta-lhes o amor\nE serás um vencedor\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Sê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "O Evangelho a proclamar\nSê valente\nNo Brasil, em terra ou mar\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Tua vida enobrecer\nSempre com Jesus viver\nE a ti também vencer\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "Sê valente\nPelejando por Jesus\nSê valente\nNunca rejeitando a cruz\nFirme sempre no amor\nCom indômito valor\nCheio do Consolador\nSê valente",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

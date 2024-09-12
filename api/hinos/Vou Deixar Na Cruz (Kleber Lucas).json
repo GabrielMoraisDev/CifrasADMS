@@ -1,0 +1,69 @@
+{
+  "id": 1645312157026,
+  "title": "Vou Deixar Na Cruz",
+  "artist": "Kleber Lucas",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sua morte ali na cruz\nCarregando a minha dor\nVocê se expôs por mim\n\nSe entregou em meu lugar\nE me deu uma nova chance\nEu vou recomeçar\n\nVou deixar na cruz\nTudo o que passou\nTudo o que ficou pra trás\n\nOlho pra Você\nCorro pra Você\nO Seu amor me chama\n\nEu dependo desse amor\nDo Seu amor mais que tudo\nEu confio que esse amor\nTem poder pra curar dores",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sua morte ali na cruz\nCarregando a minha dor\nVocê se expôs por mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Se entregou em meu lugar\nE me deu uma nova chance\nEu vou recomeçar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vou deixar na cruz\nTudo o que passou\nTudo o que ficou pra trás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Olho pra Você\nCorro pra Você\nO Seu amor me chama",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu dependo desse amor\nDo Seu amor mais que tudo\nEu confio que esse amor\nTem poder pra curar dores",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

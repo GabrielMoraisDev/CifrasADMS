@@ -1,0 +1,62 @@
+{
+  "id": 1659046848381,
+  "title": "238 - Ó Pecador Desalentado",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó pecador desalentado\nVem a Jesus, teu Salvador;\nPor que viver atribulado?\nVem a Jesus, teu Salvador;\nEis o Cristo te chamando,\nPois quer te dar Seu grande amor,\nVem nos Seus braços te lançando\nVem a Jesus, o teu Salvador. \n\nÓ não rejeites a liberdade,\nVem a Jesus, teu Salvador;\nRecebe hoje a santidade;\nVem a Jesus, teu Salvador;\nTudo aqui no mundo passa;\nTu morrerás, ó pecador,\nVem aceitar a vera graça,\nVem a Jesus, o teu Salvador. \n\nSe queres paz, também o gozo, \nVem a Jesus, teu Salvador. \nPois nEle tu terás repouso,\nVem a Jesus, teu Salvador; \nNão terás senão tristeza, \nCá neste mundo de horror, \nMas em Jesus há fortaleza, \nVem a Jesus, o teu Salvador. \n\n Vem a Jesus, teu Salvador. \nÓ Seu amor é irresistível, \nVem a Jesus, teu Salvador. \nTuas horas vão passando, \nÓ não desprezes, pecador; \nA voz de Deus te convidando. \nVem a Jesus, o teu Salvador. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó pecador desalentado\nVem a Jesus, teu Salvador;\nPor que viver atribulado?\nVem a Jesus, teu Salvador;\nEis o Cristo te chamando,\nPois quer te dar Seu grande amor,\nVem nos Seus braços te lançando\nVem a Jesus, o teu Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó não rejeites a liberdade,\nVem a Jesus, teu Salvador;\nRecebe hoje a santidade;\nVem a Jesus, teu Salvador;\nTudo aqui no mundo passa;\nTu morrerás, ó pecador,\nVem aceitar a vera graça,\nVem a Jesus, o teu Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Se queres paz, também o gozo, \nVem a Jesus, teu Salvador. \nPois nEle tu terás repouso,\nVem a Jesus, teu Salvador; \nNão terás senão tristeza, \nCá neste mundo de horror, \nMas em Jesus há fortaleza, \nVem a Jesus, o teu Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": " Vem a Jesus, teu Salvador. \nÓ Seu amor é irresistível, \nVem a Jesus, teu Salvador. \nTuas horas vão passando, \nÓ não desprezes, pecador; \nA voz de Deus te convidando. \nVem a Jesus, o teu Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

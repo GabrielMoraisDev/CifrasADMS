@@ -1,0 +1,76 @@
+{
+  "id": 1658874194140,
+  "title": "204 - O Peregrino na Terra ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sou peregrino na terra \nE longe estou do meu lar, \nMlnh'alma anelante espera \nQue Cristo a venha buscar; \nAqui só há descrença, \nAs lutas não têm fim, \nMas de Jesus, a presença, \nGlória será para mim! \n\nNo céu de luz vou descansar, \nCom meu Jesus hei de morar. \n\nEm Cristo tendo já crido, \nSó pela fé viverei, \nPois Deus me tem prometido, \nQue no céu descansarei! \nEu tenho permanente \nO bom Consolador, \nGuiando-me brandamente \nÀ fonte viva de amor.   \n\nNo céu de luz vou descansar, \nCom meu Jesus hei de morar. \n\nEmbora às vezes o crente \nAs dores sofra da cruz, \nGozo terá permanente, \nQuando no céu vir Jesus \nDe glória coroado \nNo trono divinal!, \nPor anjos sempre louvado, \nNum coro celestial. \n\nNo céu de luz vou descansar, \nCom meu Jesus hei de morar. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sou peregrino na terra \nE longe estou do meu lar, \nMlnh'alma anelante espera \nQue Cristo a venha buscar; \nAqui só há descrença, \nAs lutas não têm fim, \nMas de Jesus, a presença, \nGlória será para mim! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "No céu de luz vou descansar, \nCom meu Jesus hei de morar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Em Cristo tendo já crido, \nSó pela fé viverei, \nPois Deus me tem prometido, \nQue no céu descansarei! \nEu tenho permanente \nO bom Consolador, \nGuiando-me brandamente \nÀ fonte viva de amor.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "No céu de luz vou descansar, \nCom meu Jesus hei de morar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Embora às vezes o crente \nAs dores sofra da cruz, \nGozo terá permanente, \nQuando no céu vir Jesus \nDe glória coroado \nNo trono divinal!, \nPor anjos sempre louvado, \nNum coro celestial. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "No céu de luz vou descansar, \nCom meu Jesus hei de morar. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

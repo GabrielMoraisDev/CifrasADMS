@@ -1,0 +1,55 @@
+{
+  "id": 1688686364321,
+  "title": "Foi no Calvário",
+  "artist": "Denise",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Há momentos\nQue as palavras não resolvem\nMas o gesto de Jesus\nDemonstra amor por nós\n\nFoi no calvário\n(Que meu senhor Jesus)\nQue ele sem falar\n(Morreu em uma cruz)\nMostrou ao mundo inteiro\n(Sofreu com grande dor)\nO que é o amar\n(Para salvar o pecador)\n\nAqui no mundo\nAs desilusões são tantas\nMas existe uma esperança\nÉ que ele vai voltar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Há momentos\nQue as palavras não resolvem\nMas o gesto de Jesus\nDemonstra amor por nós",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Foi no calvário\n(Que meu senhor Jesus)\nQue ele sem falar\n(Morreu em uma cruz)\nMostrou ao mundo inteiro\n(Sofreu com grande dor)\nO que é o amar\n(Para salvar o pecador)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Aqui no mundo\nAs desilusões são tantas\nMas existe uma esperança\nÉ que ele vai voltar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

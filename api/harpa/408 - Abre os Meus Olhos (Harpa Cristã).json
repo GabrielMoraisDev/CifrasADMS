@@ -1,0 +1,62 @@
+{
+  "id": 1660865791037,
+  "title": "408 - Abre os Meus Olhos",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Abre os meus olhos em Tua luz, \nTeu rosto quero ver, Jesus, \nPõe em meu coração Teu amor, \nE dá-me a paz e Teu fervor; \nHumildemente acudo a Ti,\nPorque Tua terna voz ouvi\nMeu guia sê, Espírito Consolador. \n\nAbro os ouvidos para ouvir \nTua Palavra a me ungir, \nBelas palavras de doce amor, \nÓh! Meu bendito Salvador, \nConsagro a Ti meu frágil ser! \nPara cumprir o Teu querer,\nEnche meu ser, Espírito Consolador. \n\nAbre-me a mente para ver \nO Teu amor em gran poder; \nDá-me Tua graça, dá-me vigor; \nFaz-me na luta, vencedor; \nSê Tu o meu refúgio aqui, \nAumenta minha fé em Ti, \nSustenta-me, Espírito Consolador. \n\nAbre-me a porta divinal \nDo Teu palácio de cristal, \nPois o Teu lindo rosto Senhor, \nQuero no céu ver, d'esplendor; \nE quando lá enfim entrar, \nTeu santo nome vou louvar\nPelo teu bom Espírito Consolador.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Abre os meus olhos em Tua luz, \nTeu rosto quero ver, Jesus, \nPõe em meu coração Teu amor, \nE dá-me a paz e Teu fervor; \nHumildemente acudo a Ti,\nPorque Tua terna voz ouvi\nMeu guia sê, Espírito Consolador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Abro os ouvidos para ouvir \nTua Palavra a me ungir, \nBelas palavras de doce amor, \nÓh! Meu bendito Salvador, \nConsagro a Ti meu frágil ser! \nPara cumprir o Teu querer,\nEnche meu ser, Espírito Consolador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Abre-me a mente para ver \nO Teu amor em gran poder; \nDá-me Tua graça, dá-me vigor; \nFaz-me na luta, vencedor; \nSê Tu o meu refúgio aqui, \nAumenta minha fé em Ti, \nSustenta-me, Espírito Consolador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Abre-me a porta divinal \nDo Teu palácio de cristal, \nPois o Teu lindo rosto Senhor, \nQuero no céu ver, d'esplendor; \nE quando lá enfim entrar, \nTeu santo nome vou louvar\nPelo teu bom Espírito Consolador.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

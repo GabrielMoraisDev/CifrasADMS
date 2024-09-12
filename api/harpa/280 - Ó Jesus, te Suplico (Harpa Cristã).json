@@ -1,0 +1,62 @@
+{
+  "id": 1657150475058,
+  "title": "280 - Ó Jesus, te Suplico",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó Jesus, no Teu caminho,\nTe suplico com fervor,\nTem-me mais a Ti vizinho\nP'ra gozar do Teu amor.  \n\nÓ Senhor, ó vem guardar-me \nSob Tua proteção; \nPara o céu, ó vem guiar-me \nPela Tua forte mão.\n\nDá-me Teu celeste gozo, \nE vitória sobre o mal; \nDá-me a graça, Teu repouso, \nTua paz celestial!  \n\nÓ Senhor, vem consolar-me, \nNo Teu divinal amor! \nTua vida queiras dar-me, \nMeu amado Redentor!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó Jesus, no Teu caminho,\nTe suplico com fervor,\nTem-me mais a Ti vizinho\nP'ra gozar do Teu amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó Senhor, ó vem guardar-me \nSob Tua proteção; \nPara o céu, ó vem guiar-me \nPela Tua forte mão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Dá-me Teu celeste gozo, \nE vitória sobre o mal; \nDá-me a graça, Teu repouso, \nTua paz celestial!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó Senhor, vem consolar-me, \nNo Teu divinal amor! \nTua vida queiras dar-me, \nMeu amado Redentor!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

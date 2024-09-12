@@ -1,0 +1,76 @@
+{
+  "id": 1692465212282,
+  "title": "Oceano",
+  "artist": "Ana Nóbrega",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tua voz me chama sobre as águas\nOnde os meus pés podem falhar\nE ali Te encontro no mistério\nEm meio ao mar, confiarei!\n\nAo Teu nome clamarei\nE além das ondas olharei\nSe o mar crescer\nSomente em Ti descansarei\nPois eu sou Teu e Tu és meu!\n\nTua graça cobre os meus temores\nTua forte mão me guiará\nSe estou cercado pelo medo\nTu és fiel, nunca vais falhar\n\nE ao Teu nome clamarei\nE além das ondas olharei\nSe o mar crescer\nSomente em Ti descansarei\nPois eu sou Teu e Tu és meu!\n\nGuia-me pra que em tudo em Ti confie\nSobre as águas eu caminhe\nPor onde quer que chames\nLeva-me mais fundo do que já estive\nE minha fé será mais firme\nSenhor, em Tua presença!\n2x\n\nE ao Teu nome clamarei\nE além das ondas olharei\nSomente em Ti descansarei\nEu sou Teu e Tu és meu!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tua voz me chama sobre as águas\nOnde os meus pés podem falhar\nE ali Te encontro no mistério\nEm meio ao mar, confiarei!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ao Teu nome clamarei\nE além das ondas olharei\nSe o mar crescer\nSomente em Ti descansarei\nPois eu sou Teu e Tu és meu!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tua graça cobre os meus temores\nTua forte mão me guiará\nSe estou cercado pelo medo\nTu és fiel, nunca vais falhar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E ao Teu nome clamarei\nE além das ondas olharei\nSe o mar crescer\nSomente em Ti descansarei\nPois eu sou Teu e Tu és meu!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Guia-me pra que em tudo em Ti confie\nSobre as águas eu caminhe\nPor onde quer que chames\nLeva-me mais fundo do que já estive\nE minha fé será mais firme\nSenhor, em Tua presença!\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E ao Teu nome clamarei\nE além das ondas olharei\nSomente em Ti descansarei\nEu sou Teu e Tu és meu!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

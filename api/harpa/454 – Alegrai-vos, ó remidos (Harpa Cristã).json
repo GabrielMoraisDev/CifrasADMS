@@ -1,0 +1,62 @@
+{
+  "id": 1663716465947,
+  "title": "454 – Alegrai-vos, ó remidos",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Glorioso é o Cordeiro, \nEle é digno de louvor; \nÉ o resgate verdadeiro \nDo pecado e do horror, \nAlegrai-vos, ó remidos; \nCantai glória ao Redentor!  \n\nAleluia! Aleluia! \nCantai glória e dai louvor! \nAleluia! Aleluia! \nCantai glória ao Redentor!  \n\nHonra, glória e domínio \nA Jesus, o Rei dos reis! \nQue no santo vaticínio \nÉ a luz dos Seus fiéis. \nAlegrai-vos, ó remidos: \nCantai glória, e vencereis!\n\nAleluia! Aleluia! \nCantai glória e dai louvor! \nAleluia! Aleluia! \nCantai glória ao Redentor!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Glorioso é o Cordeiro, \nEle é digno de louvor; \nÉ o resgate verdadeiro \nDo pecado e do horror, \nAlegrai-vos, ó remidos; \nCantai glória ao Redentor!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Aleluia! Aleluia! \nCantai glória e dai louvor! \nAleluia! Aleluia! \nCantai glória ao Redentor!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Honra, glória e domínio \nA Jesus, o Rei dos reis! \nQue no santo vaticínio \nÉ a luz dos Seus fiéis. \nAlegrai-vos, ó remidos: \nCantai glória, e vencereis!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Aleluia! Aleluia! \nCantai glória e dai louvor! \nAleluia! Aleluia! \nCantai glória ao Redentor!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

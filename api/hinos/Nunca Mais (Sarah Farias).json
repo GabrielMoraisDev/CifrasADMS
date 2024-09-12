@@ -1,0 +1,104 @@
+{
+  "id": 1654643252618,
+  "title": "Nunca Mais",
+  "artist": "Sarah Farias",
+  "author": "Sarah Farias",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Olhei e enxerguei sua dor\nVi o quanto se humilhou\nSei que a marca ficou\nEi, Eu sou o teu remidor\nDo tempo, Eu sou o Senhor\nLevanta a resposta chegou\n\nDesertos\nNão duram pra sempre\nPor mais que\nA pressão aumente\nAguente, filho, aguente\n\nNunca mais\nTe chamarão desamparado\nNunca mais\nTe olharão como alguém\nQue foi desprezado\nNunca mais\n(2x)\n\nDiz o Senhor\n\nDesertos\nNão duram pra sempre\nPor mais que\nA pressão aumente\nAguente, filho, aguente\n\nNunca mais\nTe chamarão desamparado\nNunca mais\nTe olharão como alguém\nQue foi desprezado\nNunca mais\n(2x)\n\nDiz o Senhor\n\nEis que Eu faço coisa nova\nTe dou um rumo novo\nTe ensino a lutar\nEstou removendo este fardo\nProssiga para o alvo\nE não olhe para trás\n\nNunca mais\nTe chamarão desamparado\nNunca mais\nTe olharão como alguém\nQue foi desprezado\nNunca mais\n(2x)\n\nDiz o Senhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Olhei e enxerguei sua dor\nVi o quanto se humilhou\nSei que a marca ficou\nEi, Eu sou o teu remidor\nDo tempo, Eu sou o Senhor\nLevanta a resposta chegou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Desertos\nNão duram pra sempre\nPor mais que\nA pressão aumente\nAguente, filho, aguente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Nunca mais\nTe chamarão desamparado\nNunca mais\nTe olharão como alguém\nQue foi desprezado\nNunca mais\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Diz o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Desertos\nNão duram pra sempre\nPor mais que\nA pressão aumente\nAguente, filho, aguente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Nunca mais\nTe chamarão desamparado\nNunca mais\nTe olharão como alguém\nQue foi desprezado\nNunca mais\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Diz o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eis que Eu faço coisa nova\nTe dou um rumo novo\nTe ensino a lutar\nEstou removendo este fardo\nProssiga para o alvo\nE não olhe para trás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Nunca mais\nTe chamarão desamparado\nNunca mais\nTe olharão como alguém\nQue foi desprezado\nNunca mais\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Diz o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

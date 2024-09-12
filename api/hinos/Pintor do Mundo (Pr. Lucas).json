@@ -1,0 +1,104 @@
+{
+  "id": 1631485242726,
+  "title": "Pintor do Mundo",
+  "artist": "Pr. Lucas",
+  "author": "Pr. Lucas",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quem pintou o mundo?\nQuem escolheu a cor?\n\nFez o Sol amarelo\nPôs o verde na floresta\nE o vermelho em uma flor?\n\nQuem pintou o mundo?\nQuem escolheu os tons?\n\nFez a noite escura\nDesenhou a clara Lua\nMisturando o que era bom?\n\nO maior pintor do mundo\nEstá pintando\nA minha história\n\nE ela não tinha cor\nA cruz foi o pincel do autor\n\nO maior pintor do mundo\nEstá pintando\nA minha história\n\nEle assinou\nA obra que sou eu\nE na assinatura\nEstá escrito: \"Deus\"\n\nPintou minha vida\nCom o sangue derramado\nPintou minhas vestes\nCom o branco da santidade\n\nPintou o meu interior\nCom Sua glória\nOh oh oh, oh oh oh",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quem pintou o mundo?\nQuem escolheu a cor?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Fez o Sol amarelo\nPôs o verde na floresta\nE o vermelho em uma flor?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quem pintou o mundo?\nQuem escolheu os tons?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Fez a noite escura\nDesenhou a clara Lua\nMisturando o que era bom?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "O maior pintor do mundo\nEstá pintando\nA minha história",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E ela não tinha cor\nA cruz foi o pincel do autor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "O maior pintor do mundo\nEstá pintando\nA minha história",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Ele assinou\nA obra que sou eu\nE na assinatura\nEstá escrito: \"Deus\"",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Pintou minha vida\nCom o sangue derramado\nPintou minhas vestes\nCom o branco da santidade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Pintou o meu interior\nCom Sua glória\nOh oh oh, oh oh oh",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

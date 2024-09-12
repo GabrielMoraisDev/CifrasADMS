@@ -1,0 +1,76 @@
+{
+  "id": 1657841332227,
+  "title": "143 - O Verdadeiro Amigo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tu és pra mim o verdadeiro amigo,\nSó em Ti, meu Redentor, vou confiar,\nDefende-me do mundo, do perigo;\nAnsioso, eu Te quero encontrar. \n\nVem levar me para perto \nDo Teu grande e bondoso coração; \nSempre avante e bem certo, \nCom Jesus, eu vou andando p'ra Sião. \n\nVem já, Senhor, com \nTua graça imensa \nAjudar-me a levar a minha cruz, \nFazendo-me sentir real presença, \nDo Consolador divino, ó Jesus!   \n\nVem levar me para perto \nDo Teu grande e bondoso coração; \nSempre avante e bem certo, \nCom Jesus, eu vou andando p'ra Sião. \n\nJesus, Tu és a minha esperança, \nE contente eu desejo Te seguir; \nA Ti orando, com perseverança, \nPara que me guardes sempre de cair. \n\nVem levar me para perto \nDo Teu grande e bondoso coração; \nSempre avante e bem certo, \nCom Jesus, eu vou andando p'ra Sião. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tu és pra mim o verdadeiro amigo,\nSó em Ti, meu Redentor, vou confiar,\nDefende-me do mundo, do perigo;\nAnsioso, eu Te quero encontrar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vem levar me para perto \nDo Teu grande e bondoso coração; \nSempre avante e bem certo, \nCom Jesus, eu vou andando p'ra Sião. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vem já, Senhor, com \nTua graça imensa \nAjudar-me a levar a minha cruz, \nFazendo-me sentir real presença, \nDo Consolador divino, ó Jesus!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vem levar me para perto \nDo Teu grande e bondoso coração; \nSempre avante e bem certo, \nCom Jesus, eu vou andando p'ra Sião. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Jesus, Tu és a minha esperança, \nE contente eu desejo Te seguir; \nA Ti orando, com perseverança, \nPara que me guardes sempre de cair. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Vem levar me para perto \nDo Teu grande e bondoso coração; \nSempre avante e bem certo, \nCom Jesus, eu vou andando p'ra Sião. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

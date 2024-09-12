@@ -1,0 +1,76 @@
+{
+  "id": 1663285892144,
+  "title": "382 – Olhando para o Calvário",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Na cruz do Calvário olhando, \nAvistei o Salvador; \nMeu pecado expiando, \nRevelou-se o Seu amor.  \n\nLá na fonte desta luz, \nQue me trouxe um clarão, \nFoi onde eu achei abrigo, \nVida, paz e salvação.  \n\nVi Jesus crucificado \nA sofrer tão grande dor, \nFoi Seu sangue derramado \nPelo pobre pecador.  \n\nLá na fonte desta luz, \nQue me trouxe um clarão, \nFoi onde eu achei abrigo, \nVida, paz e salvação.  \n\nÓ Cordeiro imaculado, \nQue morreste sobre a cruz! \nLivra-me do vil pecado, \nÓ meu Salvador Jesus!\n\nLá na fonte desta luz, \nQue me trouxe um clarão, \nFoi onde eu achei abrigo, \nVida, paz e salvação.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Na cruz do Calvário olhando, \nAvistei o Salvador; \nMeu pecado expiando, \nRevelou-se o Seu amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Lá na fonte desta luz, \nQue me trouxe um clarão, \nFoi onde eu achei abrigo, \nVida, paz e salvação.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vi Jesus crucificado \nA sofrer tão grande dor, \nFoi Seu sangue derramado \nPelo pobre pecador.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Lá na fonte desta luz, \nQue me trouxe um clarão, \nFoi onde eu achei abrigo, \nVida, paz e salvação.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ó Cordeiro imaculado, \nQue morreste sobre a cruz! \nLivra-me do vil pecado, \nÓ meu Salvador Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Lá na fonte desta luz, \nQue me trouxe um clarão, \nFoi onde eu achei abrigo, \nVida, paz e salvação.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1644752067609,
+  "title": "Ao Único",
+  "artist": "Aline Barros",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ao Único que é digno\nDe receber\nA honra e a glória\nA força e o poder\n\nAo Rei eterno e imortal\nInvisível, mas real\nA Ele ministramos o louvor\n\nCoroamos a Ti\nÓ Rei Jesus\nCoroamos a Ti\nÓ Rei Jesus\n\nAdoramos o Teu nome\nNos rendemos aos Teus pés\nConsagramos todo\nNosso ser a Ti\n\nAo Único que é digno\nDe receber\nA honra e a glória\nA força e o poder\n\nAo Rei eterno e imortal\nInvisível, mas real\nA Ele ministramos o louvor\n\nCoroamos a Ti\nÓ Rei Jesus\nCoroamos a Ti\nÓ Rei Jesus\n\nAdoramos o Teu nome\nNos rendemos aos Teus pés\nConsagramos todo\nNosso ser a Ti\nConsagramos todo\nNosso ser a Ti",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ao Único que é digno\nDe receber\nA honra e a glória\nA força e o poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ao Rei eterno e imortal\nInvisível, mas real\nA Ele ministramos o louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Coroamos a Ti\nÓ Rei Jesus\nCoroamos a Ti\nÓ Rei Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Adoramos o Teu nome\nNos rendemos aos Teus pés\nConsagramos todo\nNosso ser a Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ao Único que é digno\nDe receber\nA honra e a glória\nA força e o poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ao Rei eterno e imortal\nInvisível, mas real\nA Ele ministramos o louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Coroamos a Ti\nÓ Rei Jesus\nCoroamos a Ti\nÓ Rei Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Adoramos o Teu nome\nNos rendemos aos Teus pés\nConsagramos todo\nNosso ser a Ti\nConsagramos todo\nNosso ser a Ti",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

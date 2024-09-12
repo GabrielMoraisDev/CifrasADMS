@@ -1,0 +1,76 @@
+{
+  "id": 1661901555583,
+  "title": "371 - Breve Vem o Dia",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Breve vem o grande dia\nEm que lutas findarão;\nTodos males, agonias,\nDeste mundo cessarão. \n\nCessará no céu o pranto, \nPois não haverá mais dor, \nE ouvir-se-á o canto,\nDos remidos do Senhor!\n\nOh! que gozo, estar com Cristo, \nEscutando a Sua voz!\nEu almejo hoje isto,\nE segui-Lo sempre após! \n\nCessará no céu o pranto, \nPois não haverá mais dor, \nE ouvir-se-á o canto,\nDos remidos do Senhor!\n\nSe Jesus Cristo é meu guia,\nO caminho hei de trilhar;\nQuem assim em Deus confia,\nLá no céu há de chegar.\n\nCessará no céu o pranto, \nPois não haverá mais dor, \nE ouvir-se-á o canto,\nDos remidos do Senhor!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Breve vem o grande dia\nEm que lutas findarão;\nTodos males, agonias,\nDeste mundo cessarão. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Cessará no céu o pranto, \nPois não haverá mais dor, \nE ouvir-se-á o canto,\nDos remidos do Senhor!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Oh! que gozo, estar com Cristo, \nEscutando a Sua voz!\nEu almejo hoje isto,\nE segui-Lo sempre após! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Cessará no céu o pranto, \nPois não haverá mais dor, \nE ouvir-se-á o canto,\nDos remidos do Senhor!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se Jesus Cristo é meu guia,\nO caminho hei de trilhar;\nQuem assim em Deus confia,\nLá no céu há de chegar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Cessará no céu o pranto, \nPois não haverá mais dor, \nE ouvir-se-á o canto,\nDos remidos do Senhor!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

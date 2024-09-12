@@ -1,0 +1,55 @@
+{
+  "id": 1661298610144,
+  "title": "549 - Ora Vem, Senhor Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Senhor, não mais retardes \nA luz do reino Teu, \nPois já a vida aqui \nToda em dor se converteu.    \n\nPor Ti, Jesus, ansiosos \nEstão os corações; \nOh! vem, sem mais tardar, \nDesfazer as aflições.  \n\nCom fé a Igreja aguarda \nO alvor da tua luz, \nE está a suplicar: \n“Ora vem, Senhor Jesus!”",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Senhor, não mais retardes \nA luz do reino Teu, \nPois já a vida aqui \nToda em dor se converteu.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Por Ti, Jesus, ansiosos \nEstão os corações; \nOh! vem, sem mais tardar, \nDesfazer as aflições.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com fé a Igreja aguarda \nO alvor da tua luz, \nE está a suplicar: \n“Ora vem, Senhor Jesus!”",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

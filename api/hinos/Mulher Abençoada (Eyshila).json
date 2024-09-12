@@ -1,0 +1,69 @@
+{
+  "id": 1646601108947,
+  "title": "Mulher Abençoada",
+  "artist": "Eyshila",
+  "author": "Eyshila",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Havia uma mulher tão desesperada\nPois seus recursos se foram\nNão havia nada a fazer\nTodos os seus dias\nEram dor e solidão\nTudo o que ela queria\nEra compaixão\n\nMas havia uma palavra liberada\nSobre a sua vida, sobre a sua casa\n\nMulher, você nunca mais será lembrada\nComo uma mulher desamparada\nMas você será bem-aventurada, amada\nMulher, os seus filhos não mais morrerão\nAs tuas sementes brotarão\nEternamente, te chamarão, Abençoada\n\nHá uma palavra liberada\nSobre a tua vida, sobre a tua casa\n\nMulher, você nunca mais será lembrada\nComo uma mulher desamparada\nMas você será, bem-aventurada, amada\nMulher, os seus filhos não mais morrerão\nAs tuas sementes brotarão\nEternamente, te chamarão, Abençoada",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Havia uma mulher tão desesperada\nPois seus recursos se foram\nNão havia nada a fazer\nTodos os seus dias\nEram dor e solidão\nTudo o que ela queria\nEra compaixão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mas havia uma palavra liberada\nSobre a sua vida, sobre a sua casa",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mulher, você nunca mais será lembrada\nComo uma mulher desamparada\nMas você será bem-aventurada, amada\nMulher, os seus filhos não mais morrerão\nAs tuas sementes brotarão\nEternamente, te chamarão, Abençoada",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Há uma palavra liberada\nSobre a tua vida, sobre a tua casa",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Mulher, você nunca mais será lembrada\nComo uma mulher desamparada\nMas você será, bem-aventurada, amada\nMulher, os seus filhos não mais morrerão\nAs tuas sementes brotarão\nEternamente, te chamarão, Abençoada",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

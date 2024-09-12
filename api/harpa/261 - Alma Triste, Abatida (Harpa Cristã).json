@@ -1,0 +1,62 @@
+{
+  "id": 1659481303145,
+  "title": "261 - Alma Triste, Abatida",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Alma triste, abatida, \nQue tens medo de morrer; \nPor um triz, atua vida, \nPode hoje perecer; \nVê nos mares e nas dores, \nUm farol jorrando luz, \nQue te enche de louvores: \nÉ Jesus, sim, é Jesus! \n\nTu que andas vacilante \nE que o mundo seduziu, \nVem e segue, confiante, \nQuem na cruz já te remiu, \nPois a graça não é finda \nDe quem expirou na cruz; \nOlha, com amor, ainda, \nPra Jesus, sim, pra Jesus! \n\nLá na cruz Jesus morrendo, \nTeus pecados expiou; \nSanto Espírito concedendo, \nA Sua Igreja adornou, \nTodo o mal e sofrimento, \nJá pregados estão na cruz, \nOh, sublime livramento, \nDe Jesus, sim, de Jesus! \n\nA Teus pés, Jesus bondoso, \nAcho paz, consolação! \nEnches-me de santo gozo \nE de imensa gratidão; \nQuero eu constantemente \nReceber a pura luz, \nQue dimana fortemente \nDe Jesus, sim, de Jesus! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Alma triste, abatida, \nQue tens medo de morrer; \nPor um triz, atua vida, \nPode hoje perecer; \nVê nos mares e nas dores, \nUm farol jorrando luz, \nQue te enche de louvores: \nÉ Jesus, sim, é Jesus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tu que andas vacilante \nE que o mundo seduziu, \nVem e segue, confiante, \nQuem na cruz já te remiu, \nPois a graça não é finda \nDe quem expirou na cruz; \nOlha, com amor, ainda, \nPra Jesus, sim, pra Jesus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Lá na cruz Jesus morrendo, \nTeus pecados expiou; \nSanto Espírito concedendo, \nA Sua Igreja adornou, \nTodo o mal e sofrimento, \nJá pregados estão na cruz, \nOh, sublime livramento, \nDe Jesus, sim, de Jesus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "A Teus pés, Jesus bondoso, \nAcho paz, consolação! \nEnches-me de santo gozo \nE de imensa gratidão; \nQuero eu constantemente \nReceber a pura luz, \nQue dimana fortemente \nDe Jesus, sim, de Jesus! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

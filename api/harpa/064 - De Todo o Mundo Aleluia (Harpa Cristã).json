@@ -1,0 +1,69 @@
+{
+  "id": 1654731921583,
+  "title": "064 - De Todo o Mundo: Aleluia",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "G",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "De todo o mundo, eis-nos aqui \nEm Ti só confiando, \nPermanecendo em Teu amor, \nTeu reino só buscando, \nAs nossas vidas, nosso amor, \nA Ti trazemos, Salvador, \nCantando: “Aleluia!\"   \n\nViver por Ti, em Ti morrer, \nOs nossos pais miravam; \nA Tua vontade só fazer, \nEis o que desejavam. \nE nós, que somos Teus, \ntambém Dizemos, firmes: Sim, Amém’ \nE: \"Glória! Aleluia!” \n\nAo Evangelho salvador, \nTão puro e glorioso, \nAs leis santíssimas que Tu \nNos dás, Senhor bondoso, “Amém! \nDizemos com fervor, \nE, pelo Teu imenso amor, \nClamamos: \"Aleluia!” \n\nSim, constrangidos pelo amor, \nPerdidos procuramos Salvar, \n- ganhar p'ra Ti, Senhor: \nEis o que ambicionamos, \nSeguindo sempre a Tua lei, \nA Ti, leais, bendito Rei, \nCantamos: “Aleluia!” \n\nNem o labor será em vão, \nPois eis, que glorioso, \nO dia vem, em que Jesus Virá vitorioso; \nE todo mundo cantará, \nE jubiloso O exaltará, Com: \n“Amém\", “Aleluia!”  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "De todo o mundo, eis-nos aqui \nEm Ti só confiando, \nPermanecendo em Teu amor, \nTeu reino só buscando, \nAs nossas vidas, nosso amor, \nA Ti trazemos, Salvador, \nCantando: “Aleluia!\"   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Viver por Ti, em Ti morrer, \nOs nossos pais miravam; \nA Tua vontade só fazer, \nEis o que desejavam. \nE nós, que somos Teus, \ntambém Dizemos, firmes: Sim, Amém’ \nE: \"Glória! Aleluia!” ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ao Evangelho salvador, \nTão puro e glorioso, \nAs leis santíssimas que Tu \nNos dás, Senhor bondoso, “Amém! \nDizemos com fervor, \nE, pelo Teu imenso amor, \nClamamos: \"Aleluia!” ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Sim, constrangidos pelo amor, \nPerdidos procuramos Salvar, \n- ganhar p'ra Ti, Senhor: \nEis o que ambicionamos, \nSeguindo sempre a Tua lei, \nA Ti, leais, bendito Rei, \nCantamos: “Aleluia!” ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Nem o labor será em vão, \nPois eis, que glorioso, \nO dia vem, em que Jesus Virá vitorioso; \nE todo mundo cantará, \nE jubiloso O exaltará, Com: \n“Amém\", “Aleluia!”  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

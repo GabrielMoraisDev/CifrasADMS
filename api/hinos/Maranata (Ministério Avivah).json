@@ -1,0 +1,90 @@
+{
+  "id": 1634316061049,
+  "title": "Maranata",
+  "artist": "Ministério Avivah",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tu és a minha luz\nA minha salvação\nE a Ti me renderei\nSe ao teu lado estou\nSeguro em tuas mãos\nEu nada temerei\n\nÔô , ôô , ôô\nTu és Santo, ó Senhor\nÔô , ôô , ôô\nTu és digno de louvor\n\nSó em Ti confiarei\nEu nada temerei\nEm frente eu irei\nPois eu sei que vivo estás\nE um dia voltarás\nDo céu pra nos buscar\nPara sempre reinarás, aleluia!\n\nTu és a minha luz\nA minha salvação\nE a Ti me renderei\nSe ao teu lado estou\nSeguro em tuas mãos\nEu nada temerei\n\nÔô , ôô , ôô\nTu és Santo, ó Senhor\nÔô , ôô , ôô\nTu és digno de louvor\n\nSó em Ti confiarei\nEu nada temerei\nEm frente eu irei\nPois eu sei que vivo estás\nE um dia voltarás\nDo céu pra nos buscar\nPra sempre reinarás, aleluia!\n(2x)\n\nVem Jesus, vem Jesus\nMaranata ora, \nvem Senhor Jesus \n(8x)\n\nSó em Ti confiarei\nEu nada temerei\nEm frente eu irei\nPois eu sei que vivo estás\nE um dia voltarás\nDo céu pra nos buscar\nPra sempre reinarás, aleluia ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tu és a minha luz\nA minha salvação\nE a Ti me renderei\nSe ao teu lado estou\nSeguro em tuas mãos\nEu nada temerei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ôô , ôô , ôô\nTu és Santo, ó Senhor\nÔô , ôô , ôô\nTu és digno de louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Só em Ti confiarei\nEu nada temerei\nEm frente eu irei\nPois eu sei que vivo estás\nE um dia voltarás\nDo céu pra nos buscar\nPara sempre reinarás, aleluia!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tu és a minha luz\nA minha salvação\nE a Ti me renderei\nSe ao teu lado estou\nSeguro em tuas mãos\nEu nada temerei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ôô , ôô , ôô\nTu és Santo, ó Senhor\nÔô , ôô , ôô\nTu és digno de louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Só em Ti confiarei\nEu nada temerei\nEm frente eu irei\nPois eu sei que vivo estás\nE um dia voltarás\nDo céu pra nos buscar\nPra sempre reinarás, aleluia!\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Vem Jesus, vem Jesus\nMaranata ora, \nvem Senhor Jesus \n(8x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Só em Ti confiarei\nEu nada temerei\nEm frente eu irei\nPois eu sei que vivo estás\nE um dia voltarás\nDo céu pra nos buscar\nPra sempre reinarás, aleluia ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

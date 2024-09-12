@@ -1,0 +1,55 @@
+{
+  "id": 1630274003566,
+  "title": "Poderoso Deus",
+  "artist": "Antônio Cirilo",
+  "author": "Antônio Cirilo",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ao que está assentado\nNo trono\nE ao cordeiro\nSeja o louvor\n\nSeja a honra\nSeja a glória\nSeja o domínio\nPelos séculos dos séculos\n\nPoderoso Deus\nPoderoso Deus\nPoderoso Deus\nMinh'alma anseia por Ti",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ao que está assentado\nNo trono\nE ao cordeiro\nSeja o louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Seja a honra\nSeja a glória\nSeja o domínio\nPelos séculos dos séculos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Poderoso Deus\nPoderoso Deus\nPoderoso Deus\nMinh'alma anseia por Ti",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

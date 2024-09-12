@@ -1,0 +1,76 @@
+{
+  "id": 1658448022819,
+  "title": "189 - Glória ao Salvador. ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Chegado à cruz do meu bom Senhor, \nProstrado aos pés do Redentor, \nEle ouviu todo meu clamor \nGlória ao Salvador. \n\nGlória ao Salvador! \nGlória ao Salvador \nAgora sei que Ele me salvou \nGlória ao Salvador! \n\nQue maravilha! Jesus me amou, \nTudo de graça me perdoou; \nQuebrou meus laços e me livrou; \nGlória ao Salvador! \n\nGlória ao Salvador! \nGlória ao Salvador \nAgora sei que Ele me salvou \nGlória ao Salvador! \n\nJunto à cruz, inda há lugar, \nVem, ó aflito, sem demorar, \nCristo está pronto pra te salvar, \nVinde ao Salvador! \n\nGlória ao Salvador! \nGlória ao Salvador \nAgora sei que Ele me salvou \nGlória ao Salvador! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Chegado à cruz do meu bom Senhor, \nProstrado aos pés do Redentor, \nEle ouviu todo meu clamor \nGlória ao Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Glória ao Salvador! \nGlória ao Salvador \nAgora sei que Ele me salvou \nGlória ao Salvador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Que maravilha! Jesus me amou, \nTudo de graça me perdoou; \nQuebrou meus laços e me livrou; \nGlória ao Salvador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Glória ao Salvador! \nGlória ao Salvador \nAgora sei que Ele me salvou \nGlória ao Salvador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Junto à cruz, inda há lugar, \nVem, ó aflito, sem demorar, \nCristo está pronto pra te salvar, \nVinde ao Salvador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Glória ao Salvador! \nGlória ao Salvador \nAgora sei que Ele me salvou \nGlória ao Salvador! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

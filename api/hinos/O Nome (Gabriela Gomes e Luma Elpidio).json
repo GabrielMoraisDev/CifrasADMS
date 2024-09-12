@@ -1,0 +1,83 @@
+{
+  "id": 1643670201933,
+  "title": "O Nome",
+  "artist": "Gabriela Gomes e Luma Elpidio",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu olhei pra Você, o meu coração sorriu\nMergulhei, me entreguei e hoje eu sou Teu\n\nEu nunca vi alguém tão puro\nEu nunca vi alguém tão lindo\nEu nunca vi um amor tão sincero\nMeu coração Te entrego por completo\n\nO nome do meu rei é Jesus\nO nome do meu amado é Jesus\nO nome do meu rei é Jesus\nO nome do meu amado é Jesus\nJesus\n\nEu nunca vi alguém tão puro\nEu nunca vi alguém tão lindo\nEu nunca vi um amor tão sincero\nMeu coração Te entrego por completo\n\nO nome do meu rei é Jesus\nO nome do meu amado é Jesus\nO nome do meu rei é Jesus\nO nome do meu amado é Jesus\nJesus (meu amado) Jesus\n\nE não há joelho que não se dobre\nNão há coração que não se renda\nEle é irresistível, Ele é o meu amigo\nEle é o meu amado, Jesus\n2x\n\nO nome do meu rei é Jesus\nO nome do meu amado é Jesus\nO nome do meu rei é Jesus \nO nome do meu amado é Jesus \n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu olhei pra Você, o meu coração sorriu\nMergulhei, me entreguei e hoje eu sou Teu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu nunca vi alguém tão puro\nEu nunca vi alguém tão lindo\nEu nunca vi um amor tão sincero\nMeu coração Te entrego por completo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O nome do meu rei é Jesus\nO nome do meu amado é Jesus\nO nome do meu rei é Jesus\nO nome do meu amado é Jesus\nJesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu nunca vi alguém tão puro\nEu nunca vi alguém tão lindo\nEu nunca vi um amor tão sincero\nMeu coração Te entrego por completo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "O nome do meu rei é Jesus\nO nome do meu amado é Jesus\nO nome do meu rei é Jesus\nO nome do meu amado é Jesus\nJesus (meu amado) Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E não há joelho que não se dobre\nNão há coração que não se renda\nEle é irresistível, Ele é o meu amigo\nEle é o meu amado, Jesus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "O nome do meu rei é Jesus\nO nome do meu amado é Jesus\nO nome do meu rei é Jesus \nO nome do meu amado é Jesus \n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

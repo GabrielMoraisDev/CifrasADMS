@@ -1,0 +1,62 @@
+{
+  "id": 1652618801534,
+  "title": "438 - Voltai-vos para Mim",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": " Assim a nós falou Jesus:\n\"Voltai-vos para Mim,\nA salvação. a paz, a luz,\nEncontrareis enfim\".\nO esperai o bom Jesus,\nA estrela da manhã,\nPois Ele ao céu a vós conduz; \nDeixai a vida vã! \n\nTambém Jesus vos disse assim: \n\"Dá vida, água sou, \nE quem tem sede venha a Mim, \nDe graça o dom lhe dou\". \nE do seu ventre sairão \nEm glória ao Salvador, \nTorrentes vivas, que serão: \nA paz, a fé, o amor! \n\nAinda assim falou Jesus\nA ,todo o pecador:\n\"O vinde a Mim, Eu sou a luz, \nQue brilha com fulgor\";\nE tu, que jazes, ó mortal, \nNas trevas de horror,\nO vem p'ra luz celestial,\nA Cristo, o Salvador! \n\nOs que remidos dEle são, \nSeus passos vão seguir;\nA Sua justiça, e Seu perdão, \nDe graça vão fruir,\nJesus é tudo para mim;\nO Rei, e meu Senhor;\nOlhando, eu tenho sim,\nDo céu real vigor! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": " Assim a nós falou Jesus:\n\"Voltai-vos para Mim,\nA salvação. a paz, a luz,\nEncontrareis enfim\".\nO esperai o bom Jesus,\nA estrela da manhã,\nPois Ele ao céu a vós conduz; \nDeixai a vida vã! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Também Jesus vos disse assim: \n\"Dá vida, água sou, \nE quem tem sede venha a Mim, \nDe graça o dom lhe dou\". \nE do seu ventre sairão \nEm glória ao Salvador, \nTorrentes vivas, que serão: \nA paz, a fé, o amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ainda assim falou Jesus\nA ,todo o pecador:\n\"O vinde a Mim, Eu sou a luz, \nQue brilha com fulgor\";\nE tu, que jazes, ó mortal, \nNas trevas de horror,\nO vem p'ra luz celestial,\nA Cristo, o Salvador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Os que remidos dEle são, \nSeus passos vão seguir;\nA Sua justiça, e Seu perdão, \nDe graça vão fruir,\nJesus é tudo para mim;\nO Rei, e meu Senhor;\nOlhando, eu tenho sim,\nDo céu real vigor! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

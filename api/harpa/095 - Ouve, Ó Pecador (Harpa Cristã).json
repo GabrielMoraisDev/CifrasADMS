@@ -1,0 +1,62 @@
+{
+  "id": 1654036120220,
+  "title": "095 - Ouve, Ó Pecador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Bb",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ouve, ouve, ó pecador! \nOuve bem, presta atenção \nA Jesus, o Salvador, \nQue do céu trouxe o perdão; \nOuve a Sua meiga voz; \nDigna é de aceitação. \n\nOuve o que diz o Senhor, \nPor Sua mensagem de amor; \n\"Será livre de temor \nTodo que vier a Mim”; \nVem a Cristo, Salvador, \nE aceita o Seu amor. \n\nOuve, ouve, ó pecador! \nE medita com atenção; \nDeixa o mundo enganador; \nDe Jesus, terás perdão; \nEle diz: “Quem crer em Mim, \nHá de ter a Salvação”. \n\nOuvi já, amigos meus, \nNão tenhais hesitação; \nVinde ao Filho, sim, de Deus; \nDai-Lhe o vosso coração; \nEle diz: “Quem crer em Mim, \nNão terá condenação”. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ouve, ouve, ó pecador! \nOuve bem, presta atenção \nA Jesus, o Salvador, \nQue do céu trouxe o perdão; \nOuve a Sua meiga voz; \nDigna é de aceitação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ouve o que diz o Senhor, \nPor Sua mensagem de amor; \n\"Será livre de temor \nTodo que vier a Mim”; \nVem a Cristo, Salvador, \nE aceita o Seu amor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ouve, ouve, ó pecador! \nE medita com atenção; \nDeixa o mundo enganador; \nDe Jesus, terás perdão; \nEle diz: “Quem crer em Mim, \nHá de ter a Salvação”. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ouvi já, amigos meus, \nNão tenhais hesitação; \nVinde ao Filho, sim, de Deus; \nDai-Lhe o vosso coração; \nEle diz: “Quem crer em Mim, \nNão terá condenação”. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

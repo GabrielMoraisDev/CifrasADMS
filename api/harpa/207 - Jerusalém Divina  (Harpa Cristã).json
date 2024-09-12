@@ -1,0 +1,62 @@
+{
+  "id": 1658874747267,
+  "title": "207 - Jerusalém Divina ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Jerusalém divina \nVisão de paz ditosa, \nDe Cristo, santa esposa, \nRadiante de esplendor; \nTens fontes cristalinas, \nSão vivos teus altares \nE os anjos, aos milhares, \nTe cingem ao redor. \n\nMansão do Rei bendito, \nSão doze tuas portas \nQue sempre são transpostas \nPor seres imortais; \nTeus livros têm escritos \nOs nomes dos remidos; \nEm ti, serão ouvidos \nOs hinos celestiais. \n\nTeus Santos moradores, \nUm glorioso canto \nProferem ao Deus santo \nQue já lhes perdoou; \nEntoam mil louvores \nA Cristo, qual cordeiro, \nQue manso, num madeiro \nPor eles se imolou! \n\nAo mesmo Cristo amemos, \nAo mesmo Deus temamos, \nNós que por fé andamos, \nLevando a Sua cruz; \nE prontos fruiremos, \nOs teus umbrais passados, \nMil gozos preparados, \nNa glória, com Jesus! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Jerusalém divina \nVisão de paz ditosa, \nDe Cristo, santa esposa, \nRadiante de esplendor; \nTens fontes cristalinas, \nSão vivos teus altares \nE os anjos, aos milhares, \nTe cingem ao redor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mansão do Rei bendito, \nSão doze tuas portas \nQue sempre são transpostas \nPor seres imortais; \nTeus livros têm escritos \nOs nomes dos remidos; \nEm ti, serão ouvidos \nOs hinos celestiais. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Teus Santos moradores, \nUm glorioso canto \nProferem ao Deus santo \nQue já lhes perdoou; \nEntoam mil louvores \nA Cristo, qual cordeiro, \nQue manso, num madeiro \nPor eles se imolou! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ao mesmo Cristo amemos, \nAo mesmo Deus temamos, \nNós que por fé andamos, \nLevando a Sua cruz; \nE prontos fruiremos, \nOs teus umbrais passados, \nMil gozos preparados, \nNa glória, com Jesus! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1660087370157,
+  "title": "397 - O Salvador me achou  ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Em pecados e temor o Salvador me achou, \nTão indigno pecador, sem ter do céu a luz, \nNo Calvário ao morrer minh’alma resgatou; \nMeu perdão foi consumado lá na cruz.  \n\nVem ao Senhor, vem pecador: \nEle é terno e mui fie!, vem pecador! \nVem ao Senhor, Deus é amor; \nOuve Sua terna voz “Vem, pecador”!  \n\nDo sepulcro ressurgiu meu Redentor Jesus; \nEle a morte já venceu \n- também o nosso algoz; \nVida eterna o pecador goza por Sua cruz \nPois os mortos hão de ouvir \nSua terna voz.  \n\nVem ao Senhor, vem pecador: \nEle é terno e mui fie!, vem pecador! \nVem ao Senhor, Deus é amor; \nOuve Sua terna voz “Vem, pecador”!  \n\nPara o céu subiu Jesus, ganha a vitória cá. \nE na dextra do bom Deus, \ntem-No por Mediador, \nIntercede em teu favor, não te detenhas lá. \nNão desprezes esta voz de teu Senhor.\n\nVem ao Senhor, vem pecador: \nEle é terno e mui fie!, vem pecador! \nVem ao Senhor, Deus é amor; \nOuve Sua terna voz “Vem, pecador”!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Em pecados e temor o Salvador me achou, \nTão indigno pecador, sem ter do céu a luz, \nNo Calvário ao morrer minh’alma resgatou; \nMeu perdão foi consumado lá na cruz.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vem ao Senhor, vem pecador: \nEle é terno e mui fie!, vem pecador! \nVem ao Senhor, Deus é amor; \nOuve Sua terna voz “Vem, pecador”!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Do sepulcro ressurgiu meu Redentor Jesus; \nEle a morte já venceu \n- também o nosso algoz; \nVida eterna o pecador goza por Sua cruz \nPois os mortos hão de ouvir \nSua terna voz.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vem ao Senhor, vem pecador: \nEle é terno e mui fie!, vem pecador! \nVem ao Senhor, Deus é amor; \nOuve Sua terna voz “Vem, pecador”!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Para o céu subiu Jesus, ganha a vitória cá. \nE na dextra do bom Deus, \ntem-No por Mediador, \nIntercede em teu favor, não te detenhas lá. \nNão desprezes esta voz de teu Senhor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Vem ao Senhor, vem pecador: \nEle é terno e mui fie!, vem pecador! \nVem ao Senhor, Deus é amor; \nOuve Sua terna voz “Vem, pecador”!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1660431129970,
+  "title": "Vaso Novo",
+  "artist": "Corinhos Evangélicos",
+  "author": "Nilton Tuller",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu quero ser\nSenhor amado\nComo um vaso\nNas mãos do oleiro\n\nQuebra minha vida\nE faze-a de novo\nEu quero ser\nEu quero ser um vaso novo\n\nComo Tu queres\nSenhor amado\nTu és oleiro e eu o vaso\n\nQuebra minha vida\nE faze-a de novo\nEu quero ser\nEu quero ser um vaso novo",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu quero ser\nSenhor amado\nComo um vaso\nNas mãos do oleiro",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quebra minha vida\nE faze-a de novo\nEu quero ser\nEu quero ser um vaso novo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Como Tu queres\nSenhor amado\nTu és oleiro e eu o vaso",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Quebra minha vida\nE faze-a de novo\nEu quero ser\nEu quero ser um vaso novo",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

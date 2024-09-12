@@ -1,0 +1,55 @@
+{
+  "id": 1660864389732,
+  "title": "393 - Há um Amigo Mui Chegado",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Há um amigo mui chegado\nCristo Senhor, \nPois salvou-nos do pecado e do temor; \nEste amigo agonizava,\nQuando o mundo resgatava,\nE de Deus o amor mostrava; \ndai-Lhe louvor! \n\nConhecê-Lo é ter vida, Cristo Senhor. \nNEle nos é permitida paz no labor; \nEle sobre nós derrama\nSua graça, pois nos ama,\nE p'ra Si a todos chama; dai-Lhe louvor! \n\nSempre é o mesmo, nunca muda, Cristo Senhor \nE a pedra de ajuda; vem, pecador!\nBom maná é no deserto,\nNosso guia, amigo certo,\nSeu amoré céu aberto; dai-Lhe louvor!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Há um amigo mui chegado\nCristo Senhor, \nPois salvou-nos do pecado e do temor; \nEste amigo agonizava,\nQuando o mundo resgatava,\nE de Deus o amor mostrava; \ndai-Lhe louvor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Conhecê-Lo é ter vida, Cristo Senhor. \nNEle nos é permitida paz no labor; \nEle sobre nós derrama\nSua graça, pois nos ama,\nE p'ra Si a todos chama; dai-Lhe louvor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sempre é o mesmo, nunca muda, Cristo Senhor \nE a pedra de ajuda; vem, pecador!\nBom maná é no deserto,\nNosso guia, amigo certo,\nSeu amoré céu aberto; dai-Lhe louvor!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1661296316706,
+  "title": "485 - Andando para o céu",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "'Stou andando para o céu \nOnde os santos já estão: \n'Stou alegre e satisfeito! \nMinha pátria é Sião, \nMorte lá não entrará; \nQue alegria ali será!  \n\nOh! Glória! Aleluia! \nMeu desejo é estar no céu; \n‘Stou alegre é satisfeito; \nOh! Glória! AleluIa! \nMeu desejo é estar no céu; \nQue alegria ali será!  \n\n'Stou andando para o céu, \nOnde as ruas de ouro são; \n'Stou alegre e satisfeito! \nTenho ali feliz mansão, \nMeu Jesus lá estará! \nQue alegria ali será\n\n'Stou andando para o céu, \nOnde reina gozo e paz, \n‘Stou alegre e satisfeito! \nGozo santo e veraz \nTodo o crente ali terá, \nQue alegria ali será!  \n\n‘Stou andando para o céu, \nPara ver meu Salvador; \n‘Stou alegre e satisfeito! \nCantarei o Seu louvor, \nPois minh’alma alegre está; \nQue alegria ali será!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "'Stou andando para o céu \nOnde os santos já estão: \n'Stou alegre e satisfeito! \nMinha pátria é Sião, \nMorte lá não entrará; \nQue alegria ali será!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! Glória! Aleluia! \nMeu desejo é estar no céu; \n‘Stou alegre é satisfeito; \nOh! Glória! AleluIa! \nMeu desejo é estar no céu; \nQue alegria ali será!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "'Stou andando para o céu, \nOnde as ruas de ouro são; \n'Stou alegre e satisfeito! \nTenho ali feliz mansão, \nMeu Jesus lá estará! \nQue alegria ali será",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "'Stou andando para o céu, \nOnde reina gozo e paz, \n‘Stou alegre e satisfeito! \nGozo santo e veraz \nTodo o crente ali terá, \nQue alegria ali será!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "‘Stou andando para o céu, \nPara ver meu Salvador; \n‘Stou alegre e satisfeito! \nCantarei o Seu louvor, \nPois minh’alma alegre está; \nQue alegria ali será!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1655643872178,
+  "title": "080 - Cristo Te Chama",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "C",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Cristo te chama, a ti, pecador,\nTe chama a ti, com voz de amor; \nDeixa os pecados, e vem ao Senhor. \nCristo te chama a ti!\n\nCristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!\n\nDeixa as sendas do mundo d'horror, \nVem a Jesus, vem com amor; \nCristo te salva, ó vem, pecador; \nCristo te chama a ti!\n\nCristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!\n\nCristo glorioso virá com poder;\nPronta estás para scender?\nSó por Seu sangue tu podes vencer. \nCristo te chama a ti!\n\nCristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!\n\nA compassiva voz do Salvador,\nChama-te já com santo amor;\nVem para a fonte, ó vem pecador,\nCristo te chama a ti!\t\n\nCristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Cristo te chama, a ti, pecador,\nTe chama a ti, com voz de amor; \nDeixa os pecados, e vem ao Senhor. \nCristo te chama a ti!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Cristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Deixa as sendas do mundo d'horror, \nVem a Jesus, vem com amor; \nCristo te salva, ó vem, pecador; \nCristo te chama a ti!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Cristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Cristo glorioso virá com poder;\nPronta estás para scender?\nSó por Seu sangue tu podes vencer. \nCristo te chama a ti!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Cristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "A compassiva voz do Salvador,\nChama-te já com santo amor;\nVem para a fonte, ó vem pecador,\nCristo te chama a ti!\t",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Cristo te chama, te chama a ti! \nCristo te chama, ó vem pecador! \nCristo te chama com voz de amor. \nCristo te chama a ti!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

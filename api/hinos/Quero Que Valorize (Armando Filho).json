@@ -1,0 +1,111 @@
+{
+  "id": 1647171025615,
+  "title": "Quero Que Valorize",
+  "artist": "Armando Filho",
+  "author": "Armando Filho",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quero que valorize\nO que você tem\n\nVocê é um ser\nVocê é alguém\nTão importante\nPara Deus\n\nNada de ficar sofrendo\nAngústia e dor\n\nNesse teu\nComplexo inferior\nDizendo às vezes\nQue não é ninguém\n\nEu venho falar\nDo valor que você tem\nEu venho falar\nDo valor que você tem\n\nEle está em você\nO Espírito Santo\nSe move em você\n\nAté com gemidos\nInexprimíveis, inexprimíveis\n\nDaí você pode\nEntão perceber\nQue pra Ele há algo\nImportante em você\n\nPor isso levante e cante\nExalte ao Senhor\n\nVocê tem valor\nO Espírito Santo\nSe move em você\n\nVocê tem valor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quero que valorize\nO que você tem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Você é um ser\nVocê é alguém\nTão importante\nPara Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Nada de ficar sofrendo\nAngústia e dor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Nesse teu\nComplexo inferior\nDizendo às vezes\nQue não é ninguém",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu venho falar\nDo valor que você tem\nEu venho falar\nDo valor que você tem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ele está em você\nO Espírito Santo\nSe move em você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Até com gemidos\nInexprimíveis, inexprimíveis",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Daí você pode\nEntão perceber\nQue pra Ele há algo\nImportante em você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Por isso levante e cante\nExalte ao Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Você tem valor\nO Espírito Santo\nSe move em você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Você tem valor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

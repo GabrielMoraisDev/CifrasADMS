@@ -1,0 +1,62 @@
+{
+  "id": 1663716063178,
+  "title": "446 - Ó Vem Já",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vem, ó alma cansada, que sentes dor, \nA teu bom Salvador, a Jesus,\nE confia no sangue do Redentor, \nDerramado, que foi lá na cruz. \n\nÓ vem já! O vem já! \nA Jesus vem como estás; \nNão demores pecador \naceitar o teu Salvador. \nÓ vem já! O vem já! \nA Jesus vem como estás, \nNão demores pecador \naceitar o teu Salvador.\n\nTu que vagas mui longe do Salvador, \nNo pecado, no mal preso estás; \nSó Jesus é que vai te livrar da dor, \nSalvação hoje mesmo te dar. \n\nCristo chama ainda: \"Ó vinde a Mim,\nOprimidos, cansados, sem paz;\nVida eterna darei para vós, enfim,\nNo meu reino de gozo veraz\". ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vem, ó alma cansada, que sentes dor, \nA teu bom Salvador, a Jesus,\nE confia no sangue do Redentor, \nDerramado, que foi lá na cruz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó vem já! O vem já! \nA Jesus vem como estás; \nNão demores pecador \naceitar o teu Salvador. \nÓ vem já! O vem já! \nA Jesus vem como estás, \nNão demores pecador \naceitar o teu Salvador.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tu que vagas mui longe do Salvador, \nNo pecado, no mal preso estás; \nSó Jesus é que vai te livrar da dor, \nSalvação hoje mesmo te dar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Cristo chama ainda: \"Ó vinde a Mim,\nOprimidos, cansados, sem paz;\nVida eterna darei para vós, enfim,\nNo meu reino de gozo veraz\". ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

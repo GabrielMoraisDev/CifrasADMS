@@ -1,0 +1,83 @@
+{
+  "id": 1661901300374,
+  "title": "366 - O Nascimento de Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Em Belém nasceu Jesus\nNosso grande Redentor\nSendo a bendita luz\nPara um mundo pecador.\n\nOh! Aleluia a Cristo Jesus\nO enviado, Filho de Deus\nGozo e luz que vida produz\nCristo trouxe lá dos Céus!\n\nCom pastores, a Belém\nVamos a Jesus Louvar\nNossa gratidão, também\nDar a quem nos quis salvar\n\nEm humilde adoração\nA jesus, sim ofertar\nNosso grato coração\nQue sentiu o amor sem par\n\nLá do céu Jesus desceu\nFez-se homem sendo Deus\nNossas dores padeceu\nP´ra levar-nos para os céus\n\nDemos glória, glória a Deus\nPelo dom do seu amor\nLouvemos sim, nos Céus\nA Jesus com mais fervor.\n\nCantam os anjos, glória a Deus\nPara os homens santa paz\nCantam glória os filhos Seus\nSalve o Rei, que gozo nos traz.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Em Belém nasceu Jesus\nNosso grande Redentor\nSendo a bendita luz\nPara um mundo pecador.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! Aleluia a Cristo Jesus\nO enviado, Filho de Deus\nGozo e luz que vida produz\nCristo trouxe lá dos Céus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com pastores, a Belém\nVamos a Jesus Louvar\nNossa gratidão, também\nDar a quem nos quis salvar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Em humilde adoração\nA jesus, sim ofertar\nNosso grato coração\nQue sentiu o amor sem par",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Lá do céu Jesus desceu\nFez-se homem sendo Deus\nNossas dores padeceu\nP´ra levar-nos para os céus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Demos glória, glória a Deus\nPelo dom do seu amor\nLouvemos sim, nos Céus\nA Jesus com mais fervor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Cantam os anjos, glória a Deus\nPara os homens santa paz\nCantam glória os filhos Seus\nSalve o Rei, que gozo nos traz.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

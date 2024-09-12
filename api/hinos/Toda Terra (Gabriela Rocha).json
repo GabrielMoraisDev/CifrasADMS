@@ -1,0 +1,83 @@
+{
+  "id": 1723911369726,
+  "title": "Toda Terra",
+  "artist": "Gabriela Rocha",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu ouvi uma vez e li no Teu livro\nO que o Senhor fez\nFaz mais uma vez\nQue onde houver dois ou três juntos em meu nome\nAli estarei\nFaz mais uma vez\n\nToda a Terra será cheia\nDo conhecimento da glória de Deus\nComo as águas cobrem o mar\nEnche a Terra ao som da Tua igreja\n\nEu ouvi uma vez e li no Teu livro\nO que o Senhor fez\nFaz mais uma vez\nQue onde houver dois ou três juntos em meu nome\nAli estarei \nFaz mais uma vez\n\nToda a Terra será cheia\nDo conhecimento da glória de Deus\nComo as águas cobrem o mar\nEnche a Terra ao som da Tua igreja\n2X\n\nEstamos juntando a Terra com os anjos\nEstamos entrando na Sala do Trono\nEstamos juntando a Terra com os anjos\nEstamos entrando na Sala do Trono \n2X\n\nAleluia\nAleluia \nAleluia \nAleluia \n\nToda a Terra será cheia\nDo conhecimento da glória de Deus\nComo as águas cobrem o mar\nEnche a Terra ao som da Tua igreja",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu ouvi uma vez e li no Teu livro\nO que o Senhor fez\nFaz mais uma vez\nQue onde houver dois ou três juntos em meu nome\nAli estarei\nFaz mais uma vez",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Toda a Terra será cheia\nDo conhecimento da glória de Deus\nComo as águas cobrem o mar\nEnche a Terra ao som da Tua igreja",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu ouvi uma vez e li no Teu livro\nO que o Senhor fez\nFaz mais uma vez\nQue onde houver dois ou três juntos em meu nome\nAli estarei \nFaz mais uma vez",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Toda a Terra será cheia\nDo conhecimento da glória de Deus\nComo as águas cobrem o mar\nEnche a Terra ao som da Tua igreja\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Estamos juntando a Terra com os anjos\nEstamos entrando na Sala do Trono\nEstamos juntando a Terra com os anjos\nEstamos entrando na Sala do Trono \n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Aleluia\nAleluia \nAleluia \nAleluia ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Toda a Terra será cheia\nDo conhecimento da glória de Deus\nComo as águas cobrem o mar\nEnche a Terra ao som da Tua igreja",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

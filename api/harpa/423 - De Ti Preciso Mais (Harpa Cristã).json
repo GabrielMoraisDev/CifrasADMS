@@ -1,0 +1,69 @@
+{
+  "id": 1663715688725,
+  "title": "423 - De Ti Preciso Mais",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Jesus, preciso mais de amor,\nReino de Deus, em meu coração;\nDa compaixão Tu és o Senhor;\nDe Ti preciso mais. De Ti preciso mais, \nDo Teu amor veraz;\nSei que estás pronto p'ra me valer,\nDe Ti preciso mais! \n\nJesus, preciso mais de poder,\nDom do eterno Consolador;\nEs o dador que enche meu ser;\nDe Ti preciso mais! De Ti preciso mais, \nDo Teu poder veraz,\nDa Tua graça, ó vem me encher,\nDe Ti preciso mais! \n\nJesus, preciso mais Te imitar,\nCom humildade e submissão;\nTua instrução eu quero guardar,\nDe Ti preciso mais, De Ti preciso mais, \nDa graça eficaz,\nSei que Tu queres m'a conceder,\nDe Ti preciso mais! \n\nJesus, preciso mais de ouvir\nNo meu silêncio a voz de amor,\nQue dá vigor para eu Te servir,\nDe Ti preciso mais. De Ti preciso mais. \nA Tua voz veraz\nNo meu silêncio sempre atender, \nDe Ti preciso mais! \n\nJesus, preciso mais comunhão, \nContigo estar em santo Tabor; \nE esplendor, transfiguração;\nDe Ti preciso mais. De Ti preciso mais, \nTransformação veraz;\nA Tua face eu quero ter, De Ti preciso mais! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Jesus, preciso mais de amor,\nReino de Deus, em meu coração;\nDa compaixão Tu és o Senhor;\nDe Ti preciso mais. De Ti preciso mais, \nDo Teu amor veraz;\nSei que estás pronto p'ra me valer,\nDe Ti preciso mais! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Jesus, preciso mais de poder,\nDom do eterno Consolador;\nEs o dador que enche meu ser;\nDe Ti preciso mais! De Ti preciso mais, \nDo Teu poder veraz,\nDa Tua graça, ó vem me encher,\nDe Ti preciso mais! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jesus, preciso mais Te imitar,\nCom humildade e submissão;\nTua instrução eu quero guardar,\nDe Ti preciso mais, De Ti preciso mais, \nDa graça eficaz,\nSei que Tu queres m'a conceder,\nDe Ti preciso mais! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jesus, preciso mais de ouvir\nNo meu silêncio a voz de amor,\nQue dá vigor para eu Te servir,\nDe Ti preciso mais. De Ti preciso mais. \nA Tua voz veraz\nNo meu silêncio sempre atender, \nDe Ti preciso mais! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Jesus, preciso mais comunhão, \nContigo estar em santo Tabor; \nE esplendor, transfiguração;\nDe Ti preciso mais. De Ti preciso mais, \nTransformação veraz;\nA Tua face eu quero ter, De Ti preciso mais! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

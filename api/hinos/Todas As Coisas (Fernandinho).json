@@ -1,0 +1,111 @@
+{
+  "id": 1646351656699,
+  "title": "Todas As Coisas",
+  "artist": "Fernandinho",
+  "author": "Fernandinho, Judson Venten, Winfield Weeden",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu sei que sempre \nEstás comigo, Senhor\n\nTambém sei\nQue nada acontece\nSem a Tua vontade\n\nMas preciso aprender\nA confiar em Ti\nMas preciso aprender\nA descansar em Ti\n\nTu És meu Senhor\n\nTodas as coisas\nCooperam para o bem\nDaqueles que Te amam\n4x\n\nEu sei que sempre \nEstás comigo, Senhor\n\nTambém sei\nQue nada acontece\nSem a Tua vontade\n\nMas preciso aprender\nA confiar em Ti\nMas preciso aprender\nA descansar em Ti\n\nTu És meu Senhor\n\nTodas as coisas\nCooperam para o bem\nDaqueles que Te amam\n\nTudo entregarei\nTudo entregarei\nSim, por Ti Jesus, bendito\nTudo deixarei",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu sei que sempre \nEstás comigo, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Também sei\nQue nada acontece\nSem a Tua vontade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mas preciso aprender\nA confiar em Ti\nMas preciso aprender\nA descansar em Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tu És meu Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Todas as coisas\nCooperam para o bem\nDaqueles que Te amam\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu sei que sempre \nEstás comigo, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Também sei\nQue nada acontece\nSem a Tua vontade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Mas preciso aprender\nA confiar em Ti\nMas preciso aprender\nA descansar em Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Tu És meu Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Todas as coisas\nCooperam para o bem\nDaqueles que Te amam",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Tudo entregarei\nTudo entregarei\nSim, por Ti Jesus, bendito\nTudo deixarei",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

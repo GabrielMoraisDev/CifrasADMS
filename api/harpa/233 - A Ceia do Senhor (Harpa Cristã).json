@@ -1,0 +1,62 @@
+{
+  "id": 1659046438202,
+  "title": "233 - A Ceia do Senhor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó Jesus Cristo, aqui estamos\nUnidos todos em um lugar,\nPra Tua morte nós relembrarmos,\nQue Tu quiseste por nós provar. \n\nAlegra-nos, é Jesus amado,\nEnchendo-nos do Consolador;\nÓ grande graça Tu nos tens dado,\nPois somos salvos p'lo Teu amor.\n\nQue nós sejamos abençoados; \nTambém o pão e o vinho aqui, \nP'lo Teu poder sejam consagrados \nP'ra nos alimentarmos de Ti.  \n\nE quando todos nos reunirmos, \nUm dia, lá no Teu lar, nos céus, \nNós aleluias, sim, cantaremos, \nEterno hino ao nosso Deus.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó Jesus Cristo, aqui estamos\nUnidos todos em um lugar,\nPra Tua morte nós relembrarmos,\nQue Tu quiseste por nós provar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Alegra-nos, é Jesus amado,\nEnchendo-nos do Consolador;\nÓ grande graça Tu nos tens dado,\nPois somos salvos p'lo Teu amor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Que nós sejamos abençoados; \nTambém o pão e o vinho aqui, \nP'lo Teu poder sejam consagrados \nP'ra nos alimentarmos de Ti.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E quando todos nos reunirmos, \nUm dia, lá no Teu lar, nos céus, \nNós aleluias, sim, cantaremos, \nEterno hino ao nosso Deus.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

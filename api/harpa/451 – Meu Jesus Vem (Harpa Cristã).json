@@ -1,0 +1,76 @@
+{
+  "id": 1661902027188,
+  "title": "451 – Meu Jesus Vem",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Os testemunhos indicam \nQue breve Cristo virá; \nJá os sinais testificam \nQue Ele vem, não tardará. \nOh! Dia de grande glória, \nPara os remidos será! \nDia será de vitória; \nJesus em breve virá.  \n\nMeu Jesus vem, meu Jesus vem; \nVou encontrá-Lo no céu! \nOs anjos nas harpas tangem, \nDando louvores a Deus!  \n\nTudo é trevas no mundo, \nA noite chegada está, \nMas voz de amor mui profundo \nDiz que Jesus voltará. \nMeu corpo já transformado, \nUm céu aberto achará! \nCom anjos mil a Seu lado, \nJesus em breve virá!  \n\nMeu Jesus vem, meu Jesus vem; \nVou encontrá-Lo no céu! \nOs anjos nas harpas tangem, \nDando louvores a Deus!  \n\nTristezas desaparecem \nE dores não haverá; \nEstrelas já resplandecem; \nA festa começará! \nDescanso ali prometido, \nMinh'alma então gozará; \nOuve a mensagem, perdido; \nJesus em breve virá!\n\nMeu Jesus vem, meu Jesus vem; \nVou encontrá-Lo no céu! \nOs anjos nas harpas tangem, \nDando louvores a Deus!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Os testemunhos indicam \nQue breve Cristo virá; \nJá os sinais testificam \nQue Ele vem, não tardará. \nOh! Dia de grande glória, \nPara os remidos será! \nDia será de vitória; \nJesus em breve virá.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Meu Jesus vem, meu Jesus vem; \nVou encontrá-Lo no céu! \nOs anjos nas harpas tangem, \nDando louvores a Deus!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tudo é trevas no mundo, \nA noite chegada está, \nMas voz de amor mui profundo \nDiz que Jesus voltará. \nMeu corpo já transformado, \nUm céu aberto achará! \nCom anjos mil a Seu lado, \nJesus em breve virá!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Meu Jesus vem, meu Jesus vem; \nVou encontrá-Lo no céu! \nOs anjos nas harpas tangem, \nDando louvores a Deus!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tristezas desaparecem \nE dores não haverá; \nEstrelas já resplandecem; \nA festa começará! \nDescanso ali prometido, \nMinh'alma então gozará; \nOuve a mensagem, perdido; \nJesus em breve virá!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Meu Jesus vem, meu Jesus vem; \nVou encontrá-Lo no céu! \nOs anjos nas harpas tangem, \nDando louvores a Deus!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

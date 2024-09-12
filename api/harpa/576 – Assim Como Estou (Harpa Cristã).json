@@ -1,0 +1,62 @@
+{
+  "id": 1661902498949,
+  "title": "576 – Assim Como Estou",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Assim como estou: sem nada dizer, \nSenão que por mim vieste a morrer. \nE me convidaste a ti recorrer: \nBendito Jesus, me chego a ti!  \n\nAssim como estou: sem mais demorar, \nMinha alma do mal querendo limpar, \nA ti, que de tudo me podes lavar: \nBendito Jesus, me chego a ti!  \n\nAssim como estou: em grande aflição. \nTão digno de morte e da perdição, \nRogando-te vida, com paz e perdão: \nBendito Jesus, me chego a ti!  \n\nAssim como estou: o teu grande amor \nMe vence: e crendo em ti, sem temor, \nEu quero servir-te, divino Senhor!  \nBendito Jesus, me chego a ti!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Assim como estou: sem nada dizer, \nSenão que por mim vieste a morrer. \nE me convidaste a ti recorrer: \nBendito Jesus, me chego a ti!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Assim como estou: sem mais demorar, \nMinha alma do mal querendo limpar, \nA ti, que de tudo me podes lavar: \nBendito Jesus, me chego a ti!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Assim como estou: em grande aflição. \nTão digno de morte e da perdição, \nRogando-te vida, com paz e perdão: \nBendito Jesus, me chego a ti!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Assim como estou: o teu grande amor \nMe vence: e crendo em ti, sem temor, \nEu quero servir-te, divino Senhor!  \nBendito Jesus, me chego a ti!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

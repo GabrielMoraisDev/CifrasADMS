@@ -1,0 +1,83 @@
+{
+  "id": 1648855817084,
+  "title": "De Nada Tenho Falta",
+  "artist": "Jéssica Augusto",
+  "author": "Jéssica Augusto",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Pastor, mestre\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x\n\nPastor, mestre\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x\n\nQuando estou abatido\nQuando estou em perigo\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x\n\nJeova Jireh\nJeová Nissi\nJeová Shalon\nJeová Shalon\nJeová Shalon\nJeová Shalon\n\nPastor, mestre\nDe nada eu tenho falta\nDe nada eu tenho falta\n4x\n\nJeova Jireh\nJeová Nissi\nJeová Shalon\nJeová Shalon\nJeová Shalon\nJeová Shalon\n2x\n\nQuando estou abatido\nQuando estou em perigo\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Pastor, mestre\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pastor, mestre\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando estou abatido\nQuando estou em perigo\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jeova Jireh\nJeová Nissi\nJeová Shalon\nJeová Shalon\nJeová Shalon\nJeová Shalon",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Pastor, mestre\nDe nada eu tenho falta\nDe nada eu tenho falta\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Jeova Jireh\nJeová Nissi\nJeová Shalon\nJeová Shalon\nJeová Shalon\nJeová Shalon\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Quando estou abatido\nQuando estou em perigo\nDe nada eu tenho falta\nDe nada eu tenho falta\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

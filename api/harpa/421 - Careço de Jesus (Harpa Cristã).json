@@ -1,0 +1,41 @@
+{
+  "id": 1661901852202,
+  "title": "421 - Careço de Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando de Ti careço \nJesus, meu Salvador!\nO Teu amor, \nO vem m'alegrar,\nQuando de Ti careço.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando de Ti careço \nJesus, meu Salvador!\nO Teu amor, \nO vem m'alegrar,\nQuando de Ti careço.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

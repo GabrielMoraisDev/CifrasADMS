@@ -1,0 +1,62 @@
+{
+  "id": 1653004880157,
+  "title": "195 - Benigno Salvador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Benigno Salvador! \nCom Tua aprovação, \nConsagra em doce amor esta feliz união, \nE sobre os noivos faz descer \nA graça que lhes é mister. \n\nFá-los em paz andar unidos no Senhor, \nE a vida aqui passar \nEm terno e santo amor \nLigados no amor de Deus; \nCaminhem juntos para os céus. \n\nÓ digna-Te reger sua casa como Rei; \nSeus corações manter dóceis, à Tua lei; \nLivra-os de toda a tentação, \nConsola-os na tribulação. \n\nSe o Salvador cumprir a nossa petição, \nPodemos descobrir nesta bendita união \nA sombra do celeste amor \nDos salvos e seu Salvador. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Benigno Salvador! \nCom Tua aprovação, \nConsagra em doce amor esta feliz união, \nE sobre os noivos faz descer \nA graça que lhes é mister. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Fá-los em paz andar unidos no Senhor, \nE a vida aqui passar \nEm terno e santo amor \nLigados no amor de Deus; \nCaminhem juntos para os céus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ó digna-Te reger sua casa como Rei; \nSeus corações manter dóceis, à Tua lei; \nLivra-os de toda a tentação, \nConsola-os na tribulação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Se o Salvador cumprir a nossa petição, \nPodemos descobrir nesta bendita união \nA sombra do celeste amor \nDos salvos e seu Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

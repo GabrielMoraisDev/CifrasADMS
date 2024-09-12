@@ -1,0 +1,55 @@
+{
+  "id": 1658269794377,
+  "title": "164 - Paz, Luz e Amor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Recebi de graça, abundante paz\nPor Deus concedida, que me satisfaz; \nQueres recebê-la no teu coração? \nBusca o Senhor e Sua salvação, \nMais de Sua paz, mais de Sua paz, \nQuero receber de Deus, que é veraz. \nMais de Sua paz, mais de Sua paz, \nQuero receber de Deus, que é veraz.\n\nRecebi de graça, abundante luz,\nLuz maravilhosa, que me deu Jesus; \nQueres recebê-la, pobre pecador? \nDeixa, hoje mesmo, o mundo de horror. \nMais de Sua luz, mais de Sua luz, \nQuero receber do Salvador Jesus. \nMais de Sua luz, mais de Sua luz, \nQuero receber do Salvador Jesus.\n\nRecebi de graça abundante amor, \nO amor divino do Consolador;\nQueres recebê-Io? Abre o coração, \nE terás mais gozo e veraz perdão. \nMais de Seu amor, mais de Seu amor, \nQuero receber do bom Consolador, \nMais de Seu amor, mais de Seu amor,\nQuero receber do bom Consolador.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Recebi de graça, abundante paz\nPor Deus concedida, que me satisfaz; \nQueres recebê-la no teu coração? \nBusca o Senhor e Sua salvação, \nMais de Sua paz, mais de Sua paz, \nQuero receber de Deus, que é veraz. \nMais de Sua paz, mais de Sua paz, \nQuero receber de Deus, que é veraz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Recebi de graça, abundante luz,\nLuz maravilhosa, que me deu Jesus; \nQueres recebê-la, pobre pecador? \nDeixa, hoje mesmo, o mundo de horror. \nMais de Sua luz, mais de Sua luz, \nQuero receber do Salvador Jesus. \nMais de Sua luz, mais de Sua luz, \nQuero receber do Salvador Jesus.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Recebi de graça abundante amor, \nO amor divino do Consolador;\nQueres recebê-Io? Abre o coração, \nE terás mais gozo e veraz perdão. \nMais de Seu amor, mais de Seu amor, \nQuero receber do bom Consolador, \nMais de Seu amor, mais de Seu amor,\nQuero receber do bom Consolador.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

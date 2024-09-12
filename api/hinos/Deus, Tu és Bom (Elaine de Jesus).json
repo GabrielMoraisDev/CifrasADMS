@@ -1,0 +1,55 @@
+{
+  "id": 1662227056356,
+  "title": "Deus, Tu és Bom",
+  "artist": "Elaine de Jesus",
+  "author": "Israel Houghton",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus, Tu és Bom\nE Tua misericórdia\nÉ pra sempre\n\nPessoas\nDe toda língua e nação\nDe geração em geração\nAdoram a Ti\nE dizem: \"Aleluia, aleluia\"\nAdoram a Ti por quem Tu és\n\nTu és Bom\nEm todo tempo\nEm todo tempo\nTu és Bom",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus, Tu és Bom\nE Tua misericórdia\nÉ pra sempre",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pessoas\nDe toda língua e nação\nDe geração em geração\nAdoram a Ti\nE dizem: \"Aleluia, aleluia\"\nAdoram a Ti por quem Tu és",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tu és Bom\nEm todo tempo\nEm todo tempo\nTu és Bom",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

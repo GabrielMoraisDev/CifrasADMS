@@ -1,0 +1,286 @@
+{
+  "id": 1663536679285,
+  "title": "Eu Não Perdi o Controle",
+  "artist": "Samuel Messias",
+  "author": "Samuel Messias",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Parece que está tudo bem\nPra todo mundo\nEstá tudo bem\n\nMas Eu conheço\nO teu coração\nConheço você por dentro\nE por conhecer\n\nQuantas vezes\nEstá sorrindo\nMas por dentro\nEstá chorando?\n\nPor fora tem a cicatriz\nMas por dentro\nEstá sangrando?\n\nMas Eu conheço\nO teu coração\nConheço você por dentro\n\nAntes de Eu começar\nA Minha obra em sua vida\nLá no ventre da sua mãe\nA sua história\nEu já tinha escrito, filho\n\nSó parece que é o fim\nE vai morrer\nE o desespero toma conta\nDo seu coração\n\nMas Eu não perdi não\nMas Eu não perdi não\nO controle não\n\nEu não perdi o controle não\nEu não perdi o controle não\nEu não perdi o controle\n\nA sua história\nJá estava escrita\nE Eu não perdi o controle\nNão, não\n\nEu não perdi o controle, não\nEu não perdi o controle\n\nEu não perdi o controle, não\n\nAntes de Eu começar\nA Minha obra em sua vida\nLá no ventre da sua mãe\nA sua história\nEu já tinha escrito, filho\n\nSó parece que é o fim\nE vai morrer\nE o desespero toma conta\nDo seu coração\n\nMas Eu não perdi não\nMas Eu não perdi não\n\nE Eu não perdi o controle\nNão, ah, eu não perdi\n\nPode uma mãe\nSe esquecer de um filho?\nDavi, estava esquecido?\nCuidando de ovelhas\nEstava esquecido?\n\nJosé, estava esquecido?\nNa cisterna\nEstava esquecido?\nVenderam ele\nEstava esquecido?\n\nNo palácio\nEstava esquecido?\nNa prisão\nEstava esquecido?\n\nO paralítico\nEstava esquecido?\nNo tanque de Betesda\nEstava esquecido?\n\nO cego Bartimeu\nEstava esquecido?\nEm Jericó\nEstava esquecido?\n\nO Carpinteiro\nEstava esquecido?\nVenderam Ele\nEstava esquecido?\n\nPrenderam Ele\nEstava esquecido?\nDeram uma cruz pra Ele\nEstava esquecido?\n\nNa via dolorosa\nEstava esquecido?\nCrucificaram Ele\nEstava esquecido?\n\nNo primeiro dia\nEstava esquecido?\nNo segundo dia\nEstava esquecido?\n\nMas no terceiro dia\nEle ressuscitou\nNo terceiro dia\nEle se levantou\n\nE mandou eu vir aqui\nSó para te dizer\n\nNão perdi o controle não\nEu não perdi o controle\nNão, não\n\nEu não perdi o controle, não\nEu não perdi o controle\n\nEu não perdi o controle não\nEu não perdi o controle\nNão, não\n\nEu não perdi o controle não\nEu não perdi o controle\n\nE Eu não perdi o controle\nNão, não\nEu não perdi o controle, não\nEu não perdi o controle\n\nEu não perdi o controle\nNão, não\nEu não perdi, não\nNão, não, não\n\nEu não perdi, eu não perdi\nSó parece que está perdido\nSó parece que está sem saída\n\nMas eu não perdi\nEu não perdi\nO controle ainda está\nEm Minhas mãos\n\nEu não perdi\nEu não perdi",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Parece que está tudo bem\nPra todo mundo\nEstá tudo bem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mas Eu conheço\nO teu coração\nConheço você por dentro\nE por conhecer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quantas vezes\nEstá sorrindo\nMas por dentro\nEstá chorando?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Por fora tem a cicatriz\nMas por dentro\nEstá sangrando?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Mas Eu conheço\nO teu coração\nConheço você por dentro",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Antes de Eu começar\nA Minha obra em sua vida\nLá no ventre da sua mãe\nA sua história\nEu já tinha escrito, filho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Só parece que é o fim\nE vai morrer\nE o desespero toma conta\nDo seu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Mas Eu não perdi não\nMas Eu não perdi não\nO controle não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Eu não perdi o controle não\nEu não perdi o controle não\nEu não perdi o controle",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "A sua história\nJá estava escrita\nE Eu não perdi o controle\nNão, não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Eu não perdi o controle, não\nEu não perdi o controle",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "Eu não perdi o controle, não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 13,
+        "description": "",
+        "text": "Antes de Eu começar\nA Minha obra em sua vida\nLá no ventre da sua mãe\nA sua história\nEu já tinha escrito, filho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 14,
+        "description": "",
+        "text": "Só parece que é o fim\nE vai morrer\nE o desespero toma conta\nDo seu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 15,
+        "description": "",
+        "text": "Mas Eu não perdi não\nMas Eu não perdi não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 16,
+        "description": "",
+        "text": "E Eu não perdi o controle\nNão, ah, eu não perdi",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 17,
+        "description": "",
+        "text": "Pode uma mãe\nSe esquecer de um filho?\nDavi, estava esquecido?\nCuidando de ovelhas\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 18,
+        "description": "",
+        "text": "José, estava esquecido?\nNa cisterna\nEstava esquecido?\nVenderam ele\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 19,
+        "description": "",
+        "text": "No palácio\nEstava esquecido?\nNa prisão\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 20,
+        "description": "",
+        "text": "O paralítico\nEstava esquecido?\nNo tanque de Betesda\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 21,
+        "description": "",
+        "text": "O cego Bartimeu\nEstava esquecido?\nEm Jericó\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 22,
+        "description": "",
+        "text": "O Carpinteiro\nEstava esquecido?\nVenderam Ele\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 23,
+        "description": "",
+        "text": "Prenderam Ele\nEstava esquecido?\nDeram uma cruz pra Ele\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 24,
+        "description": "",
+        "text": "Na via dolorosa\nEstava esquecido?\nCrucificaram Ele\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 25,
+        "description": "",
+        "text": "No primeiro dia\nEstava esquecido?\nNo segundo dia\nEstava esquecido?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 26,
+        "description": "",
+        "text": "Mas no terceiro dia\nEle ressuscitou\nNo terceiro dia\nEle se levantou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 27,
+        "description": "",
+        "text": "E mandou eu vir aqui\nSó para te dizer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 28,
+        "description": "",
+        "text": "Não perdi o controle não\nEu não perdi o controle\nNão, não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 29,
+        "description": "",
+        "text": "Eu não perdi o controle, não\nEu não perdi o controle",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 30,
+        "description": "",
+        "text": "Eu não perdi o controle não\nEu não perdi o controle\nNão, não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 31,
+        "description": "",
+        "text": "Eu não perdi o controle não\nEu não perdi o controle",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 32,
+        "description": "",
+        "text": "E Eu não perdi o controle\nNão, não\nEu não perdi o controle, não\nEu não perdi o controle",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 33,
+        "description": "",
+        "text": "Eu não perdi o controle\nNão, não\nEu não perdi, não\nNão, não, não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 34,
+        "description": "",
+        "text": "Eu não perdi, eu não perdi\nSó parece que está perdido\nSó parece que está sem saída",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 35,
+        "description": "",
+        "text": "Mas eu não perdi\nEu não perdi\nO controle ainda está\nEm Minhas mãos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 36,
+        "description": "",
+        "text": "Eu não perdi\nEu não perdi",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

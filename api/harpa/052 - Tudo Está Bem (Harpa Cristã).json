@@ -1,0 +1,69 @@
+{
+  "id": 1653223950076,
+  "title": "052 - Tudo Está Bem",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "D",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Pelo amor de Deus bendito, \nVai tudo bem! Seu amor é infinito: \nTudo está bem! \nEsse amor nos tem provado.\nEm Seu Filho muito amado, \nQue, por nós, foi imolado. \nSim, sim, ‘stá bem! \n\nCristo, agora, o cetro empunha: \nVai tudo bem! \nQuem morreu é quem governa: \nTudo está bem! \nSeu amor é imutável, \nSeu poder inabalável, \nSeu cuidado é incansável, \nSim, sim, ‘stá bem! \n\nA fé canta na tristeza: \nVai tudo bem! \nCanta, sim, e com firmeza: \nTudo está bem! \nPois se Deus é quem nos guia, \nTernamente nos vigia, \nCom bondade, noite e dia. \nSim, sim, até bem! \n\nPor caminhos escabrosos, \nVai tudo bem! \nOu por mares tormentosos, \nTudo está bem! \nA Jesus tudo obedece; \nSempre o mesmo permanece! \nNem um só dos Seus esquece! \nSim, sim, afã bem! \n\nQuer na vida, quer na morte, \nVai tudo bem! \nQuão feliz é nossa sorte! \nTudo está bem! \nPelo sangue resgatados, \nE do mundo separados. \nSempre por Jesus guardados. \nSim, sim, ‘stá bem!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Pelo amor de Deus bendito, \nVai tudo bem! Seu amor é infinito: \nTudo está bem! \nEsse amor nos tem provado.\nEm Seu Filho muito amado, \nQue, por nós, foi imolado. \nSim, sim, ‘stá bem! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Cristo, agora, o cetro empunha: \nVai tudo bem! \nQuem morreu é quem governa: \nTudo está bem! \nSeu amor é imutável, \nSeu poder inabalável, \nSeu cuidado é incansável, \nSim, sim, ‘stá bem! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "A fé canta na tristeza: \nVai tudo bem! \nCanta, sim, e com firmeza: \nTudo está bem! \nPois se Deus é quem nos guia, \nTernamente nos vigia, \nCom bondade, noite e dia. \nSim, sim, até bem! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Por caminhos escabrosos, \nVai tudo bem! \nOu por mares tormentosos, \nTudo está bem! \nA Jesus tudo obedece; \nSempre o mesmo permanece! \nNem um só dos Seus esquece! \nSim, sim, afã bem! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quer na vida, quer na morte, \nVai tudo bem! \nQuão feliz é nossa sorte! \nTudo está bem! \nPelo sangue resgatados, \nE do mundo separados. \nSempre por Jesus guardados. \nSim, sim, ‘stá bem!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1658877712507,
+  "title": "430 - Ouves Como o Evangelho",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ouves como o Evangelho\nNos dá vera salvação\nE transforma o homem velho\nNuma nova criação?\nBem algum em mim não via\nMas somente corrupção,\nE cansado da porfia \nEm Jesus achei perdão \n\nComo a pomba que cansada\nFoi na arca repousar\nA minha alma Fatigada\nEm Jesus vai descansar\nMas o corvo foi s`embora\nSobre os morto foi pousar\nIsto fazes tu agora?\nQuererás ao mal voltar?\n\né Jesus a minha arca\nOnde posso Repousar\nE dali o mal as marcas\nNem eu posso avistar!\nOh! Quão doce a chamada\nQue a mim me fez Jesus!\n“Vem ó alma tão cansada\nVem das trevas para a luz”\n\nPecador que estás ouvindo\nA mensagem do Senhor\nTu na arca és bem-vindo\nNo refúgio de amor\nPois as águas do pecado\nBreve te alcançarão\nPela morte despertado \nBaterás Na porta em vão!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ouves como o Evangelho\nNos dá vera salvação\nE transforma o homem velho\nNuma nova criação?\nBem algum em mim não via\nMas somente corrupção,\nE cansado da porfia \nEm Jesus achei perdão ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Como a pomba que cansada\nFoi na arca repousar\nA minha alma Fatigada\nEm Jesus vai descansar\nMas o corvo foi s`embora\nSobre os morto foi pousar\nIsto fazes tu agora?\nQuererás ao mal voltar?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "é Jesus a minha arca\nOnde posso Repousar\nE dali o mal as marcas\nNem eu posso avistar!\nOh! Quão doce a chamada\nQue a mim me fez Jesus!\n“Vem ó alma tão cansada\nVem das trevas para a luz”",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Pecador que estás ouvindo\nA mensagem do Senhor\nTu na arca és bem-vindo\nNo refúgio de amor\nPois as águas do pecado\nBreve te alcançarão\nPela morte despertado \nBaterás Na porta em vão!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

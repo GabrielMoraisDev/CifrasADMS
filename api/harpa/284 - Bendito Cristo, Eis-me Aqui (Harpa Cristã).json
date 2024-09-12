@@ -1,0 +1,62 @@
+{
+  "id": 1659483293454,
+  "title": "284 - Bendito Cristo, Eis-me Aqui",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tal como sou, vou decidir, \nQue a outro eu não posso ir; \nPois me convidas para vir, \nBendito Cristo, eis-me aqui.  \n\nTal como sou, sem demorar, \nDo mal, querendo me livrar; \nSó podes Tu me perdoar: \nBendito Cristo, eis-me aqui.\n\nTal como sou, em aflição, \nExposto à morte, e perdição, \nBuscando vida e perdão, \nBendito Cristo, eis-me aqui.  \n\nTal como sou, Teu grande amor \nMe vence, e busco Teu favor, \nServir-Te quero com valor, \nBendito Cristo, eis-me aqui.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tal como sou, vou decidir, \nQue a outro eu não posso ir; \nPois me convidas para vir, \nBendito Cristo, eis-me aqui.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tal como sou, sem demorar, \nDo mal, querendo me livrar; \nSó podes Tu me perdoar: \nBendito Cristo, eis-me aqui.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tal como sou, em aflição, \nExposto à morte, e perdição, \nBuscando vida e perdão, \nBendito Cristo, eis-me aqui.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tal como sou, Teu grande amor \nMe vence, e busco Teu favor, \nServir-Te quero com valor, \nBendito Cristo, eis-me aqui.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

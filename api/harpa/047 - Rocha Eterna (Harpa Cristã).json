@@ -1,0 +1,62 @@
+{
+  "id": 1652827101093,
+  "title": "047 - Rocha Eterna",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "D",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Rocha eterna, meu Jesus, \nQue, por mim, na amarga cruz, \nFoste morto eu meu lugar, \nMorto para me salvar; \nEm Ti quero me esconder, \nSó Tu podes me valer. \n\nMinhas obras, eu bem sei, \nNada valem ante a lei; \nSe eu chorasse sem cessar. \nTrabalhasse sem cansar, \nTudo inútil, tudo em vão! \nSó em Ti há salvação. \n\nNada trago a Ti, Senhor! \n'Spero só em Teu amor! \nTodo indigno e imundo sou, \nEis, sem Ti, perdido estou! \nNo Teu sangue, ó Salvador, \nLava um pobre pecador. \n\nQuando a morte me chamar, \nE ante Ti me apresentar, \nRocha eterna, meu Jesus, \nQue por mim, na amarga cruz, \nFoste morto em meu lugar, \nQuero em Ti só me abrigar. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Rocha eterna, meu Jesus, \nQue, por mim, na amarga cruz, \nFoste morto eu meu lugar, \nMorto para me salvar; \nEm Ti quero me esconder, \nSó Tu podes me valer. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Minhas obras, eu bem sei, \nNada valem ante a lei; \nSe eu chorasse sem cessar. \nTrabalhasse sem cansar, \nTudo inútil, tudo em vão! \nSó em Ti há salvação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Nada trago a Ti, Senhor! \n'Spero só em Teu amor! \nTodo indigno e imundo sou, \nEis, sem Ti, perdido estou! \nNo Teu sangue, ó Salvador, \nLava um pobre pecador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Quando a morte me chamar, \nE ante Ti me apresentar, \nRocha eterna, meu Jesus, \nQue por mim, na amarga cruz, \nFoste morto em meu lugar, \nQuero em Ti só me abrigar. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

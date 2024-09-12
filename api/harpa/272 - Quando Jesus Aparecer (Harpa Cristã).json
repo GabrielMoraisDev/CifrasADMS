@@ -1,0 +1,55 @@
+{
+  "id": 1659482332953,
+  "title": "272 - Quando Jesus Aparecer",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando Jesus aparecer,\nQue festa para nós há de ser, \nAo céu de luz iremos ter, \nP'ra desfrutar eterno prazer, \nQuando ao Seu Pai nos apresentar,\nQue alegria no céu haverá; \nNo trono Seu teremos lugar, \nEm nossa fronte coroa porá.\n\nMarchai com Deus, sem vos deter, \nEm santidade e sem temer;\nSe nada mais podeis fazer -\nPor crer em Cristo - tendes poder, \nSe hoje crerdes... Deus vos dará; \nSe fé tiverdes, vós recebereis, \nVida de paz no céu gozará\nTodo que crer em Jesus, nosso Rei. \n\nIremos nós, no céu cear\nE Jesus Cristo nos servirá; \nA Sua grei que quis salvar, \nNo céu, então, se reunirá. \nQual forte sol, dará resplendor \nAnte Jesus, o Senhor eternal! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando Jesus aparecer,\nQue festa para nós há de ser, \nAo céu de luz iremos ter, \nP'ra desfrutar eterno prazer, \nQuando ao Seu Pai nos apresentar,\nQue alegria no céu haverá; \nNo trono Seu teremos lugar, \nEm nossa fronte coroa porá.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Marchai com Deus, sem vos deter, \nEm santidade e sem temer;\nSe nada mais podeis fazer -\nPor crer em Cristo - tendes poder, \nSe hoje crerdes... Deus vos dará; \nSe fé tiverdes, vós recebereis, \nVida de paz no céu gozará\nTodo que crer em Jesus, nosso Rei. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Iremos nós, no céu cear\nE Jesus Cristo nos servirá; \nA Sua grei que quis salvar, \nNo céu, então, se reunirá. \nQual forte sol, dará resplendor \nAnte Jesus, o Senhor eternal! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

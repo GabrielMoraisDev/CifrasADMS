@@ -1,0 +1,76 @@
+{
+  "id": 1634321492453,
+  "title": "Sobrevivi",
+  "artist": "Sarah Farias",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Foram noites intermináveis, eu só chorava\nBem no auge da minha dor, nada me consolava\nMas eu sobrevivi como a águia solitária\nE a sorte de novo sorriu pra mim\nDeus me escondeu bem debaixo de suas asas\nNenhuma peste me matou, nenhuma flecha me atingiu\n\nEu aprendi a ganhar, perdendo\nAprendi a subir, descendo\nDoeu , doeu mas eu cresci\nE cresci, diminuindo\nApareci , desaparecendo\nE o poder de Deus na minha fraqueza\nSe aperfeiçoou\n\nTem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi\nTem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi\n\nEu aprendi a ganhar, perdendo\nAprendi a subir, descendo\nDoeu , doeu mas eu cresci\nE cresci, diminuindo\nApareci , desaparecendo\nE o poder de Deus na minha fraqueza\nSe aperfeiçoou\n\nTem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi\nTem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi\n\nSobrevivi,\nSobrevivi ,\nSobrevivi...",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Foram noites intermináveis, eu só chorava\nBem no auge da minha dor, nada me consolava\nMas eu sobrevivi como a águia solitária\nE a sorte de novo sorriu pra mim\nDeus me escondeu bem debaixo de suas asas\nNenhuma peste me matou, nenhuma flecha me atingiu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu aprendi a ganhar, perdendo\nAprendi a subir, descendo\nDoeu , doeu mas eu cresci\nE cresci, diminuindo\nApareci , desaparecendo\nE o poder de Deus na minha fraqueza\nSe aperfeiçoou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi\nTem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu aprendi a ganhar, perdendo\nAprendi a subir, descendo\nDoeu , doeu mas eu cresci\nE cresci, diminuindo\nApareci , desaparecendo\nE o poder de Deus na minha fraqueza\nSe aperfeiçoou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi\nTem coisa boa chegando\nTem algo acontecendo\nE não importa o que eu sofri\nO que importa é que eu sobrevivi",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Sobrevivi,\nSobrevivi ,\nSobrevivi...",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1645397951584,
+  "title": "Descansa",
+  "artist": "Stella Laura",
+  "author": "Misaias Oliveira, Luã Freitas",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tá se preocupando à toa\nO diagnóstico do homem\nNão significa nada\nTenha calma\n\nSou Eu quem dou a vida\nSou Eu quem tiro a vida\nE determino o tempo\nPra curar as feridas\n\nSou Eu quem faço\nQuem é o homem\nPra por um ponto final\nOnde Eu não coloquei?\n\nNão entre em desespero\nEnxugue as suas lágrimas\nÉ tudo passageiro\nVocê precisa confiar e descansar\n\nDescansa\nQuem te prometeu garante\nDescansa\nEsse mal não é pra morte\n\nDescansa\nSou Eu quem\nEstou tocando agora\n\nJá tenho a tua vitória\nSó precisas descansar\n\nEu Sou Deus\nAntes da medicina\nAntes \"de tudo\"\nEu já existia\n\nEu Sou dono\nDas noites de choro\nE também\nDas manhãs de alegria\n\nEu Sou\nDono de tudo Eu Sou\nEu Sou\nDono de tudo Eu Sou",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tá se preocupando à toa\nO diagnóstico do homem\nNão significa nada\nTenha calma",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Sou Eu quem dou a vida\nSou Eu quem tiro a vida\nE determino o tempo\nPra curar as feridas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sou Eu quem faço\nQuem é o homem\nPra por um ponto final\nOnde Eu não coloquei?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Não entre em desespero\nEnxugue as suas lágrimas\nÉ tudo passageiro\nVocê precisa confiar e descansar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Descansa\nQuem te prometeu garante\nDescansa\nEsse mal não é pra morte",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Descansa\nSou Eu quem\nEstou tocando agora",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Já tenho a tua vitória\nSó precisas descansar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu Sou Deus\nAntes da medicina\nAntes \"de tudo\"\nEu já existia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Eu Sou dono\nDas noites de choro\nE também\nDas manhãs de alegria",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Eu Sou\nDono de tudo Eu Sou\nEu Sou\nDono de tudo Eu Sou",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

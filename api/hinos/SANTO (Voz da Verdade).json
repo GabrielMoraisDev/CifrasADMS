@@ -1,0 +1,76 @@
+{
+  "id": 1683243422180,
+  "title": "Santo",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Santo, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo\n\nJeová Jire, Jeová Shamah\nJeová Shalom, Eloim, El Shaddai\nJeová Jire, Jeová Shamah\nJeová Shalom, Eloim, El Shaddai\n\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo (é)\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo\n\nJesus Provedor e Ele está aqui\nJesus é a paz, Ele é Deus e Rei\nJesus Provedor e Ele está aqui\nJesus é a paz, Ele é Deus e Rei\n\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo (só Ele é Santo)\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo\n\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo\nSanto, Santo, Santo\nÉ o Senhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Santo, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Jeová Jire, Jeová Shamah\nJeová Shalom, Eloim, El Shaddai\nJeová Jire, Jeová Shamah\nJeová Shalom, Eloim, El Shaddai",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Santo, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo (é)\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jesus Provedor e Ele está aqui\nJesus é a paz, Ele é Deus e Rei\nJesus Provedor e Ele está aqui\nJesus é a paz, Ele é Deus e Rei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Santo, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo (só Ele é Santo)\nSanto, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Santo, Santo, Santo\nÉ o Senhor dos Exércitos, Ele é Santo\nSanto, Santo, Santo\nÉ o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

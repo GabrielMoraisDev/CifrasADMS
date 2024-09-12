@@ -1,0 +1,76 @@
+{
+  "id": 1662505923236,
+  "title": "363 - Consagração",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Amor e vida dou a Ti,\nJesus, pois lá na cruz, por mim, \nVerteste sangue carmezim; \nMeu Deus e Salvador! \n\nAmor e vida dou a Ti,\nQue foste à cruz sofrer por mim, \nAmor e vida dou a Ti,\nJesus, meu Salvador!\n\nTu me salvaste, isto sei; \nA minha fé em Ti porei; \nFeliz, agora viverei!\nContigo, meu Jesus! \n\nAmor e vida dou a Ti,\nQue foste à cruz sofrer por mim, \nAmor e vida dou a Ti,\nJesus, meu Salvador!\n\nTu que morreste sobre a cruz,\nConcede-me, Senhor Jesus,\nQue sempre ande na Tua luz,\nEm santificação.\n\nAmor e vida dou a Ti,\nQue foste à cruz sofrer por mim, \nAmor e vida dou a Ti,\nJesus, meu Salvador!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Amor e vida dou a Ti,\nJesus, pois lá na cruz, por mim, \nVerteste sangue carmezim; \nMeu Deus e Salvador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Amor e vida dou a Ti,\nQue foste à cruz sofrer por mim, \nAmor e vida dou a Ti,\nJesus, meu Salvador!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tu me salvaste, isto sei; \nA minha fé em Ti porei; \nFeliz, agora viverei!\nContigo, meu Jesus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Amor e vida dou a Ti,\nQue foste à cruz sofrer por mim, \nAmor e vida dou a Ti,\nJesus, meu Salvador!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tu que morreste sobre a cruz,\nConcede-me, Senhor Jesus,\nQue sempre ande na Tua luz,\nEm santificação.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Amor e vida dou a Ti,\nQue foste à cruz sofrer por mim, \nAmor e vida dou a Ti,\nJesus, meu Salvador!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1662506144305,
+  "title": "372 - Vencerá",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quem possui a Cristo, nEle firme está, \nAchará poder para o mal combater; \nPorque Suas promessas Ele cumprirá. \nQuem está em Cristo, sempre há de vencer. \n\nVencerá, vencerá, por Seu sangue vencerá; \nVencerá, vencerá, sempre vencerá;\nPois Jesus que impera, \nnovas forças dá; \nE quem nEle espera sempre vencerá.\n\nEm qualquer batalha, não desmaiará; \nDo poder das trevas há de triunfar; \nDeus lhe dará forças, nunca falhará; \nPorque Jeová combate em seu lugar. \n\nVencerá, vencerá, por Seu sangue vencerá; \nVencerá, vencerá, sempre vencerá;\nPois Jesus que impera, \nnovas forças dá; \nE quem nEle espera sempre vencerá.\n\nEntre os inimigos, mui audaz será,\nQuem unido a Cristo nunca vacilar.\nEm Jesus firmado, luz espargirá;\nA luz do Evangelho para os libertar.\t\n\nVencerá, vencerá, por Seu sangue vencerá; \nVencerá, vencerá, sempre vencerá;\nPois Jesus que impera, \nnovas forças dá; \nE quem nEle espera sempre vencerá.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quem possui a Cristo, nEle firme está, \nAchará poder para o mal combater; \nPorque Suas promessas Ele cumprirá. \nQuem está em Cristo, sempre há de vencer. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vencerá, vencerá, por Seu sangue vencerá; \nVencerá, vencerá, sempre vencerá;\nPois Jesus que impera, \nnovas forças dá; \nE quem nEle espera sempre vencerá.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Em qualquer batalha, não desmaiará; \nDo poder das trevas há de triunfar; \nDeus lhe dará forças, nunca falhará; \nPorque Jeová combate em seu lugar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vencerá, vencerá, por Seu sangue vencerá; \nVencerá, vencerá, sempre vencerá;\nPois Jesus que impera, \nnovas forças dá; \nE quem nEle espera sempre vencerá.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Entre os inimigos, mui audaz será,\nQuem unido a Cristo nunca vacilar.\nEm Jesus firmado, luz espargirá;\nA luz do Evangelho para os libertar.\t",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Vencerá, vencerá, por Seu sangue vencerá; \nVencerá, vencerá, sempre vencerá;\nPois Jesus que impera, \nnovas forças dá; \nE quem nEle espera sempre vencerá.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

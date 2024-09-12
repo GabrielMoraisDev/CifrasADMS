@@ -1,0 +1,90 @@
+{
+  "id": 1633646534799,
+  "title": "007 - Cristo Cura Sim",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "F",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Contra os males\nDeste mundo\nDeus nos vale só\nNão há mal\nQue Deus não cure\nPois de nós tem dó\n\nCristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim\n\nDerramou Seu sangue puro\nPra remir a mim\nQuando ungido sou de azeite\nSou curado, enfim\n\nCristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim\n\nSó noss' alma é bem segura\nOculta em Jesus\nEle o bálsamo da vida\nDerramou na cruz\n\nCristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim\n\nGlória a Deus, eterna glória\nDemos-Lhe louvor\nGlória, cânticos e hosanas\nDai ao Redentor\n\nCristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Contra os males\nDeste mundo\nDeus nos vale só\nNão há mal\nQue Deus não cure\nPois de nós tem dó",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Cristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Derramou Seu sangue puro\nPra remir a mim\nQuando ungido sou de azeite\nSou curado, enfim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Cristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Só noss' alma é bem segura\nOculta em Jesus\nEle o bálsamo da vida\nDerramou na cruz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Cristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Glória a Deus, eterna glória\nDemos-Lhe louvor\nGlória, cânticos e hosanas\nDai ao Redentor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Cristo cura, sim\nCristo cura, sim\nSeu amor por nós é imenso\nEle cura, sim",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

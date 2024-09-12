@@ -1,0 +1,69 @@
+{
+  "id": 1659871268161,
+  "title": "321 – Só em Jesus ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Só em Jesus fruirás paz e gozo, \nTu, pecador, que tens sede de amor; \nSó em Jesus poderás ser ditoso; \nNEle a graça obténs do Senhor.  \n\nSó em Jesus acharás forte escudo \nPara abrigar-te dos dardos do mal; \nNEle, oculto das dores, de tudo, \nReceberás uma paz divinal.  \n\nSó em Jesus, sobre a divina rocha, \nSalvar-te-ás deste mundo, qual mar; \nSó em Jesus, sim na luz desta tocha, \nPodes o santo caminho trilhar.  \n\nSó em Jesus, neste porto seguro, \nPodes tua alma qual nau ancorar, \nSó em Jesus, um brilhante futuro, \nO pecador, poderás encontrar.  \n\nSó em Jesus, deixa tudo portanto, \nQuer seja o mundo, o mal ou pecar; \nVem pra Jesus, que por Deus te garanto, \nQue paz e gozo irás desfrutar.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Só em Jesus fruirás paz e gozo, \nTu, pecador, que tens sede de amor; \nSó em Jesus poderás ser ditoso; \nNEle a graça obténs do Senhor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Só em Jesus acharás forte escudo \nPara abrigar-te dos dardos do mal; \nNEle, oculto das dores, de tudo, \nReceberás uma paz divinal.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Só em Jesus, sobre a divina rocha, \nSalvar-te-ás deste mundo, qual mar; \nSó em Jesus, sim na luz desta tocha, \nPodes o santo caminho trilhar.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Só em Jesus, neste porto seguro, \nPodes tua alma qual nau ancorar, \nSó em Jesus, um brilhante futuro, \nO pecador, poderás encontrar.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Só em Jesus, deixa tudo portanto, \nQuer seja o mundo, o mal ou pecar; \nVem pra Jesus, que por Deus te garanto, \nQue paz e gozo irás desfrutar.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1644151616190,
+  "title": "034 - MILÍCIA DE JESUS ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Bb",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Milhares de milhares em refulgente luz! \nEis os guerreiros santos, \nMilícia de Jesus! \nCompleta, sim, \nCompleta sua longa luta aqui, \nCom Cristo, seu Senhora Rei, \nVão descansar ali; \n\nQue doces sinfonias \nEncham a terra e o céu! \nQue coros d’aleluias \nRompem além do véu! \nE que chegou o dia, o dia triunfal, \nE Cristo reinará, enfim, \nEm glória divina!.   \n\nEntão, não há mais choro, \nNem há mais tentação; \nAs dores, as tristezas \nP’ra sempre fugirão, \nE os remidos todos verão seu Salvador; \nE transformados, todos, \nSerão como o Senhor.   ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Milhares de milhares em refulgente luz! \nEis os guerreiros santos, \nMilícia de Jesus! \nCompleta, sim, \nCompleta sua longa luta aqui, \nCom Cristo, seu Senhora Rei, \nVão descansar ali; ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Que doces sinfonias \nEncham a terra e o céu! \nQue coros d’aleluias \nRompem além do véu! \nE que chegou o dia, o dia triunfal, \nE Cristo reinará, enfim, \nEm glória divina!.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Então, não há mais choro, \nNem há mais tentação; \nAs dores, as tristezas \nP’ra sempre fugirão, \nE os remidos todos verão seu Salvador; \nE transformados, todos, \nSerão como o Senhor.   ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1661901234284,
+  "title": "367 - Espírito Consolador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Espírito Consolador, \nDivino e eternal,\nPreciosa fonte de amor \nE vida imortal.\n\nCom  símbolos que o Salvador\nMorrendo nos deixou,\nCelebraremos Seu amor,\nQue na cruz demonstrou.\n\nTu, pão da vida Redentor!\nEm nosso coração\nInfunde graça, com fervor, \nE celestial unção.\n\nAcende em nós fogo eficaz\nDe fé e de valor;\nConcede-nos perdão e paz,\nHumilhação e amor. Amém.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Espírito Consolador, \nDivino e eternal,\nPreciosa fonte de amor \nE vida imortal.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Com  símbolos que o Salvador\nMorrendo nos deixou,\nCelebraremos Seu amor,\nQue na cruz demonstrou.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tu, pão da vida Redentor!\nEm nosso coração\nInfunde graça, com fervor, \nE celestial unção.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Acende em nós fogo eficaz\nDe fé e de valor;\nConcede-nos perdão e paz,\nHumilhação e amor. Amém.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

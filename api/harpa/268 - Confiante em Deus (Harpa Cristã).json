@@ -1,0 +1,62 @@
+{
+  "id": 1659481705900,
+  "title": "268 - Confiante em Deus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sê tu, em Deus confiante;\nOra muito a Jesus,\nE alegre, triunfante,\nLeva sempre tua cruz.\nNo Senhor tem esperança;\nPois te guia Sua mão;\nVem a Ele, sem tardança,\nE terás consolação. \n\nGlória, glória. \nAleluia, aleluia a Jesus! \nAleluia! Glória a Jesus! \nGlória, glória. \nAleluia, aleluia a Jesus! \nAleluia ao Redentor! Amém.  \n\nSe aqui és perseguido, \nTens a glória do porvir; \nSe estás enfraquecido, \nNovas forças hão de vir; \nMesmo que o sol se turve, \nHaja forte furacão, \nSê fiel, não te perturbes, \nCrê em Deus, de coração.\n\nGlória, glória. \nAleluia, aleluia a Jesus! \nAleluia! Glória a Jesus! \nGlória, glória. \nAleluia, aleluia a Jesus! \nAleluia ao Redentor! Amém.  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sê tu, em Deus confiante;\nOra muito a Jesus,\nE alegre, triunfante,\nLeva sempre tua cruz.\nNo Senhor tem esperança;\nPois te guia Sua mão;\nVem a Ele, sem tardança,\nE terás consolação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Glória, glória. \nAleluia, aleluia a Jesus! \nAleluia! Glória a Jesus! \nGlória, glória. \nAleluia, aleluia a Jesus! \nAleluia ao Redentor! Amém.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Se aqui és perseguido, \nTens a glória do porvir; \nSe estás enfraquecido, \nNovas forças hão de vir; \nMesmo que o sol se turve, \nHaja forte furacão, \nSê fiel, não te perturbes, \nCrê em Deus, de coração.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Glória, glória. \nAleluia, aleluia a Jesus! \nAleluia! Glória a Jesus! \nGlória, glória. \nAleluia, aleluia a Jesus! \nAleluia ao Redentor! Amém.  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

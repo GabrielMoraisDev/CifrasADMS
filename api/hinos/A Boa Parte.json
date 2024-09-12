@@ -1,0 +1,104 @@
+{
+  "id": 1712270098040,
+  "title": "A Boa Parte",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Precioso Jesus\nAos Teus pés aqui estou\nO que eu poderia Te oferecer\nPor tudo o que Tu és?\n\nTudo o que tenho\nEu derramo aos Teus pés\nNão importa quanto custou\nJesus, Teu valor é maior\n\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso\n\nPrecioso Jesus\nEu amo o som da Tua voz\nTuas palavras são mais desejáveis\nQue o mais doce mel\n\nTudo o que tenho\nEu derramo aos Teus pés\nNão importa o quanto custou\nJesus, Teu valor é maior\nJesus, Teu valor é maior\n\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso\n\nComo Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada\nComo Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada 2X\n\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso\n\nComo Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada\nComo Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada 2X\n\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Precioso Jesus\nAos Teus pés aqui estou\nO que eu poderia Te oferecer\nPor tudo o que Tu és?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tudo o que tenho\nEu derramo aos Teus pés\nNão importa quanto custou\nJesus, Teu valor é maior",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Precioso Jesus\nEu amo o som da Tua voz\nTuas palavras são mais desejáveis\nQue o mais doce mel",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tudo o que tenho\nEu derramo aos Teus pés\nNão importa o quanto custou\nJesus, Teu valor é maior\nJesus, Teu valor é maior",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Como Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada\nComo Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada 2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Como Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada\nComo Maria\nQue estava aos Seus pés e dissestes a ela\nEssa é a boa parte que nunca, que nunca será tirada 2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Eu encontrei o meu tesouro\nEu encontrei o bem mais precioso\nEu encontrei o meu tesouro\nEu encontrei o bem mais precioso",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

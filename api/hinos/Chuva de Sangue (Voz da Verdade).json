@@ -1,0 +1,69 @@
+{
+  "id": 1646572883840,
+  "title": "Chuva de Sangue",
+  "artist": "Voz da Verdade",
+  "author": "Carlos A. Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Uma chuva que cai\nE lava a minha alma\nUma chuva que vem\nDa cruz de Jesus\n\nEste sangue que entra\nEm minhas veias\nQue me faz conhecer\nQuem é o meu Pai\n\nPelas Suas feridas\nEu pude ser sarado\nEste sangue tem poder\nDeixa o medo de lado\n\nPelas Suas feridas\nEu pude ser sarado\nEste sangue tem poder\nDeixa o medo de lado\nDeixa o medo de lado\n\nChuva de sangue\nEu sinto aqui cair\nLava a minh'alma\nE cura o meu ser\nSangue de Deus\nQue me fez filho Seu\nMeu DNA tem o código\nDo Filho de Deus\n4x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Uma chuva que cai\nE lava a minha alma\nUma chuva que vem\nDa cruz de Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Este sangue que entra\nEm minhas veias\nQue me faz conhecer\nQuem é o meu Pai",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Pelas Suas feridas\nEu pude ser sarado\nEste sangue tem poder\nDeixa o medo de lado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Pelas Suas feridas\nEu pude ser sarado\nEste sangue tem poder\nDeixa o medo de lado\nDeixa o medo de lado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Chuva de sangue\nEu sinto aqui cair\nLava a minh'alma\nE cura o meu ser\nSangue de Deus\nQue me fez filho Seu\nMeu DNA tem o código\nDo Filho de Deus\n4x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

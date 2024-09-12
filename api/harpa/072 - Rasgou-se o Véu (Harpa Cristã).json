@@ -1,0 +1,55 @@
+{
+  "id": 1654732458672,
+  "title": "072 - Rasgou-se o Véu",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "D",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Rasgou-se o véu, franca ficou a entrada: \nConfiança temos, para ali entrar, \nOnde a divina glória revelada, \nOutrora, não podíamos mirar; \nPor Cristo, entrando, nada ali tememos; \nA glória brilha, sem nos ofuscar; \nNa luz estamos e permanecemos \nFirmes, tranqüilos, sem mais vacilar.   \n\nContigo ali, Senhor, nos encontramos, \nPois nos levaste já ao santo Pai, \nEm cuja graça aceitos, sempre estamos, \nEm cujo amor tão grande nos atrai \nA Ti, ó Filho - em Ti, ó bem amado! \nE só em Ti temos aceitação; \nE quem, no sangue estando já lavado, \nIsento está da eterna perdição. \n\nÓ Deus, a Ti de coração louvamos, \nPois de Ti nos quiseste aproximar, \nQuando separados de Ti ficamos, \nPor Tua lei divina, violar, \nTeus santos seguidores, consagrados, \nNo sangue do bendito Salvador, \nO culto e adoração Te apresentamos, \nPorque nos chamaste, ó bom Senhor! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Rasgou-se o véu, franca ficou a entrada: \nConfiança temos, para ali entrar, \nOnde a divina glória revelada, \nOutrora, não podíamos mirar; \nPor Cristo, entrando, nada ali tememos; \nA glória brilha, sem nos ofuscar; \nNa luz estamos e permanecemos \nFirmes, tranqüilos, sem mais vacilar.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Contigo ali, Senhor, nos encontramos, \nPois nos levaste já ao santo Pai, \nEm cuja graça aceitos, sempre estamos, \nEm cujo amor tão grande nos atrai \nA Ti, ó Filho - em Ti, ó bem amado! \nE só em Ti temos aceitação; \nE quem, no sangue estando já lavado, \nIsento está da eterna perdição. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ó Deus, a Ti de coração louvamos, \nPois de Ti nos quiseste aproximar, \nQuando separados de Ti ficamos, \nPor Tua lei divina, violar, \nTeus santos seguidores, consagrados, \nNo sangue do bendito Salvador, \nO culto e adoração Te apresentamos, \nPorque nos chamaste, ó bom Senhor! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

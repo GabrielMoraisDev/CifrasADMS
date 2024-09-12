@@ -1,0 +1,55 @@
+{
+  "id": 1654641207392,
+  "title": "600 - Mãos ao Trabalho",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Mãos ao trabalho, crentes, \nVai já passando o alvor. \nVamos, enquanto temos \nNossa vida em flor! \nVamos, enquanto é dia, \nCom força trabalhar: \nEia que em vindo a noite, \nJá não há lidar!  \n\nMãos ao trabalho, crentes, \nAndai, enquanto há luz: \nEia, que, agora é tempo \nDe servir Jesus! \nIde o vigor da vida \nTodos ao bem votar. \nEia, que em vindo a noite, \nJá não há lidar! \n\nMãos ao trabalho, crentes, \nBreve nos chega o fim. \nFirmes, enquanto a morte \nNão tocar clarim! \nVamos, irmãos, à obra, \nPor Cristo trabalhar: \nEia, que em vindo a noite, \nVamos descansar!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Mãos ao trabalho, crentes, \nVai já passando o alvor. \nVamos, enquanto temos \nNossa vida em flor! \nVamos, enquanto é dia, \nCom força trabalhar: \nEia que em vindo a noite, \nJá não há lidar!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mãos ao trabalho, crentes, \nAndai, enquanto há luz: \nEia, que, agora é tempo \nDe servir Jesus! \nIde o vigor da vida \nTodos ao bem votar. \nEia, que em vindo a noite, \nJá não há lidar! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mãos ao trabalho, crentes, \nBreve nos chega o fim. \nFirmes, enquanto a morte \nNão tocar clarim! \nVamos, irmãos, à obra, \nPor Cristo trabalhar: \nEia, que em vindo a noite, \nVamos descansar!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

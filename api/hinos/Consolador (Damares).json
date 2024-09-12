@@ -1,0 +1,83 @@
+{
+  "id": 1679870307619,
+  "title": "Consolador",
+  "artist": "Damares",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Consolador, não sai daqui\nMeu peito dói, minha alma chora\nSe Tu sair\nConsolador, mora em mim\nSinto um vazio quando estou longe de Ti\n\nPerdoa o meu coração\nDas vezes que errei sem perceber\nMas não afaste Sua presença\nSeus frutos me fazem viver\n\nConsolador, não sai daqui\nMeu peito dói, minha alma chora\nSe Tu sair\nConsolador, mora em mim\nSinto um vazio quando estou longe de Ti\n\nPerdoa o meu coração \nDas vezes que errei sem perceber\nMas não afaste Sua presença\nSeus frutos me fazem viver\n\nQuando minha alma se cansou\nFostes minha força pra seguir\nQuando o meu coração calou\nFostes intercessor, o meu Ajudador\nO meu Consolador Fiel\n\nConsolador \nNão sai daqui \nMeu peito dói \nMinha alma chora \nSe Tu sair \n\nConsolador, mora em mim\nSinto um vazio quando estou longe de Ti\nLonge de Ti\nLonge de Ti",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Consolador, não sai daqui\nMeu peito dói, minha alma chora\nSe Tu sair\nConsolador, mora em mim\nSinto um vazio quando estou longe de Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Perdoa o meu coração\nDas vezes que errei sem perceber\nMas não afaste Sua presença\nSeus frutos me fazem viver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Consolador, não sai daqui\nMeu peito dói, minha alma chora\nSe Tu sair\nConsolador, mora em mim\nSinto um vazio quando estou longe de Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Perdoa o meu coração \nDas vezes que errei sem perceber\nMas não afaste Sua presença\nSeus frutos me fazem viver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quando minha alma se cansou\nFostes minha força pra seguir\nQuando o meu coração calou\nFostes intercessor, o meu Ajudador\nO meu Consolador Fiel",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Consolador \nNão sai daqui \nMeu peito dói \nMinha alma chora \nSe Tu sair ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Consolador, mora em mim\nSinto um vazio quando estou longe de Ti\nLonge de Ti\nLonge de Ti",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

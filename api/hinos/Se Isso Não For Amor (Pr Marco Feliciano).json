@@ -1,0 +1,62 @@
+{
+  "id": 1631396581604,
+  "title": "Se Isso Não For Amor",
+  "artist": "Pr Marco Feliciano",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deixou o resplendor de Sua Glória\nSabendo o destino aqui\nEstava só e ferido no Golgóta\nPara dar Sua vida por mim\n\nSe isso não for amor...\nO oceano secou...não há estrelas no céu...\nAs andorinhas não voam mais...\nSe isso não for amor...\nO céu não é real...tudo perde o valor...\nSe isso não for amor...\n\nMesmo na morte lembrou-se\nDe um ladrão que ao Seu lado estava\nE com amor e ternura falou-lhe:\n''Ao paraíso Comigo irás''\n\nSe isso não for amor...\nO oceano secou...não há estrelas no céu...\nAs andorinhas não voam mais...\nSe isso não for amor...\nO céu não é real...tudo perde o valor...\nSe isso não for amor...\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deixou o resplendor de Sua Glória\nSabendo o destino aqui\nEstava só e ferido no Golgóta\nPara dar Sua vida por mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Se isso não for amor...\nO oceano secou...não há estrelas no céu...\nAs andorinhas não voam mais...\nSe isso não for amor...\nO céu não é real...tudo perde o valor...\nSe isso não for amor...",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mesmo na morte lembrou-se\nDe um ladrão que ao Seu lado estava\nE com amor e ternura falou-lhe:\n''Ao paraíso Comigo irás''",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Se isso não for amor...\nO oceano secou...não há estrelas no céu...\nAs andorinhas não voam mais...\nSe isso não for amor...\nO céu não é real...tudo perde o valor...\nSe isso não for amor...\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1659481647479,
+  "title": "267 -  Jesus Minha Força",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vai chegando mais perto e causando terror, \nA predita enchente de pecados e dor;\nMas eu sei que potente é a mão do Senhor, \nPor isso, tranquilo, não tenho temor. \n\nÉ Jesus minha força, meu amado Senhor, \nSe Ele é o guarda, não tenho temor;\nEu desejo encher-me do Seu grande amor, \nVivendo na graça do meu Salvador.\n\nMais chegado a Cristo eu desejo ficar;\nMais alegre e contente quero sempre andar, \nNos Seus passos seguindo para nunca errar,\nAté que um dia eu vá descansar.\n\nÉ Jesus minha força, meu amado Senhor, \nSe Ele é o guarda, não tenho temor;\nEu desejo encher-me do Seu grande amor, \nVivendo na graça do meu Salvador.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vai chegando mais perto e causando terror, \nA predita enchente de pecados e dor;\nMas eu sei que potente é a mão do Senhor, \nPor isso, tranquilo, não tenho temor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "É Jesus minha força, meu amado Senhor, \nSe Ele é o guarda, não tenho temor;\nEu desejo encher-me do Seu grande amor, \nVivendo na graça do meu Salvador.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mais chegado a Cristo eu desejo ficar;\nMais alegre e contente quero sempre andar, \nNos Seus passos seguindo para nunca errar,\nAté que um dia eu vá descansar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "É Jesus minha força, meu amado Senhor, \nSe Ele é o guarda, não tenho temor;\nEu desejo encher-me do Seu grande amor, \nVivendo na graça do meu Salvador.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

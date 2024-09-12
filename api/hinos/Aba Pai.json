@@ -1,0 +1,69 @@
+{
+  "id": 1689203854958,
+  "title": "Aba Pai",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Aqui é o melhor lugar, aonde que possa estar\nLugar de oração, lugar de adoração a Ti\nAqui é o melhor lugar, aonde que eu possa estar\nLugar de oração, lugar de adoração a Ti\n\nAba Pai, Deus meu\nEis-me aqui, eis-me aqui\nAba Pai, Deus meu\nOlha para mim\n\nÉs o meu esconderijo, és o meu melhor amigo\nEstou na casa do meu Pai\nQue me chama de filho\n\nMe ama do jeito que sou\nJamais me abandonou\nEu sou o Teu filho, eu sou o Teu filho\nMe faz sentar na mesa, cear contigo\n\nEu sou o Teu filho, eu sou o Teu filho\nEu sou o Teu filho, eu sou o Teu filho\nEu sou o Teu filho, eu sou o Teu filho",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Aqui é o melhor lugar, aonde que possa estar\nLugar de oração, lugar de adoração a Ti\nAqui é o melhor lugar, aonde que eu possa estar\nLugar de oração, lugar de adoração a Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Aba Pai, Deus meu\nEis-me aqui, eis-me aqui\nAba Pai, Deus meu\nOlha para mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "És o meu esconderijo, és o meu melhor amigo\nEstou na casa do meu Pai\nQue me chama de filho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Me ama do jeito que sou\nJamais me abandonou\nEu sou o Teu filho, eu sou o Teu filho\nMe faz sentar na mesa, cear contigo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu sou o Teu filho, eu sou o Teu filho\nEu sou o Teu filho, eu sou o Teu filho\nEu sou o Teu filho, eu sou o Teu filho",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

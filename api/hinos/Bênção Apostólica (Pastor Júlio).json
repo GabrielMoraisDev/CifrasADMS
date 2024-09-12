@@ -1,0 +1,55 @@
+{
+  "id": 1698361748827,
+  "title": "Bênção Apostólica",
+  "artist": "Pastor Júlio",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Que o Amor de Deus, a graça de nosso Senhor Salvador Jesus Cristo  \n \n\nQue a comunhão e a consolação do Espírito Santo esteja em toda sua vida, você que acredita diz bem forte  \n\nAMÉM!!!!, se Deus é por nós quem sera contra nós?",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Que o Amor de Deus, a graça de nosso Senhor Salvador Jesus Cristo  \n ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Que a comunhão e a consolação do Espírito Santo esteja em toda sua vida, você que acredita diz bem forte  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "AMÉM!!!!, se Deus é por nós quem sera contra nós?",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

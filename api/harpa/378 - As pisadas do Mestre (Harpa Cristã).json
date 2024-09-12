@@ -1,0 +1,69 @@
+{
+  "id": 1663285667915,
+  "title": "378 - As pisadas do Mestre",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quero seguir as pisadas do Mestre, \nQuero ir após o meu Rei e Senhor, \nPara que no Seu poder me adestre, \nEu vou orando ao meu Redentor. \n\nQuão doce é seguir as pisadas do Mestre \nNa bendita luz, perto de Jesus!\nQuão doce é seguir as pisadas do Mestre, \nE levar a cruz!\n\nAndo mais perto de Um que me guia, \nQuando o maligno me vem enganar; \nQue me sustenta na grande porfia, \nDevo por isso, o Seu nome exaltar! \n\nSigo Seus passsos de terno carinho, \nMisericórdia, amor e mansidão;\nQual ave que vai em busca do ninho, \nEu me dirijo à santa Sião. \n\nQuero seguir as pisadas de Cristo,\nSempre acima desejo galgar.\nPara Sião, que por fé eu avisto,\nOnde p'ra sempre eu vou descansar.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quero seguir as pisadas do Mestre, \nQuero ir após o meu Rei e Senhor, \nPara que no Seu poder me adestre, \nEu vou orando ao meu Redentor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quão doce é seguir as pisadas do Mestre \nNa bendita luz, perto de Jesus!\nQuão doce é seguir as pisadas do Mestre, \nE levar a cruz!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ando mais perto de Um que me guia, \nQuando o maligno me vem enganar; \nQue me sustenta na grande porfia, \nDevo por isso, o Seu nome exaltar! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Sigo Seus passsos de terno carinho, \nMisericórdia, amor e mansidão;\nQual ave que vai em busca do ninho, \nEu me dirijo à santa Sião. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quero seguir as pisadas de Cristo,\nSempre acima desejo galgar.\nPara Sião, que por fé eu avisto,\nOnde p'ra sempre eu vou descansar.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

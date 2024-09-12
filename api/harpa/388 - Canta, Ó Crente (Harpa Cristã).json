@@ -1,0 +1,55 @@
+{
+  "id": 1663286308168,
+  "title": "388 - Canta, Ó Crente",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Canta com vida, ó crente! \nDoce será cantar!\nAnda só para a frente, \nDeixa o teu pesar;\nCanta nas noites tristes, \nCanta no sol, na luz;\nO mal assim resistes: \nCanta p'ra Jesus! \n\nCanta com vida, ó crente, \nAlegra o coração!\nLouva ao Deus clemente, \nCom feliz canção!\nCheio está o mundo\nDe turbação e dor;\nCanta o amor profundo \nDo teu Salvador. \n\nCanta com vida, ó crente! \nDeus teu socorro é; \nGuarda-te a mão potente, \nSe tiveres fé.\nCristo, sim, te levanta, \nQuando medroso estás, \nSe confiando cantas \nSeu amor veraz. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Canta com vida, ó crente! \nDoce será cantar!\nAnda só para a frente, \nDeixa o teu pesar;\nCanta nas noites tristes, \nCanta no sol, na luz;\nO mal assim resistes: \nCanta p'ra Jesus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Canta com vida, ó crente, \nAlegra o coração!\nLouva ao Deus clemente, \nCom feliz canção!\nCheio está o mundo\nDe turbação e dor;\nCanta o amor profundo \nDo teu Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Canta com vida, ó crente! \nDeus teu socorro é; \nGuarda-te a mão potente, \nSe tiveres fé.\nCristo, sim, te levanta, \nQuando medroso estás, \nSe confiando cantas \nSeu amor veraz. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

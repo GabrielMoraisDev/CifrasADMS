@@ -1,0 +1,90 @@
+{
+  "id": 1648340956084,
+  "title": "Mil Graus",
+  "artist": "Renascer Praise",
+  "author": "Clovis Pinho",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Na presença dos homens\nNa presença dos anjos\nSempre eu Te louvarei\nTe louvarei\n\nMesmo estando em guerra\nVou celebrando minha vitória\nEu Te louvarei\nTe louvarei\n\nSobre toda terra\nUm novo som se ouvirá\nTua alegria\nForça pra continuar\n\nDeus de maravilhas\nQue maravilha\nTe louvar, Te louvar\nTe louvar\n\nEu entro na Tua presença\nPra receber o Seu poder\nE quanto mais o tempo passa\nMais quero Deus\n\nO fogo cai, a Igreja canta\nO inimigo vai ao chão\nFogo e glória nas cabeças\nMil graus de unção\n\nMil graus de unção\n\nO som da festa vai subir\nSua glória descerá\nE se ouvirá um novo som\nDe aleluia",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Na presença dos homens\nNa presença dos anjos\nSempre eu Te louvarei\nTe louvarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mesmo estando em guerra\nVou celebrando minha vitória\nEu Te louvarei\nTe louvarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sobre toda terra\nUm novo som se ouvirá\nTua alegria\nForça pra continuar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Deus de maravilhas\nQue maravilha\nTe louvar, Te louvar\nTe louvar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu entro na Tua presença\nPra receber o Seu poder\nE quanto mais o tempo passa\nMais quero Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "O fogo cai, a Igreja canta\nO inimigo vai ao chão\nFogo e glória nas cabeças\nMil graus de unção",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Mil graus de unção",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "O som da festa vai subir\nSua glória descerá\nE se ouvirá um novo som\nDe aleluia",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

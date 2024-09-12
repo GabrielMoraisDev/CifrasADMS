@@ -1,0 +1,62 @@
+{
+  "id": 1657458898094,
+  "title": "556 – Lê a Bíblia",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Se desejas conhecer \nA mensagem do Senhor, \nTua alma enriquecer \nNa Verdade e no Amor,  \n\nLê a Bíblia! Teu fervor \nNela vem alimentar! \nTua vida redimida \nNo Senhor vai exultar. \nLê a Bíblia! Teu fervor \nNela vem alimentar! \nTua vida redimida \nNo Senhor vai exultar. \n\nSe almejas alcançar \nAs promessas de Jesus \nE pretendes caminhar \nSob a proteção da Cruz,  \n\nSe em verdade queres ir \nHabitar com o Senhor, \nJunto dele usufruir \nDo mais rico e pleno amor.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Se desejas conhecer \nA mensagem do Senhor, \nTua alma enriquecer \nNa Verdade e no Amor,  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Lê a Bíblia! Teu fervor \nNela vem alimentar! \nTua vida redimida \nNo Senhor vai exultar. \nLê a Bíblia! Teu fervor \nNela vem alimentar! \nTua vida redimida \nNo Senhor vai exultar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Se almejas alcançar \nAs promessas de Jesus \nE pretendes caminhar \nSob a proteção da Cruz,  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Se em verdade queres ir \nHabitar com o Senhor, \nJunto dele usufruir \nDo mais rico e pleno amor.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

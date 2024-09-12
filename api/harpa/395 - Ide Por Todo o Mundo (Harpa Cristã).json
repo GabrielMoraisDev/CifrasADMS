@@ -1,0 +1,76 @@
+{
+  "id": 1660088969044,
+  "title": "395 - Ide Por Todo o Mundo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ide por todo o mundo e dizei: \n\"E-Me dado todo o poder\";\nIde, anunciai que já ressuscitei, \nP'ra dar vida a todo o que crer. \n\nConfiando, irei onde me mandar; \nPela terra, pelo mar também .\nEis que estou convosco para vos guardar,\nPor todos os séculos. Amém.\n\nIde e ensinai todas as nações; \nPublicai a salvação e paz;\nCristo já venceu a morte e seus grilhões,\nLiberdade agora, a todos traz. \n\nConfiando, irei onde me mandar; \nPela terra, pelo mar também .\nEis que estou convosco para vos guardar,\nPor todos os séculos. Amém.\n\nDa salvação a porta aberta está; \nQuem por ela hoje quer entrar?\nE Jesus quem oferece e quem dá \nLivre entrada no celeste lar. \n\nConfiando, irei onde me mandar; \nPela terra, pelo mar também .\nEis que estou convosco para vos guardar,\nPor todos os séculos. Amém.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ide por todo o mundo e dizei: \n\"E-Me dado todo o poder\";\nIde, anunciai que já ressuscitei, \nP'ra dar vida a todo o que crer. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Confiando, irei onde me mandar; \nPela terra, pelo mar também .\nEis que estou convosco para vos guardar,\nPor todos os séculos. Amém.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ide e ensinai todas as nações; \nPublicai a salvação e paz;\nCristo já venceu a morte e seus grilhões,\nLiberdade agora, a todos traz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Confiando, irei onde me mandar; \nPela terra, pelo mar também .\nEis que estou convosco para vos guardar,\nPor todos os séculos. Amém.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Da salvação a porta aberta está; \nQuem por ela hoje quer entrar?\nE Jesus quem oferece e quem dá \nLivre entrada no celeste lar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Confiando, irei onde me mandar; \nPela terra, pelo mar também .\nEis que estou convosco para vos guardar,\nPor todos os séculos. Amém.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

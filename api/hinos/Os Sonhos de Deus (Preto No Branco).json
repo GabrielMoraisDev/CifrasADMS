@@ -1,0 +1,104 @@
+{
+  "id": 1630885122503,
+  "title": "Os Sonhos de Deus",
+  "artist": "Preto No Branco",
+  "author": "Juninho Black",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu sei que não há\nNenhuma provação\nMaior do que\nEu possa suportar\n\nMas estou cansado\nPai, preciso crer\nNas Tuas promessas\nPra continuar\n\nEu sei que me livraste\nDas acusações\nMas estou cansado de chorar\n\nEspírito Santo\nVem me renovar\nSó Tua presença\nPra me alegrar\n\nOs sonhos de Deus\nSão maiores que os teus\nTão grandes\nQue nem pode imaginar\n\nNão desanime, filho\nEu vim te consolar\nNas minhas promessas\nVolte a acreditar\n\nOs sonhos de Deus\nSão maiores que os teus\nPor isso\nVale a pena acreditar\n\nO dia está chegando\nEu vou te renovar\nNa minha presença \nTu vais prosperar\n\nVocê devia se alegrar\nVocê devia se alegrar\nVocê devia se alegrar\n\nVocê devia agradecer\nVocê devia agradecer\nVocê devia agradecer",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu sei que não há\nNenhuma provação\nMaior do que\nEu possa suportar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mas estou cansado\nPai, preciso crer\nNas Tuas promessas\nPra continuar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu sei que me livraste\nDas acusações\nMas estou cansado de chorar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Espírito Santo\nVem me renovar\nSó Tua presença\nPra me alegrar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Os sonhos de Deus\nSão maiores que os teus\nTão grandes\nQue nem pode imaginar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Não desanime, filho\nEu vim te consolar\nNas minhas promessas\nVolte a acreditar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Os sonhos de Deus\nSão maiores que os teus\nPor isso\nVale a pena acreditar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "O dia está chegando\nEu vou te renovar\nNa minha presença \nTu vais prosperar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Você devia se alegrar\nVocê devia se alegrar\nVocê devia se alegrar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Você devia agradecer\nVocê devia agradecer\nVocê devia agradecer",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

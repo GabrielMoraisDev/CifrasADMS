@@ -1,0 +1,62 @@
+{
+  "id": 1659479206164,
+  "title": "257 - O Perdão Sem Igual",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Amoroso Salvador,\nSem igual é Teu perdão; \nSó Tu és meu Redentor \nE perfeita salvação. \n\nMeu contrito coração \nTe confessa seu pecar, \nPede ao Pai real perdão, \nPelo Teu amor sem par. \n\nTe contemplo, sem cessar, \nNo Teu trono desde aqui; \nOh! quão grato é meditar, \nQue intercedes Tu por mim. \n\nA fonte és da compaixão, \nSempre a Ti darei louvor! \nFaz-me bem ao coração,\nExaltar-Te, meu Senhor! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Amoroso Salvador,\nSem igual é Teu perdão; \nSó Tu és meu Redentor \nE perfeita salvação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Meu contrito coração \nTe confessa seu pecar, \nPede ao Pai real perdão, \nPelo Teu amor sem par. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Te contemplo, sem cessar, \nNo Teu trono desde aqui; \nOh! quão grato é meditar, \nQue intercedes Tu por mim. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "A fonte és da compaixão, \nSempre a Ti darei louvor! \nFaz-me bem ao coração,\nExaltar-Te, meu Senhor! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

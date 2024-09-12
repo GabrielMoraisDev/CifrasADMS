@@ -1,0 +1,62 @@
+{
+  "id": 1658064230393,
+  "title": "142 - A Cidade Celeste",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó Sião celeste, repouso dos santos, \nO teu arquiteto se chama o SENHOR; \nEm ti entraremos, com gozo e canto, \nCom os que adoram o bom Salvador, \nEm bela planície estás situada, \nE que majestosa rainha és tu! \nDe pedras preciosas estás adornada;\nDemonstras a glória de Cristo Jesus. \nDe Cristo Jesus. de Cristo Jesus. \nDemonstras a glória de Cristo Jesus. \n\nTeus belos caminhos tratados com zelo, \nE as tuas torres, que vistas farão! \nDe todos os palácios, \nGrandioso é o modelo; \nEm ti nós teremos a consolação; \nAs portas do muro são todas formosas; \nA praça é calçada de ouro que luz; \nEm ti essas coisas são mui gloriosas, \nE és toda cheia da paz de Jesus! \nDa paz de Jesus, da paz de Jesus. \nE és toda cheia da paz de Jesus. \n\nJamais haverá em ti noite alguma, \nTeu grande luzeiro perpétuo será; \nSem a luz do sol, nem d’estrelas ou lua. \nA glória de Cristo te alumiará. \nE neste esplendor, de um sol verdadeiro, \nOs santos e anjos do céu entrarão, \nE virá na frente Jesus, o Cordeiro; \nCom Ele pra sempre ali reinarão. \nAli reinarão, ali reinarão, \nCom Ele pra sempre ali reinarão. \n\nOh! que grande festa nos é concedida, \nCom a mesa posta, espera o Senhor, \nA todos inscritos no livro da vida, \nE que já da morte não têm mais temor; \nDe todos os que foram \nPor Cristo comprados, \nO lindo cortejo composto será; \nE Deus, que há dado o Seu filho amado, \nCom Cristo na glória, os consolará, \nOs consolará, os consolará, \nCom Cristo na glória, os consolará. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó Sião celeste, repouso dos santos, \nO teu arquiteto se chama o SENHOR; \nEm ti entraremos, com gozo e canto, \nCom os que adoram o bom Salvador, \nEm bela planície estás situada, \nE que majestosa rainha és tu! \nDe pedras preciosas estás adornada;\nDemonstras a glória de Cristo Jesus. \nDe Cristo Jesus. de Cristo Jesus. \nDemonstras a glória de Cristo Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Teus belos caminhos tratados com zelo, \nE as tuas torres, que vistas farão! \nDe todos os palácios, \nGrandioso é o modelo; \nEm ti nós teremos a consolação; \nAs portas do muro são todas formosas; \nA praça é calçada de ouro que luz; \nEm ti essas coisas são mui gloriosas, \nE és toda cheia da paz de Jesus! \nDa paz de Jesus, da paz de Jesus. \nE és toda cheia da paz de Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jamais haverá em ti noite alguma, \nTeu grande luzeiro perpétuo será; \nSem a luz do sol, nem d’estrelas ou lua. \nA glória de Cristo te alumiará. \nE neste esplendor, de um sol verdadeiro, \nOs santos e anjos do céu entrarão, \nE virá na frente Jesus, o Cordeiro; \nCom Ele pra sempre ali reinarão. \nAli reinarão, ali reinarão, \nCom Ele pra sempre ali reinarão. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh! que grande festa nos é concedida, \nCom a mesa posta, espera o Senhor, \nA todos inscritos no livro da vida, \nE que já da morte não têm mais temor; \nDe todos os que foram \nPor Cristo comprados, \nO lindo cortejo composto será; \nE Deus, que há dado o Seu filho amado, \nCom Cristo na glória, os consolará, \nOs consolará, os consolará, \nCom Cristo na glória, os consolará. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

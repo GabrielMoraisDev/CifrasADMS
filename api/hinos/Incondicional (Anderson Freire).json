@@ -1,0 +1,69 @@
+{
+  "id": 1661122058618,
+  "title": "Incondicional",
+  "artist": "Anderson Freire",
+  "author": "Anderson Freire",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Não me rejeitas\nQuando corro para Ti\nDepois da dor\nDepois do medo\n\nMe ajudas quando clamo\nLeva-me ao inacessível\nInesquecível\n\nMas não dá pra comparar\nQuando incondicional\nEntro em Teu santuário\n\nOs meus sonhos\nFicam dispersos\nNada peço\nSó me entrego\n\nTe adorar é incondicional\nTeu amor é incondicional\nEu não vim pelo que tens\nNem pelo que vais fazer\nTua presença é o meu prazer",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Não me rejeitas\nQuando corro para Ti\nDepois da dor\nDepois do medo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Me ajudas quando clamo\nLeva-me ao inacessível\nInesquecível",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mas não dá pra comparar\nQuando incondicional\nEntro em Teu santuário",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Os meus sonhos\nFicam dispersos\nNada peço\nSó me entrego",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Te adorar é incondicional\nTeu amor é incondicional\nEu não vim pelo que tens\nNem pelo que vais fazer\nTua presença é o meu prazer",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

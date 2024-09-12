@@ -1,0 +1,62 @@
+{
+  "id": 1661901678159,
+  "title": "381 - O Cordeiro de Deus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vejo um homem na cruz pendurado \nA derramar sangue, por meu pecado, \nE o Cordeiro de Deus imolado, \nQue por mim sofre grandíssima dor; \nQuanto padece na cruz, no altar, \nCristo Jesus, o meu bom Salvador, \nPara fazer-me um tesouro herdar. \nNo santo reino do Senhor!    \n\nEm oração, quando rompe a alva, \nSinto remorsos no fundo da alma, \nPorque na cruz sofreu \nCristo com calma, \nTodo castigo, por mim pecador; \nQuis o supremo Pai determinar \nTão cruel morte ao meu Salvador; \nPara no céu conceder-me lugar \nJunto de Cristo Redentor.    \n\nOh! Quanta dor não sentiu o Eterno, \nQuando nos deu \nCristo meigo e terno! \nPara minh’alma salvar do inferno, \nPor mim morreu o meu bom Salvador, \nOs meus pecados na cruz expiou \nE morte horrenda sofreu com amor. \nMas sobre Si minha culpa tomou, \nO meu amado Redentor.  \n\nFaz Jesus Cristo. que eu mais Te ame \nE mais e mais Tua graça proclame; \nLivra-me de todos fortes liames, \nQue sempre tece o vil tentador; \nSobre o altar, por mim \nCristo subiu, \nOferecendo holocausto de amor: \nQual um cordeiro, na cruz sucumbiu \nCristo Jesus, meu Salvador.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vejo um homem na cruz pendurado \nA derramar sangue, por meu pecado, \nE o Cordeiro de Deus imolado, \nQue por mim sofre grandíssima dor; \nQuanto padece na cruz, no altar, \nCristo Jesus, o meu bom Salvador, \nPara fazer-me um tesouro herdar. \nNo santo reino do Senhor!    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Em oração, quando rompe a alva, \nSinto remorsos no fundo da alma, \nPorque na cruz sofreu \nCristo com calma, \nTodo castigo, por mim pecador; \nQuis o supremo Pai determinar \nTão cruel morte ao meu Salvador; \nPara no céu conceder-me lugar \nJunto de Cristo Redentor.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Oh! Quanta dor não sentiu o Eterno, \nQuando nos deu \nCristo meigo e terno! \nPara minh’alma salvar do inferno, \nPor mim morreu o meu bom Salvador, \nOs meus pecados na cruz expiou \nE morte horrenda sofreu com amor. \nMas sobre Si minha culpa tomou, \nO meu amado Redentor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Faz Jesus Cristo. que eu mais Te ame \nE mais e mais Tua graça proclame; \nLivra-me de todos fortes liames, \nQue sempre tece o vil tentador; \nSobre o altar, por mim \nCristo subiu, \nOferecendo holocausto de amor: \nQual um cordeiro, na cruz sucumbiu \nCristo Jesus, meu Salvador.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

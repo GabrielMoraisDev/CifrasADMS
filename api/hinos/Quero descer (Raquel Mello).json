@@ -1,0 +1,90 @@
+{
+  "id": 1685882666292,
+  "title": "Quero descer",
+  "artist": "Raquel Mello",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando meu eu\nE o meu orgulho descer comigo\nE se misturar\nComo as águas do rio\nEntão subirei\nComo Naamã curado\nEu abro mão de tudo que sou\nSó pra servir-te oh meu Senhor\n\nEu abro mão de tudo que sou\nSó pra te adorar, Senhor\n\nSenhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder, Aleluia\n\nQuando meu eu\nE o meu orgulho descer comigo\nE se misturar\nComo as águas do rio\nEntão subirei\nComo Naamã curado\n\nEu abro mão de tudo que sou\nSó pra servir-te oh meu Senhor\nEu abro mão de tudo que sou\nSó pra te adorar, Senhor\n\nSenhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder\n\nSenhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder\n\nSenhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder\nComo Naamã, no Teu poder",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando meu eu\nE o meu orgulho descer comigo\nE se misturar\nComo as águas do rio\nEntão subirei\nComo Naamã curado\nEu abro mão de tudo que sou\nSó pra servir-te oh meu Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu abro mão de tudo que sou\nSó pra te adorar, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Senhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder, Aleluia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Quando meu eu\nE o meu orgulho descer comigo\nE se misturar\nComo as águas do rio\nEntão subirei\nComo Naamã curado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu abro mão de tudo que sou\nSó pra servir-te oh meu Senhor\nEu abro mão de tudo que sou\nSó pra te adorar, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Senhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Senhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Senhor, quebra o meu orgulho\nEu quero descer e mergulhar\nNas águas do teu amor\nMe purifica, eu quero ser limpo\nComo Naamã, no Teu poder\nComo Naamã, no Teu poder",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

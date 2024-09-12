@@ -1,0 +1,62 @@
+{
+  "id": 1656631221077,
+  "title": "097 - Há um Caminho Santo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "F",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Há um caminho santo, ao céu de plena luz, \nAs vezes espinhoso, à glória nos conduz; \nE o caminho certo pra todo pecador; \nJesus é o Salvador, \nJesus é o Salvador. \n\nHá paz inabalável pra quem está na luz; \nPor preço incomparável \nComprou-me a mim Jesus \nO dom do Pai amado minh'alma satisfaz, \nJesus é minha paz, \nJesus é minha paz. \n\nHá um poder que sara o triste coração, \nQue dá alívio à alma, paz e consolação, \nE guarda minha veste, também, \nEm nívea luz; \nPoder de meu Jesus, \nPoder de meu Jesus!   \n\nHá um fim glorioso, além do escuro véu; \nNo fim do espinhoso caminho está o céu; \nE quando for tirado o véu da escuridão, \nVerei Jesus, então, \nVerei Jesus, então. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Há um caminho santo, ao céu de plena luz, \nAs vezes espinhoso, à glória nos conduz; \nE o caminho certo pra todo pecador; \nJesus é o Salvador, \nJesus é o Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Há paz inabalável pra quem está na luz; \nPor preço incomparável \nComprou-me a mim Jesus \nO dom do Pai amado minh'alma satisfaz, \nJesus é minha paz, \nJesus é minha paz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Há um poder que sara o triste coração, \nQue dá alívio à alma, paz e consolação, \nE guarda minha veste, também, \nEm nívea luz; \nPoder de meu Jesus, \nPoder de meu Jesus!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Há um fim glorioso, além do escuro véu; \nNo fim do espinhoso caminho está o céu; \nE quando for tirado o véu da escuridão, \nVerei Jesus, então, \nVerei Jesus, então. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

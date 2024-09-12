@@ -1,0 +1,62 @@
+{
+  "id": 1660866296239,
+  "title": "413 – Meu Pastor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Meu Pastor é Jesus Cristo \nNEle quero confiar; \nCom Jesus, não tenho falta, \nJunto a Ele eu quEro andar; \nMe conduz ao bom descanso; \nPara o campo verde em flor, \nRefrigera, sim, minh’alma, \nSaciando-me de amor.    \n\nEle é meu companheiro; \nCom Jesus desejo andar; \nPois me dá vigor e força, \nP’ra que eu possa caminhar; \nEle é quem dá coragem, \nPara nada eu temer; \nMesmo próximo à morte \nCerto estou que vou vencer.    \n\nCaminhando ao Seu lado \nNão maia temerei o mal; \nSeu bordão e Seu cajado \nDão-me proteção real; \nContra o meu inimigo \nO Senhor sempre virá; \nMe prepara uma mesa \nE comigo nela está.    \n\nUnge a cabeça minha \nCom óleo do Seu amor; \nO meu gozo é transbordante, \nPois meu cálice tem dulçor; \nPor Sua misericórdia \nE por Seu sublime bem \nHabitarei em Sua casa \nEternamente, amém?",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Meu Pastor é Jesus Cristo \nNEle quero confiar; \nCom Jesus, não tenho falta, \nJunto a Ele eu quEro andar; \nMe conduz ao bom descanso; \nPara o campo verde em flor, \nRefrigera, sim, minh’alma, \nSaciando-me de amor.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ele é meu companheiro; \nCom Jesus desejo andar; \nPois me dá vigor e força, \nP’ra que eu possa caminhar; \nEle é quem dá coragem, \nPara nada eu temer; \nMesmo próximo à morte \nCerto estou que vou vencer.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Caminhando ao Seu lado \nNão maia temerei o mal; \nSeu bordão e Seu cajado \nDão-me proteção real; \nContra o meu inimigo \nO Senhor sempre virá; \nMe prepara uma mesa \nE comigo nela está.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Unge a cabeça minha \nCom óleo do Seu amor; \nO meu gozo é transbordante, \nPois meu cálice tem dulçor; \nPor Sua misericórdia \nE por Seu sublime bem \nHabitarei em Sua casa \nEternamente, amém?",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

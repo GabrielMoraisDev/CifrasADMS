@@ -1,0 +1,97 @@
+{
+  "id": 1658270423628,
+  "title": "116 - Livre Estou!",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "F",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu vagava pela senda de horror,\nOprimido pelo pecado e temor.\nQuando o Salvador eu vi,\nSua terna voz ouvi,\nMeu Jesus me libertou \nPor Seu amor.\n\nLivre estou! Livre estou!\nPela graça de Jesus \nLivre estou;\n\nLivre estou! Livre estou!\nAleluia! Pela fé, \nLivre estou!\n\nEu vagava pela senda de horror,\nNão pensando no amor do Salvador;\nEu vagava sem ter luz,\nLonge do Senhor Jesus,\nMas liberto, \nhoje canto a Deus louvor.\n\nLivre estou! Livre estou!\nPela graça de Jesus \nLivre estou;\n\nLivre estou! Livre estou!\nAleluia! Pela fé, \nLivre estou!\n\nEu vagava pela senda de horror,\nMas, agora, \nQuero andar com meu Senhor,\nQuero ouvir Sua terna voz,\nE Segui-lo sempre após,\nGlória seja dada \nAo nosso bom Pastor.\n\nLivre estou! Livre estou!\nPela graça de Jesus \nLivre estou;\n\nLivre estou! Livre estou!\nAleluia! Pela fé, \nLivre estou!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu vagava pela senda de horror,\nOprimido pelo pecado e temor.\nQuando o Salvador eu vi,\nSua terna voz ouvi,\nMeu Jesus me libertou \nPor Seu amor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Livre estou! Livre estou!\nPela graça de Jesus \nLivre estou;",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Livre estou! Livre estou!\nAleluia! Pela fé, \nLivre estou!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu vagava pela senda de horror,\nNão pensando no amor do Salvador;\nEu vagava sem ter luz,\nLonge do Senhor Jesus,\nMas liberto, \nhoje canto a Deus louvor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Livre estou! Livre estou!\nPela graça de Jesus \nLivre estou;",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Livre estou! Livre estou!\nAleluia! Pela fé, \nLivre estou!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Eu vagava pela senda de horror,\nMas, agora, \nQuero andar com meu Senhor,\nQuero ouvir Sua terna voz,\nE Segui-lo sempre após,\nGlória seja dada \nAo nosso bom Pastor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Livre estou! Livre estou!\nPela graça de Jesus \nLivre estou;",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Livre estou! Livre estou!\nAleluia! Pela fé, \nLivre estou!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1659046746387,
+  "title": "237 - O Gozo de Estar Preparado",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O Noivo estamos prontos \nPra encontrar,\nEis que do céu virá.\nCom nossas luzes vamos esperar,\nJesus não tardará!  \n\nOh! que gozo preparado está, \nPara os servos do Senhor Jesus; \nBreve Cristo do céu voltará\nEm gloriosa luz!  \n\nCoroa nós teremos lá no céu, \nSe Cristo em nós viver; \nEm breve Ele vem rompendo o véu, \nO mal vem desfazer!  \n\nOh! que gozo preparado está, \nPara os servos do Senhor Jesus; \nBreve Cristo do céu voltará\nEm gloriosa luz!  \n\nLá em Sião nós vamos encontrar \nCom nosso Redentor; \nNa glória eterna vamos desfrutar \nDo divinal amor!\n\nOh! que gozo preparado está, \nPara os servos do Senhor Jesus; \nBreve Cristo do céu voltará\nEm gloriosa luz!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O Noivo estamos prontos \nPra encontrar,\nEis que do céu virá.\nCom nossas luzes vamos esperar,\nJesus não tardará!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! que gozo preparado está, \nPara os servos do Senhor Jesus; \nBreve Cristo do céu voltará\nEm gloriosa luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Coroa nós teremos lá no céu, \nSe Cristo em nós viver; \nEm breve Ele vem rompendo o véu, \nO mal vem desfazer!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh! que gozo preparado está, \nPara os servos do Senhor Jesus; \nBreve Cristo do céu voltará\nEm gloriosa luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Lá em Sião nós vamos encontrar \nCom nosso Redentor; \nNa glória eterna vamos desfrutar \nDo divinal amor!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Oh! que gozo preparado está, \nPara os servos do Senhor Jesus; \nBreve Cristo do céu voltará\nEm gloriosa luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

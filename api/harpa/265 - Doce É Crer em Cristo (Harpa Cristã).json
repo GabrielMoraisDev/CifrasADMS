@@ -1,0 +1,69 @@
+{
+  "id": 1659050084322,
+  "title": "265 - Doce É Crer em Cristo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Oh! quão doce é crer em Cristo, \nE entregar-se a Jesus,\nEsperar em Suas promessas \nE andar na Sua luz! \n\nJesus Cristo, Jesus Cristo,\nTeu amor me deste a mim!\nJesus Cristo, Jesus Cristo,\nSempre quero crer em Ti.\n\nÉ mui doce crer em Cristo,\nE cumprir o Seu querer,\nNão descrendo em Sua Palavra, \nQue é luz p'ra nosso ser. \n\nE mui grato crer em Cristo; \nQuando busca o coração \nOs tesouros infinitos\nDe amor, paz e perdão. \n\nSempre em Ti confiar eu quero,\nMeu precioso Salvador;\nNa bonança e na luta,\nMe proteja o Teu amor.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Oh! quão doce é crer em Cristo, \nE entregar-se a Jesus,\nEsperar em Suas promessas \nE andar na Sua luz! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Jesus Cristo, Jesus Cristo,\nTeu amor me deste a mim!\nJesus Cristo, Jesus Cristo,\nSempre quero crer em Ti.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "É mui doce crer em Cristo,\nE cumprir o Seu querer,\nNão descrendo em Sua Palavra, \nQue é luz p'ra nosso ser. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E mui grato crer em Cristo; \nQuando busca o coração \nOs tesouros infinitos\nDe amor, paz e perdão. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Sempre em Ti confiar eu quero,\nMeu precioso Salvador;\nNa bonança e na luta,\nMe proteja o Teu amor.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

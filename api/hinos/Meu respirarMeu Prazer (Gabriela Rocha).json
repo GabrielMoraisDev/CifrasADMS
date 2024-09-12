@@ -1,0 +1,90 @@
+{
+  "id": 1723314692219,
+  "title": "Meu respirar/Meu Prazer",
+  "artist": "Gabriela Rocha",
+  "author": "Gabriela Rocha",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Este é o meu respirar\nEste é o meu respirar\nTeu Santo Espírito\nVivendo em mim\n\nE este é o meu pão\nE este é o meu pão\nTua vontade\nFeita em mim\n\nE eu, eu nada sou sem Ti\nNão, não, não, não, não\nE eu, perdido estou sem Ti, Jesus\n\nE eu, eu nada sou sem Ti\nJesus, não, eu nada sou\nE eu, perdido estou sem Ti\n\nRei dos reis, e Senhor\nTe entregamos nosso viver\nRei dos reis, e Senhor\nTe entregamos, nosso viver\n\nPra Te adorar, oh, rei dos reis\nFoi que eu nasci, oh, rei Jesus\nMeu prazer é Te louvar\nMeu prazer é estar\nNos átrios do Senhor\nMeu prazer é viver\nNa casa de Deus\nO meu prazer está em Ti, Deus\nO meu prazer está\nNa casa de Deus, onde flui o amor\n\nPra Te adorar, oh, rei dos reis\nFoi que eu nasci, oh, rei Jesus\nMeu prazer é Te louvar\nMeu prazer é estar\nNos átrios do Senhor\nMeu prazer é viver\nNa casa de Deus, onde flui o amor\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Este é o meu respirar\nEste é o meu respirar\nTeu Santo Espírito\nVivendo em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E este é o meu pão\nE este é o meu pão\nTua vontade\nFeita em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E eu, eu nada sou sem Ti\nNão, não, não, não, não\nE eu, perdido estou sem Ti, Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E eu, eu nada sou sem Ti\nJesus, não, eu nada sou\nE eu, perdido estou sem Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Rei dos reis, e Senhor\nTe entregamos nosso viver\nRei dos reis, e Senhor\nTe entregamos, nosso viver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Pra Te adorar, oh, rei dos reis\nFoi que eu nasci, oh, rei Jesus\nMeu prazer é Te louvar\nMeu prazer é estar\nNos átrios do Senhor\nMeu prazer é viver\nNa casa de Deus\nO meu prazer está em Ti, Deus\nO meu prazer está\nNa casa de Deus, onde flui o amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Pra Te adorar, oh, rei dos reis\nFoi que eu nasci, oh, rei Jesus\nMeu prazer é Te louvar\nMeu prazer é estar\nNos átrios do Senhor\nMeu prazer é viver\nNa casa de Deus, onde flui o amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "E eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

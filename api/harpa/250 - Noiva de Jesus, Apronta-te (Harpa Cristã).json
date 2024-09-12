@@ -1,0 +1,76 @@
+{
+  "id": 1657150081584,
+  "title": "250 - Noiva de Jesus, Apronta-te",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "A Cristo unida está a minh'alma,\nPois nEle eu tenho meu vero sustento; \nMe enche de gozo do céu, e de calma; \nTambém me ensina os seus mandamentos \n\nÓ Noiva de Jesus, apronta-te para ir \nPara o eterno e santo reinado; \nQue divinal amor irás lá, então,\n fruir Com Jesus Cristo, o teu amado!\n\nNa santa Igreja, com sangue remida, \nJá é manifesta em mim Sua glória, \nQue por Sua graça me foi concedida, \nNa qual abrigado, terei a vitória. \n\nÓ Noiva de Jesus, apronta-te para ir \nPara o eterno e santo reinado; \nQue divinal amor irás lá, então,\n fruir Com Jesus Cristo, o teu amado!\n\nAssim eu desejo a Cristo unido,\nSeguir o caminho p'ra bela cidade,\nPois nEle, dos males, sou bem protegido, \nTambém rodeado de vera bondade.\n\nÓ Noiva de Jesus, apronta-te para ir \nPara o eterno e santo reinado; \nQue divinal amor irás lá, então,\nfruir Com Jesus Cristo, o teu amado!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "A Cristo unida está a minh'alma,\nPois nEle eu tenho meu vero sustento; \nMe enche de gozo do céu, e de calma; \nTambém me ensina os seus mandamentos ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó Noiva de Jesus, apronta-te para ir \nPara o eterno e santo reinado; \nQue divinal amor irás lá, então,\n fruir Com Jesus Cristo, o teu amado!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Na santa Igreja, com sangue remida, \nJá é manifesta em mim Sua glória, \nQue por Sua graça me foi concedida, \nNa qual abrigado, terei a vitória. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó Noiva de Jesus, apronta-te para ir \nPara o eterno e santo reinado; \nQue divinal amor irás lá, então,\n fruir Com Jesus Cristo, o teu amado!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Assim eu desejo a Cristo unido,\nSeguir o caminho p'ra bela cidade,\nPois nEle, dos males, sou bem protegido, \nTambém rodeado de vera bondade.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ó Noiva de Jesus, apronta-te para ir \nPara o eterno e santo reinado; \nQue divinal amor irás lá, então,\nfruir Com Jesus Cristo, o teu amado!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

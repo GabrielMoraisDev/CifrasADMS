@@ -1,0 +1,62 @@
+{
+  "id": 1644150765059,
+  "title": "021 - Gloriosa Aurora",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "D",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "A gloriosa aurora vem, \nDo dia em que lá em Belém \nNasceu de Deus, o Filho; \nQue belo dia e de luz, \nNo qual p'ra nós desceu Jesus, \nDo céu mostrando o trilho. \nQuantos santos hoje lembram, \nE relembram a história \nDe Jesus, o Rei da Glória!   \n\nNasceu Jesus lá em Belém, \nTrazendo-nos o sumo bem \nDo céu - a liberdade; \nNos concedeu perfeita paz, \nConsolação que satisfaz \nPor toda a eternidade! \nComo fomos desgarrados, \nDesviados e perdidos! \nHoje somos redimidos! \n\nConosco Cristo habitará \nCom Seu poder nos velará, \nNos dando livramento; \nE sempre há de nos guiar \nPois Sua graça vai nos dar \nEm todo o sofrimento, Scuta: \nLuta sempre forte. \nTé a morte, pois ajuda \nTens em Cristo, que não muda! \n\nJesus desceu p'ra nos salvar, \nO sol da graça vem brilhar, \nAlegres jubilemos; \nJesus, ó nosso bom Pastor, \nVem nos guiar com Teu amor; \nAli nós pertencemos; \nAlmas salvas, perdoadas, \nLibertadas hoje oram, \nReverentes Te adoram! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "A gloriosa aurora vem, \nDo dia em que lá em Belém \nNasceu de Deus, o Filho; \nQue belo dia e de luz, \nNo qual p'ra nós desceu Jesus, \nDo céu mostrando o trilho. \nQuantos santos hoje lembram, \nE relembram a história \nDe Jesus, o Rei da Glória!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Nasceu Jesus lá em Belém, \nTrazendo-nos o sumo bem \nDo céu - a liberdade; \nNos concedeu perfeita paz, \nConsolação que satisfaz \nPor toda a eternidade! \nComo fomos desgarrados, \nDesviados e perdidos! \nHoje somos redimidos! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Conosco Cristo habitará \nCom Seu poder nos velará, \nNos dando livramento; \nE sempre há de nos guiar \nPois Sua graça vai nos dar \nEm todo o sofrimento, Scuta: \nLuta sempre forte. \nTé a morte, pois ajuda \nTens em Cristo, que não muda! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jesus desceu p'ra nos salvar, \nO sol da graça vem brilhar, \nAlegres jubilemos; \nJesus, ó nosso bom Pastor, \nVem nos guiar com Teu amor; \nAli nós pertencemos; \nAlmas salvas, perdoadas, \nLibertadas hoje oram, \nReverentes Te adoram! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

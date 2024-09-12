@@ -1,0 +1,76 @@
+{
+  "id": 1654727951406,
+  "title": "152 - Pela Cruz ao Céu Irei!",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ao Calvário, só Jesus se transportou \nLevando pesada cruz, \nE morrendo, lá p'ra o mortal deixou, \nUm fanal de gloriosa luz. \n\nPela cruz ao céu irei; \nPela cruz eu seguirei \nPare o lar de paz e eterno amor \nPela cruz ao céu irei. \n\nSó na cruz, a alma sedenta achará \nA fonte de Inspiração; \nE ali o fardo de dor cairá; \nNo Calvário, há salvação. \n\nPela cruz ao céu irei; \nPela cruz eu seguirei \nPare o lar de paz e eterno amor \nPela cruz ao céu irei. \n\nPela cruz irei à mansão celestial. \nO rumo marcado está, \nEm minha vida obscura será o fanal; \nEm sua luz minha alma irá. \n\nPela cruz ao céu irei; \nPela cruz eu seguirei \nPare o lar de paz e eterno amor \nPela cruz ao céu irei. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ao Calvário, só Jesus se transportou \nLevando pesada cruz, \nE morrendo, lá p'ra o mortal deixou, \nUm fanal de gloriosa luz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pela cruz ao céu irei; \nPela cruz eu seguirei \nPare o lar de paz e eterno amor \nPela cruz ao céu irei. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Só na cruz, a alma sedenta achará \nA fonte de Inspiração; \nE ali o fardo de dor cairá; \nNo Calvário, há salvação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Pela cruz ao céu irei; \nPela cruz eu seguirei \nPare o lar de paz e eterno amor \nPela cruz ao céu irei. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Pela cruz irei à mansão celestial. \nO rumo marcado está, \nEm minha vida obscura será o fanal; \nEm sua luz minha alma irá. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Pela cruz ao céu irei; \nPela cruz eu seguirei \nPare o lar de paz e eterno amor \nPela cruz ao céu irei. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

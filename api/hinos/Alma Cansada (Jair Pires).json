@@ -1,0 +1,111 @@
+{
+  "id": 1660864496717,
+  "title": "Alma Cansada",
+  "artist": "Jair Pires",
+  "author": "Jair Pires",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Alma cansada\nNão desespere\nEspera em Deus\nQue Ele vem\n\nQue Ele vem te socorrer\n\nAlma cansada\nNão desespere\nEspera em Deus\n\nEspera em Deus\nEspera em Deus\nE no seu poder\n\nÓ alma cansada\nEspera em Deus\nE no seu amor\n\nVem, alma cansada\nEspera em Deus\nConfia somente no seu amor\n\nAlma cansada\nO teu lamento não resolverá\nA hora é triste com fé insiste\nDeus te ouvirá\n\nSe teus momentos\nTrazem tormentos\nQue fazem chorar\n\nDeus te chama agora\nOh, vem sem demora\nEm paz descansar\n\nOh, alma cansada\nEspera em Deus\nE no seu amor\n\nVem, alma cansada\nEspera em Deus\nConfia somente no seu amor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Alma cansada\nNão desespere\nEspera em Deus\nQue Ele vem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Que Ele vem te socorrer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Alma cansada\nNão desespere\nEspera em Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Espera em Deus\nEspera em Deus\nE no seu poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ó alma cansada\nEspera em Deus\nE no seu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Vem, alma cansada\nEspera em Deus\nConfia somente no seu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Alma cansada\nO teu lamento não resolverá\nA hora é triste com fé insiste\nDeus te ouvirá",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Se teus momentos\nTrazem tormentos\nQue fazem chorar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Deus te chama agora\nOh, vem sem demora\nEm paz descansar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Oh, alma cansada\nEspera em Deus\nE no seu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Vem, alma cansada\nEspera em Deus\nConfia somente no seu amor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

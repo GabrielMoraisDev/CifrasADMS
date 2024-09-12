@@ -1,0 +1,62 @@
+{
+  "id": 1657148249801,
+  "title": "110 - Clama: Jesus, Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "C",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó clama na tribulação: Jesus, Jesus. \nDe todo o teu coração: Jesus, Jesus, \nPor certo, te socorrerá: Jesus, Jesus, \nE gozo e paz te dará: Jesus, Jesus. \n\nTu queres um bom Salvador? Jesus, Jesus, \nQue ama o vil pecador? Jesus, Jesus, \nE que tem poder p’ra salvar? Jesus, Jesus,\nE para o céu te levar? Jesus, Jesus. \n\nHá um que te pode curar: Jesus, Jesus. \nE da corrupção te guardar: Jesus. Jesus \nSó um nome dá salvação: Jesus, Jesus. \nO gozo, a paz, o perdão: Jesus, Jesus. \n\nAceita, no teu coração: Jesus, Jesus; \nAssim, tu terás salvação, Jesus, Jesus; \nAbraça, com terno amor: Jesus, Jesus; \nQue chora por ti, pecador, Jesus, Jesus. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó clama na tribulação: Jesus, Jesus. \nDe todo o teu coração: Jesus, Jesus, \nPor certo, te socorrerá: Jesus, Jesus, \nE gozo e paz te dará: Jesus, Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tu queres um bom Salvador? Jesus, Jesus, \nQue ama o vil pecador? Jesus, Jesus, \nE que tem poder p’ra salvar? Jesus, Jesus,\nE para o céu te levar? Jesus, Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Há um que te pode curar: Jesus, Jesus. \nE da corrupção te guardar: Jesus. Jesus \nSó um nome dá salvação: Jesus, Jesus. \nO gozo, a paz, o perdão: Jesus, Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Aceita, no teu coração: Jesus, Jesus; \nAssim, tu terás salvação, Jesus, Jesus; \nAbraça, com terno amor: Jesus, Jesus; \nQue chora por ti, pecador, Jesus, Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

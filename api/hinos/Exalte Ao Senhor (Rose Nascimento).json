@@ -1,0 +1,55 @@
+{
+  "id": 1662331084612,
+  "title": "Exalte Ao Senhor",
+  "artist": "Rose Nascimento",
+  "author": "Rozeane Ribeiro",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Igual Paulo cantou quando estava preso\nE não desanimou, quero cantar também\nDaniel na cova dos leões, ao senhor sempre orava\nE não se intimidou, porque Deus com ele estava\nNa fornalha os três homens não deixaram de exaltar\nE Estevão debaixo de pedras sem a Deus negar\n\nIsolado na ilha de Patmos\nJoão clamava e Deus o escutava\nE abriu o céu e ele viu a glória de Deus\n\nSe você cantar, prisões vão se abrir\nSe você orar, leões vão se calar\nExalte ao Senhor que na fornalha o fogo vai se esfriar\nE não vai te queimar\nAs pedras vão cair, mas Deus vai te livrar\nSe você clamar o céu vai se abrir\nA glória do Senhor você vai contemplar\nPorque o céu já se abriu aqui neste lugar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Igual Paulo cantou quando estava preso\nE não desanimou, quero cantar também\nDaniel na cova dos leões, ao senhor sempre orava\nE não se intimidou, porque Deus com ele estava\nNa fornalha os três homens não deixaram de exaltar\nE Estevão debaixo de pedras sem a Deus negar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Isolado na ilha de Patmos\nJoão clamava e Deus o escutava\nE abriu o céu e ele viu a glória de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Se você cantar, prisões vão se abrir\nSe você orar, leões vão se calar\nExalte ao Senhor que na fornalha o fogo vai se esfriar\nE não vai te queimar\nAs pedras vão cair, mas Deus vai te livrar\nSe você clamar o céu vai se abrir\nA glória do Senhor você vai contemplar\nPorque o céu já se abriu aqui neste lugar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

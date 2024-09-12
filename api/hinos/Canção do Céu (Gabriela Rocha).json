@@ -1,0 +1,83 @@
+{
+  "id": 1688303245072,
+  "title": "Canção do Céu",
+  "artist": "Gabriela Rocha",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Santo\nJesus, Tu és Santo\nTua é a glória\nE toda a criação pra sempre cantará\nSanto \nJesus, Tu és Santo\nTua é a glória\nToda criação pra sempre cantará\n\nTu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória\n\nPoderoso\nTu és poderoso\nTua é a glória\nE toda criação pra sempre cantará\n\nTu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória\nTu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória\n\nO inicio, o fim\nTeu Reino é Eterno\nO Autor da Fé, Jesus o Rei dos Reis\nO Alfa, o Ômega\nQuem pode detê-lo?\nO nosso Messias, exaltado é! \n(2X)\n\nTu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória\n2x\n\nNo céu nós cantaremos\nQue só Teu nome é\nDigno de glória com o céu nos cantaremos\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Santo\nJesus, Tu és Santo\nTua é a glória\nE toda a criação pra sempre cantará\nSanto \nJesus, Tu és Santo\nTua é a glória\nToda criação pra sempre cantará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Poderoso\nTu és poderoso\nTua é a glória\nE toda criação pra sempre cantará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória\nTu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "O inicio, o fim\nTeu Reino é Eterno\nO Autor da Fé, Jesus o Rei dos Reis\nO Alfa, o Ômega\nQuem pode detê-lo?\nO nosso Messias, exaltado é! \n(2X)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Tu és digno\nDe glória, de força e honra\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "No céu nós cantaremos\nQue só Teu nome é\nDigno de glória com o céu nos cantaremos\nCom o céu nós cantaremos\nQue só Teu nome é digno de glória",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1711315725713,
+  "title": "Deus de Palavra",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "\nSei que tu estás ao meu lado\nPosso descansar e confiar\nPelos vales pensei estar sozinho\nMas a tua mão me alcançou\nNo silêncio Jesus me ensinou\nA seguir em paz, sem duvidar\n\nSei que tu estás ao meu lado\nPosso descansar e confiar\nPelos vales pensei estar sozinho\nMas a tua mão me alcançou\nNo silêncio Jesus me ensinou\nA seguir em paz, sem duvidar\nSem duvidar, sem duvidar, sem duvidar\n\nTudo pode o que crê\nNão há razão para temer\nEle é Deus de palavra\nVocê tem tudo pra vencer (4x)\n\noooooh, OOOOh, oooooh (3x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "\nSei que tu estás ao meu lado\nPosso descansar e confiar\nPelos vales pensei estar sozinho\nMas a tua mão me alcançou\nNo silêncio Jesus me ensinou\nA seguir em paz, sem duvidar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Sei que tu estás ao meu lado\nPosso descansar e confiar\nPelos vales pensei estar sozinho\nMas a tua mão me alcançou\nNo silêncio Jesus me ensinou\nA seguir em paz, sem duvidar\nSem duvidar, sem duvidar, sem duvidar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tudo pode o que crê\nNão há razão para temer\nEle é Deus de palavra\nVocê tem tudo pra vencer (4x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "oooooh, OOOOh, oooooh (3x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

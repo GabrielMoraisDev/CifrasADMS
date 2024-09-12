@@ -1,0 +1,62 @@
+{
+  "id": 1658446539564,
+  "title": "191 - O Meu Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O meu Jesus, por mim, morreu \nNa cruz, com dor horrenda; \nAli em meu lugar sofreu, \nAngustia mui tremenda! \nQuem poderei no mundo achar. \nQue a meu Jesus vá comparar? \nJesus. Jesus, somente vou amar! \n\nO meu Jesus está no céu, \nIntercessor potente, \nPor mim, pedindo sempre a Deus. \nA graça, amor fervente. \nNinguém jamais ao Pai conduz \nO pecador, senão Jesus; \nJesus, Jesus, a Deus, ó me introduz! \n\nO meu Jesus ressuscitou, \nEm corpo glorioso, \nTambém, por mim, a Deus pagou \nUm preço fabuloso! \nQual dos mortais vou encontrar \nQue a meu Jesus vou igualar? \nJesus, Jesus, não posso comparar! \n\nJesus do céu há de voltar, \nEm majestade e glória, \nEntão Seus anjos irão cantar \nO hino da vitória, Jesus, \nEnfim, vai suplantar \nO Anticristo, e reinar. \nJesus, Jesus, ó vem me arrebatar! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O meu Jesus, por mim, morreu \nNa cruz, com dor horrenda; \nAli em meu lugar sofreu, \nAngustia mui tremenda! \nQuem poderei no mundo achar. \nQue a meu Jesus vá comparar? \nJesus. Jesus, somente vou amar! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "O meu Jesus está no céu, \nIntercessor potente, \nPor mim, pedindo sempre a Deus. \nA graça, amor fervente. \nNinguém jamais ao Pai conduz \nO pecador, senão Jesus; \nJesus, Jesus, a Deus, ó me introduz! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O meu Jesus ressuscitou, \nEm corpo glorioso, \nTambém, por mim, a Deus pagou \nUm preço fabuloso! \nQual dos mortais vou encontrar \nQue a meu Jesus vou igualar? \nJesus, Jesus, não posso comparar! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jesus do céu há de voltar, \nEm majestade e glória, \nEntão Seus anjos irão cantar \nO hino da vitória, Jesus, \nEnfim, vai suplantar \nO Anticristo, e reinar. \nJesus, Jesus, ó vem me arrebatar! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

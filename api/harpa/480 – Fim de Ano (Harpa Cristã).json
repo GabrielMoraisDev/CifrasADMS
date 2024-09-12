@@ -1,0 +1,55 @@
+{
+  "id": 1658878102945,
+  "title": "480 – Fim de Ano",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus eterno, em Tua presença, \nNossos séculos horas são \nE um segundo a existência \nDa humana geração; \nMas o homem que ao Teu lado, \nPela fé quer já voar, \nNeste mundo de pecado, \nLento o tempo vê passar.  \n\nOutro ano há fenecido, \nQue o viver mais encurtou, \nE o descanso apetecido, \nAlgo mais se aproximou. \nGraças mil por Teus favores, \nTua Igreja, ó Deus, \nTe dá! Aleluias e louvores, \nTeu poder nos susterá!  \n\nTu proteges as famílias, \nVisitando cada lar; \nSe o Senhor nos auxilia, \nQue nos pode aqui faltar? \nOnde quer que Te ame o homem, \nE Te sirva, andando bem, \nFaze que seja o Teu nome \nExaltado sempre! Amém! Amém!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus eterno, em Tua presença, \nNossos séculos horas são \nE um segundo a existência \nDa humana geração; \nMas o homem que ao Teu lado, \nPela fé quer já voar, \nNeste mundo de pecado, \nLento o tempo vê passar.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Outro ano há fenecido, \nQue o viver mais encurtou, \nE o descanso apetecido, \nAlgo mais se aproximou. \nGraças mil por Teus favores, \nTua Igreja, ó Deus, \nTe dá! Aleluias e louvores, \nTeu poder nos susterá!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tu proteges as famílias, \nVisitando cada lar; \nSe o Senhor nos auxilia, \nQue nos pode aqui faltar? \nOnde quer que Te ame o homem, \nE Te sirva, andando bem, \nFaze que seja o Teu nome \nExaltado sempre! Amém! Amém!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

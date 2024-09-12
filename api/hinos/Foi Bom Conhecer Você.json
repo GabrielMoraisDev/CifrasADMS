@@ -1,0 +1,69 @@
+{
+  "id": 1705876516625,
+  "title": "Foi Bom Conhecer Você",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Amigo\nA alegria em ter você aqui\nNos faz sentir\nVontade de cantar\n\nE de dizer que\nCristo quer lhe oferecer\nA alegria de viver\n\nAceite-o, seu amigo Ele será\nQueremos que você\nVolte outra vez\nE de novo lhe diremos\nQue foi bom conhecer você\n\nFoi bom\nFoi bom conhecer você\nFoi muito bom\nFoi bom conhecer você\n\nFoi bom demais\nFoi bom conhecer você\nPra lá de bom\nFoi bom conhecer você",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Amigo\nA alegria em ter você aqui\nNos faz sentir\nVontade de cantar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E de dizer que\nCristo quer lhe oferecer\nA alegria de viver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Aceite-o, seu amigo Ele será\nQueremos que você\nVolte outra vez\nE de novo lhe diremos\nQue foi bom conhecer você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Foi bom\nFoi bom conhecer você\nFoi muito bom\nFoi bom conhecer você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Foi bom demais\nFoi bom conhecer você\nPra lá de bom\nFoi bom conhecer você",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

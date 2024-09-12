@@ -1,0 +1,76 @@
+{
+  "id": 1654645423755,
+  "title": "210 - Fala, Fala, Senhor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Fala, fala, Senhor, nesta hora, \nQue ansioso te quero ouvir; \nTeu falar dá valor e restaura, \nE mais sábio me faz no porvir.   \n\nOh! Bendito o Teu nome eterno, \nQue Tu falas a quem escutar, \nDe saúde e repouso superno, \nDe alegria e paz eternal. \n\nFala, fala, Senhor, que conservo \nTuas palavras de vida e vigor; \nEstou pronto a seguir-Te com zelo, \nPelas Tuas veredas de amor. \n\nOh! Bendito o Teu nome eterno, \nQue Tu falas a quem escutar, \nDe saúde e repouso superno, \nDe alegria e paz eternal. \n\nFala, fala, Senhor, que eu ouço \nTuas palavras com todo fervor, \nPois conduzem ao eterno repouso, \nSão conselhos mui ricos de amor. \n\nOh! Bendito o Teu nome eterno, \nQue Tu falas a quem escutar, \nDe saúde e repouso superno, \nDe alegria e paz eternal. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Fala, fala, Senhor, nesta hora, \nQue ansioso te quero ouvir; \nTeu falar dá valor e restaura, \nE mais sábio me faz no porvir.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! Bendito o Teu nome eterno, \nQue Tu falas a quem escutar, \nDe saúde e repouso superno, \nDe alegria e paz eternal. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Fala, fala, Senhor, que conservo \nTuas palavras de vida e vigor; \nEstou pronto a seguir-Te com zelo, \nPelas Tuas veredas de amor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh! Bendito o Teu nome eterno, \nQue Tu falas a quem escutar, \nDe saúde e repouso superno, \nDe alegria e paz eternal. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Fala, fala, Senhor, que eu ouço \nTuas palavras com todo fervor, \nPois conduzem ao eterno repouso, \nSão conselhos mui ricos de amor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Oh! Bendito o Teu nome eterno, \nQue Tu falas a quem escutar, \nDe saúde e repouso superno, \nDe alegria e paz eternal. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1661726320112,
+  "title": "Tocou-me",
+  "artist": "Fernandinho",
+  "author": "William Gaither",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Algemado por um peso\nOh, quão triste eu andei\n\nAté sentir a mão de Cristo\nNão sou mais como eu era\nEu sei\n\nTocou-me\nJesus tocou-me\nDe paz Ele encheu\nMeu coração\n\nQuando o Senhor Jesus\nMe tocou\nLivrou-me da escuridão\n\nDesde que aceitei a Cristo\nE senti Seu terno amor\n\nEu tenho achado paz e vida\nPra sempre cantarei\nEm Seu louvor\n\nTocou-me\nJesus tocou-me\nDe paz Ele encheu\nMeu coração\n\nQuando o Senhor Jesus\nMe tocou\nLivrou-me da escuridão",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Algemado por um peso\nOh, quão triste eu andei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Até sentir a mão de Cristo\nNão sou mais como eu era\nEu sei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tocou-me\nJesus tocou-me\nDe paz Ele encheu\nMeu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Quando o Senhor Jesus\nMe tocou\nLivrou-me da escuridão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Desde que aceitei a Cristo\nE senti Seu terno amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu tenho achado paz e vida\nPra sempre cantarei\nEm Seu louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Tocou-me\nJesus tocou-me\nDe paz Ele encheu\nMeu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Quando o Senhor Jesus\nMe tocou\nLivrou-me da escuridão",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

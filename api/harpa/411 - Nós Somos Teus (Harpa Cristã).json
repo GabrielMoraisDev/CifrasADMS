@@ -1,0 +1,55 @@
+{
+  "id": 1656247370588,
+  "title": "411 - Nós Somos Teus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Filho do eterno Deus, nós somos Teus!\nCompraste-nos, Jesus, por Tua cruz,\nRendemo-nos, Senhor, cheios de fé e amor;\nNós somos Teus, Filho de Deus! \n\nO Teu caminho, ó Deus que leva ao céu, \nFaze-nos percorrer até morrer.\nNão tem que recear todo o que nele andar; \nTu és, Senhor, o bom Pastor. \n\nA quem nos quis salvar vamos louvar\nCom voz e coração, em santa união,\nAceita, pois, Senhor, nosso veraz louvor!\nGraças, oh! Deus, que somos Teus! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Filho do eterno Deus, nós somos Teus!\nCompraste-nos, Jesus, por Tua cruz,\nRendemo-nos, Senhor, cheios de fé e amor;\nNós somos Teus, Filho de Deus! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "O Teu caminho, ó Deus que leva ao céu, \nFaze-nos percorrer até morrer.\nNão tem que recear todo o que nele andar; \nTu és, Senhor, o bom Pastor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "A quem nos quis salvar vamos louvar\nCom voz e coração, em santa união,\nAceita, pois, Senhor, nosso veraz louvor!\nGraças, oh! Deus, que somos Teus! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

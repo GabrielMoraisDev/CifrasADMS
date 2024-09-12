@@ -1,0 +1,97 @@
+{
+  "id": 1645356885134,
+  "title": "O Cheiro das Águas",
+  "artist": "Diante do Trono",
+  "author": "Ana Paula Valadão",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Há esperança para o ferido\nComo árvore, cortado\nMarcado pela dor\n\nAinda que na terra\nEnvelheça a raiz\nE no chão, abandonado\nO seu tronco morrer\n\nHá esperança para o ferido\nComo árvore, cortado\nMarcado pela dor\n\nAinda que na terra\nEnvelheça a raiz\nE no chão, abandonado\nO seu tronco morrer\nHá esperança pra você!\n\nAo cheiro das águas brotará\nComo planta nova, florescerá\nSeus ramos se renovarão\nNão cessarão os seus frutos\nE viverá\n\nHá esperança para o ferido\nComo árvore, cortado\nMarcado pela dor\n\nAinda que na terra\nEnvelheça a raiz\nE no chão, abandonado\nO seu tronco morrer\nHá esperança pra você!\n\nAo cheiro das águas brotará\nComo planta nova, florescerá\nSeus ramos se renovarão\nNão cessarão os seus frutos\nE viverá\n2x\n\nSeus ramos se renovarão\nNão cessarão os seus frutos\nE viverá\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Há esperança para o ferido\nComo árvore, cortado\nMarcado pela dor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ainda que na terra\nEnvelheça a raiz\nE no chão, abandonado\nO seu tronco morrer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Há esperança para o ferido\nComo árvore, cortado\nMarcado pela dor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ainda que na terra\nEnvelheça a raiz\nE no chão, abandonado\nO seu tronco morrer\nHá esperança pra você!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ao cheiro das águas brotará\nComo planta nova, florescerá\nSeus ramos se renovarão\nNão cessarão os seus frutos\nE viverá",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Há esperança para o ferido\nComo árvore, cortado\nMarcado pela dor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Ainda que na terra\nEnvelheça a raiz\nE no chão, abandonado\nO seu tronco morrer\nHá esperança pra você!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Ao cheiro das águas brotará\nComo planta nova, florescerá\nSeus ramos se renovarão\nNão cessarão os seus frutos\nE viverá\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Seus ramos se renovarão\nNão cessarão os seus frutos\nE viverá\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

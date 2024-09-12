@@ -1,0 +1,104 @@
+{
+  "id": 1665316600714,
+  "title": "Estátua de Sal",
+  "artist": "3 Palavrinhas",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ouça agora\nEssa história\nDe uma mulher que se deu mal\nSó porque olhou pra trás\nVirou uma estátua de sal\nOuça agora\n\nEssa história\nDe uma mulher que se deu mal\nSó porque olhou pra trás\nVirou uma estátua de sal\nOlhou\n\nPra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!\n\nJoga fora a tristeza\nDiga adeus pra nunca mais\nVenha correndo pra Jesus\nSó não pode olhar para trás\n\nOlhou\nPra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!\n\nOuça agora\nEssa história\nDe uma mulher que se deu mal\nSó porque olhou pra trás\nVirou uma estátua de sal\n\nOlhou\nPra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!\n\nJoga fora a tristeza\nDiga adeus pra nunca mais\nVenha correndo pra Jesus\nSó não pode olhar para trás\n\nOlhou\nPra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!\n\nVirou uma estatua de sal\nVirou uma estatua de sal\nVirou uma estatua de...\nSal",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ouça agora\nEssa história\nDe uma mulher que se deu mal\nSó porque olhou pra trás\nVirou uma estátua de sal\nOuça agora",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Essa história\nDe uma mulher que se deu mal\nSó porque olhou pra trás\nVirou uma estátua de sal\nOlhou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Pra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Joga fora a tristeza\nDiga adeus pra nunca mais\nVenha correndo pra Jesus\nSó não pode olhar para trás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Olhou\nPra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ouça agora\nEssa história\nDe uma mulher que se deu mal\nSó porque olhou pra trás\nVirou uma estátua de sal",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Olhou\nPra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Joga fora a tristeza\nDiga adeus pra nunca mais\nVenha correndo pra Jesus\nSó não pode olhar para trás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Olhou\nPra trás\nE seu deu mal\nA mulher de Ló\nVirou uma estátua de sal\nOlhe pra mim e você vai ver\nEla ficou assim!\nAssim!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Virou uma estatua de sal\nVirou uma estatua de sal\nVirou uma estatua de...\nSal",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

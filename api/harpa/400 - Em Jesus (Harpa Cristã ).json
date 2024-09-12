@@ -1,0 +1,62 @@
+{
+  "id": 1639524503194,
+  "title": "400 - Em Jesus",
+  "artist": "Harpa Cristã ",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Em Jesus, vivendo cada dia,\nEm Jesus eu tenho alegria!\nEm Jesus, oh, doce harmonia!\nEm Jesus, desfruto a paz de Deus!\n\nEm Jesus, na rocha inabalável,\nEm Jesus, no homem incomparável!\nEm Jesus, no Deus tão adorável!\nEm Jesus, o mal não temerei!\n\nEm Jesus a graça é infinita,\nEm Jesus, oh, bênção inaudita;\nEm Jesus, minh'alma é bendita;\nEm Jesus eu tenho salvação!\n\nEm Jesus não temo o mal e a morte,\nEm Jesus estou firmado e forte!\nEm Jesus meu barco ruma ao norte;\nEm Jesus eu sempre hei de vencer!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Em Jesus, vivendo cada dia,\nEm Jesus eu tenho alegria!\nEm Jesus, oh, doce harmonia!\nEm Jesus, desfruto a paz de Deus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Em Jesus, na rocha inabalável,\nEm Jesus, no homem incomparável!\nEm Jesus, no Deus tão adorável!\nEm Jesus, o mal não temerei!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Em Jesus a graça é infinita,\nEm Jesus, oh, bênção inaudita;\nEm Jesus, minh'alma é bendita;\nEm Jesus eu tenho salvação!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Em Jesus não temo o mal e a morte,\nEm Jesus estou firmado e forte!\nEm Jesus meu barco ruma ao norte;\nEm Jesus eu sempre hei de vencer!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

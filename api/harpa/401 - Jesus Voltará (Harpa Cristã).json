@@ -1,0 +1,90 @@
+{
+  "id": 1660087004867,
+  "title": "401 - Jesus Voltará",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tudo nos mostra que Cristo já volta\nBreve Jesus voltará!\nJá deste mundo o mar se revolta\nBreve Jesus voltará!\n\nBreve virá. Breve virá\nBreve Jesus voltará\n\nCristão acorda Sua vinda é certa\nBreve Jesus voltará!\nPra recebê-Lo estas bem alerta?\nBreve Jesus voltará!\n\nBreve virá. Breve virá\nBreve Jesus voltará\n\nCrente proclama para os pecadores\nBreve Jesus voltará\nNão haverá mais tristezas nem\n dores\nBreve Jesus voltará.\n\nBreve virá. Breve virá\nBreve Jesus voltará\n\nConsola o coração que lhe clama\nBreve Jesus voltará\nPra Suas bodas o bom Rei nos chama:\nBreve Jesus voltará\n\nBreve virá. Breve virá\nBreve Jesus voltará",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tudo nos mostra que Cristo já volta\nBreve Jesus voltará!\nJá deste mundo o mar se revolta\nBreve Jesus voltará!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Breve virá. Breve virá\nBreve Jesus voltará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Cristão acorda Sua vinda é certa\nBreve Jesus voltará!\nPra recebê-Lo estas bem alerta?\nBreve Jesus voltará!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Breve virá. Breve virá\nBreve Jesus voltará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Crente proclama para os pecadores\nBreve Jesus voltará\nNão haverá mais tristezas nem\n dores\nBreve Jesus voltará.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Breve virá. Breve virá\nBreve Jesus voltará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Consola o coração que lhe clama\nBreve Jesus voltará\nPra Suas bodas o bom Rei nos chama:\nBreve Jesus voltará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Breve virá. Breve virá\nBreve Jesus voltará",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

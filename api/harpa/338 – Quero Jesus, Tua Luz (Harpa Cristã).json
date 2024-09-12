@@ -1,0 +1,76 @@
+{
+  "id": 1660086728421,
+  "title": "338 – Quero Jesus, Tua Luz",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quero sempre, Jesus, receber \nTua luz, Revestir-me do Consolador; \nE um dia nos céus, \nJunto ao trono de Deus, \nFruirei abundante amor!  \n\nÓ Jesus, guarda o meu coração, \nNele faz Tua eterna habItação, \nQuero sempre Teu nome louvar! \nPois quiseste minh’aima resgatar!  \n\nSob o sangue estarei abrigado da lei, \nDo pecado e da vil tentação; \nNeste sangue há paz, \nGozo que satisfaz \nE certeza de vem perdão!  \n\nÓ Jesus, guarda o meu coração, \nNele faz Tua eterna habItação, \nQuero sempre Teu nome louvar! \nPois quiseste minh’aima resgatar!  \n\nOh! Que consolação eu terei em Sião, \nVendo a face do meigo Jesus; \nUm eterno louvor eu darei ao Senhor, \nAo entrar na cidade da luz!\n\nÓ Jesus, guarda o meu coração, \nNele faz Tua eterna habItação, \nQuero sempre Teu nome louvar! \nPois quiseste minh’aima resgatar!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quero sempre, Jesus, receber \nTua luz, Revestir-me do Consolador; \nE um dia nos céus, \nJunto ao trono de Deus, \nFruirei abundante amor!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó Jesus, guarda o meu coração, \nNele faz Tua eterna habItação, \nQuero sempre Teu nome louvar! \nPois quiseste minh’aima resgatar!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sob o sangue estarei abrigado da lei, \nDo pecado e da vil tentação; \nNeste sangue há paz, \nGozo que satisfaz \nE certeza de vem perdão!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó Jesus, guarda o meu coração, \nNele faz Tua eterna habItação, \nQuero sempre Teu nome louvar! \nPois quiseste minh’aima resgatar!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Oh! Que consolação eu terei em Sião, \nVendo a face do meigo Jesus; \nUm eterno louvor eu darei ao Senhor, \nAo entrar na cidade da luz!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ó Jesus, guarda o meu coração, \nNele faz Tua eterna habItação, \nQuero sempre Teu nome louvar! \nPois quiseste minh’aima resgatar!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

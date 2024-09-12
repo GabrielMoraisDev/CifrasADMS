@@ -1,0 +1,76 @@
+{
+  "id": 1658874837651,
+  "title": "216 - Louvai a Deus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Louvai a Deus, com júbilo, cantando, \nE Seu amor ao mundo anunciai! \nDe Cristo, as glórias, \nJuntos celebrando; \nDo Salvador, a fama publicai. \n\nOs prodígios cantaremos \nDe Jesus, o Redentor; \nForça, vida, bens daremos \nP’ra falar do Seu amor! \n\nLouvei a Deus, Senhor onipotente, \nA quem devemos nossa salvação, \nQue habita os céus, \nPorém, aqui presente. \nSeguros, guia os Seus por Sua mão! \n\nOs prodígios cantaremos \nDe Jesus, o Redentor; \nForça, vida, bens daremos \nP’ra falar do Seu amor! \n\nLouvai a Deus e alegres, adorai-O; \nMil graças demos por \nSeu grande amor; \nCom a celeste multidão louvei-O, \nDeus, sempiterno e nosso Redentor. \n\nOs prodígios cantaremos \nDe Jesus, o Redentor; \nForça, vida, bens daremos \nP’ra falar do Seu amor! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Louvai a Deus, com júbilo, cantando, \nE Seu amor ao mundo anunciai! \nDe Cristo, as glórias, \nJuntos celebrando; \nDo Salvador, a fama publicai. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Os prodígios cantaremos \nDe Jesus, o Redentor; \nForça, vida, bens daremos \nP’ra falar do Seu amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Louvei a Deus, Senhor onipotente, \nA quem devemos nossa salvação, \nQue habita os céus, \nPorém, aqui presente. \nSeguros, guia os Seus por Sua mão! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Os prodígios cantaremos \nDe Jesus, o Redentor; \nForça, vida, bens daremos \nP’ra falar do Seu amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Louvai a Deus e alegres, adorai-O; \nMil graças demos por \nSeu grande amor; \nCom a celeste multidão louvei-O, \nDeus, sempiterno e nosso Redentor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Os prodígios cantaremos \nDe Jesus, o Redentor; \nForça, vida, bens daremos \nP’ra falar do Seu amor! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

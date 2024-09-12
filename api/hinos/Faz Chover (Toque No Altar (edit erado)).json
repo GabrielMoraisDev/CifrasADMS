@@ -1,0 +1,90 @@
+{
+  "id": 1664646301263,
+  "title": "Faz Chover",
+  "artist": "Toque No Altar (edit erado)",
+  "author": "Michael Farren",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu vejo uma pequena nuvem\nDo tamanho da mão\nDe um homem\nMas este é o sinal\nQue a Tua chuva vai descer\n2x\n\nFaz chover, faz chover\nAbre as comportas do céu\n2x\n\nEu vejo uma pequena nuvem\nDo tamanho da mão\nDe um homem\nMas este é o sinal\nQue a Tua chuva vai descer\n2x\n\nFaz chover, faz chover\nAbre as comportas do céu\nX3\n\nSe pedirmos, Jesus virá\nComo chuva descerá\nSe pedirmos, Jesus virá\nEntão clame, então grite\nEntão chame por Ele\n\nFaz chover, faz chover\nAbre as comportas do céu\nX3\n\nSe pedirmos, Jesus virá\nComo chuva descerá\nSe pedirmos, Jesus virá\nEntão clame, então grite\nEntão chame por Ele\n\nFaz chover, faz chover\nAbre as comportas do céu\nX5",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu vejo uma pequena nuvem\nDo tamanho da mão\nDe um homem\nMas este é o sinal\nQue a Tua chuva vai descer\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Faz chover, faz chover\nAbre as comportas do céu\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu vejo uma pequena nuvem\nDo tamanho da mão\nDe um homem\nMas este é o sinal\nQue a Tua chuva vai descer\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Faz chover, faz chover\nAbre as comportas do céu\nX3",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se pedirmos, Jesus virá\nComo chuva descerá\nSe pedirmos, Jesus virá\nEntão clame, então grite\nEntão chame por Ele",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Faz chover, faz chover\nAbre as comportas do céu\nX3",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Se pedirmos, Jesus virá\nComo chuva descerá\nSe pedirmos, Jesus virá\nEntão clame, então grite\nEntão chame por Ele",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Faz chover, faz chover\nAbre as comportas do céu\nX5",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

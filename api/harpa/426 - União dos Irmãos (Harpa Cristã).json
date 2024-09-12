@@ -1,0 +1,62 @@
+{
+  "id": 1663715491167,
+  "title": "426 - União dos Irmãos",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando aqui nos reunimos,\nirmãos, em santo amor, \nCertamente nós fruímos, \nBênçãos do Consolador! \nSempre pode Sua presença, \nDe Jesus testificar;\nCom palavras e sentenças \nA quem quer o escutar. \n\nQuando nós nos humilhamos \nAnte o bom Consolador,\npoder que nós buscamos, \nNos concede com amor; \nE se vedes, glorioso, \nEm visão, Jesus passar, \nEis que busca ansioso, \nUma alma batizar. \n\nQuando todos nos achamos \nProntos para escutar,\nPela unção, ouvir nós vamos \nbom Deus, a nós falar; \nE no céu, sim, ao chegarmos, \nOh! Que festa haverá,\nQuando já nos encontrarmos \nNo lugar que Deus dará! \n\nO remidos, sempre firmes, \nEsperando com ardor, \nque em nós Deus mais confirme\nseu poder consolador; eia! \nAvante, a caminho, \npela gloriosa luz, \npois de nós vai mui vizinho, \no amado bom Jesus ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando aqui nos reunimos,\nirmãos, em santo amor, \nCertamente nós fruímos, \nBênçãos do Consolador! \nSempre pode Sua presença, \nDe Jesus testificar;\nCom palavras e sentenças \nA quem quer o escutar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quando nós nos humilhamos \nAnte o bom Consolador,\npoder que nós buscamos, \nNos concede com amor; \nE se vedes, glorioso, \nEm visão, Jesus passar, \nEis que busca ansioso, \nUma alma batizar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando todos nos achamos \nProntos para escutar,\nPela unção, ouvir nós vamos \nbom Deus, a nós falar; \nE no céu, sim, ao chegarmos, \nOh! Que festa haverá,\nQuando já nos encontrarmos \nNo lugar que Deus dará! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "O remidos, sempre firmes, \nEsperando com ardor, \nque em nós Deus mais confirme\nseu poder consolador; eia! \nAvante, a caminho, \npela gloriosa luz, \npois de nós vai mui vizinho, \no amado bom Jesus ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

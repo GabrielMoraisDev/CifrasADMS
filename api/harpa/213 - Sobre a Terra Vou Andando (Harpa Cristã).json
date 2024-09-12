@@ -1,0 +1,62 @@
+{
+  "id": 1657060621231,
+  "title": "213 - Sobre a Terra Vou Andando",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sobre a terra vou andando, \nBem alegre para o céu, \nSatisfeito e salmodiando \nAo bondoso Deus; \nCom ferozes inimigos \nPelejando sempre estou, \nMas conservo paz comigo, \nPois amado sou. \n\nMeu Pastor é Pai celeste, \nQue me guia pra Sião \nPelos vales e mui prestes, \nCom segura mão; \nNos perigos da viagem, \nNas angústias e na dor, \nSua voz me diz: \nCoragem, Sou teu Salvador. \n\nCom Jesus eu trabalhando, \nPersevero em oração; \nSeu saber com fé buscando \nPra tornar-me são. \nQue prazer incomparável \nSer guiado por Jesus. \nSim, por Cristo tão amável, \nNa perene luz. \n\nAo chegar-se nessa pátria \nTodos prantos cessarão. \nJá o sol divino raia, \nNa feliz mansão. \nMales, lutas e agonias, \nAcabaram-se aqui; \nCristo vem, oh! \nQue alegria Vamos ter ali! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sobre a terra vou andando, \nBem alegre para o céu, \nSatisfeito e salmodiando \nAo bondoso Deus; \nCom ferozes inimigos \nPelejando sempre estou, \nMas conservo paz comigo, \nPois amado sou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Meu Pastor é Pai celeste, \nQue me guia pra Sião \nPelos vales e mui prestes, \nCom segura mão; \nNos perigos da viagem, \nNas angústias e na dor, \nSua voz me diz: \nCoragem, Sou teu Salvador. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com Jesus eu trabalhando, \nPersevero em oração; \nSeu saber com fé buscando \nPra tornar-me são. \nQue prazer incomparável \nSer guiado por Jesus. \nSim, por Cristo tão amável, \nNa perene luz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ao chegar-se nessa pátria \nTodos prantos cessarão. \nJá o sol divino raia, \nNa feliz mansão. \nMales, lutas e agonias, \nAcabaram-se aqui; \nCristo vem, oh! \nQue alegria Vamos ter ali! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

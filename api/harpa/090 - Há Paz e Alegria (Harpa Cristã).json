@@ -1,0 +1,62 @@
+{
+  "id": 1653224414811,
+  "title": "090 - Há Paz e Alegria",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Bb",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Há paz e alegria no reino da luz;\nA pátria dos remidos, \nJesus nos conduz, \nNo reino dos céus há gozo e paz;\nOs filhos de Deus têm poder veraz.\n\nHá paz e alegria no reino dos céus; \nOs salvos Iá entoam louvores a Deus; \nDai glória a Jesus! Porque nos amou; \nPor nós o Seu sangue Ele derramou!\n\nJesus tem prometido o Consolador! \nO Espírito Santo, o Instruidor;\nTambém prometeu, no reino dos céus, \nUm santo lugar, junto ao nosso Deus.\n\nFirmado na promessa \nTão grande e eficaz,\nAgora neste mundo desfruto a paz;\nEspero Jesus, nas nuvens descer,\nE na Sua glória me receber.\t",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Há paz e alegria no reino da luz;\nA pátria dos remidos, \nJesus nos conduz, \nNo reino dos céus há gozo e paz;\nOs filhos de Deus têm poder veraz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Há paz e alegria no reino dos céus; \nOs salvos Iá entoam louvores a Deus; \nDai glória a Jesus! Porque nos amou; \nPor nós o Seu sangue Ele derramou!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jesus tem prometido o Consolador! \nO Espírito Santo, o Instruidor;\nTambém prometeu, no reino dos céus, \nUm santo lugar, junto ao nosso Deus.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Firmado na promessa \nTão grande e eficaz,\nAgora neste mundo desfruto a paz;\nEspero Jesus, nas nuvens descer,\nE na Sua glória me receber.\t",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

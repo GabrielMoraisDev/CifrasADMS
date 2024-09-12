@@ -1,0 +1,83 @@
+{
+  "id": 1637192543626,
+  "title": "VISITANTE",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Visitante seja bem vindo\nTua presença é um prazer\nCom Jesus estamos dizendo\nQue esta igreja ama você!\n\nAleluia oh quão bom\nAleluia oh quão bom\nAleluia oh quão bom\n\nE quão bom e quão maravilhoso é\nQue os irmãos vivam em união\nOh quão bom e quão maravilhoso é\nQue os irmãos vivam em união\n\nAleluia oh quão bom\nAleluia oh quão bom\nAleluia oh quão bom\n\nNão importa a igreja que tu és\nSe aos pés do calvário tu estás\nSe o teu coração é igual ao meu\nDai-me a mão e meu irmão serás\n\nAleluia oh quão bom\nAleluia oh quão bom\nAleluia oh quão bom\n\nE Jesus ama você...",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Visitante seja bem vindo\nTua presença é um prazer\nCom Jesus estamos dizendo\nQue esta igreja ama você!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Aleluia oh quão bom\nAleluia oh quão bom\nAleluia oh quão bom",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E quão bom e quão maravilhoso é\nQue os irmãos vivam em união\nOh quão bom e quão maravilhoso é\nQue os irmãos vivam em união",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Aleluia oh quão bom\nAleluia oh quão bom\nAleluia oh quão bom",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Não importa a igreja que tu és\nSe aos pés do calvário tu estás\nSe o teu coração é igual ao meu\nDai-me a mão e meu irmão serás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Aleluia oh quão bom\nAleluia oh quão bom\nAleluia oh quão bom",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "E Jesus ama você...",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1630275766466,
+  "title": "A Ele a Glória",
+  "artist": "Diante do Trono",
+  "author": "Ana Paula Valadão, Kevin Jonas",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Porque Dele e por Ele\nPara Ele são todas as coisas\n(x4)\n\nA Ele a Glória\nA Ele a Glória\nA Ele a Glória\nPra sempre, amém\n(2x)\n\nQuão profundas riquezas\nO saber e o conhecer de Deus\nQuão insondáveis\nSeus juízos e Seus caminhos\n(2x)\n\nA Ele a Glória\nA Ele a Glória\nA Ele a Glória\nPra sempre, amém\n(3x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Porque Dele e por Ele\nPara Ele são todas as coisas\n(x4)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A Ele a Glória\nA Ele a Glória\nA Ele a Glória\nPra sempre, amém\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quão profundas riquezas\nO saber e o conhecer de Deus\nQuão insondáveis\nSeus juízos e Seus caminhos\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "A Ele a Glória\nA Ele a Glória\nA Ele a Glória\nPra sempre, amém\n(3x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

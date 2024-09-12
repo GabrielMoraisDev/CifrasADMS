@@ -1,0 +1,76 @@
+{
+  "id": 1659481394602,
+  "title": "262 - Senhor, Estás Comigo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Senhor, estás comigo em todo tempo, \nFazendo-me feliz no sofrimento, \nGraça p’ra cumprir Teu mandamento.  \nO dá-me cada dia o Teu sustento \nE graça p’ra cumprir Teu mandamento \n\nSim, estás comigo em todo tempo, \nTu es o meu maná, meu alimento; \nJesus, estás comigo em todo tempo, \nO dá-me Tua vida; Teu Sustento.  \n\nContigo, ó Senhor, vou caminhando, \nO Evangelho santo proclamando: \nA face do Senhor Jesus buscando, \nE sempre do pecado me guardando.  \n\nSim, estás comigo em todo tempo, \nTu es o meu maná, meu alimento; \nJesus, estás comigo em todo tempo, \nO dá-me Tua vida; Teu Sustento.  \n\nPor Deus estamos nós santificados \nEm Ti, Jesus, que nos tens resgatado \nDo mundo e de todo o vil pecado, \nTambém o nosso ser vivificado.\n\nSim, estás comigo em todo tempo, \nTu es o meu maná, meu alimento; \nJesus, estás comigo em todo tempo, \nO dá-me Tua vida; Teu Sustento.  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Senhor, estás comigo em todo tempo, \nFazendo-me feliz no sofrimento, \nGraça p’ra cumprir Teu mandamento.  \nO dá-me cada dia o Teu sustento \nE graça p’ra cumprir Teu mandamento ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Sim, estás comigo em todo tempo, \nTu es o meu maná, meu alimento; \nJesus, estás comigo em todo tempo, \nO dá-me Tua vida; Teu Sustento.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Contigo, ó Senhor, vou caminhando, \nO Evangelho santo proclamando: \nA face do Senhor Jesus buscando, \nE sempre do pecado me guardando.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Sim, estás comigo em todo tempo, \nTu es o meu maná, meu alimento; \nJesus, estás comigo em todo tempo, \nO dá-me Tua vida; Teu Sustento.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Por Deus estamos nós santificados \nEm Ti, Jesus, que nos tens resgatado \nDo mundo e de todo o vil pecado, \nTambém o nosso ser vivificado.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Sim, estás comigo em todo tempo, \nTu es o meu maná, meu alimento; \nJesus, estás comigo em todo tempo, \nO dá-me Tua vida; Teu Sustento.  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

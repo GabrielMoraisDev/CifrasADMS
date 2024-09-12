@@ -1,0 +1,55 @@
+{
+  "id": 1659484537972,
+  "title": "309 - Ao Findar do Dia",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Finda a lida deste dia, \nó bendito Salvador; \nEis-nos todos reunidos \na cantar o Teu louvor; \nVem encher-nos do Teu santo \ne doce amor! \n\nA leitura da Palavra, vem, \nSenhor, abençoar,\nE no coração dos crentes \nTeus ensinos vem gravar. \nTuas bênçãos continua a derramar! \n\nCongregados nos achamos\nconstrangidos pelo amor \nQue emana do Teu nome, \ná amado Salvador; \nAprendendo no Teu livro, \ná Senhor! Amém.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Finda a lida deste dia, \nó bendito Salvador; \nEis-nos todos reunidos \na cantar o Teu louvor; \nVem encher-nos do Teu santo \ne doce amor! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A leitura da Palavra, vem, \nSenhor, abençoar,\nE no coração dos crentes \nTeus ensinos vem gravar. \nTuas bênçãos continua a derramar! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Congregados nos achamos\nconstrangidos pelo amor \nQue emana do Teu nome, \ná amado Salvador; \nAprendendo no Teu livro, \ná Senhor! Amém.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

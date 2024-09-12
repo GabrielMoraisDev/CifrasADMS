@@ -1,0 +1,69 @@
+{
+  "id": 1658446289036,
+  "title": "172 - Ó Vem Te Entregar",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó pecador, cansado e abatido,\nque neste mundo vagas, sem consolação! \nSe queres ser, de graça, revestido,\nAceita Cristo, e Sua salvação.\n\nÓ vem te entregar\nAo grande Salvador,\nQue veio te salvar,\nE te espera, cheio de amor.\n\nÓ pecador, se estás desanimado, \nporque o mal domina todo o teu ser, \nO crê em Cristo, o crucificado, \nE contra o vício tu terás poder.\n\nO pecador, por que não te entregas \nA Jesus Cristo, o bondoso Salvador? \nQue, vindo a morte, grato te carrega \nAo Par\n\nSe comoção tu sentes em tu'alma, \nE queres hoje receber a salvação, \nAceita Cristo, com fé e com calma,\nVem te entregar, de todo o coração.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó pecador, cansado e abatido,\nque neste mundo vagas, sem consolação! \nSe queres ser, de graça, revestido,\nAceita Cristo, e Sua salvação.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó vem te entregar\nAo grande Salvador,\nQue veio te salvar,\nE te espera, cheio de amor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ó pecador, se estás desanimado, \nporque o mal domina todo o teu ser, \nO crê em Cristo, o crucificado, \nE contra o vício tu terás poder.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "O pecador, por que não te entregas \nA Jesus Cristo, o bondoso Salvador? \nQue, vindo a morte, grato te carrega \nAo Par",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se comoção tu sentes em tu'alma, \nE queres hoje receber a salvação, \nAceita Cristo, com fé e com calma,\nVem te entregar, de todo o coração.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

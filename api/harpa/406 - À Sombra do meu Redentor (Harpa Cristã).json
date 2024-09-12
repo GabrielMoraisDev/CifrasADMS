@@ -1,0 +1,76 @@
+{
+  "id": 1660865971937,
+  "title": "406 - À Sombra do meu Redentor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Preciso sempre encostar-me\nAos pés do meu bom Redentor;\nPresto virá pra levar-me\nAos céus, minha pátria de amor.  \n\nEu preciso sempre lançar-me \nNos braços do meu Redentor; \nSó em Jesus vou também abrigar-me \nNo Seu sublime amor.  \n\nPreciso sempre deter-me \nA sombra do meu Redentor; \nNão posso só defender-me \nE alçar a bandeira de amor.  \n\nEu preciso sempre lançar-me \nNos braços do meu Redentor; \nSó em Jesus vou também abrigar-me \nNo Seu sublime amor.  \n\nPreciso sempre chegar-me \nContrito aos pés do Salvador, \nPara poder consolar-me \nNo Seu abundante amor.\n\nEu preciso sempre lançar-me \nNos braços do meu Redentor; \nSó em Jesus vou também abrigar-me \nNo Seu sublime amor.  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Preciso sempre encostar-me\nAos pés do meu bom Redentor;\nPresto virá pra levar-me\nAos céus, minha pátria de amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu preciso sempre lançar-me \nNos braços do meu Redentor; \nSó em Jesus vou também abrigar-me \nNo Seu sublime amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Preciso sempre deter-me \nA sombra do meu Redentor; \nNão posso só defender-me \nE alçar a bandeira de amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu preciso sempre lançar-me \nNos braços do meu Redentor; \nSó em Jesus vou também abrigar-me \nNo Seu sublime amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Preciso sempre chegar-me \nContrito aos pés do Salvador, \nPara poder consolar-me \nNo Seu abundante amor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu preciso sempre lançar-me \nNos braços do meu Redentor; \nSó em Jesus vou também abrigar-me \nNo Seu sublime amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

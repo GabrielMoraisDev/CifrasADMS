@@ -1,0 +1,90 @@
+{
+  "id": 1653609295109,
+  "title": "154 - Doce Nome de Jesus",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Oh! doce nome de Jesus! \nQue belo é a Ti cantar, \nCo'a alma cheia proclamar \nO nome bom de Jesus!\n\nJesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.\n\nAdoro o nome de Jesus; \nJamais me falta Seu amor, \nE põe, à parte, minha dor, \nO nome bom de Jesus.\n\nJesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.\n\nTão puro o nome de Jesus! \nQue meu pesar pôde tirar. \nA grata paz também me dá \nO nome bom de Jesus.\n\nJesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.\n\nNo doce nome de Jesus,\nA minha alma salva está,\nE nEle tu te salvarás;\nNo nome bom de Jesus.\n\nJesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Oh! doce nome de Jesus! \nQue belo é a Ti cantar, \nCo'a alma cheia proclamar \nO nome bom de Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Jesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Adoro o nome de Jesus; \nJamais me falta Seu amor, \nE põe, à parte, minha dor, \nO nome bom de Jesus.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tão puro o nome de Jesus! \nQue meu pesar pôde tirar. \nA grata paz também me dá \nO nome bom de Jesus.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Jesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "No doce nome de Jesus,\nA minha alma salva está,\nE nEle tu te salvarás;\nNo nome bom de Jesus.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Jesus, ó meu doce Rei! \nJesus, verdadeiro Deus! \nJesus, sempre louvarei \nDe coração, Teu nome.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

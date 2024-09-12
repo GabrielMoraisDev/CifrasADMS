@@ -1,0 +1,90 @@
+{
+  "id": 1644151211594,
+  "title": "029 - O PRECIOSO SANGUE",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Eb",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Oh! que precioso sangue,\nMeu Senhor verteu,\nQuando, para resgatar-nos,\nPadeceu! \n\nOh! que precioso sangue, \nSangue de Jesus, \nQue por nós, foi derramado \nSobre a cruz!   \n\nOh! que precioso sangue, \nSangue remidor! \nSim, com este nos remiste, Redentor!   \n\nOh! que precioso sangue, \nSangue expiador! \nEis o que da pena\nLivra \n\nOh! que precioso sangue, Purificador! \nQue de toda a mancha lava \nO pecador! \n\nOh! que precioso sangue, \nFala-nos de paz; \nTudo quanto a lei exige, \nSatisfaz! \n\nOh! que precioso sangue. \nPor Ele entrarei \nSem receio, na presença \nDo meu Rei! \n\nOh! que precioso sangue, \nDo bom Salvador! \nHoje, a todos manifesta \nSeu amor!   ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Oh! que precioso sangue,\nMeu Senhor verteu,\nQuando, para resgatar-nos,\nPadeceu! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! que precioso sangue, \nSangue de Jesus, \nQue por nós, foi derramado \nSobre a cruz!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Oh! que precioso sangue, \nSangue remidor! \nSim, com este nos remiste, Redentor!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh! que precioso sangue, \nSangue expiador! \nEis o que da pena\nLivra ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Oh! que precioso sangue, Purificador! \nQue de toda a mancha lava \nO pecador! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Oh! que precioso sangue, \nFala-nos de paz; \nTudo quanto a lei exige, \nSatisfaz! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Oh! que precioso sangue. \nPor Ele entrarei \nSem receio, na presença \nDo meu Rei! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Oh! que precioso sangue, \nDo bom Salvador! \nHoje, a todos manifesta \nSeu amor!   ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

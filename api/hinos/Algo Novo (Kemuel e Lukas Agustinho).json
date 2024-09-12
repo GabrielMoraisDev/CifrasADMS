@@ -1,0 +1,118 @@
+{
+  "id": 1630712821726,
+  "title": "Algo Novo",
+  "artist": "Kemuel e Lukas Agustinho",
+  "author": "David Marx, Beresix, Heric Tolentino",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vem me visitar hoje aqui\nEu quero conhecer\nMais de Ti\n\nEspírito, vem, Espírito, vem\nEspírito Santo\n2x\n\nEu quero viver algo novo\nFaz meu coração\nArder de novo\nFazendo todo o medo\nDesaparecer\nTrazendo sobre mim\nUm novo amanhecer\n\nEu quero viver algo novo\n\nVem me visitar hoje aqui\nQuero conhecer\nMais de Ti\n\nEspírito, vem, Espírito, vem\nEspírito Santo\n2x\n\nEu quero viver algo novo\nFaz meu coração\nArder de novo\nFazendo todo o medo\nDesaparecer\nTrazendo sobre mim\nUm novo amanhecer\n2x\n\nEu quero viver algo novo\n\noooooooh\n2x\n\nSanto Espírito\nDesce como fogo\nSanto Espírito\nDesce como fogo\nIncendeia\nIncendeia\n4x\n\nIncendeia,Incendeia\nIncendeia,Incendeia\n3x\n\nEu quero viver algo novo\nVem me visitar hoje aqui",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vem me visitar hoje aqui\nEu quero conhecer\nMais de Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Espírito, vem, Espírito, vem\nEspírito Santo\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu quero viver algo novo\nFaz meu coração\nArder de novo\nFazendo todo o medo\nDesaparecer\nTrazendo sobre mim\nUm novo amanhecer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu quero viver algo novo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Vem me visitar hoje aqui\nQuero conhecer\nMais de Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Espírito, vem, Espírito, vem\nEspírito Santo\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Eu quero viver algo novo\nFaz meu coração\nArder de novo\nFazendo todo o medo\nDesaparecer\nTrazendo sobre mim\nUm novo amanhecer\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu quero viver algo novo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "oooooooh\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Santo Espírito\nDesce como fogo\nSanto Espírito\nDesce como fogo\nIncendeia\nIncendeia\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Incendeia,Incendeia\nIncendeia,Incendeia\n3x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "Eu quero viver algo novo\nVem me visitar hoje aqui",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1676154151161,
+  "title": "Quero Conhecer Jesus",
+  "artist": "Alessandro Vilas Boas",
+  "author": "Alessandro Vilas Boas",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O meu orgulho\nMe tirou do jardim\nTua humildade\nColocou o jardim em mim\n\nE se eu vendesse\nTudo o que tenho\nEm troca do amor\nEu falharia\n\nPois o amor não se compra\nNem se merece\nO amor se ganha\nDe graça o recebe\n\nEu quero conhecer Jesus\nEu quero conhecer Jesus\n\nO meu Amado é o mais belo \nEntre milhares e milhares\n\nYeshua\nYeshua\nYeshua\n\nO meu Amado é o mais belo \nEntre milhares e milhares",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O meu orgulho\nMe tirou do jardim\nTua humildade\nColocou o jardim em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E se eu vendesse\nTudo o que tenho\nEm troca do amor\nEu falharia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Pois o amor não se compra\nNem se merece\nO amor se ganha\nDe graça o recebe",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu quero conhecer Jesus\nEu quero conhecer Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "O meu Amado é o mais belo \nEntre milhares e milhares",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Yeshua\nYeshua\nYeshua",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "O meu Amado é o mais belo \nEntre milhares e milhares",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

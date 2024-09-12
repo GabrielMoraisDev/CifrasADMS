@@ -1,0 +1,76 @@
+{
+  "id": 1644150716853,
+  "title": "019 - O Convite de Cristo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Bb",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eis, a voz de Cristo clama, \nSobre o revoltoso mar \nDesta vida perigosa: \n\"Vinde em Mim vos abrigar\". \n\nQuando outrora em Galiléia,\nEssa doce voz soou, \nLogo, o coração ouvinte, \nTudo, pronto, abandonou. \n\nSobre as vozes sedutoras, \nDe mundanas atrações, \nClama a meiga voz de Cristo: \n\"Dai-me vossos corações!” \n\nQuer no meio dos prazeres, \nQuer no dia da aflição, \nInda clama, paciente: \n“Amas-Me tu, ó cristão?”   \n\nNa vereda estreita e santa, \nJá pisada por Jesus, \nA segui-Lo, Ele te chama: \n“Vem, cristão, andar na luz!” \n\nDessa cruz angustiosa, \nOnde brilha Seu amor, \nOuve a voz que te convida, \nOuve e segue, pecador!   ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eis, a voz de Cristo clama, \nSobre o revoltoso mar \nDesta vida perigosa: \n\"Vinde em Mim vos abrigar\". ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quando outrora em Galiléia,\nEssa doce voz soou, \nLogo, o coração ouvinte, \nTudo, pronto, abandonou. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sobre as vozes sedutoras, \nDe mundanas atrações, \nClama a meiga voz de Cristo: \n\"Dai-me vossos corações!” ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Quer no meio dos prazeres, \nQuer no dia da aflição, \nInda clama, paciente: \n“Amas-Me tu, ó cristão?”   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Na vereda estreita e santa, \nJá pisada por Jesus, \nA segui-Lo, Ele te chama: \n“Vem, cristão, andar na luz!” ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Dessa cruz angustiosa, \nOnde brilha Seu amor, \nOuve a voz que te convida, \nOuve e segue, pecador!   ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

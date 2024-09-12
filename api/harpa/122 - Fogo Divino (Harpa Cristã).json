@@ -1,0 +1,76 @@
+{
+  "id": 1658443001484,
+  "title": "122 - Fogo Divino",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "G",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Fogo divino, clamamos por ti; \nVem lá do alto, vem, desce aqui; \nÓ vem despertar-nos com teu fulgor; \nVem inflamar-nos com teu calor. \n\nDesce do alto, bendito fogo, \nDesce poder celestial! \nDesce do alto, bendito fogo, \nVem, chama pentecostal!   \n\nDesce, Espírito Consolador, \nDesce e enche-nos de santo amor, \nDesce ao mundo, nos mostra Jesus; \nDá-nos poder, vida, graça e luz. \n\nDesce do alto, bendito fogo, \nDesce poder celestial! \nDesce do alto, bendito fogo, \nVem, chama pentecostal!   \n\nArde em minh'alma, ó chama de amor \nArde em meu peito e dá-me valor; \nConsome todos os restos do mal; \nDesce já, ó fogo pentecostal!  \n\nDesce do alto, bendito fogo, \nDesce poder celestial! \nDesce do alto, bendito fogo, \nVem, chama pentecostal!   ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Fogo divino, clamamos por ti; \nVem lá do alto, vem, desce aqui; \nÓ vem despertar-nos com teu fulgor; \nVem inflamar-nos com teu calor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Desce do alto, bendito fogo, \nDesce poder celestial! \nDesce do alto, bendito fogo, \nVem, chama pentecostal!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Desce, Espírito Consolador, \nDesce e enche-nos de santo amor, \nDesce ao mundo, nos mostra Jesus; \nDá-nos poder, vida, graça e luz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Desce do alto, bendito fogo, \nDesce poder celestial! \nDesce do alto, bendito fogo, \nVem, chama pentecostal!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Arde em minh'alma, ó chama de amor \nArde em meu peito e dá-me valor; \nConsome todos os restos do mal; \nDesce já, ó fogo pentecostal!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Desce do alto, bendito fogo, \nDesce poder celestial! \nDesce do alto, bendito fogo, \nVem, chama pentecostal!   ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

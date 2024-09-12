@@ -1,0 +1,76 @@
+{
+  "id": 1658446370634,
+  "title": "181 - Vem Celeste Redentor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "\nVem, Senhor, do bem a fonte,\nVem, Celeste Redentor,\nAjudar-me a entoar-te\nDignos hinos de louvor;\n\nTu, Jesus, por mim morreste,\nQuero só pra Ti viver;\nQuero em todos os momentos \nTua benção receber.\n\nEra pobre desgarrado\nQuando Cristo me buscou;\nPara me salvar do inferno \nO seu sangue derramou;\n\nEm sua morte tão penosa,\nPaz, perdão e vida achei,\nE com Ele eternamente\nSua glória fluirei.\n\nDe tua graça, ó meu amado,\nSou contínuo devedor;\nMais e mais a Ti me atrai\nPelo teu divino amor;\n\nSou ingrato, e bem conheço,\nPeço, meu Senhor, perdão;\nTira-me do vil pecado,\nRege Tu meu coração.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "\nVem, Senhor, do bem a fonte,\nVem, Celeste Redentor,\nAjudar-me a entoar-te\nDignos hinos de louvor;",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tu, Jesus, por mim morreste,\nQuero só pra Ti viver;\nQuero em todos os momentos \nTua benção receber.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Era pobre desgarrado\nQuando Cristo me buscou;\nPara me salvar do inferno \nO seu sangue derramou;",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Em sua morte tão penosa,\nPaz, perdão e vida achei,\nE com Ele eternamente\nSua glória fluirei.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "De tua graça, ó meu amado,\nSou contínuo devedor;\nMais e mais a Ti me atrai\nPelo teu divino amor;",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Sou ingrato, e bem conheço,\nPeço, meu Senhor, perdão;\nTira-me do vil pecado,\nRege Tu meu coração.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

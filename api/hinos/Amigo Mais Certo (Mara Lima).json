@@ -1,0 +1,62 @@
+{
+  "id": 1659479479590,
+  "title": "Amigo Mais Certo",
+  "artist": "Mara Lima",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus é tão grande Ele pode mudar Tua vida\nDeus é tão grande Ele pode cessar o teu sofrer\nEle conhece você intimamente\nSabe o que você pensa e o que vais fazer\n\nEle é o amigo mais certo nas horas incertas\nEle enxuga teu pranto quando você chora\nEle está sempre presente quando estás sozinho\nEle é a vida, a verdade é o caminho\n\nEle é realidade dos teus lindos sonhos\nEle é o Deus que te livra da imensa solidão\nEle é uma fonte jorrando neste teu deserto\nEle é o amor que preenche todo teu coração\n\nEle é o amigo mais certo nas horas incertas\nEle enxuga teu pranto quando você chora\nEle está sempre presente quando estás sozinho\nEle é a vida, a verdade é o caminho.\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus é tão grande Ele pode mudar Tua vida\nDeus é tão grande Ele pode cessar o teu sofrer\nEle conhece você intimamente\nSabe o que você pensa e o que vais fazer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ele é o amigo mais certo nas horas incertas\nEle enxuga teu pranto quando você chora\nEle está sempre presente quando estás sozinho\nEle é a vida, a verdade é o caminho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ele é realidade dos teus lindos sonhos\nEle é o Deus que te livra da imensa solidão\nEle é uma fonte jorrando neste teu deserto\nEle é o amor que preenche todo teu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ele é o amigo mais certo nas horas incertas\nEle enxuga teu pranto quando você chora\nEle está sempre presente quando estás sozinho\nEle é a vida, a verdade é o caminho.\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

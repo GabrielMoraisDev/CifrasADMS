@@ -1,0 +1,62 @@
+{
+  "id": 1721600849199,
+  "title": "Tens",
+  "artist": "Eli Soares",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tens a beleza da cor e a ternura das aves\nTens a pureza da flor de perfumes suaves\nTens um aroma singelo que passa sem pressa\nTens em Tuas mãos a Palavra de ricas promessas\nTens\n\nTens em Tuas mãos uma mina de ricos tesouros\nMais preciosos que a prata, mais ricos que o ouro\nTens a vitória na morte, Tens o segredo da vida\nE só, Tu És, meu Deus\n\nTens a sublime inocência do olhar da criança\nE no dia da vida, És a esperança\nDe um barco que vai para o mar mas em breve espera voltar\nE que amanhã novamente o Sol brilhará\nTens\n\nTens em Tuas mãos uma mina de ricos tesouros\nMais preciosos que a prata, mais ricos que o ouro\nTens a vitória na morte, Tens o segredo da vida\nE só, Tu És, meu Deus\nE só, Tu És, meu Deus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tens a beleza da cor e a ternura das aves\nTens a pureza da flor de perfumes suaves\nTens um aroma singelo que passa sem pressa\nTens em Tuas mãos a Palavra de ricas promessas\nTens",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tens em Tuas mãos uma mina de ricos tesouros\nMais preciosos que a prata, mais ricos que o ouro\nTens a vitória na morte, Tens o segredo da vida\nE só, Tu És, meu Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tens a sublime inocência do olhar da criança\nE no dia da vida, És a esperança\nDe um barco que vai para o mar mas em breve espera voltar\nE que amanhã novamente o Sol brilhará\nTens",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tens em Tuas mãos uma mina de ricos tesouros\nMais preciosos que a prata, mais ricos que o ouro\nTens a vitória na morte, Tens o segredo da vida\nE só, Tu És, meu Deus\nE só, Tu És, meu Deus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

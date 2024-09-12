@@ -1,0 +1,69 @@
+{
+  "id": 1661900751450,
+  "title": "356 – Oração Dominical ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó nosso Pai que estás no céu, \nDo universo o benfeitor; \nSantificado seja o nome Teu, \nO glorioso Deus de amor!  \n\nO reino Teu, venha com poder, \nConforme o anúncio Teu; \nE seja feito sempre Teu querer, \nNa terra, como lá no céu.  \n\nE cada dia o nosso pão, \nDá-nos Senhor, e sem faltar; \nE nossas almas que sedentas estão, \nVem para sempre saciar.  \n\nVem perdoar nossas faltas, vem, \nPai glorioso eterna!; \nPois perdoado temos nós, também, \nOs que a nós fizeram mal.  \n\nDa tentação queiras nos livrar, \nE do mal nos afastar bem, \nPois Te pertence o céu, a terra e o mar. \nO reino para sempre, amém!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó nosso Pai que estás no céu, \nDo universo o benfeitor; \nSantificado seja o nome Teu, \nO glorioso Deus de amor!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "O reino Teu, venha com poder, \nConforme o anúncio Teu; \nE seja feito sempre Teu querer, \nNa terra, como lá no céu.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E cada dia o nosso pão, \nDá-nos Senhor, e sem faltar; \nE nossas almas que sedentas estão, \nVem para sempre saciar.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vem perdoar nossas faltas, vem, \nPai glorioso eterna!; \nPois perdoado temos nós, também, \nOs que a nós fizeram mal.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Da tentação queiras nos livrar, \nE do mal nos afastar bem, \nPois Te pertence o céu, a terra e o mar. \nO reino para sempre, amém!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

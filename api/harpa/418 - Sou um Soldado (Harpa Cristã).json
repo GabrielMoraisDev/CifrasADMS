@@ -1,0 +1,76 @@
+{
+  "id": 1662593971593,
+  "title": "418 - Sou um Soldado",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sou um soldado de Jesus\nE servo do Senhor;\nNão temerei levar a cruz,\nSofrendo grande dor. \n\nDepois da batalha me coroará,\nDeus me coroará;\nDeus me coroará;\nDepois da batalha me coroará,\nNa celestial mansão;\nLá verei o meu Rei,\nE terei meu galardão,\nDepois da batalha me coroará, \nNa cidade de Sião!\n\nLutaram outros sem temor, \nMui forte hei de ser;\nPelejarei por meu Senhor, \nConfiando em Seu poder. \n\nDepois da batalha me coroará,\nDeus me coroará;\nDeus me coroará;\nDepois da batalha me coroará,\nNa celestial mansão;\nLá verei o meu Rei,\nE terei meu galardão,\nDepois da batalha me coroará, \nNa cidade de Sião!\n\nSe eu for fiel ao meu Jesus \nE não voltar p'ra trás,\nAlcançarei no céu de luz, \nLugar de santa paz. \n\nDepois da batalha me coroará,\nDeus me coroará;\nDeus me coroará;\nDepois da batalha me coroará,\nNa celestial mansão;\nLá verei o meu Rei,\nE terei meu galardão,\nDepois da batalha me coroará, \nNa cidade de Sião!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sou um soldado de Jesus\nE servo do Senhor;\nNão temerei levar a cruz,\nSofrendo grande dor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Depois da batalha me coroará,\nDeus me coroará;\nDeus me coroará;\nDepois da batalha me coroará,\nNa celestial mansão;\nLá verei o meu Rei,\nE terei meu galardão,\nDepois da batalha me coroará, \nNa cidade de Sião!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Lutaram outros sem temor, \nMui forte hei de ser;\nPelejarei por meu Senhor, \nConfiando em Seu poder. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Depois da batalha me coroará,\nDeus me coroará;\nDeus me coroará;\nDepois da batalha me coroará,\nNa celestial mansão;\nLá verei o meu Rei,\nE terei meu galardão,\nDepois da batalha me coroará, \nNa cidade de Sião!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se eu for fiel ao meu Jesus \nE não voltar p'ra trás,\nAlcançarei no céu de luz, \nLugar de santa paz. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Depois da batalha me coroará,\nDeus me coroará;\nDeus me coroará;\nDepois da batalha me coroará,\nNa celestial mansão;\nLá verei o meu Rei,\nE terei meu galardão,\nDepois da batalha me coroará, \nNa cidade de Sião!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

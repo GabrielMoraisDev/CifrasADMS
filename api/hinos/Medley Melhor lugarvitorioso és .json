@@ -1,0 +1,83 @@
+{
+  "id": 1702214401065,
+  "title": "Medley Melhor lugar/vitorioso és ",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "\nRei do Céu estou aqui prostrado\nRei do Céu estou aqui prostrado\n\nDe joelhos aos pés da cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ aos Teus pés \n(2x)\n\nJá vi o Seu amor fazer milagres\no Senhor me sustentou até aqui\nNunca desistiu como fogo vem\nE me envolve \n(2x)\n\nVitorioso é\nVitorioso é\nJesus\n(5x)\n\nJá vi o Seu amor fazer milagres\no Senhor me sustentou até aqui\nNunca desistiu como fogo vem\nE me envolve\n\nO inferno não prevaleceu\nE nada irá resistir\nEnquanto adoramos\nMuralhas vão estremecer\nCadeias  irão se romper\nEnquanto adoramos\n\nVitorioso És\nNa tempestade estás\nTeu nome infalível é\nOs reinos vêm e vão\nTeu trono acima está\nTeu nome imutável é \n(2x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "\nRei do Céu estou aqui prostrado\nRei do Céu estou aqui prostrado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "De joelhos aos pés da cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ aos Teus pés \n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Já vi o Seu amor fazer milagres\no Senhor me sustentou até aqui\nNunca desistiu como fogo vem\nE me envolve \n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vitorioso é\nVitorioso é\nJesus\n(5x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Já vi o Seu amor fazer milagres\no Senhor me sustentou até aqui\nNunca desistiu como fogo vem\nE me envolve",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "O inferno não prevaleceu\nE nada irá resistir\nEnquanto adoramos\nMuralhas vão estremecer\nCadeias  irão se romper\nEnquanto adoramos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Vitorioso És\nNa tempestade estás\nTeu nome infalível é\nOs reinos vêm e vão\nTeu trono acima está\nTeu nome imutável é \n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

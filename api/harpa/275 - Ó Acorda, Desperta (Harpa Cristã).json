@@ -1,0 +1,55 @@
+{
+  "id": 1659050198187,
+  "title": "275 - Ó Acorda, Desperta",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó acorda, desperta dormente, \nTu que jazes no sono da morte, \nE que tens uma tão triste sorte. \nÓ desperta por Cristo, o Senhor! \nPois te chama o fiel Salvador, \nO Seu sangue na cruz já derramou, \nTeus pecados ali aniquilou, \nE respondes: \"Não quero, Senhor?”  \n\nO não sabes que teu próprio alento \nVem de Deus, vem a cada momento? \nQueres tu despertar num tormento \nQue jamais poderá se findar? \nCristo hoje te quer libertar, \nÓ desperta-te à voz do Salvador, \nFoge logo do abismo de horror, \nQue tu’alma procura tragar.\n\nNão te importas por teres agora, \nA tua alma em negra masmorra? \nEm Jesus hoje crê, busca-O e adora, \nPois assim tu terás salvação; \nCrendo em Cristo no teu coração, \nPaz e gozo por Ele obterás; \nE também no céu tu habitarás, \nSe recebes agora o perdão. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó acorda, desperta dormente, \nTu que jazes no sono da morte, \nE que tens uma tão triste sorte. \nÓ desperta por Cristo, o Senhor! \nPois te chama o fiel Salvador, \nO Seu sangue na cruz já derramou, \nTeus pecados ali aniquilou, \nE respondes: \"Não quero, Senhor?”  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "O não sabes que teu próprio alento \nVem de Deus, vem a cada momento? \nQueres tu despertar num tormento \nQue jamais poderá se findar? \nCristo hoje te quer libertar, \nÓ desperta-te à voz do Salvador, \nFoge logo do abismo de horror, \nQue tu’alma procura tragar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não te importas por teres agora, \nA tua alma em negra masmorra? \nEm Jesus hoje crê, busca-O e adora, \nPois assim tu terás salvação; \nCrendo em Cristo no teu coração, \nPaz e gozo por Ele obterás; \nE também no céu tu habitarás, \nSe recebes agora o perdão. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1653000020765,
+  "title": "200 - O Bondoso Amigo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quão bondoso amigo é Cristo!\nCarregou co`a nossa dor,\nE nos manda que levemos\nOs cuidados ao Senhor.\n\nFalta ao coração dorido.\nGozo, paz, consolação?\nIsso é porque não levamos\nTudo a Deus em oração.\n\nTu estás fraco e carregado\nDe cuidados e temor?\nA Jesus, refúgio eterno,\nVai com fé teu mal expor!\n\nTeus amigos te desprezam?\nConta-Lhe isso em oração,\nE com Seu amor tão terno,\nPaz terás no coração.\n\nCristo é verdadeiro amigo,\nDisto provas nos mostrou,\nQuando p’ra levar consigo\nO culpado encarnou.\n\nDerramou Seu sangue puro\nNossa mancha p’ra lavar;\nGozo em vida e no futuro\nNele podemos alcançar.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quão bondoso amigo é Cristo!\nCarregou co`a nossa dor,\nE nos manda que levemos\nOs cuidados ao Senhor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Falta ao coração dorido.\nGozo, paz, consolação?\nIsso é porque não levamos\nTudo a Deus em oração.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tu estás fraco e carregado\nDe cuidados e temor?\nA Jesus, refúgio eterno,\nVai com fé teu mal expor!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Teus amigos te desprezam?\nConta-Lhe isso em oração,\nE com Seu amor tão terno,\nPaz terás no coração.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Cristo é verdadeiro amigo,\nDisto provas nos mostrou,\nQuando p’ra levar consigo\nO culpado encarnou.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Derramou Seu sangue puro\nNossa mancha p’ra lavar;\nGozo em vida e no futuro\nNele podemos alcançar.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

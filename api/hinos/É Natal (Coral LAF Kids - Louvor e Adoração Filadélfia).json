@@ -1,0 +1,90 @@
+{
+  "id": 1639258199386,
+  "title": "É Natal",
+  "artist": "Coral LAF Kids - Louvor e Adoração Filadélfia",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Um menino nos nasceu\nUm filho se nos deu\nVeio trazer salvação\nÉ a luz na escuridão\n\nAbra o seu coração, sinta a paz entrar\nÉ Jesus, o Messias, veio habitar\nEsperança que invade, o Natal chegou\nCom Sua luz sobre nós, vamos O adorar\n\nÉ Natal do menino Jesus\nA estrela que brilha no céu nos conduz\nVamos cantar, juntos louvar\nAleluia, aleluia\n\nÉ Natal do filho de Deus\nVida nova a todos ofereceu\nO mundo inteiro vê a luz brilhar\nAleluia, aleluia\n\nAleluia, aleluia, aleluia, aleluia\n\nAleluia (abra o seu coração, sinta a paz entrar)\nAleluia (é Jesus, o Messias, veio habitar)\nAleluia (esperança que invade, o Natal chegou)\nAleluia (com Sua luz sobre nós, vamos O adorar)\n\nÉ Natal do menino Jesus\nA estrela que brilha no céu nos conduz\nVamos cantar, juntos louvar\nAleluia, aleluia\n\nÉ Natal do filho de Deus\nVida nova a todos ofereceu\nO mundo inteiro vê a luz brilhar\nAleluia, aleluia, aleluia, aleluia",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Um menino nos nasceu\nUm filho se nos deu\nVeio trazer salvação\nÉ a luz na escuridão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Abra o seu coração, sinta a paz entrar\nÉ Jesus, o Messias, veio habitar\nEsperança que invade, o Natal chegou\nCom Sua luz sobre nós, vamos O adorar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "É Natal do menino Jesus\nA estrela que brilha no céu nos conduz\nVamos cantar, juntos louvar\nAleluia, aleluia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "É Natal do filho de Deus\nVida nova a todos ofereceu\nO mundo inteiro vê a luz brilhar\nAleluia, aleluia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Aleluia, aleluia, aleluia, aleluia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Aleluia (abra o seu coração, sinta a paz entrar)\nAleluia (é Jesus, o Messias, veio habitar)\nAleluia (esperança que invade, o Natal chegou)\nAleluia (com Sua luz sobre nós, vamos O adorar)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "É Natal do menino Jesus\nA estrela que brilha no céu nos conduz\nVamos cantar, juntos louvar\nAleluia, aleluia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "É Natal do filho de Deus\nVida nova a todos ofereceu\nO mundo inteiro vê a luz brilhar\nAleluia, aleluia, aleluia, aleluia",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1662335142344,
+  "title": "Meu Alvo",
+  "artist": "Kleber Lucas",
+  "author": "J. B. Carvalho, Kleber Lucas",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Estou subindo\nPra um lugar mais alto\nEu já queimei as pontes\nCom o passado\n\nE em meus olhos\nVejo o futuro\nTudo novo se fez\nTudo novo se faz\n\nE dessa estrada\nEu não me desvio nunca mais\nEstou firme\nEu não me desvio nunca mais\n\nVou avançar, eu vou crescer\nNinguém vai me deter\nMeu alvo é Cristo\nMeu alvo é Cristo\n\nEstou subindo\nPra um lugar mais alto\nEu já desisti de andar sozinho\nCristo vive em mim\n\nE os meus pés\nEstão no caminho\nEstão no caminho\n\nE dessa estrada\nEu não me desvio nunca mais\nEstou firme\nEu não me desvio nunca mais",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Estou subindo\nPra um lugar mais alto\nEu já queimei as pontes\nCom o passado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E em meus olhos\nVejo o futuro\nTudo novo se fez\nTudo novo se faz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E dessa estrada\nEu não me desvio nunca mais\nEstou firme\nEu não me desvio nunca mais",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vou avançar, eu vou crescer\nNinguém vai me deter\nMeu alvo é Cristo\nMeu alvo é Cristo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Estou subindo\nPra um lugar mais alto\nEu já desisti de andar sozinho\nCristo vive em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E os meus pés\nEstão no caminho\nEstão no caminho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "E dessa estrada\nEu não me desvio nunca mais\nEstou firme\nEu não me desvio nunca mais",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1635288230430,
+  "title": "243 - Ao Abrir o Culto",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Nós abrimos este culto\nEm Teu nome, ó Jesus Cristo\nAo pequeno e ao adulto\nLuz divina vem dar por isto\nGozaremos em Tua face\nÓ Cordeiro ressuscitado\nCom doçura, sim, nos enlaces\nPra ouvir o que nos for dado\n\nOh, nos manda Tua Palavra\nPelo Teu Espírito Santo\nQue no peito um fogo lavra\nQue enxuga também o pranto\nNosso Pai, nós Te suplicamos\nNova vida pra Tua Igreja\nOh, não tardes\nPois desejamos que\nPureza em nós Tu vejas\n\nAbençoa, ó Deus Santo\nOs Teus servos em todo o mundo\nAbençoa o nosso canto\nE dá vida aos moribundos\nAbençoa aos cordeirinhos\nA família dos Teus amados\nComo ave que no seu ninho\nTem seus filhos bem abrigados",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Nós abrimos este culto\nEm Teu nome, ó Jesus Cristo\nAo pequeno e ao adulto\nLuz divina vem dar por isto\nGozaremos em Tua face\nÓ Cordeiro ressuscitado\nCom doçura, sim, nos enlaces\nPra ouvir o que nos for dado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh, nos manda Tua Palavra\nPelo Teu Espírito Santo\nQue no peito um fogo lavra\nQue enxuga também o pranto\nNosso Pai, nós Te suplicamos\nNova vida pra Tua Igreja\nOh, não tardes\nPois desejamos que\nPureza em nós Tu vejas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Abençoa, ó Deus Santo\nOs Teus servos em todo o mundo\nAbençoa o nosso canto\nE dá vida aos moribundos\nAbençoa aos cordeirinhos\nA família dos Teus amados\nComo ave que no seu ninho\nTem seus filhos bem abrigados",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

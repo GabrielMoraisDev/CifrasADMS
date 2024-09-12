@@ -1,0 +1,62 @@
+{
+  "id": 1659875140060,
+  "title": "335 - Mui Perto Está o Dia",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Perto, sim, mui perto está, \nO dia não tardará; \nIremos nós residir \nCom Jesus, que há de vir.  \n\nOh! Quanta glória há de ser, \nSe Cristo hoje descer, \nPois os fiéis em Jesus, \nGozarão eterna luz!  \n\nQue glória imensa, sem par, \nHavemos nós de gozar \nAo lado, sim, do Senhor, \nNosso amado Salvador!  \n\nDevemos, pois, esperar, \nE ao mundo olhos fechar; \nAndemos sempre na luz, \nA buscar o Rei Jesus.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Perto, sim, mui perto está, \nO dia não tardará; \nIremos nós residir \nCom Jesus, que há de vir.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! Quanta glória há de ser, \nSe Cristo hoje descer, \nPois os fiéis em Jesus, \nGozarão eterna luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Que glória imensa, sem par, \nHavemos nós de gozar \nAo lado, sim, do Senhor, \nNosso amado Salvador!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Devemos, pois, esperar, \nE ao mundo olhos fechar; \nAndemos sempre na luz, \nA buscar o Rei Jesus.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

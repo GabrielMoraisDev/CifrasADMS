@@ -1,0 +1,69 @@
+{
+  "id": 1707690204424,
+  "title": "Não Desista",
+  "artist": "Gisele Nascimento",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Se a tempestade da vida quer te assolar\nE achas até que vais fracassar\nTe encontras cansado\nSem forças pra prosseguir\nPensando que o mestre no teu barco não esta.\n\nA biblia nos ensina a perseverar\nO Mestre nos deixou esta lição:\n\"Confia no Senhor\"\nCreia que a vitória esta em suas mãos.\n\nNão desista ainda\nHá uma solução\nNão pare no caminho\nNão perca a esperança\nSe o mar da vida agitado está\nCristo se apresenta e faz Ele acalmar.\n\nProblemas sim nós temos nesta vida aqui\nNem sempre as coisas acontecem como a gente quer\nO inimigo luta, luta sem cessar\nQuerendo tua coroa de gloria tirar.\n\nÉ só mais um pouquinho e Jesus virá\nE sua igreja vai arrebatar\nNão desista amigo\nLute pois na gloria\nTerás o galardão",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Se a tempestade da vida quer te assolar\nE achas até que vais fracassar\nTe encontras cansado\nSem forças pra prosseguir\nPensando que o mestre no teu barco não esta.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A biblia nos ensina a perseverar\nO Mestre nos deixou esta lição:\n\"Confia no Senhor\"\nCreia que a vitória esta em suas mãos.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não desista ainda\nHá uma solução\nNão pare no caminho\nNão perca a esperança\nSe o mar da vida agitado está\nCristo se apresenta e faz Ele acalmar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Problemas sim nós temos nesta vida aqui\nNem sempre as coisas acontecem como a gente quer\nO inimigo luta, luta sem cessar\nQuerendo tua coroa de gloria tirar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "É só mais um pouquinho e Jesus virá\nE sua igreja vai arrebatar\nNão desista amigo\nLute pois na gloria\nTerás o galardão",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

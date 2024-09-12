@@ -1,0 +1,62 @@
+{
+  "id": 1658876803304,
+  "title": "221 - Opera em Mim",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eis-me a Teus pés, \nSenhor, opera em mim! \nEspero mais vigor, opera em mim! \nEu gozo vou fruir, se Tua lei cumprir: \nO dá-me Teu amor: opera em mim!  \n\n Sedento, com ardor, opera em mim! \nTe peço mais amor, opera em mim! \nTu só me podes dar a perfeição sem par, \nO bom Consolador: opera em mim! \n\nÓ meu Senhor Jesus, opera em mim! \nPor Tua santa luz, opera em mim! \nRevela-me o valor da morte do Senhor, \nPor mim, na dura cruz; opera em mim!  \n\nNão tardes mais. Senhor, opera em mim! \nEscuta o meu clamor, opera em mim! \nNo sangue de Jesus, vertido lá na cruz, \nMe guarda por favor, Opera em mim! Deus ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eis-me a Teus pés, \nSenhor, opera em mim! \nEspero mais vigor, opera em mim! \nEu gozo vou fruir, se Tua lei cumprir: \nO dá-me Teu amor: opera em mim!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": " Sedento, com ardor, opera em mim! \nTe peço mais amor, opera em mim! \nTu só me podes dar a perfeição sem par, \nO bom Consolador: opera em mim! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ó meu Senhor Jesus, opera em mim! \nPor Tua santa luz, opera em mim! \nRevela-me o valor da morte do Senhor, \nPor mim, na dura cruz; opera em mim!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Não tardes mais. Senhor, opera em mim! \nEscuta o meu clamor, opera em mim! \nNo sangue de Jesus, vertido lá na cruz, \nMe guarda por favor, Opera em mim! Deus ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

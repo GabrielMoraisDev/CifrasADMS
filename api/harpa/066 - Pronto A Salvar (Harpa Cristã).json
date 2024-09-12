@@ -1,0 +1,55 @@
+{
+  "id": 1654731629614,
+  "title": "066 - Pronto A Salvar",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "A",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Todo o que crê no Filho de Deus, \nQue, p'ra nos remir, desceu dos céus; \nTodo o que, contrito, a Deus se chegar, \nJesus está pronto, agora, a salvar.   \n\nSim, Jesus te chama, ó meu Irmão! \nA ti Ele oferece pleno perdão; \nSeu sangue verteu para te resgatar, \nE Ele é quem quer e pode salvar.   \n\nQuem, arrependido, busca perdão, \nAbrindo a Jesus o seu coração, \nA paz hoje mesmo pode gozar, \nPois Ele está pronto, agora, a salvar. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Todo o que crê no Filho de Deus, \nQue, p'ra nos remir, desceu dos céus; \nTodo o que, contrito, a Deus se chegar, \nJesus está pronto, agora, a salvar.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Sim, Jesus te chama, ó meu Irmão! \nA ti Ele oferece pleno perdão; \nSeu sangue verteu para te resgatar, \nE Ele é quem quer e pode salvar.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quem, arrependido, busca perdão, \nAbrindo a Jesus o seu coração, \nA paz hoje mesmo pode gozar, \nPois Ele está pronto, agora, a salvar. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1660086657199,
+  "title": "337 - Ó Bom Jesus ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó bom Jesus, tesouro de poder, \nQuero sentir-Te. sempre no meu ser! \nFaz-me andar, oh, sempre nesta luz, \nPois dentro de mim vives, \nÓ meu bom Jesus!  \n\nOh! Em mim, \nJá enfim, ressuscitou Jesus; \nDas trevas livre estou assim, por Sua luz!  \n\nO bom Jesus, ó fonte de amor, \nFaz-me ouvir a Tua voz, Senhor; \nSempre viver deli eu quero sim, \nÓ manifesta mais o Teu poder em mim!  \n\nOh! Em mim, \nJá enfim, ressuscitou Jesus; \nDas trevas livre estou assim, por Sua luz!  \n\nO bom Jesus, real Consolador, \nLonge de Ti está o pecador! \nVives em mim, és minha salvação; \nSó é feliz, o que Te tem no Coração!\n\nOh! Em mim, \nJá enfim, ressuscitou Jesus; \nDas trevas livre estou assim, por Sua luz!  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó bom Jesus, tesouro de poder, \nQuero sentir-Te. sempre no meu ser! \nFaz-me andar, oh, sempre nesta luz, \nPois dentro de mim vives, \nÓ meu bom Jesus!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Oh! Em mim, \nJá enfim, ressuscitou Jesus; \nDas trevas livre estou assim, por Sua luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O bom Jesus, ó fonte de amor, \nFaz-me ouvir a Tua voz, Senhor; \nSempre viver deli eu quero sim, \nÓ manifesta mais o Teu poder em mim!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh! Em mim, \nJá enfim, ressuscitou Jesus; \nDas trevas livre estou assim, por Sua luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "O bom Jesus, real Consolador, \nLonge de Ti está o pecador! \nVives em mim, és minha salvação; \nSó é feliz, o que Te tem no Coração!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Oh! Em mim, \nJá enfim, ressuscitou Jesus; \nDas trevas livre estou assim, por Sua luz!  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

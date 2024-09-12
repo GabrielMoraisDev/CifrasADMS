@@ -1,0 +1,48 @@
+{
+  "id": 1654036560556,
+  "title": "628 – Além do céu azul",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Além do céu azul, \nFoi Jesus preparar \nUm lar pra dar a quem \nA vitória alcançar. \nPor Ele consegui \nA vida do porvir, \nCom fé no meu Senhor Jesus.    \n\nBem sei que eu de mim \nNada tenho pra dar \nMas sei que meu Jesus \nJá me veio salvar. \nPor Ele livre estou, \nSeguindo a Ele vou, \nAté seu rosto ver além.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Além do céu azul, \nFoi Jesus preparar \nUm lar pra dar a quem \nA vitória alcançar. \nPor Ele consegui \nA vida do porvir, \nCom fé no meu Senhor Jesus.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Bem sei que eu de mim \nNada tenho pra dar \nMas sei que meu Jesus \nJá me veio salvar. \nPor Ele livre estou, \nSeguindo a Ele vou, \nAté seu rosto ver além.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

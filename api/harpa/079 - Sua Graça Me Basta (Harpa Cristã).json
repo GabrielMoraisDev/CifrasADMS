@@ -1,0 +1,76 @@
+{
+  "id": 1655643738791,
+  "title": "079 - Sua Graça Me Basta",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Bb",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando me sinto fraco, \nNão tenho mais vigor, \nNão vendo mais o brilho do sol, \nDa clara luz; \nJesus está comigo, é meu Consolador;\nEle jamais me deixa, \nPois sempre me conduz.\n\nSua graça me basta a mim, a mim, \nSua graça me basta a mim;\nNa vida d'aquém, no céu também, \nSua graça me basta a mim.\n\nQuando a tempestade vem \nContra mim feroz, \nNas trevas navegando \nCom minha embarcação, \nCristo Jesus me anima, \nOuço a Sua voz; \n\"Eis que estou contigo, \nPor que temer, então?\"\n\nSua graça me basta a mim, a mim, \nSua graça me basta a mim;\nNa vida d'aquém, no céu também, \nSua graça me basta a mim.\n\nQuando m'atingem os dardos do inimigo audaz, \nQue busca com astúcia a vida me tirar,\nEu clamo, então, a Cristo, \nMeu Salvador veraz,\nO qual me dá vitória, \nSe nEle eu confiar.\t\n\nSua graça me basta a mim, a mim, \nSua graça me basta a mim;\nNa vida d'aquém, no céu também, \nSua graça me basta a mim.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando me sinto fraco, \nNão tenho mais vigor, \nNão vendo mais o brilho do sol, \nDa clara luz; \nJesus está comigo, é meu Consolador;\nEle jamais me deixa, \nPois sempre me conduz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Sua graça me basta a mim, a mim, \nSua graça me basta a mim;\nNa vida d'aquém, no céu também, \nSua graça me basta a mim.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando a tempestade vem \nContra mim feroz, \nNas trevas navegando \nCom minha embarcação, \nCristo Jesus me anima, \nOuço a Sua voz; \n\"Eis que estou contigo, \nPor que temer, então?\"",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Sua graça me basta a mim, a mim, \nSua graça me basta a mim;\nNa vida d'aquém, no céu também, \nSua graça me basta a mim.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quando m'atingem os dardos do inimigo audaz, \nQue busca com astúcia a vida me tirar,\nEu clamo, então, a Cristo, \nMeu Salvador veraz,\nO qual me dá vitória, \nSe nEle eu confiar.\t",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Sua graça me basta a mim, a mim, \nSua graça me basta a mim;\nNa vida d'aquém, no céu também, \nSua graça me basta a mim.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

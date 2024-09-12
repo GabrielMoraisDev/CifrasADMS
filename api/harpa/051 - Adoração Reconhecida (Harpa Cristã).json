@@ -1,0 +1,62 @@
+{
+  "id": 1652831400051,
+  "title": "051 - Adoração Reconhecida",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "F",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó minh'alma, sem demora, \nErgue-te para entoar, \nOs louvores do teu Cristo, \nE Seu nome celebrar! \nP'ra remir-te, p'ra remir-te, \nSua vida Ele quis dar! \n\nMinha condição tão triste \nConheceu meu Salvador; \nQue dos céus desceu à terra, \nPara ser meu Redentor! \nOh! Quão grande! Oh! Quão grande! \nE o amor de meu Senhor!   \n\nCondenado, justamente, \nQue podia eu fazer, \nDessa pena p'ra livrar-me, \nO perdão p’ra merecer? \nO Seu sangue, o Seu sangue, \nQuis Jesus por mim verter! \n\nCom meus crimes carregado, \nLá na cruz, em meu lugar, \nFoi Jesus crucificado, \nA minh'alma pra salvar; \nVinde todos! Vinde todos, \nJá comigo, O adorar! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó minh'alma, sem demora, \nErgue-te para entoar, \nOs louvores do teu Cristo, \nE Seu nome celebrar! \nP'ra remir-te, p'ra remir-te, \nSua vida Ele quis dar! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Minha condição tão triste \nConheceu meu Salvador; \nQue dos céus desceu à terra, \nPara ser meu Redentor! \nOh! Quão grande! Oh! Quão grande! \nE o amor de meu Senhor!   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Condenado, justamente, \nQue podia eu fazer, \nDessa pena p'ra livrar-me, \nO perdão p’ra merecer? \nO Seu sangue, o Seu sangue, \nQuis Jesus por mim verter! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Com meus crimes carregado, \nLá na cruz, em meu lugar, \nFoi Jesus crucificado, \nA minh'alma pra salvar; \nVinde todos! Vinde todos, \nJá comigo, O adorar! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

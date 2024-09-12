@@ -1,0 +1,62 @@
+{
+  "id": 1658446612968,
+  "title": "202 - Lugar de Delicias",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Junto ao trono de Deus preparado \nHá, cristão, um lugar para ti; \nHá perfumes, há gozo exaltado. \nHá delicias profusas ali; \nSim, ali; sim, ali, \nDe Seus anjos fiéis rodeado, \nNuma esfera de glória e de luz, \nJunto a Deus nos espera Jesus \n\nOs encantos da terra não podem \nDar idéia do gozo dali; \nSe na terra os prazeres acodem, \nSão prazeres que acabam-se aqui; \nMas ali, mal ali \nAs venturas eternas concorrem \nCo'a existência perpétua da luz, \nA tornar-nos felizes com Jesus.   \n\nConservemos em nossa lembrança, \nAs riquezas do lindo país, \nE guardemos conosco a esperança, \nDe uma vida melhor, mais feliz; \nPois dali, pois dali \nUma voz verdadeira não cansa \nDe oferecer-nos do reino da luz, \nO amor protetor de Jesus. \n\nSe quisermos gozar da ventura \nQue no belo país haverá, \nÉ somente pedir da alma pura, \nQue de graça Jesus nos dará. \nPois dali, pois dali \nTodo cheio de amor, da ternura, \nDesse amor que mostrou-nos na cruz, \nNos escuta, nos ouve Jesus. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Junto ao trono de Deus preparado \nHá, cristão, um lugar para ti; \nHá perfumes, há gozo exaltado. \nHá delicias profusas ali; \nSim, ali; sim, ali, \nDe Seus anjos fiéis rodeado, \nNuma esfera de glória e de luz, \nJunto a Deus nos espera Jesus ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Os encantos da terra não podem \nDar idéia do gozo dali; \nSe na terra os prazeres acodem, \nSão prazeres que acabam-se aqui; \nMas ali, mal ali \nAs venturas eternas concorrem \nCo'a existência perpétua da luz, \nA tornar-nos felizes com Jesus.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Conservemos em nossa lembrança, \nAs riquezas do lindo país, \nE guardemos conosco a esperança, \nDe uma vida melhor, mais feliz; \nPois dali, pois dali \nUma voz verdadeira não cansa \nDe oferecer-nos do reino da luz, \nO amor protetor de Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Se quisermos gozar da ventura \nQue no belo país haverá, \nÉ somente pedir da alma pura, \nQue de graça Jesus nos dará. \nPois dali, pois dali \nTodo cheio de amor, da ternura, \nDesse amor que mostrou-nos na cruz, \nNos escuta, nos ouve Jesus. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

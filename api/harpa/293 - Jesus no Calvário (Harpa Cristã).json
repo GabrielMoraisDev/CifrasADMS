@@ -1,0 +1,55 @@
+{
+  "id": 1659484068645,
+  "title": "293 - Jesus no Calvário",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Jesus no Calvário, por mim sofreu \nA morte da maldição; \nMinh’alma ganhou, com o sangue \nSeu O preço da redenção. \nDo alto da cruz, Jesus exclamou: \n“Consumado está”, ao espírito rendeu; \nO sangue verteu, a me expiou, \nUnindo-me ao povo Seu.  \n\nNa cruz do Calvário, a cédula foi \nCravada que Ele riscou. \nO véu se rasgou, a porta se abriu, \nAberta p’ra Deus ficou. \nSobre a cruz eu morri, \nCom Cristo Jesus; \nO meu “ego” falaz sobre o lenho levou. \nA noite fugiu, e raiou a luz! \nPor Cristo eu salvo estou.  \n\nNa cruz do Calvário, ao mundo morri; \nAqui um estranho fiquei; \nNão vivo mais eu, com Cristo me uni; \nQue vida excelsa achei! \nO Cordeiro de Deus minh’alma nevou; \nO sangue pascoal a culpa tirou, \nO destruidor minh’alma passou, \nEm Cristo liberto estou.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Jesus no Calvário, por mim sofreu \nA morte da maldição; \nMinh’alma ganhou, com o sangue \nSeu O preço da redenção. \nDo alto da cruz, Jesus exclamou: \n“Consumado está”, ao espírito rendeu; \nO sangue verteu, a me expiou, \nUnindo-me ao povo Seu.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Na cruz do Calvário, a cédula foi \nCravada que Ele riscou. \nO véu se rasgou, a porta se abriu, \nAberta p’ra Deus ficou. \nSobre a cruz eu morri, \nCom Cristo Jesus; \nO meu “ego” falaz sobre o lenho levou. \nA noite fugiu, e raiou a luz! \nPor Cristo eu salvo estou.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Na cruz do Calvário, ao mundo morri; \nAqui um estranho fiquei; \nNão vivo mais eu, com Cristo me uni; \nQue vida excelsa achei! \nO Cordeiro de Deus minh’alma nevou; \nO sangue pascoal a culpa tirou, \nO destruidor minh’alma passou, \nEm Cristo liberto estou.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

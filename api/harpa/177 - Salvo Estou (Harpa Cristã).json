@@ -1,0 +1,90 @@
+{
+  "id": 1658447419169,
+  "title": "177 - Salvo Estou",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Salvo estou, Jesus comprou-me \nDo pecado e perdição;\nCom Seu espírito já selou-me \nDeu-me paz no coração.\n\nGlória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.\n\nCantarei com alegria, \nJubiloso som do céu, \nLouvarei com harmonia \nA Jesus, o amado meu.\n\nGlória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.\n\nA mensagem gloriosa \nDuma eterna salvação,\nForte, sim, e poderosa,\nDigna é de aceitação.\n\nGlória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.\n\nAo chegar o fim da lida,\nMe recebes, Salvador;\nMe concede eterna vida,\nNo Teu reino de amor.\n\nGlória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Salvo estou, Jesus comprou-me \nDo pecado e perdição;\nCom Seu espírito já selou-me \nDeu-me paz no coração.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Glória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Cantarei com alegria, \nJubiloso som do céu, \nLouvarei com harmonia \nA Jesus, o amado meu.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Glória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "A mensagem gloriosa \nDuma eterna salvação,\nForte, sim, e poderosa,\nDigna é de aceitação.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Glória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Ao chegar o fim da lida,\nMe recebes, Salvador;\nMe concede eterna vida,\nNo Teu reino de amor.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Glória, glória, aleluia, \nJá achei a salvação; \nGlória, glória, aleluia, \nCristo deu-me redenção.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

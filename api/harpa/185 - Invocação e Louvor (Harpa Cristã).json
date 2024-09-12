@@ -1,0 +1,62 @@
+{
+  "id": 1658873950151,
+  "title": "185 - Invocação e Louvor",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vem Tu, ó Rei dos reis. \nGuiar os teus fiéis p’ra Te louvar. \nGrande e glorioso Ser, \nPai de todo o poder, \nVem sobre nós reger, \nOh! Deus sem par! \n\nVem Tu, Verbo de Deus, \nFazer chegar aos céus \nNossa oração. Vem, sim, abençoar \nTeu povo e prosperar \nMensagem que falar da salvação. \n\nVem. Tu. Consolador, \nInspira e dá fervor às orações; \nEspírito de paz, afasta Satanás, \nE plena graça traz aos corações. \n\nAo grande trino Deus \nLouvem os anjos Seus e nós também, \nA Deus nosso Senhor: \nPai, Filho e Condutor \nLouvemos com fervor, \nPra sempre. Amém. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vem Tu, ó Rei dos reis. \nGuiar os teus fiéis p’ra Te louvar. \nGrande e glorioso Ser, \nPai de todo o poder, \nVem sobre nós reger, \nOh! Deus sem par! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vem Tu, Verbo de Deus, \nFazer chegar aos céus \nNossa oração. Vem, sim, abençoar \nTeu povo e prosperar \nMensagem que falar da salvação. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vem. Tu. Consolador, \nInspira e dá fervor às orações; \nEspírito de paz, afasta Satanás, \nE plena graça traz aos corações. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ao grande trino Deus \nLouvem os anjos Seus e nós também, \nA Deus nosso Senhor: \nPai, Filho e Condutor \nLouvemos com fervor, \nPra sempre. Amém. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

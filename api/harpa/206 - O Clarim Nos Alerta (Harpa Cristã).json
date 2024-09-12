@@ -1,0 +1,76 @@
+{
+  "id": 1658874675587,
+  "title": "206 - O Clarim Nos Alerta",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O clarim já nos alerta, \nNosso coração desperta, \n a vinda é bem certa de Jesus; \nDe mil anjos rodeado, \nPara o crente preparado, \nCristo volta coroado. Aleluia! \n\nÓ irmão por Deus liberto, \nPelo sangue estás coberto; \nTens o teu perdão bem certo, \nSalvo estás; \nVoz de júbilo ouviremos \nE no céu nós cantaremos, \nCristo breve nós veremos. Aleluia! \n\nLá nas bodas do Cordeiro, \nSentaremos prazenteiros; \nOh! Que gozo verdadeiro com Jesus! \nPois no céu não há mais pranto, \nEis que tudo será canto; \nCristo vem buscar os santos. Aleluia! \n\nÓ irmão por Deus liberto, \nPelo sangue estás coberto; \nTens o teu perdão bem certo, \nSalvo estás; \nVoz de júbilo ouviremos \nE no céu nós cantaremos, \nCristo breve nós veremos. Aleluia! \n\nSim à mesa sentaremos, \nE com Cristo cearemos; \nQuão felizes nós seremos com Jesus! \nPara sempre gozaremos, \nE com Cristo reinaremos, \nSua glória fruiremos. Aleluia! \n\nÓ irmão por Deus liberto, \nPelo sangue estás coberto; \nTens o teu perdão bem certo, \nSalvo estás; \nVoz de júbilo ouviremos \nE no céu nós cantaremos, \nCristo breve nós veremos. Aleluia! ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O clarim já nos alerta, \nNosso coração desperta, \n a vinda é bem certa de Jesus; \nDe mil anjos rodeado, \nPara o crente preparado, \nCristo volta coroado. Aleluia! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó irmão por Deus liberto, \nPelo sangue estás coberto; \nTens o teu perdão bem certo, \nSalvo estás; \nVoz de júbilo ouviremos \nE no céu nós cantaremos, \nCristo breve nós veremos. Aleluia! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Lá nas bodas do Cordeiro, \nSentaremos prazenteiros; \nOh! Que gozo verdadeiro com Jesus! \nPois no céu não há mais pranto, \nEis que tudo será canto; \nCristo vem buscar os santos. Aleluia! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó irmão por Deus liberto, \nPelo sangue estás coberto; \nTens o teu perdão bem certo, \nSalvo estás; \nVoz de júbilo ouviremos \nE no céu nós cantaremos, \nCristo breve nós veremos. Aleluia! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Sim à mesa sentaremos, \nE com Cristo cearemos; \nQuão felizes nós seremos com Jesus! \nPara sempre gozaremos, \nE com Cristo reinaremos, \nSua glória fruiremos. Aleluia! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ó irmão por Deus liberto, \nPelo sangue estás coberto; \nTens o teu perdão bem certo, \nSalvo estás; \nVoz de júbilo ouviremos \nE no céu nós cantaremos, \nCristo breve nós veremos. Aleluia! ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

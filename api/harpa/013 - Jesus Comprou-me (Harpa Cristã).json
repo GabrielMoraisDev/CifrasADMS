@@ -1,0 +1,69 @@
+{
+  "id": 1644150425887,
+  "title": "013 - Jesus Comprou-me",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "C",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Jesus comprou-me do mundo aqui, \nPalavras doces são para mim; \nJesus comprou-me e vai me dar \nEterno gozo, celeste lar. \nJesus comprou-me e vai me dar \nEterno gozo, celeste lar. \n\nJesus comprou-me da escravidão, \nA paz eu gozo por Seu perdão; \nSou desprezado um pouco aqui, \nMas eu espero gozar ali. \nSou desprezado um pouco aqui, \nMas eu espero gozar ali. \n\nJesus comprou-me, e eu fiquei \nP'ra sempre livre da dura lei! \nAgora espero até Ele vir, \nP'ra que me leve ao Seu porvir. \nAgora espero até Ele vir, \nP'ra que me leve ao Seu porvir. \n\nÓ vinde, amigos, e junto a nós, \nOuvi depressa do céu a voz; \n- O que demora não chegará, \nPorque se perde e morrerá.\n - O que demora não chegará, \nPorque se perde e morrerá.   \n\nJesus comprou-me e me dará \nLugar às mesas, que esperam lá. \nOuve o convite, ó pecador, \nPois Jesus Cristo é o Salvador. \nOuve o convite, ó pecador, \nPois Jesus Cristo é o Salvador.   ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Jesus comprou-me do mundo aqui, \nPalavras doces são para mim; \nJesus comprou-me e vai me dar \nEterno gozo, celeste lar. \nJesus comprou-me e vai me dar \nEterno gozo, celeste lar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Jesus comprou-me da escravidão, \nA paz eu gozo por Seu perdão; \nSou desprezado um pouco aqui, \nMas eu espero gozar ali. \nSou desprezado um pouco aqui, \nMas eu espero gozar ali. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jesus comprou-me, e eu fiquei \nP'ra sempre livre da dura lei! \nAgora espero até Ele vir, \nP'ra que me leve ao Seu porvir. \nAgora espero até Ele vir, \nP'ra que me leve ao Seu porvir. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó vinde, amigos, e junto a nós, \nOuvi depressa do céu a voz; \n- O que demora não chegará, \nPorque se perde e morrerá.\n - O que demora não chegará, \nPorque se perde e morrerá.   ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Jesus comprou-me e me dará \nLugar às mesas, que esperam lá. \nOuve o convite, ó pecador, \nPois Jesus Cristo é o Salvador. \nOuve o convite, ó pecador, \nPois Jesus Cristo é o Salvador.   ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

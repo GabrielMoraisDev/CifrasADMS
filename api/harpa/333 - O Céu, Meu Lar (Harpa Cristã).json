@@ -1,0 +1,55 @@
+{
+  "id": 1657458635638,
+  "title": "333 - O Céu, Meu Lar",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "É o meu lar, o céu, o céu de luz; \nLivre da carne, o véu, verei Jesus; \nOh! Que feliz serei ao lado do Senhor,\nLouvando ao meu Rei, o Salvador!\n\nÉ o meu lar, o céu, o céu de luz;\nPor mim sofreu, qual réu, o meu Jesus; \nOh! Que feliz serei no reino de amor, \nPois sempre gozarei, com meu Senhor!\n\nÉ o meu lar, o céu, o céu de luz;\nE com os meus troféus vou a Jesus;\nOh! Que feliz serei quando, com mui fervor,\nAos pés estar do Rei, dando louvor!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "É o meu lar, o céu, o céu de luz; \nLivre da carne, o véu, verei Jesus; \nOh! Que feliz serei ao lado do Senhor,\nLouvando ao meu Rei, o Salvador!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "É o meu lar, o céu, o céu de luz;\nPor mim sofreu, qual réu, o meu Jesus; \nOh! Que feliz serei no reino de amor, \nPois sempre gozarei, com meu Senhor!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "É o meu lar, o céu, o céu de luz;\nE com os meus troféus vou a Jesus;\nOh! Que feliz serei quando, com mui fervor,\nAos pés estar do Rei, dando louvor!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

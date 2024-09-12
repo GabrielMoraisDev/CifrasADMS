@@ -1,0 +1,62 @@
+{
+  "id": 1645997676648,
+  "title": "042 -  SAUDAI JESUS",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "Ab",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Saudai o nome de Jesus! \nArcanjos, vos prostrai; \nArcanjos, vos prostrai; \nAo Filho do eterno Deus, \nCom glória, glória,\nGlória, glória,\nCom glória, coroai!\n\nÓ escolhida geração \nDo bom eterno Pai, \nDo bom eterno Pai;\nAo grande autor da salvação,\nCom glória, glória, \nGlória, glória,\nCom glória, coroai!\n\nÓ perdoados, cujo amor \nBem triunfante vai, \nBem triunfante vai,\nAo Deus Varão, Conquistador,\nCom glória, glória, \nGlória glária\nCom glória, coroai l\n\nÓ raças, tribos e nações, \nAo Rei dos reis honrai! \nAo Rei dos reis honrai!\nA quem quebrou vossos grilhões,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!\tJ.H.N.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Saudai o nome de Jesus! \nArcanjos, vos prostrai; \nArcanjos, vos prostrai; \nAo Filho do eterno Deus, \nCom glória, glória,\nGlória, glória,\nCom glória, coroai!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó escolhida geração \nDo bom eterno Pai, \nDo bom eterno Pai;\nAo grande autor da salvação,\nCom glória, glória, \nGlória, glória,\nCom glória, coroai!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ó perdoados, cujo amor \nBem triunfante vai, \nBem triunfante vai,\nAo Deus Varão, Conquistador,\nCom glória, glória, \nGlória glária\nCom glória, coroai l",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ó raças, tribos e nações, \nAo Rei dos reis honrai! \nAo Rei dos reis honrai!\nA quem quebrou vossos grilhões,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!\tJ.H.N.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

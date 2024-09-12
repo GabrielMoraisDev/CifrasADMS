@@ -1,0 +1,62 @@
+{
+  "id": 1657665392454,
+  "title": "105 - A Gloriosa Esperança",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "G",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Possuis em ti. á pecador, \nA gloriosa esperança? \nE Cristo tua confiança, \nQue te sustenta com vigor? \nA minha é Jesus, á Jesus, é Jesus, \nA minha é Jesus, \nQue me concede segurança. \n\nSe nada mais te satisfaz, \nAqui no mundo, ó perdido, \nE se te sentes abatido, \nQual há de ser a tua paz? \nA minha é Jesus, é Jesus, á Jesus, \nA minha é Jesus, \nQue não me deixa desvalido. \n\nE quando o teu fim chegar, \nE te cobrir o véu da morte, \nQual há de ser a tua sorte? \nIrás sofrer? Irás gozar? \nA minha é Jesus, é Jesus, é Jesus, \nA minha é Jesus, \nQue me tornou, de fraco, forte. \n\nVem a Jesus, vem pecador, \nVem dar o teu primeiro passo; \nQual é a força do teu braço, \nQue te fará um vencedor? \nA minha é Jesus, é Jesus, é Jesus, \nA minha é Jesus, \nPor ela quebro todos os laços. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Possuis em ti. á pecador, \nA gloriosa esperança? \nE Cristo tua confiança, \nQue te sustenta com vigor? \nA minha é Jesus, á Jesus, é Jesus, \nA minha é Jesus, \nQue me concede segurança. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Se nada mais te satisfaz, \nAqui no mundo, ó perdido, \nE se te sentes abatido, \nQual há de ser a tua paz? \nA minha é Jesus, é Jesus, á Jesus, \nA minha é Jesus, \nQue não me deixa desvalido. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E quando o teu fim chegar, \nE te cobrir o véu da morte, \nQual há de ser a tua sorte? \nIrás sofrer? Irás gozar? \nA minha é Jesus, é Jesus, é Jesus, \nA minha é Jesus, \nQue me tornou, de fraco, forte. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vem a Jesus, vem pecador, \nVem dar o teu primeiro passo; \nQual é a força do teu braço, \nQue te fará um vencedor? \nA minha é Jesus, é Jesus, é Jesus, \nA minha é Jesus, \nPor ela quebro todos os laços. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

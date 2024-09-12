@@ -1,0 +1,69 @@
+{
+  "id": 1631483293872,
+  "title": "033 - Com Tua Mão Segura",
+  "artist": "Harpa Cristã ",
+  "author": "",
+  "note": "Ab",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Com Tua mão\nSegura bem a minha\nPois eu tão fraco sou\nÓ Salvador\nQue não me atrevo\nA dar nem um só passo\nSem Teu amparo\nMeu Jesus, Senhor\n\nCom Tua mão\nSegura bem a minha\nE mais e mais unido a Ti Jesus\nOh, traze-me\nQue nunca me desvie\nDe Ti, Senhor\nA minha vida e luz\n\nCom Tua mão\nSegura bem a minha\nE pelo mundo\nAlegre seguirei\nMesmo onde as sombras\nCaem mais escuras\nTeu rosto vendo\nNada temerei\n\nE se chegar\nÀ beira desse rio\nQue Tu, por mim\nQuiseste atravessar\nCom Tua mão\nSegura bem a minha\nE sobre a morte\nEu hei de triunfar\n\nQuando voltares\nEsses céus rompendo\nSegura bem a minha mão Senhor\nE, meu Jesus\nOh, leva-me Contigo\nPara onde eu goze\nTeu eterno amor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Com Tua mão\nSegura bem a minha\nPois eu tão fraco sou\nÓ Salvador\nQue não me atrevo\nA dar nem um só passo\nSem Teu amparo\nMeu Jesus, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Com Tua mão\nSegura bem a minha\nE mais e mais unido a Ti Jesus\nOh, traze-me\nQue nunca me desvie\nDe Ti, Senhor\nA minha vida e luz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com Tua mão\nSegura bem a minha\nE pelo mundo\nAlegre seguirei\nMesmo onde as sombras\nCaem mais escuras\nTeu rosto vendo\nNada temerei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E se chegar\nÀ beira desse rio\nQue Tu, por mim\nQuiseste atravessar\nCom Tua mão\nSegura bem a minha\nE sobre a morte\nEu hei de triunfar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quando voltares\nEsses céus rompendo\nSegura bem a minha mão Senhor\nE, meu Jesus\nOh, leva-me Contigo\nPara onde eu goze\nTeu eterno amor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1648380964935,
+  "title": "Deus Está Aqui",
+  "artist": "Corinhos Evangélicos",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus está aqui, aleluia\nTão certo como o ar\nQue eu respiro\n\nTão certo como o amanhã \nQue se levanta\nTão certo como eu te falo \nE podes me ouvir",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus está aqui, aleluia\nTão certo como o ar\nQue eu respiro",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tão certo como o amanhã \nQue se levanta\nTão certo como eu te falo \nE podes me ouvir",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

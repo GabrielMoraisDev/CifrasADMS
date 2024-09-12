@@ -1,0 +1,76 @@
+{
+  "id": 1659050280148,
+  "title": "285 - Tu És O Meu Gozo",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Senhor, pela fé me sustento\nNa graça, nos Teus mandamentos,\nQue operam a cada momento,\nNo meu coração, salvação! \n\nTu és o meu gozo,\nSenhor, o meu manancial de amor;\nIrei Te louvar para sempre nos céus,\nBem perto do trono de Deus!\n\nA graça de Deus recebida,\nEncheu-me de gozo, de vida,\nE sempre a mim é concedida\nPor nosso Senhor, Redentor!\n\nTu és o meu gozo,\nSenhor, o meu manancial de amor;\nIrei Te louvar para sempre nos céus,\nBem perto do trono de Deus!\n\nDe bênçãos oh! vem me inundando,\nO meu coração inflamando,\nTambém meus pecados queimando,\nDe todo meu ser, com poder.\n\nTu és o meu gozo,\nSenhor, o meu manancial de amor;\nIrei Te louvar para sempre nos céus,\nBem perto do trono de Deus!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Senhor, pela fé me sustento\nNa graça, nos Teus mandamentos,\nQue operam a cada momento,\nNo meu coração, salvação! ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tu és o meu gozo,\nSenhor, o meu manancial de amor;\nIrei Te louvar para sempre nos céus,\nBem perto do trono de Deus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "A graça de Deus recebida,\nEncheu-me de gozo, de vida,\nE sempre a mim é concedida\nPor nosso Senhor, Redentor!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tu és o meu gozo,\nSenhor, o meu manancial de amor;\nIrei Te louvar para sempre nos céus,\nBem perto do trono de Deus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "De bênçãos oh! vem me inundando,\nO meu coração inflamando,\nTambém meus pecados queimando,\nDe todo meu ser, com poder.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Tu és o meu gozo,\nSenhor, o meu manancial de amor;\nIrei Te louvar para sempre nos céus,\nBem perto do trono de Deus!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

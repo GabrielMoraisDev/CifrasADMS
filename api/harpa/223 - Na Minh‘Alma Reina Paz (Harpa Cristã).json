@@ -1,0 +1,76 @@
+{
+  "id": 1658876871803,
+  "title": "223 - Na Minh‘Alma Reina Paz",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Em escuridão, sem Jesus, me vi,\nCom mil penas e grande dor;\nMas Jesus chamou: \n\"Vem, sim, vem a Mim,\nQuero ser teu Salvador\".  \n\nNa minh ‘alma reina paz; \nDesde que vim a Jesus; \nTenho sempre paz \nPois avistei de Deus, a luz! \nE gozo mui veraz.\n\nPelas grandes ondas da perdição, \nFui cercado no alto mar, \nSem ter um piloto no furacão, \nQue pudesse me guiar.  \n\nNa minh ‘alma reina paz; \nDesde que vim a Jesus; \nTenho sempre paz \nPois avistei de Deus, a luz! \nE gozo mui veraz.\n\nE se te encontrares a pelejar, \nSem auxilio ter eficaz, \nClama ao Salvador, clama sem tardar, \nSua graça é mui veraz.\n\nNa minh ‘alma reina paz; \nDesde que vim a Jesus; \nTenho sempre paz \nPois avistei de Deus, a luz! \nE gozo mui veraz.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Em escuridão, sem Jesus, me vi,\nCom mil penas e grande dor;\nMas Jesus chamou: \n\"Vem, sim, vem a Mim,\nQuero ser teu Salvador\".  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Na minh ‘alma reina paz; \nDesde que vim a Jesus; \nTenho sempre paz \nPois avistei de Deus, a luz! \nE gozo mui veraz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Pelas grandes ondas da perdição, \nFui cercado no alto mar, \nSem ter um piloto no furacão, \nQue pudesse me guiar.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Na minh ‘alma reina paz; \nDesde que vim a Jesus; \nTenho sempre paz \nPois avistei de Deus, a luz! \nE gozo mui veraz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "E se te encontrares a pelejar, \nSem auxilio ter eficaz, \nClama ao Salvador, clama sem tardar, \nSua graça é mui veraz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Na minh ‘alma reina paz; \nDesde que vim a Jesus; \nTenho sempre paz \nPois avistei de Deus, a luz! \nE gozo mui veraz.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

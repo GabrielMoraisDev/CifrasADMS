@@ -1,0 +1,69 @@
+{
+  "id": 1659874623203,
+  "title": "327 – Teu Nome Precioso",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Jesus Cristo, o Teu nome \nE tão doce para mim \n- Tua doçura incomparável \nEnche-me de amor sem fim. \nTua doçura incomparável \nEnche-me de amor sem fim.  \n\nÉs a estrela resplendente, \nQue rebrilha com fulgor, \nE dirige os meus passos, \nNeste mundo de horror. \nE dirige os meus passos, \nNeste mundo de horror. \n\nTeus são os eternos braços, \nProtegendo o seguidor, \nQue não fique enlaçado \nPelo maligno tentador. \nQue não fique enlaçado \nPelo maligno tentador.  \n\nCom meu Salvador amado \nPosso alegre prosseguir, \nE com Ele eterno gozo \nEu terei lá no porvir. \nE com Ele eterno gozo \nEu terei lá no porvir.  \n\nOh! Teu nome precioso \nContinua a soar \nPelo mundo de pecado, \nPara as almas despertar! \nPelo mundo de pecado, \nPara as almas despertar!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Jesus Cristo, o Teu nome \nE tão doce para mim \n- Tua doçura incomparável \nEnche-me de amor sem fim. \nTua doçura incomparável \nEnche-me de amor sem fim.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "És a estrela resplendente, \nQue rebrilha com fulgor, \nE dirige os meus passos, \nNeste mundo de horror. \nE dirige os meus passos, \nNeste mundo de horror. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Teus são os eternos braços, \nProtegendo o seguidor, \nQue não fique enlaçado \nPelo maligno tentador. \nQue não fique enlaçado \nPelo maligno tentador.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Com meu Salvador amado \nPosso alegre prosseguir, \nE com Ele eterno gozo \nEu terei lá no porvir. \nE com Ele eterno gozo \nEu terei lá no porvir.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Oh! Teu nome precioso \nContinua a soar \nPelo mundo de pecado, \nPara as almas despertar! \nPelo mundo de pecado, \nPara as almas despertar!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

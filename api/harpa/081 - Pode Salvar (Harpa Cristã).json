@@ -1,0 +1,90 @@
+{
+  "id": 1655644012024,
+  "title": "081 - Pode Salvar",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "D",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Somente em Cristo podemos \nA salvação receber;\nNovo concerto nós temos\nEm quem na cruz quis morrer.\n\nPode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, \nTira os pecados, e quer vos salvar\n\nQuando perdoa os pecados \nVida nos quer conceder. \nFomos por sangue comprados \nDo modo vão de viver.\n\nPode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, \nTira os pecados, e quer vos salvar\n\nTeu coração já entrega \nA quem te pode salvar;\nE quem as dores carrega: \nCristo te pode livrar!\n\nPode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, \nTira os pecados, e quer vos salvar\n\nCristo te quer dar agora \nPaz e descanso real;\nQuer revelar-te esta hora:\nGraça imensa e real.\n\nPode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Somente em Cristo podemos \nA salvação receber;\nNovo concerto nós temos\nEm quem na cruz quis morrer.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, \nTira os pecados, e quer vos salvar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando perdoa os pecados \nVida nos quer conceder. \nFomos por sangue comprados \nDo modo vão de viver.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Pode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, \nTira os pecados, e quer vos salvar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Teu coração já entrega \nA quem te pode salvar;\nE quem as dores carrega: \nCristo te pode livrar!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Pode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, \nTira os pecados, e quer vos salvar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Cristo te quer dar agora \nPaz e descanso real;\nQuer revelar-te esta hora:\nGraça imensa e real.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Pode salvar, pode salvar,\nTira os pecados, e quer vos salvar, \nPode salvar, pode salvar, ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

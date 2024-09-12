@@ -1,0 +1,90 @@
+{
+  "id": 1655644133127,
+  "title": "082 - Um Meigo Salvador",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "G",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Um Salvador meigo eu tenho, \nA quem antes não conheci; \nAgora, alegre, eu venho \nContando a todos que O vi.\n\nTodos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.\n\nDe todos, é o mais formoso, \nImagem da glória de Deus; \nTornou-me alegre e ditoso,\nE herdeiro da glória dos céus.\n\nTodos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.\n\nSe os ímpios me armarem cilada, \nNa senda que hei de trilhar,\nJesus me dará boa espada,\nE os laços eu hei de cortar.\n\nTodos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.\n\nA vida e o amor Tu me deste,\nPorque Tu amaste a mim,\nTornou, sim, a glória celeste,\nMinha sorte bendita, enfim.\t\n\nTodos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Um Salvador meigo eu tenho, \nA quem antes não conheci; \nAgora, alegre, eu venho \nContando a todos que O vi.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Todos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "De todos, é o mais formoso, \nImagem da glória de Deus; \nTornou-me alegre e ditoso,\nE herdeiro da glória dos céus.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Todos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se os ímpios me armarem cilada, \nNa senda que hei de trilhar,\nJesus me dará boa espada,\nE os laços eu hei de cortar.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Todos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "A vida e o amor Tu me deste,\nPorque Tu amaste a mim,\nTornou, sim, a glória celeste,\nMinha sorte bendita, enfim.\t",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Todos, todos verão, \nTodos, todos verão; \nJesus glorioso e bondoso,\nSim, todos, todos verão.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1658874036926,
+  "title": "203 - Deixai as Ilusões",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O mundo de ilusão deixei, \nA senda de pecado e dor, \nPra ir ao meu glorioso lar; \nAli há gozo, paz e amor. \n\nNo mundo não está meu lar, \nAqui não posso descansar; \nMas quero sempre avançar: \nNo céu em breve hei de entrar. \n\nAlguns procuram m'impedir, \nNa senda gloriosa andar, \nMas quero sempre avançar, \nAté no lar poder entrar. \n\nNo mundo não está meu lar, \nAqui não posso descansar; \nMas quero sempre avançar: \nNo céu em breve hei de entrar. \n\nAmigo que no mundo estás, \nNão queres me acompanhar, \nÀ terra do eterno amor? \nJesus deseja te livrar. \n\nNo mundo não está meu lar, \nAqui não posso descansar; \nMas quero sempre avançar: \nNo céu em breve hei de entrar. ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O mundo de ilusão deixei, \nA senda de pecado e dor, \nPra ir ao meu glorioso lar; \nAli há gozo, paz e amor. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "No mundo não está meu lar, \nAqui não posso descansar; \nMas quero sempre avançar: \nNo céu em breve hei de entrar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Alguns procuram m'impedir, \nNa senda gloriosa andar, \nMas quero sempre avançar, \nAté no lar poder entrar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "No mundo não está meu lar, \nAqui não posso descansar; \nMas quero sempre avançar: \nNo céu em breve hei de entrar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Amigo que no mundo estás, \nNão queres me acompanhar, \nÀ terra do eterno amor? \nJesus deseja te livrar. ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "No mundo não está meu lar, \nAqui não posso descansar; \nMas quero sempre avançar: \nNo céu em breve hei de entrar. ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

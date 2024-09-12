@@ -1,0 +1,62 @@
+{
+  "id": 1659481577086,
+  "title": "264 - Ó Pai Celeste",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ó Pai celeste no nome santo \nDo Teu amado Filho Jesus, \nGrato Te sela o nosso canto, \nQue reverente Tua grei produz; \nÓ Deus, preside Teu povo unido, \nCom Tua graça e com Teu poder, \nNo Santo Espírito já recebido, \nNós desejamos aqui viver.  \n\nRocha divina, nossa firmeza, \nDá-nos a graça, dá-nos poder; \nÉs dos Teus servos a fortaleza, \nOnde, abrigados, não têm pavor; \nChuvas de bênçãos sempre derrama \nEm abundância dos altos céus; \nA nossa alma, qual cervo brama \nEm grande seca por Ti, bom Deus!\n\nRebanho santo, por Deus selado, \nDuma só mente, dum coração, \nE que assim seja realizado, \nVer, esperamos, com prontidão; \nÓ nos defende com o Teu braço, \nDo inimigo, do tentador; \nSempre dirige os nossos passos, \nAs vivas fontes que dão vigor!  \n\nManda, Senhor, a Tua mensagem \nPela divina e sacra unção, \nQual o maná, que trouxe, em viagem, \nPara Teu povo, a consolação; \nTua Palavra, água da vida, \nDo nosso cálice, faz transbordar, \nCheia de graça, bem dirigida, \nPara os sedentos poder saciar.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ó Pai celeste no nome santo \nDo Teu amado Filho Jesus, \nGrato Te sela o nosso canto, \nQue reverente Tua grei produz; \nÓ Deus, preside Teu povo unido, \nCom Tua graça e com Teu poder, \nNo Santo Espírito já recebido, \nNós desejamos aqui viver.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Rocha divina, nossa firmeza, \nDá-nos a graça, dá-nos poder; \nÉs dos Teus servos a fortaleza, \nOnde, abrigados, não têm pavor; \nChuvas de bênçãos sempre derrama \nEm abundância dos altos céus; \nA nossa alma, qual cervo brama \nEm grande seca por Ti, bom Deus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Rebanho santo, por Deus selado, \nDuma só mente, dum coração, \nE que assim seja realizado, \nVer, esperamos, com prontidão; \nÓ nos defende com o Teu braço, \nDo inimigo, do tentador; \nSempre dirige os nossos passos, \nAs vivas fontes que dão vigor!  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Manda, Senhor, a Tua mensagem \nPela divina e sacra unção, \nQual o maná, que trouxe, em viagem, \nPara Teu povo, a consolação; \nTua Palavra, água da vida, \nDo nosso cálice, faz transbordar, \nCheia de graça, bem dirigida, \nPara os sedentos poder saciar.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

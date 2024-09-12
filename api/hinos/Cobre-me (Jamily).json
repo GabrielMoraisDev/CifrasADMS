@@ -1,0 +1,69 @@
+{
+  "id": 1653000817955,
+  "title": "Cobre-me",
+  "artist": "Jamily",
+  "author": "Jamily, Jonathan Dee",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Posso confiar em Tua palavra\nPode a terra e o céu passar\nQue Suas promessas, eu sei\nFicarão em meu coração\n\nPode uma lágrima não cessar\nNão recuarei jamais\nPois eu nasci de Ti\nE estás vivo em mim\n\nCobre-me, Senhor\nCom o Seu poder\nE a cada dia eu quero\nMais de Ti, Senhor\n\nNasci pra Te adorar\nE para Te amar\nOs sonhos de Deus\nEu vou sonhar\n\nAo amanhecer verei o Sol\nA Tua glória e o Teu poder\nPurifica-me, Senhor\nE eu sempre clamarei",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Posso confiar em Tua palavra\nPode a terra e o céu passar\nQue Suas promessas, eu sei\nFicarão em meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pode uma lágrima não cessar\nNão recuarei jamais\nPois eu nasci de Ti\nE estás vivo em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Cobre-me, Senhor\nCom o Seu poder\nE a cada dia eu quero\nMais de Ti, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Nasci pra Te adorar\nE para Te amar\nOs sonhos de Deus\nEu vou sonhar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ao amanhecer verei o Sol\nA Tua glória e o Teu poder\nPurifica-me, Senhor\nE eu sempre clamarei",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1661693823436,
+  "title": "Hino dos Soldados",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Soldados feridos, mas sempre invencíveis\nCrentes caminhando rumo ao céu\nRostos flamejantes, como a própria luz\nEstes são soldados de Jesus\n\nSempre prontos para enfrentar\nO inimigo no céu, na Terra e mar\nCom força e fé, destemidos na batalha\nNo nome de Jesus, eles saltam muralhas\n\nSofre as aflições como bom soldado\nCarrega nas suas costas o amor\nPois a batalha produz um peso eterno\nDe glória excelente no Senhor\n\nÀs vezes de joelho, às vezes em pé\nCaminham não por vista\nCaminham pela fé\nPois além dos limites da fronteira\nVerão Jesus de Nazaré\n2x\n\nSofre as aflições como bom soldado\nCarrega nas suas costas o amor\nPois a batalha produz um peso eterno\nDe glória excelente no Senhor\n\nÀs vezes de joelho, às vezes em pé\nCaminham não por vista\nCaminham pela fé\nPois além dos limites da fronteira\nVerão Jesus de Nazaré\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Soldados feridos, mas sempre invencíveis\nCrentes caminhando rumo ao céu\nRostos flamejantes, como a própria luz\nEstes são soldados de Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Sempre prontos para enfrentar\nO inimigo no céu, na Terra e mar\nCom força e fé, destemidos na batalha\nNo nome de Jesus, eles saltam muralhas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sofre as aflições como bom soldado\nCarrega nas suas costas o amor\nPois a batalha produz um peso eterno\nDe glória excelente no Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Às vezes de joelho, às vezes em pé\nCaminham não por vista\nCaminham pela fé\nPois além dos limites da fronteira\nVerão Jesus de Nazaré\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Sofre as aflições como bom soldado\nCarrega nas suas costas o amor\nPois a batalha produz um peso eterno\nDe glória excelente no Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Às vezes de joelho, às vezes em pé\nCaminham não por vista\nCaminham pela fé\nPois além dos limites da fronteira\nVerão Jesus de Nazaré\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

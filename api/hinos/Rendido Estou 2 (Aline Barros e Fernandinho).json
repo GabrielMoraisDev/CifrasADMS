@@ -1,0 +1,104 @@
+{
+  "id": 1666454561667,
+  "title": "Rendido Estou 2",
+  "artist": "Aline Barros e Fernandinho",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Toma-me, rendido estou\nAos pés da cruz me encontrei\nO que tenho\nTe entrego, ó Deus\n\nVem limpar as minhas mãos\nPurificar meu coração\nQue eu ande em tudo\nQue Tu tens pra mim\n\nÔ ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu, Jesus\n\nMeus momentos e os dias meus\nMeu respirar e meu viver\nQue sejam todos\nPra Ti, ó Deus\n\nÔ ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu\n2x\n\nÔ ô ô ô\nÔ ô ô ô\n\nMinha vida dou a Ti, Senhor\nRendido a Ti estou\nE pra sempre cantarei\nFaz em mim o Teu querer\n2x\n\nÔ ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu\n\nÔ ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu\n\nMinha vida dou a Ti, Senhor\nRendido a Ti estou\nE pra sempre cantarei\nFaz em mim o Teu querer\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Toma-me, rendido estou\nAos pés da cruz me encontrei\nO que tenho\nTe entrego, ó Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vem limpar as minhas mãos\nPurificar meu coração\nQue eu ande em tudo\nQue Tu tens pra mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ô ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu, Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Meus momentos e os dias meus\nMeu respirar e meu viver\nQue sejam todos\nPra Ti, ó Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ô ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ô ô ô ô\nÔ ô ô ô",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Minha vida dou a Ti, Senhor\nRendido a Ti estou\nE pra sempre cantarei\nFaz em mim o Teu querer\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Ô ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Ô ô ô ô\nEis-me aqui, rendido estou\nÔ ô ô ô\nEu sou Teu e Tu és meu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Minha vida dou a Ti, Senhor\nRendido a Ti estou\nE pra sempre cantarei\nFaz em mim o Teu querer\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

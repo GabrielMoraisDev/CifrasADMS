@@ -1,0 +1,97 @@
+{
+  "id": 1645356928618,
+  "title": "Quando Eu Chorar",
+  "artist": "Bruna Karla",
+  "author": "Emerson Pinheiro",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus, meu Deus\nTudo está tão difícil\nPra mim\n\nDeus, meu Deus\nMuitos me perguntam\nOnde Tu estás\n\nDentro de mim\nMinha alma se abateu\n\nMas Tua mão\nContudo me escondeu\nEm Tua presença, oh Deus\n\nQuando eu chorar\nVou me lembrar\nQue até aqui\nTua mão me sustentou\n\nDigo à minha alma:\nEspera em Deus\nPois ainda O louvarei\nEu O louvarei\n\nEu Te louvarei\nEm meio à provação\nEm meio às lutas\n\nEu Te louvarei\nEu Te louvarei\nVenha o que vier\n\nEu Te louvarei\nEu Te louvarei\nLouvarei Teu nome\nSenhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus, meu Deus\nTudo está tão difícil\nPra mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Deus, meu Deus\nMuitos me perguntam\nOnde Tu estás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Dentro de mim\nMinha alma se abateu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Mas Tua mão\nContudo me escondeu\nEm Tua presença, oh Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quando eu chorar\nVou me lembrar\nQue até aqui\nTua mão me sustentou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Digo à minha alma:\nEspera em Deus\nPois ainda O louvarei\nEu O louvarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Eu Te louvarei\nEm meio à provação\nEm meio às lutas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu Te louvarei\nEu Te louvarei\nVenha o que vier",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Eu Te louvarei\nEu Te louvarei\nLouvarei Teu nome\nSenhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

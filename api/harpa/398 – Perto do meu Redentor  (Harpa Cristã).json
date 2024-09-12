@@ -1,0 +1,76 @@
+{
+  "id": 1660087409745,
+  "title": "398 – Perto do meu Redentor ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Desejo estar em um lugar \nMui perto do meu Redentor; \nAli eu posso descansar, \nPor Seu amparo e Seu amor.  \n\nMui perto do meu Redentor, \nSeguro abrigo encontrarei; \nMe guardará do tentador, \nAssim eu nada temerei.  \n\nNinguém me poderá tirar \nA paz que frui o coração; \nJesus bondoso vai me dar \nA mais segura proteção.  \n\nMui perto do meu Redentor, \nSeguro abrigo encontrarei; \nMe guardará do tentador, \nAssim eu nada temerei.  \n\nTristezas, nem temor terei, \nEstando perto de Jesus; \nEnvolto sempre me verei, \nCom Seu fulgor, com Sua luz.\n\nMui perto do meu Redentor, \nSeguro abrigo encontrarei; \nMe guardará do tentador, \nAssim eu nada temerei.  ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Desejo estar em um lugar \nMui perto do meu Redentor; \nAli eu posso descansar, \nPor Seu amparo e Seu amor.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mui perto do meu Redentor, \nSeguro abrigo encontrarei; \nMe guardará do tentador, \nAssim eu nada temerei.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ninguém me poderá tirar \nA paz que frui o coração; \nJesus bondoso vai me dar \nA mais segura proteção.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Mui perto do meu Redentor, \nSeguro abrigo encontrarei; \nMe guardará do tentador, \nAssim eu nada temerei.  ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tristezas, nem temor terei, \nEstando perto de Jesus; \nEnvolto sempre me verei, \nCom Seu fulgor, com Sua luz.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Mui perto do meu Redentor, \nSeguro abrigo encontrarei; \nMe guardará do tentador, \nAssim eu nada temerei.  ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1660089084254,
+  "title": "405 – Queres Perdão? ",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Queres ser salvo, queres perdão, \nPaz e repouso no coração? \nO que farás para teres a luz? \nCom toda a força - Crê em Jesus; \nSe hoje queres em Cristo crer. \nInda que morto hás de viver; \nDeixa este mundo enganador, \nCrê só em Cristo. teu Salvador.    \n\nÓ crê em Cristo - ei-Lo aqui \nEm nosso meio, chora por ti; \nEle te ama; queres a luz? \nQueres vitória? - Crê em Jesus, \nSim! Hoje creio no Salvador, \nE minha vida, meu Redentor; \nNas minhas lutas, o Capitão; \nCreio em Cristo de coração.    \n\nQuando o inimigo com seu terror \nRuge em torno com mui furor \nNão desanimes por tua cruz, \nOlha pra cima - Crê em Jesus; \nE nas terríveis provas d’horror, \nSegue avante com teu Senhor, \nEle te guarda da corrupção \nE te liberta da tentação.",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Queres ser salvo, queres perdão, \nPaz e repouso no coração? \nO que farás para teres a luz? \nCom toda a força - Crê em Jesus; \nSe hoje queres em Cristo crer. \nInda que morto hás de viver; \nDeixa este mundo enganador, \nCrê só em Cristo. teu Salvador.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ó crê em Cristo - ei-Lo aqui \nEm nosso meio, chora por ti; \nEle te ama; queres a luz? \nQueres vitória? - Crê em Jesus, \nSim! Hoje creio no Salvador, \nE minha vida, meu Redentor; \nNas minhas lutas, o Capitão; \nCreio em Cristo de coração.    ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quando o inimigo com seu terror \nRuge em torno com mui furor \nNão desanimes por tua cruz, \nOlha pra cima - Crê em Jesus; \nE nas terríveis provas d’horror, \nSegue avante com teu Senhor, \nEle te guarda da corrupção \nE te liberta da tentação.",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}
