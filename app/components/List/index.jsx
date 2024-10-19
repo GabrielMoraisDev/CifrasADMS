@@ -12,11 +12,11 @@ const Lista = ({ link }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://192.168.0.155:3000/${link}`);
+        const response = await fetch(`http://192.168.0.109:3005/${link}`);
         if (link === 'harpa') {
           setQnt(632);
         } else {
-          const response2 = await fetch('http://192.168.0.155:3000/qnt');
+          const response2 = await fetch('http://192.168.0.109:3005/qnt');
           const result2 = await response2.json();
           setQnt(result2.row.qnt);
         }
