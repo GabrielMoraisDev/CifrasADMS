@@ -1,11 +1,8 @@
-import Nav from './components/Nav'
-import List from './components/List'
+import { redirect } from 'next/navigation';
 
 export default function Home() {
-  return (
-    <>
-      <Nav/>
-      <List link='harpa'></List>
-    </>
-  );
+  // Redireciona imediatamente para a rota /harpa
+  redirect('/harpa');
+  
+  return null; // Não é necessário renderizar nada, pois ocorre redirecionamento
 }

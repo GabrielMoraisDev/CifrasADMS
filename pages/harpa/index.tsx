@@ -1,7 +1,7 @@
 import "../../app/globals.css";
 
-import Nav from './../../app/components/Nav'
-import List from './../../app/components/List'
+import Nav from '../../app/components/Nav'
+import List from '../../app/components/List'
 
 export default function Harpa() {
   return (

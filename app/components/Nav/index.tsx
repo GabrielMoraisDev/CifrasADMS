@@ -6,7 +6,7 @@ import Link from 'next/link';
 export default function Nav() {
     const currentPath = usePathname(); // Atualizado
 
-    const getSvgClass = (path) => {
+    const getSvgClass = (path:string) => {
         return currentPath === path ? 'text-cyan-400' : 'text-white'; // Altere a cor conforme necessário
     };
 
@@ -36,9 +36,8 @@ export default function Nav() {
         </Link>
         <Link href='/saved'>
         <div className="w-14 h-14 mx-3 rounded-md flex justify-center place-items-center"> 
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" className={`bi bi-bookmark-heart ${getSvgClass('/saved')}`} viewBox="0 0 16 16">
-            <path d="M8 4.41c1.32-1.33 3.5-.44 3.5 1.2 0 1.03-.4 1.38-3.5 3.77-3.1-2.39-3.5-2.74-3.5-3.77 0-1.64 2.18-2.53 3.5-1.2m0-1.43c-1.84-1.85-5.5-.56-5.5 2.63 0 1.57.76 2.37 5.5 6.14 4.74-3.77 5.5-4.57 5.5-6.14 0-3.19-3.66-4.48-5.5-2.63"/>
-            <path d="M2 15V2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13l-6-3-6 3"/>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" className={`bi bi-bookmark ${getSvgClass('/liked')}`} viewBox="0 0 16 16">
+                <path d="M2 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.777.416L8 13.101l-5.223 2.815A.5.5 0 0 1 2 15.5zm2-1a1 1 0 0 0-1 1v12.566l4.723-2.482a.5.5 0 0 1 .554 0L13 14.566V2a1 1 0 0 0-1-1z"/>
             </svg>
         </div>
         </Link>
