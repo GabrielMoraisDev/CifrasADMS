@@ -23,7 +23,7 @@ export default function Edit({ id, consul }: ItemProps) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://192.168.0.105:3005/${consul}/${id}`);
+        const response = await fetch(`https://api-adms-production.up.railway.app/${consul}/${id}`);
         if (!response.ok) {
           console.error('Erro na resposta da API:', response.statusText);
           return;
@@ -51,7 +51,7 @@ export default function Edit({ id, consul }: ItemProps) {
       
       console.log('Dados enviados:', body); // Adicione este log
   
-      const response = await fetch('http://192.168.0.105:3005/editharptom', {
+      const response = await fetch('https://api-adms-production.up.railway.app/editharptom', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
