@@ -103,6 +103,22 @@ app.post('/editharp', express.json(), (req, res) => {
   });
 });
 
+app.post('/editharptom', express.json(), (req, res) => {
+  const { id, tom } = req.body; // Desestruturação dos dados recebidos no corpo da requisição
+
+  const sql = `UPDATE harpa SET tom = ? WHERE id = ?`; // Comando SQL para atualizar o campo cifra
+
+  db.run(sql, [tom, id], function (err) {
+    if (err) {
+      return res.status(400).json({ error: err.message }); // Retorna um erro se a atualização falhar
+    }
+    if (this.changes === 0) {
+      return res.status(404).json({ message: 'Registro não encontrado' }); // Retorna 404 se nenhum registro for atualizado
+    }
+    res.json({ message: 'Cifra atualizada com sucesso' }); // Retorna uma mensagem de sucesso
+  });
+});
+
 
 
 // Iniciar o servidor

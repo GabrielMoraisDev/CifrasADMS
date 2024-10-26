@@ -17,7 +17,8 @@ interface ItemProps {
 export default function Edit({ id, consul }: ItemProps) {
   const [data, setData] = useState<Data | null>(null);
   const [troca, setTroca] = useState<boolean>(false);
-  const [cifraValues, setCifraValues] = useState<string[]>([]);
+  const [tom, setTom] = useState<string>('');
+  const [currentTom, setCurrentTom] = useState<string>('');
 
   useEffect(() => {
     const fetchData = async () => {
@@ -31,7 +32,7 @@ export default function Edit({ id, consul }: ItemProps) {
         const result = await response.json();
         setData(result.data);
         if (result.data) {
-          setCifraValues(result.data.cifra ? result.data.cifra.split('][').map((cifra: string) => cifra.replace(/[\[\]]/g, '')) : []);
+          setTom(result.data.tom)
         }
       } catch (error) {
         console.error('Erro ao buscar os dados:', error);
@@ -41,22 +42,16 @@ export default function Edit({ id, consul }: ItemProps) {
     fetchData();
   }, [id, consul]);
 
-  const handleInputChange = (index: number, value: string) => {
-    const newCifras = [...cifraValues];
-    newCifras[index] = value;
-    setCifraValues(newCifras);
-  };
-
   const handleSave = async () => {
     try {
       const body = {
         id,
-        cifra: cifraValues.join('][') // Converte de volta para o formato esperado
+        tom: currentTom // Converte de volta para o formato esperado
       };
       
       console.log('Dados enviados:', body); // Adicione este log
   
-      const response = await fetch('http://192.168.0.105:3005/editharp', {
+      const response = await fetch('http://192.168.0.105:3005/editharptom', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -74,25 +69,6 @@ export default function Edit({ id, consul }: ItemProps) {
     }
 
     window.location.href= '/' + consul + '/' + id
-  };
-
-  const renderParagraphs = (text: string) => {
-    const lines = text.split('\n');
-    return (
-      <div>
-        {lines.map((line, index) => (
-          <div key={index} className="my-2">
-            <input
-              type="text"
-              value={cifraValues[index] || ''}
-              onChange={(e) => handleInputChange(index, e.target.value)}
-              className="border p-1 bg-transparent w-full outline-none border-none text-slate-400"
-            />
-            <p className='text-slate-300'>{line.replace(/[\[\]]/g, '')}</p>
-          </div>
-        ))}
-      </div>
-    );
   };
 
   if (!data) {
@@ -124,16 +100,26 @@ export default function Edit({ id, consul }: ItemProps) {
           <h1 className='text-sm text-gray-400 capitalize'>{data.artista}</h1> 
         </div>
         <div className='absolute right-5 w-10 h-10 bg-slate-700 flex justify-center place-items-center rounded-md' onClick={() => setTroca(!troca)}>
-          C
+        {tom}
         </div>
       </nav>
-      
-      <div className="p-2 pt-20 bg-slate-800">
-        <div className="text-center my-3">
-        </div>
-        <div className="py-7">{renderParagraphs(data.texto)}</div>
-        <div className="flex justify-center">
-          <button className="fixed flex plce-items-center justify-center bottom-0 w-full py-6 border border-slate-900 rounded-md bg-slate-900 text-slate-50" onClick={handleSave}>
+
+    <div className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 grid grid-cols-3 grid-rows-4 w-[70%]">
+      <div onClick={() => { setCurrentTom('C'); setTom('C'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'C'?'border border-white':'border border-slate-900'}`}>C</div>
+      <div onClick={() => { setCurrentTom('C#'); setTom('C#'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'C#'?'border border-white':'border border-slate-900'}`}>C#</div>
+      <div onClick={() => { setCurrentTom('D'); setTom('D'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'D'?'border border-white':'border border-slate-900'}`}>D</div>
+      <div onClick={() => { setCurrentTom('Eb'); setTom('Eb'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'Eb'?'border border-white':'border border-slate-900'}`}>Eb</div>
+      <div onClick={() => { setCurrentTom('E'); setTom('E'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'E'?'border border-white':'border border-slate-900'}`}>E</div>
+      <div onClick={() => { setCurrentTom('F'); setTom('F'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'F'?'border border-white':'border border-slate-900'}`}>F</div>
+      <div onClick={() => { setCurrentTom('F#'); setTom('F#'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'F#'?'border border-white':'border border-slate-900'}`}>F#</div>
+      <div onClick={() => { setCurrentTom('G'); setTom('G'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'G'?'border border-white':'border border-slate-900'}`}>G</div>
+      <div onClick={() => { setCurrentTom('G#'); setTom('G#'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'G#'?'border border-white':'border border-slate-900'}`}>G#</div>
+      <div onClick={() => { setCurrentTom('A'); setTom('A'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'A'?'border border-white':'border border-slate-900'}`}>A</div>
+      <div onClick={() => { setCurrentTom('Bb'); setTom('Bb'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'Bb'?'border border-white':'border border-slate-900'}`}>Bb</div>
+      <div onClick={() => { setCurrentTom('B'); setTom('B'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'B'?'border border-white':'border border-slate-900'}`}>B</div>
+    </div>
+
+      <button className="fixed flex plce-items-center justify-center bottom-0 w-full py-6 border border-slate-900 rounded-md bg-slate-900 text-slate-50" onClick={handleSave}>
             <div className='flex plce-items-center justify-center text-center m-auto'>
             Salvar
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-check2-square flex plce-items-center justify-center text-center m-auto ml-2" viewBox="0 0 16 16">
@@ -141,10 +127,7 @@ export default function Edit({ id, consul }: ItemProps) {
               <path d="m8.354 10.354 7-7a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0"/>
             </svg>
             </div>
-          </button>
-        </div>
-        <div className="h-20"></div>
-      </div>
+      </button>
     </div>
   );
 }

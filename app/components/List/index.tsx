@@ -23,11 +23,11 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`https://api-adms-production.up.railway.app/${link}`);
+        const response = await fetch(`http://192.168.0.105:3005/${link}`);
         if (link === 'harpa') {
           setQnt(632);
         } else {
-          const response2 = await fetch('https://api-adms-production.up.railway.app/qnt');
+          const response2 = await fetch('http://192.168.0.105:3005/qnt');
           const result2 = await response2.json();
           setQnt(result2.row.qnt);
         }
@@ -88,7 +88,7 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
           <li key={item.id}>
             <div className="flex relative my-3 overflow-hidden">
               <Link href={`${link}/${item.id}`} className='flex'>
-                <div className={`w-12 h-10 flex justify-center items-center m-auto text-center bg-cyan-800 text-xl mr-2 rounded-md overflow-hidden`}>{item.tom? item.tom :'X'}</div>
+                <div className={`w-12 h-10 flex justify-center items-center m-auto text-center bg-cyan-800 text-md mr-2 rounded-md overflow-hidden`}>{item.tom? item.tom :'X'}</div>
                 <div className='w-full h-10 flex items-center text-md mr-3 rounded-md'>
                   <p className='w-[55vw] text-left truncate text-md capitalize'>{item.name}</p>
                 </div>
