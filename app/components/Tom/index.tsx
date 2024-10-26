@@ -89,37 +89,37 @@ export default function Edit({ id, consul }: ItemProps) {
     <div>
       <nav className="w-full h-20 bg-slate-900 fixed top-0 flex place-items-center auto justify-left z-20"> 
         <Link href={`/${consul}/${id}`}>
-          <div className="w-auto mx-3 rounded-md flex justify-left place-items-center ml-5">
+          <div className="animate-fade-right w-auto mx-3 rounded-md flex justify-left place-items-center ml-5">
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" className="bi bi-arrow-left-square" viewBox="0 0 16 16">
               <path fillRule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm11.5 5.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5z"/>
             </svg>
           </div>
         </Link>
         <div className="absolute left-20 mx-auto">
-          <h1 className='text-sm w-[60vw] truncate capitalize'>{data.name}</h1> 
-          <h1 className='text-sm text-gray-400 capitalize'>{data.artista}</h1> 
+          <h1 className='text-sm w-[60vw] truncate capitalize animate-fade-up'>{data.name}</h1> 
+          <h1 className='text-sm text-gray-400 capitalize animate-fade-down'>{data.artista}</h1> 
         </div>
-        <div className='absolute right-5 w-10 h-10 bg-slate-700 flex justify-center place-items-center rounded-md' onClick={() => setTroca(!troca)}>
+        <div className='animate-fade-left absolute right-5 w-10 h-10 bg-slate-700 flex justify-center place-items-center rounded-md' onClick={() => setTroca(!troca)}>
         {tom}
         </div>
       </nav>
 
     <div className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 grid grid-cols-3 grid-rows-4 w-[70%]">
-      <div onClick={() => { setCurrentTom('C'); setTom('C'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'C'?'border border-white':'border border-slate-900'}`}>C</div>
-      <div onClick={() => { setCurrentTom('C#'); setTom('C#'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'C#'?'border border-white':'border border-slate-900'}`}>C#</div>
-      <div onClick={() => { setCurrentTom('D'); setTom('D'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'D'?'border border-white':'border border-slate-900'}`}>D</div>
-      <div onClick={() => { setCurrentTom('Eb'); setTom('Eb'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'Eb'?'border border-white':'border border-slate-900'}`}>Eb</div>
-      <div onClick={() => { setCurrentTom('E'); setTom('E'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'E'?'border border-white':'border border-slate-900'}`}>E</div>
-      <div onClick={() => { setCurrentTom('F'); setTom('F'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'F'?'border border-white':'border border-slate-900'}`}>F</div>
-      <div onClick={() => { setCurrentTom('F#'); setTom('F#'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'F#'?'border border-white':'border border-slate-900'}`}>F#</div>
-      <div onClick={() => { setCurrentTom('G'); setTom('G'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'G'?'border border-white':'border border-slate-900'}`}>G</div>
-      <div onClick={() => { setCurrentTom('G#'); setTom('G#'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'G#'?'border border-white':'border border-slate-900'}`}>G#</div>
-      <div onClick={() => { setCurrentTom('A'); setTom('A'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'A'?'border border-white':'border border-slate-900'}`}>A</div>
-      <div onClick={() => { setCurrentTom('Bb'); setTom('Bb'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'Bb'?'border border-white':'border border-slate-900'}`}>Bb</div>
-      <div onClick={() => { setCurrentTom('B'); setTom('B'); }} className={`w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'B'?'border border-white':'border border-slate-900'}`}>B</div>
+      <div onClick={() => { setCurrentTom('C'); setTom('C'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'C'?'border border-white':'border border-slate-900'}`}>C</div>
+      <div onClick={() => { setCurrentTom('C#'); setTom('C#'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'C#'?'border border-white':'border border-slate-900'}`}>C#</div>
+      <div onClick={() => { setCurrentTom('D'); setTom('D'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'D'?'border border-white':'border border-slate-900'}`}>D</div>
+      <div onClick={() => { setCurrentTom('Eb'); setTom('Eb'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'Eb'?'border border-white':'border border-slate-900'}`}>Eb</div>
+      <div onClick={() => { setCurrentTom('E'); setTom('E'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'E'?'border border-white':'border border-slate-900'}`}>E</div>
+      <div onClick={() => { setCurrentTom('F'); setTom('F'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'F'?'border border-white':'border border-slate-900'}`}>F</div>
+      <div onClick={() => { setCurrentTom('F#'); setTom('F#'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'F#'?'border border-white':'border border-slate-900'}`}>F#</div>
+      <div onClick={() => { setCurrentTom('G'); setTom('G'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'G'?'border border-white':'border border-slate-900'}`}>G</div>
+      <div onClick={() => { setCurrentTom('G#'); setTom('G#'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'G#'?'border border-white':'border border-slate-900'}`}>G#</div>
+      <div onClick={() => { setCurrentTom('A'); setTom('A'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'A'?'border border-white':'border border-slate-900'}`}>A</div>
+      <div onClick={() => { setCurrentTom('Bb'); setTom('Bb'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'Bb'?'border border-white':'border border-slate-900'}`}>Bb</div>
+      <div onClick={() => { setCurrentTom('B'); setTom('B'); }} className={`animate-fade w-16 h-16 duration-300 bg-slate-900 rounded-md flex justify-center place-items-center my-3 text-2xl ${tom === 'B'?'border border-white':'border border-slate-900'}`}>B</div>
     </div>
 
-      <button className="fixed flex plce-items-center justify-center bottom-0 w-full py-6 border border-slate-900 rounded-md bg-slate-900 text-slate-50" onClick={handleSave}>
+      <button className="animate-fade-up fixed flex plce-items-center justify-center bottom-0 w-full py-6 border border-slate-900 rounded-md bg-slate-900 text-slate-50" onClick={handleSave}>
             <div className='flex plce-items-center justify-center text-center m-auto'>
             Salvar
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-check2-square flex plce-items-center justify-center text-center m-auto ml-2" viewBox="0 0 16 16">

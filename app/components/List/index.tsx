@@ -78,7 +78,7 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
     <div className='mt-36 flex flex-col items-center mx-4'>
       <input
         type="text"
-        className={`left-4 fixed z-10 bg-cyan-950 top-24 text-cyan-100 border-2 border-cyan-800 rounded p-2 mb-4 w-[92%] uppercase mx-auto`}
+        className={`animate-fade-down left-4 fixed z-10 bg-cyan-950 top-24 text-cyan-100 border-2 border-cyan-800 rounded p-2 mb-4 w-[92%] uppercase mx-auto`}
         placeholder={`Pesquise aqui... [ Total ${qnt} ]`}
         value={search}
         onChange={(e) => setSearch(e.target.value)}
@@ -88,9 +88,9 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
           <li key={item.id}>
             <div className="flex relative my-3 overflow-hidden">
               <Link href={`${link}/${item.id}`} className='flex'>
-                <div className={`w-12 h-10 flex justify-center items-center m-auto text-center bg-cyan-800 text-md mr-2 rounded-md overflow-hidden`}>{item.tom? item.tom :'X'}</div>
+                <div className={`animate-fade-right w-12 h-10 flex justify-center items-center m-auto text-center bg-cyan-800 text-md mr-2 rounded-md overflow-hidden`}>{item.tom? item.tom :'X'}</div>
                 <div className='w-full h-10 flex items-center text-md mr-3 rounded-md'>
-                  <p className='w-[55vw] text-left truncate text-md capitalize'>{item.name}</p>
+                  <p className='animate-fade-right w-[55vw] text-left truncate text-md capitalize'>{item.name}</p>
                 </div>
               </Link>
 
@@ -111,7 +111,7 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
               </Link> */}
             </div>
 
-            <hr className={`text-white border-cyan-600 w-full`}/>
+            <hr className={`text-white animate-fade-right border-cyan-600 w-full`}/>
           </li>
         ))}
       </ul>

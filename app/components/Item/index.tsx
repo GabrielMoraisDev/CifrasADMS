@@ -112,17 +112,17 @@ const renderParagraphs = (text: string) => {
     <div>
       <nav className={`w-full h-20 bg-cyan-900 fixed top-0 flex place-items-center auto justify-left z-20`}> 
         <Link href={`/${consul}`}>
-          <div className="w-auto mx-3 rounded-md flex justify-left place-items-center ml-5">
+          <div className="animate-fade-right w-auto mx-3 rounded-md flex justify-left place-items-center ml-5">
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" className="bi bi-arrow-left-square" viewBox="0 0 16 16">
               <path fillRule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm11.5 5.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5z"/>
             </svg>
           </div>
         </Link>
         <div className="absolute left-20 mx-auto">
-          <h1 className='text-sm w-[60vw] truncate capitalize'>{data.name}</h1> 
-          <h1 className='text-sm text-gray-400 capitalize'>{data.artista}</h1> 
+          <h1 className='text-sm w-[60vw] truncate capitalize animate-fade-up'>{data.name}</h1> 
+          <h1 className='text-sm text-gray-400 capitalize animate-fade-down'>{data.artista}</h1> 
         </div>
-        <div className={`absolute right-5 w-10 h-10 bg-cyan-700 flex justify-center place-items-center rounded-md`} onClick={() => setTroca(!troca)}>
+        <div className={`animate-fade-left absolute right-5 w-10 h-10 bg-cyan-700 flex justify-center place-items-center rounded-md`} onClick={() => setTroca(!troca)}>
           {tom}
         </div>
       </nav>
