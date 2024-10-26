@@ -50,7 +50,7 @@ export default function Item({ id, consul }: ItemProps) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://192.168.0.109:3005/${consul}/${id}`);
+        const response = await fetch(`https://api-adms-production.up.railway.app/${consul}/${id}`);
         
         if (!response.ok) {
           console.error('Erro na resposta da API:', response.statusText);
