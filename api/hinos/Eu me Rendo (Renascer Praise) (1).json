@@ -1,0 +1,97 @@
+{
+  "id": 1634079586640,
+  "title": "Eu me Rendo",
+  "artist": "Renascer Praise",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "A ti eu vou clamar\nPois tudo vem de ti\nE tudo está em ti\nPor ti vou caminhar\nTu és a direção\nO sol a me guiar\n\nTudo pode passar\nTeu amor jamais me deixará\nSempre há de existir\nNovo amanhã preparado pra mim\nPreparado pra mim\n\nA ti eu vou clamar\nPois tudo vem de ti\nE tudo está em ti\n\nPor ti vou caminhar\nTu és a direção\nO sol a me guiar\n\nTudo pode passar\nTeu amor jamais me deixará\nSempre há de existir\nNovo amanhã preparado pra mim\nPreparado pra mim\nPreparado pra mim\n\nEu me rendo aos teus pés\nÉs tudo que eu preciso pra viver\nEu me lanço aos teus braços\nOnde encontro meu refúgio (2x)\n\nJesus, eis-me aqui\nJesus, eis-me aqui\n\nEu me rendo aos teus pés\nÉs tudo que eu preciso pra viver\nEu me lanço aos teus braços\nOnde encontro meu refúgio (2x)\n\nJesus , eis-me aqui 4x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "A ti eu vou clamar\nPois tudo vem de ti\nE tudo está em ti\nPor ti vou caminhar\nTu és a direção\nO sol a me guiar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tudo pode passar\nTeu amor jamais me deixará\nSempre há de existir\nNovo amanhã preparado pra mim\nPreparado pra mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "A ti eu vou clamar\nPois tudo vem de ti\nE tudo está em ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Por ti vou caminhar\nTu és a direção\nO sol a me guiar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tudo pode passar\nTeu amor jamais me deixará\nSempre há de existir\nNovo amanhã preparado pra mim\nPreparado pra mim\nPreparado pra mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu me rendo aos teus pés\nÉs tudo que eu preciso pra viver\nEu me lanço aos teus braços\nOnde encontro meu refúgio (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Jesus, eis-me aqui\nJesus, eis-me aqui",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu me rendo aos teus pés\nÉs tudo que eu preciso pra viver\nEu me lanço aos teus braços\nOnde encontro meu refúgio (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Jesus , eis-me aqui 4x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

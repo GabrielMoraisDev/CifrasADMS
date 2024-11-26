@@ -1,0 +1,90 @@
+{
+  "id": 1640299936429,
+  "title": "Renova-me",
+  "artist": "Voz da Verdade",
+  "author": "Samuel Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Senhor, venha mudar\nMudar meus pensamentos\nRestaura os meus sonhos\nE meus sentimentos\n\nVem encher o vaso\nÉ o que eu mais quero\nPor onde tenho andado\nSempre estás por perto\n\nRenova-me, Senhor\nVenha curar\nAs minhas feridas\n\nEu quero ser melhor\nRenova-me, Senhor\n\nRenova-me, Senhor\nVenha curar\nAs minhas feridas\n\nEu quero ser melhor\nRenova-me, Senhor\n\nRenova-me, Senhor\nVenha curar\nAs minhas feridas\n\nEu quero ser melhor\nRenova-me, Senhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Senhor, venha mudar\nMudar meus pensamentos\nRestaura os meus sonhos\nE meus sentimentos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vem encher o vaso\nÉ o que eu mais quero\nPor onde tenho andado\nSempre estás por perto",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Renova-me, Senhor\nVenha curar\nAs minhas feridas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu quero ser melhor\nRenova-me, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Renova-me, Senhor\nVenha curar\nAs minhas feridas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu quero ser melhor\nRenova-me, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Renova-me, Senhor\nVenha curar\nAs minhas feridas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu quero ser melhor\nRenova-me, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

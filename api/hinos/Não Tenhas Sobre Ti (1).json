@@ -1,0 +1,62 @@
+{
+  "id": 1718577822607,
+  "title": "Não Tenhas Sobre Ti",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Não tenhas sobre ti\nUm só cuidado qualquer que seja\nPois um, somente um\nSeria muito para ti\n\nÉ meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim\nÉ meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim\n\nNão temas quando enfim\nTiveres que tomar decisão\nEntrega tudo a mim\nConfia de todo o coração\n\nÉ meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim\nÉ meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Não tenhas sobre ti\nUm só cuidado qualquer que seja\nPois um, somente um\nSeria muito para ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "É meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim\nÉ meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não temas quando enfim\nTiveres que tomar decisão\nEntrega tudo a mim\nConfia de todo o coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "É meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim\nÉ meu\nSomente meu, todo o trabalho\nE o teu trabalho é descansar em mim",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

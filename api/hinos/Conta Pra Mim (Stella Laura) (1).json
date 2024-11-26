@@ -1,0 +1,125 @@
+{
+  "id": 1647042013172,
+  "title": "Conta Pra Mim",
+  "artist": "Stella Laura",
+  "author": "Jessé Aguiar",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Andei te observando esses dias\nDeu pra perceber\nTem algo aí dentro\nQue tá te apertando\n\nUm labirinto grande aí\nTá se formando\nOs dias são difíceis\nTá pesado, não dá pra negar\n\nAcorda preocupado\nE dorme chorando\nE dia após dia\nVai acumulando\n\nTudo tão\nComplicado e confuso\nSão vários gatilhos\nQue despertam em você\nA dúvida e o medo\n\nMas amanhã vai ser melhor\nIsso não é segredo\n\nA noite vai terminar\nE o Sol vai voltar a raiar\nE então vai nascer um novo dia\nVocê encontra a saída\n\nE se tudo desandar\nConta pra Mim\nVou saber te acalmar\nFala pra Mim\n\nTe conheço desde\nO seu primeiro respiro\nDo dia mal ao dia alegre\nTô aqui pertinho\n\nEu ando todo dia\nPelas ruas do teu coração\nConheço cada buraco\nQue nele foi feito\n\nCada ferida que até hoje\nAinda faz efeito\n\nEu te conheço muito bem\nE sei quando você\nNão está bem\n\nE sei que o que\nExiste aí dentro\nSomente Eu que entendo\n\nConta pra mim\nQue Eu vou resolver\nEu cuido de você\nEu cuido de você",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Andei te observando esses dias\nDeu pra perceber\nTem algo aí dentro\nQue tá te apertando",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Um labirinto grande aí\nTá se formando\nOs dias são difíceis\nTá pesado, não dá pra negar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Acorda preocupado\nE dorme chorando\nE dia após dia\nVai acumulando",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Tudo tão\nComplicado e confuso\nSão vários gatilhos\nQue despertam em você\nA dúvida e o medo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Mas amanhã vai ser melhor\nIsso não é segredo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "A noite vai terminar\nE o Sol vai voltar a raiar\nE então vai nascer um novo dia\nVocê encontra a saída",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "E se tudo desandar\nConta pra Mim\nVou saber te acalmar\nFala pra Mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Te conheço desde\nO seu primeiro respiro\nDo dia mal ao dia alegre\nTô aqui pertinho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Eu ando todo dia\nPelas ruas do teu coração\nConheço cada buraco\nQue nele foi feito",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Cada ferida que até hoje\nAinda faz efeito",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Eu te conheço muito bem\nE sei quando você\nNão está bem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "E sei que o que\nExiste aí dentro\nSomente Eu que entendo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 13,
+        "description": "",
+        "text": "Conta pra mim\nQue Eu vou resolver\nEu cuido de você\nEu cuido de você",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

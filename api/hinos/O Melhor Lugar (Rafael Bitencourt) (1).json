@@ -1,0 +1,83 @@
+{
+  "id": 1699188880874,
+  "title": "O Melhor Lugar",
+  "artist": "Rafael Bitencourt",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "\nRei do céu estou aqui, prostrado\nRei do céu estou aqui, prostrado\nDe joelhos aos pés dá cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ aos teus pés\n\nDe joelhos aos pés dá cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ AOS TEUS PÉS\n\nDe joelhos aos pés dá cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ aos teus pés (2x)\n\nJá vi o seu amor fazer milagres\nO Senhor me sustentou até aqui\nNunca desistiu como fogo vem\nE me envolve (3x)\n\nVitorioso é\nVitorioso é\nJesus (2x)\n\nVITORIOSO É\nVITORIOSO É\nJESUS (3x)\n\nVitorioso é\nVitorioso é\nJesus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "\nRei do céu estou aqui, prostrado\nRei do céu estou aqui, prostrado\nDe joelhos aos pés dá cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ aos teus pés",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "De joelhos aos pés dá cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ AOS TEUS PÉS",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "De joelhos aos pés dá cruz\nPosso ir além\nO melhor lugar pra se estar\nÉ aos teus pés (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Já vi o seu amor fazer milagres\nO Senhor me sustentou até aqui\nNunca desistiu como fogo vem\nE me envolve (3x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Vitorioso é\nVitorioso é\nJesus (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "VITORIOSO É\nVITORIOSO É\nJESUS (3x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Vitorioso é\nVitorioso é\nJesus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1650057443397,
+  "title": "A Paixão (The Passion)",
+  "artist": "Hillsong Em Português",
+  "author": "Brooke Ligertwood, Chris Davenport, Scott Ligertwood",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O amor de Jesus Cristo\nO perdão do criador\nA cruz não deixa dúvida\nDa paixão do salvador\n\nNos resgatou\nNos libertou\nA cruz a morte derrotou\nJesus, seu sangue derramou\nDeu morte à morte\nE nos salvou\n\nO justo condenado\nE o culpado livre está\nEle escolheu a morte\nPara a todos libertar\n\nNos resgatou\nNos libertou\nA cruz a morte derrotou\nJesus, seu sangue derramou\nDeu morte a morte\nE nos salvou\n\nMinha vida entrego para honrá-lo\nNo cordeiro de Deus eu sou livre\nO Deus que salva O coroamos\nO cordeiro de Deus Ele vive\n3x\n\nNos resgatou\nNos libertou\nA cruz a morte derrotou\nJesus, seu sangue derramou\nDeu morte a morte\nE nos salvou\nDeu morte a morte\nE nos salvou",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O amor de Jesus Cristo\nO perdão do criador\nA cruz não deixa dúvida\nDa paixão do salvador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Nos resgatou\nNos libertou\nA cruz a morte derrotou\nJesus, seu sangue derramou\nDeu morte à morte\nE nos salvou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O justo condenado\nE o culpado livre está\nEle escolheu a morte\nPara a todos libertar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Nos resgatou\nNos libertou\nA cruz a morte derrotou\nJesus, seu sangue derramou\nDeu morte a morte\nE nos salvou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Minha vida entrego para honrá-lo\nNo cordeiro de Deus eu sou livre\nO Deus que salva O coroamos\nO cordeiro de Deus Ele vive\n3x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Nos resgatou\nNos libertou\nA cruz a morte derrotou\nJesus, seu sangue derramou\nDeu morte a morte\nE nos salvou\nDeu morte a morte\nE nos salvou",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

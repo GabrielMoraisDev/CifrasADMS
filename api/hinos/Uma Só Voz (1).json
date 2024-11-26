@@ -1,0 +1,111 @@
+{
+  "id": 1639177444273,
+  "title": "Uma Só Voz",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Uma só voz\nE um só coração\nO mesmo pão\nO vinho, a comunhão\n\nUma só fé\nE os céus se abrindo\nCristo repartindo\nA ressurreição\n\nNa multidão\nProdígios e sinais\nVida, unção\nVencendo satanás\n\nHinos de amor\nA cada instante\nPastos verdejantes\nMarcas da paixão\n\nO mesmo Deus\nUm só Senhor\nO mesmo Espírito\nUm só salvador\nCristo em nós\nViva a esperança da glória\nUma só voz\nUma só voz\nUma só voz\n\nE um só coração\nO mesmo pão\nO vinho, a comunhão\n\nUma só fé\nE os céus se abrindo\nCristo repartindo\nA ressurreição\n\nO mesmo Deus\nUm só Senhor\nO mesmo Espírito\nUm só salvador\nCristo em nós\nViva a esperança da glória\n2x\n\nUma só voz\nUma só voz\nUma só voz\n\nOoooooh\nOoooooh\nOoooooh\n\nPor todas as vezes que comerdes esse pão\nE beberdes este cálice\nAnunciais a morte do Senhor\nAté que ele venha",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Uma só voz\nE um só coração\nO mesmo pão\nO vinho, a comunhão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Uma só fé\nE os céus se abrindo\nCristo repartindo\nA ressurreição",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Na multidão\nProdígios e sinais\nVida, unção\nVencendo satanás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Hinos de amor\nA cada instante\nPastos verdejantes\nMarcas da paixão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "O mesmo Deus\nUm só Senhor\nO mesmo Espírito\nUm só salvador\nCristo em nós\nViva a esperança da glória\nUma só voz\nUma só voz\nUma só voz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E um só coração\nO mesmo pão\nO vinho, a comunhão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Uma só fé\nE os céus se abrindo\nCristo repartindo\nA ressurreição",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "O mesmo Deus\nUm só Senhor\nO mesmo Espírito\nUm só salvador\nCristo em nós\nViva a esperança da glória\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Uma só voz\nUma só voz\nUma só voz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Ooooooh\nOoooooh\nOoooooh",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Por todas as vezes que comerdes esse pão\nE beberdes este cálice\nAnunciais a morte do Senhor\nAté que ele venha",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

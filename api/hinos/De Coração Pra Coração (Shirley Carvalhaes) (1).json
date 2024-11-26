@@ -1,0 +1,69 @@
+{
+  "id": 1649590323473,
+  "title": "De Coração Pra Coração",
+  "artist": "Shirley Carvalhaes",
+  "author": "Valdeci Aguiar",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu quero cantar\nMilhões e milhões de vezes\nCom os meus amigos\nE irmãos\n\nAssim como os anjos\nCantam lá na glória\nEu dou louvor a Deus\nAqui na Terra\nDe todo o meu coração\n\nDe coração pra coração\nPorque o Senhor mudou\nA minha vida\nDe coração pra coração\nEstou feliz\nSó porque Te encontrei\n\nMilagres acontecem\nEm minha vida\nPor isso é que\nEu não paro de cantar\n\nAssim como os anjos\nCantam lá na glória\nEu dou louvor a Deus\nAqui na Terra\nDe todo o meu coração",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu quero cantar\nMilhões e milhões de vezes\nCom os meus amigos\nE irmãos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Assim como os anjos\nCantam lá na glória\nEu dou louvor a Deus\nAqui na Terra\nDe todo o meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "De coração pra coração\nPorque o Senhor mudou\nA minha vida\nDe coração pra coração\nEstou feliz\nSó porque Te encontrei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Milagres acontecem\nEm minha vida\nPor isso é que\nEu não paro de cantar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Assim como os anjos\nCantam lá na glória\nEu dou louvor a Deus\nAqui na Terra\nDe todo o meu coração",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

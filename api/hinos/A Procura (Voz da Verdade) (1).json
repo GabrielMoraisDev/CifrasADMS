@@ -1,0 +1,62 @@
+{
+  "id": 1632867851880,
+  "title": "A Procura",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu ouvi falar do amor\nE da paz que transmitias\nE saí ao Teu encontro\nDia e noite, noite e dia\nEu ouvi sobre tuas curas\nE de tuas maravilhas\nE crescia a vontade\nDe te conhecer um dia\n\nO meu grito era oculto\nSó eu mesmo que ouvia\nMinhas forças terminavam\nMais a esperança crescia\nOnde é que está Jesus?\nÉ a pergunta que eu fazia\nOnde é que está Jesus?\nÉ a pergunta que eu fazia\n\nEu estou aqui!\nEm todos os momentos estive tão perto!\nVocê me procurava e eu aqui estava\nPor todo este tempo!\nEu tive fome e me deste de comer!\nEu tive sede, e me deste de beber!\nEstive nu e me vestistes!\n2x\n\nAgora vem pro céu, morar comigo\nSou Jesus, Teu grande amigo!\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu ouvi falar do amor\nE da paz que transmitias\nE saí ao Teu encontro\nDia e noite, noite e dia\nEu ouvi sobre tuas curas\nE de tuas maravilhas\nE crescia a vontade\nDe te conhecer um dia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "O meu grito era oculto\nSó eu mesmo que ouvia\nMinhas forças terminavam\nMais a esperança crescia\nOnde é que está Jesus?\nÉ a pergunta que eu fazia\nOnde é que está Jesus?\nÉ a pergunta que eu fazia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu estou aqui!\nEm todos os momentos estive tão perto!\nVocê me procurava e eu aqui estava\nPor todo este tempo!\nEu tive fome e me deste de comer!\nEu tive sede, e me deste de beber!\nEstive nu e me vestistes!\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Agora vem pro céu, morar comigo\nSou Jesus, Teu grande amigo!\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1678835962149,
+  "title": "Doce Espírito Santo",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Doce Espírito Santo\nVem pousar em mim\nDesce sobre a minh'alma\nDoce calma quero sentir\n\nDoce, doce Espírito Santo\nVem, vem pousar em mim\nDesce, desce sobre a minh'alma\nDoce calma quero sentir\n\nVem voando pra minh'alma\nLiberdade eu quero gritar\nVem como um rio envolvente\nQue me leva até Jesus\n\nJesus eu Te amo, Jesus eu Te adoro\nGosto muito do Senhor\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\n\nVem, vem voando pra minh'alma\nLiberdade eu quero gritar\nVem como um rio envolvente\nQue me leva até Jesus\n\nJesus eu Te amo, Jesus eu Te adoro\nGosto muito do Senhor\nNavegar no Teu Rio é Viver\n\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Doce Espírito Santo\nVem pousar em mim\nDesce sobre a minh'alma\nDoce calma quero sentir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Doce, doce Espírito Santo\nVem, vem pousar em mim\nDesce, desce sobre a minh'alma\nDoce calma quero sentir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vem voando pra minh'alma\nLiberdade eu quero gritar\nVem como um rio envolvente\nQue me leva até Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jesus eu Te amo, Jesus eu Te adoro\nGosto muito do Senhor\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Vem, vem voando pra minh'alma\nLiberdade eu quero gritar\nVem como um rio envolvente\nQue me leva até Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Jesus eu Te amo, Jesus eu Te adoro\nGosto muito do Senhor\nNavegar no Teu Rio é Viver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Navegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver\nNavegar no Teu Rio é Viver",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

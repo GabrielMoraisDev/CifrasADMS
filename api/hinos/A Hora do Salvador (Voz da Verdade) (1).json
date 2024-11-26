@@ -1,0 +1,90 @@
+{
+  "id": 1633726308858,
+  "title": "A Hora do Salvador",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando a vida se torna difícil\nQuando você não se sente alguém\nQuando o desprezo invade a tua alma\nQuando das marcas só restam feridas\n\nQuando o amor não é alcançado\nQuando o mundo te deixa de lado\nE o coração explode na dor\nÉ hora de ter o Salvador\n\nO Salvador, Ele é Jesus\nQue por você morreu na cruz\nTua vergonha e teu desprezo\nEle levou\n\nCarregue a tua cruz, juntinho Dele\nE a força Dele te torna capaz\nO amor que o mundo não te deu\nJesus te dá \n\nQuando a vida se torna difícil\nQuando você não se sente alguém\nQuando o desprezo invade a tua alma\nQuando das marcas só restam feridas\n\nQuando o amor não é alcançado\nQuando o mundo te deixa de lado\nE o coração explode na dor\nÉ hora de ter o Salvador\n\nO Salvador, Ele é Jesus\nQue por você morreu na cruz\nTua vergonha e teu desprezo\nEle levou\n\nCarregue a tua cruz, juntinho Dele\nE a força Dele te torna capaz\nO amor que o mundo não te deu\nJesus te dá ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando a vida se torna difícil\nQuando você não se sente alguém\nQuando o desprezo invade a tua alma\nQuando das marcas só restam feridas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quando o amor não é alcançado\nQuando o mundo te deixa de lado\nE o coração explode na dor\nÉ hora de ter o Salvador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O Salvador, Ele é Jesus\nQue por você morreu na cruz\nTua vergonha e teu desprezo\nEle levou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Carregue a tua cruz, juntinho Dele\nE a força Dele te torna capaz\nO amor que o mundo não te deu\nJesus te dá ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quando a vida se torna difícil\nQuando você não se sente alguém\nQuando o desprezo invade a tua alma\nQuando das marcas só restam feridas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Quando o amor não é alcançado\nQuando o mundo te deixa de lado\nE o coração explode na dor\nÉ hora de ter o Salvador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "O Salvador, Ele é Jesus\nQue por você morreu na cruz\nTua vergonha e teu desprezo\nEle levou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Carregue a tua cruz, juntinho Dele\nE a força Dele te torna capaz\nO amor que o mundo não te deu\nJesus te dá ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

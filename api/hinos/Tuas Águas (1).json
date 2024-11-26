@@ -1,0 +1,90 @@
+{
+  "id": 1677446278669,
+  "title": "Tuas Águas",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sei que estás aqui.\nAqui neste lugar.\nPosso Te sentir, sonda-me\n\nCom Teu amor, enche-me\nCom Teu amor, inunda-me\n\nEm Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar, do Teu amor\nDo Teu amor\n\nEu olho para Ti\nE ao Te contemplar\nSua glória sobre mim\nTransforma-me\n\nCom Teu amor, enche-me\nCom Teu amor, inunda-me\n\nEm Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar\n\nEm Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar\nDo Teu amor, Do Teu amor\nDo Teu amor, Do Teu amor\n\nEm Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar, do Teu amor\nDo Teu amor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sei que estás aqui.\nAqui neste lugar.\nPosso Te sentir, sonda-me",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Com Teu amor, enche-me\nCom Teu amor, inunda-me",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Em Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar, do Teu amor\nDo Teu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu olho para Ti\nE ao Te contemplar\nSua glória sobre mim\nTransforma-me",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Com Teu amor, enche-me\nCom Teu amor, inunda-me",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Em Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Em Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar\nDo Teu amor, Do Teu amor\nDo Teu amor, Do Teu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Em Tuas águas, quero mergulhar\nMais fundo quero contemplar\nTua presença, é o meu lugar\nNada vai me separar, do Teu amor\nDo Teu amor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

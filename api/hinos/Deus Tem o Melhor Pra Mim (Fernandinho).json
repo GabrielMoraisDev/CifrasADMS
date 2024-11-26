@@ -1,0 +1,55 @@
+{
+  "id": 1729988231117,
+  "title": "Deus Tem o Melhor Pra Mim",
+  "artist": "Fernandinho",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus tem o melhor pra mim!\nDeus tem o melhor pra mim!\nE o que perdido foi\nNão se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir\n\nNão se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir\n\nUma nova história Deus tem pra mim\nUm novo tempo Deus tem pra mim\nTudo aquilo que perdido foi\nOuvirei de sua boca: Te abençoarei\nOuvirei de sua boca: Te abençoarei",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus tem o melhor pra mim!\nDeus tem o melhor pra mim!\nE o que perdido foi\nNão se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Não se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir\nNão se compara com o que há de vir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Uma nova história Deus tem pra mim\nUm novo tempo Deus tem pra mim\nTudo aquilo que perdido foi\nOuvirei de sua boca: Te abençoarei\nOuvirei de sua boca: Te abençoarei",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

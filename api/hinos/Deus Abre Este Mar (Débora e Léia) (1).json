@@ -1,0 +1,62 @@
+{
+  "id": 1634320954590,
+  "title": "Deus Abre Este Mar",
+  "artist": "Débora e Léia",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Um grande mar está à sua frente\nProblemas e tantas aflições estão ao seu redor\nVocê pensa que não há uma saída\nOlhe para o Senhor, dEle vem o seu socorro\n\nDeus abre esse mar e faz você passar\nVocê não está sozinho, ele abre o caminho\nA vitória vai chegar então você vai cantar\nGrande é o Senhor Jeová, Senhor Jeová (2x)\n\nNão, não se desanime, hoje Deus fala com você:\nSou um Deus tremendo e poderoso vim aqui te socorrer\nÓ filho querido, derramarei sobre você\nDa minha graça e do poder do meu espírito e você vai vencer, vencer.\n\nDeus abre esse mar e faz você passar\nVocê não está sozinho, ele abre o caminho\nA vitória vai chegar então você vai cantar\nGrande é o Senhor Jeová, Senhor Jeová (2x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Um grande mar está à sua frente\nProblemas e tantas aflições estão ao seu redor\nVocê pensa que não há uma saída\nOlhe para o Senhor, dEle vem o seu socorro",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Deus abre esse mar e faz você passar\nVocê não está sozinho, ele abre o caminho\nA vitória vai chegar então você vai cantar\nGrande é o Senhor Jeová, Senhor Jeová (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não, não se desanime, hoje Deus fala com você:\nSou um Deus tremendo e poderoso vim aqui te socorrer\nÓ filho querido, derramarei sobre você\nDa minha graça e do poder do meu espírito e você vai vencer, vencer.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Deus abre esse mar e faz você passar\nVocê não está sozinho, ele abre o caminho\nA vitória vai chegar então você vai cantar\nGrande é o Senhor Jeová, Senhor Jeová (2x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

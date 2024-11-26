@@ -1,0 +1,83 @@
+{
+  "id": 1634320302832,
+  "title": "Só vai ser Alegria",
+  "artist": "Rose Nascimento",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Só vai ser alegria \nSó vai ser alegria \nSó vai ser alegria \nA entrada no céu \nDa igreja remida e lavada no sangue \nE lavada no sangue, no sangue da cruz\n\nOs santos vão voar, voar, voar \nNo coral vão cantar, cantar, cantar \nQue maravilha lá no céu será \n2x\n\nJá posso ver as crianças cantando ( Aleluia ) \nA mocidade ao Rei exaltado \nE os irmãos se abraçando e chorando \nDe alegria eternal \nE as irmãs com as vestes tão lindas \nAgradecendo a vitória final \nE todos juntos cantando bem alto \nVencemos com Jesus (2x)\n\nÉ ai que vai ser glória \nQuando o grande Deus se apresentar \nO veremos face a face \nEle a cada um vai abraçar \nTodos os que aqui venceram \nEle ali vai coroar \nE dirá: \"Filhos pra sempre \nUnidos vamos ficar\"\n\nSó vai ser alegria \nSó vai ser alegria \nSó vai ser alegria \nQuando a igreja chegar lá \n\nSó vai ser alegria \nSó vai ser alegria \nSó vai ser alegria \nA nossa entrada no céu \n\nSão os filhos do Rei ",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Só vai ser alegria \nSó vai ser alegria \nSó vai ser alegria \nA entrada no céu \nDa igreja remida e lavada no sangue \nE lavada no sangue, no sangue da cruz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Os santos vão voar, voar, voar \nNo coral vão cantar, cantar, cantar \nQue maravilha lá no céu será \n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Já posso ver as crianças cantando ( Aleluia ) \nA mocidade ao Rei exaltado \nE os irmãos se abraçando e chorando \nDe alegria eternal \nE as irmãs com as vestes tão lindas \nAgradecendo a vitória final \nE todos juntos cantando bem alto \nVencemos com Jesus (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "É ai que vai ser glória \nQuando o grande Deus se apresentar \nO veremos face a face \nEle a cada um vai abraçar \nTodos os que aqui venceram \nEle ali vai coroar \nE dirá: \"Filhos pra sempre \nUnidos vamos ficar\"",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Só vai ser alegria \nSó vai ser alegria \nSó vai ser alegria \nQuando a igreja chegar lá ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Só vai ser alegria \nSó vai ser alegria \nSó vai ser alegria \nA nossa entrada no céu ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "São os filhos do Rei ",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

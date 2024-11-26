@@ -1,0 +1,62 @@
+{
+  "id": 1643670191987,
+  "title": "MEDLEY (Ele é exaltado, Atos 2, Ousado amor)",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ele é exaltado\nO Rei é exaltado nos céus\nEu o louvarei\nEle é exaltado\nPra sempre exaltado\nO Seu nome louvarei\nEle é o Senhor\nSua verdade vai sempre reinar\nTerra e céus\nGlorificam seu Santo nome\nEle é exaltado\nO Rei é exaltado nos céus\n2x\n\nTe damos honra\nTe damos glória\nTeu é o poder\nPra sempre, amém \nTe damos honra\nTe damos glória\nTeu é o poder\nPra sempre, amém\nE então, vem me incendiar\nMeu coração é o teu altar\nQuero ouvir o som do céu\nTua glória contemplar\n\nE então, vem me incendiar\nMeu coração é o teu altar\nQuero ouvir o som do céu\nTua glória contemplar\n\nOh, impressionante, infinito\nE ousado amor de Deus\nOh, que deixa as noventa e nove\nSó pra me encontrar\nNão posso comprá-lo, nem merecê-lo\nMesmo assim se entregou\nOh, impressionante, infinito\nE ousado amor de Deus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ele é exaltado\nO Rei é exaltado nos céus\nEu o louvarei\nEle é exaltado\nPra sempre exaltado\nO Seu nome louvarei\nEle é o Senhor\nSua verdade vai sempre reinar\nTerra e céus\nGlorificam seu Santo nome\nEle é exaltado\nO Rei é exaltado nos céus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Te damos honra\nTe damos glória\nTeu é o poder\nPra sempre, amém \nTe damos honra\nTe damos glória\nTeu é o poder\nPra sempre, amém\nE então, vem me incendiar\nMeu coração é o teu altar\nQuero ouvir o som do céu\nTua glória contemplar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E então, vem me incendiar\nMeu coração é o teu altar\nQuero ouvir o som do céu\nTua glória contemplar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Oh, impressionante, infinito\nE ousado amor de Deus\nOh, que deixa as noventa e nove\nSó pra me encontrar\nNão posso comprá-lo, nem merecê-lo\nMesmo assim se entregou\nOh, impressionante, infinito\nE ousado amor de Deus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

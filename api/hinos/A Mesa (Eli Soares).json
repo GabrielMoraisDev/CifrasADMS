@@ -1,0 +1,76 @@
+{
+  "id": 1728170131541,
+  "title": "A Mesa",
+  "artist": "Eli Soares",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Pai\nContra Ti e contra o céu pequei\nMe enchi de mim e me deixei levar\nE escravo dos meus erros me tornei\n\nTroquei minha casa pela liberdade vã\nTentando me encontrar, eu me perdi\nE quando eu pensei que era o fim ali\nOuvi a Tua voz dizendo assim pra mim\n\nTem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\nTem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\n\nTroquei minha casa pela liberdade vã\nTentando me encontrar, eu me perdi\nE quando eu pensei que era o fim ali\nOuvi a Tua voz dizendo assim pra mim\n\nTem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\nTem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\n\nTem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Pai\nContra Ti e contra o céu pequei\nMe enchi de mim e me deixei levar\nE escravo dos meus erros me tornei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Troquei minha casa pela liberdade vã\nTentando me encontrar, eu me perdi\nE quando eu pensei que era o fim ali\nOuvi a Tua voz dizendo assim pra mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Tem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\nTem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Troquei minha casa pela liberdade vã\nTentando me encontrar, eu me perdi\nE quando eu pensei que era o fim ali\nOuvi a Tua voz dizendo assim pra mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Tem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\nTem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Tem lugar na mesa\nPode se assentar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar\nVenha, não demore\nEstou te esperando\nAqui é o teu lugar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

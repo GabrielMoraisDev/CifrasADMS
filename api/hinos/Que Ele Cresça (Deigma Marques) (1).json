@@ -1,0 +1,62 @@
+{
+  "id": 1657383950262,
+  "title": "Que Ele Cresça",
+  "artist": "Deigma Marques",
+  "author": "Helenildo Teixeira",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Mais de Ti ... Mais de Ti\nE menos de mim\nE menos de mim\nE menos de mim\nE menos de mim\n2x\n\nQue Ele cresça E eu diminua\nQue Ele apareça E eu me constranja\nCom a Sua Glória\nE todo Seu amor\nInfinita humildade\nServo de todos os irmãos\n2x\n\nMais de Ti ... Mais de Ti\nE menos de mim\nE menos de mim\nE menos de mim\nE menos de mim\n\nQue Ele cresça E eu diminua\nQue Ele apareça E eu me constranja\nCom a Sua Glória\nE todo Seu amor\nInfinita humildade\nServo de todos os irmãos\n3x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Mais de Ti ... Mais de Ti\nE menos de mim\nE menos de mim\nE menos de mim\nE menos de mim\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Que Ele cresça E eu diminua\nQue Ele apareça E eu me constranja\nCom a Sua Glória\nE todo Seu amor\nInfinita humildade\nServo de todos os irmãos\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mais de Ti ... Mais de Ti\nE menos de mim\nE menos de mim\nE menos de mim\nE menos de mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Que Ele cresça E eu diminua\nQue Ele apareça E eu me constranja\nCom a Sua Glória\nE todo Seu amor\nInfinita humildade\nServo de todos os irmãos\n3x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

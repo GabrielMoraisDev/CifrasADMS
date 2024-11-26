@@ -1,0 +1,76 @@
+{
+  "id": 1664059265077,
+  "title": "Aviva-nos / A Terra Clama",
+  "artist": "Cultura do Céu",
+  "author": "Danielly Bravo, Fábio Bravo, Gustavo Veríssimo",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Enche esse ambiente\nEnche esse lugar\nTe damos liberdade\nQue caia o Teu Espírito\n\nVem fazer o que \nNenhum homem fez\nVem fazer o que\nA história nunca viu\n\nVem cumprir\nO descrito em Joel\nAviva-nos\nAviva-nos\n\nQue seja hoje\nQue seja agora\nVem e derrama\nO Teu Espírito\n\nA terra clama, ôô\nA terra chama\nChama, chama\n\nMais uma vez\nQueremos ver\nO céu descer",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Enche esse ambiente\nEnche esse lugar\nTe damos liberdade\nQue caia o Teu Espírito",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vem fazer o que \nNenhum homem fez\nVem fazer o que\nA história nunca viu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vem cumprir\nO descrito em Joel\nAviva-nos\nAviva-nos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Que seja hoje\nQue seja agora\nVem e derrama\nO Teu Espírito",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "A terra clama, ôô\nA terra chama\nChama, chama",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Mais uma vez\nQueremos ver\nO céu descer",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

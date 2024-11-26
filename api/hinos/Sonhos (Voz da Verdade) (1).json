@@ -1,0 +1,76 @@
+{
+  "id": 1646004606827,
+  "title": "Sonhos",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Deus, sonhe os meus sonhos\nDeus, cuide de mim\nDeus, me leve em Seus braços\nMe faz voar até o fim\n\nO sol brilhará\nMuito mais amanhã\nO sonho se realizará\n\nPois Deus\nSonhou os meus sonhos\nE em paz eu vou chegar\n\nEsse projeto real há de ser\nPois o meu Deus é fiel\nSonhos em vida se tornarão\nFoi Deus quem prometeu\n\nSonhe os sonhos de Deus\nPois reais eles são\nSonhos que tornam em vida\nA palavra de Deus\n\nSonhos\nQue não ficam nos sonhos\nEstá promessa é real\nA cada dia se cumpre\nPara os filhos de Deus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Deus, sonhe os meus sonhos\nDeus, cuide de mim\nDeus, me leve em Seus braços\nMe faz voar até o fim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "O sol brilhará\nMuito mais amanhã\nO sonho se realizará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Pois Deus\nSonhou os meus sonhos\nE em paz eu vou chegar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Esse projeto real há de ser\nPois o meu Deus é fiel\nSonhos em vida se tornarão\nFoi Deus quem prometeu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Sonhe os sonhos de Deus\nPois reais eles são\nSonhos que tornam em vida\nA palavra de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Sonhos\nQue não ficam nos sonhos\nEstá promessa é real\nA cada dia se cumpre\nPara os filhos de Deus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

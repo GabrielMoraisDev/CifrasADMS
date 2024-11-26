@@ -1,0 +1,118 @@
+{
+  "id": 1639697237660,
+  "title": "A Colheita",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Voz do que clama em meio o deserto\nPrepara o caminho do meu Salvador\nGrita nas praças, nas ruas, nos campos\n\nPrepara o caminho do meu Salvador\nToca a trombeta em Sião não despreze as feridas das suas mãos\n\nEste é o tempo de lançarmos a rede\nPregar a palavra viver o evangelho\n\nEste é o tempo de quebrantamento, a colheita chegou\nA hora é chegada o tempo é este Ele vem\n\nVoz do que clama em meio ao deserto\nPrepara o caminho do meu Salvador\n\nGrita nas praças, nas, ruas nos campos\nPrepara o caminho do meu Salvador\n\nToca a trombeta em Sião\nNão despreze as feridas das suas mãos\n\nEste é o tempo de lançarmos a rede\nPregar a palavra viver o evangelho\nEste é o tempo de quebrantamento, a colheita chegou\nA hora é chegada o tempo é este Ele vem (2X)\n\nEle vem\nEle vem\nO Espírito e a noiva dizem Vem\nEle Vem, Ele vem....\n\nIde fazei discípulos de todas as nações porque Ele vem (3X)\n\nO Espírito e a Noiva dizem Vem\n\nIde fazei discípulos de todas as nações porque Ele vem\nO Espírito e a Noiva dizem Vem (5x )",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Voz do que clama em meio o deserto\nPrepara o caminho do meu Salvador\nGrita nas praças, nas ruas, nos campos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Prepara o caminho do meu Salvador\nToca a trombeta em Sião não despreze as feridas das suas mãos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Este é o tempo de lançarmos a rede\nPregar a palavra viver o evangelho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Este é o tempo de quebrantamento, a colheita chegou\nA hora é chegada o tempo é este Ele vem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Voz do que clama em meio ao deserto\nPrepara o caminho do meu Salvador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Grita nas praças, nas, ruas nos campos\nPrepara o caminho do meu Salvador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Toca a trombeta em Sião\nNão despreze as feridas das suas mãos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Este é o tempo de lançarmos a rede\nPregar a palavra viver o evangelho\nEste é o tempo de quebrantamento, a colheita chegou\nA hora é chegada o tempo é este Ele vem (2X)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Ele vem\nEle vem\nO Espírito e a noiva dizem Vem\nEle Vem, Ele vem....",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Ide fazei discípulos de todas as nações porque Ele vem (3X)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "O Espírito e a Noiva dizem Vem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "Ide fazei discípulos de todas as nações porque Ele vem\nO Espírito e a Noiva dizem Vem (5x )",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1668383005658,
+  "title": "Aclame Ao Senhor",
+  "artist": "Diante do Trono",
+  "author": "Ana Paula Valadão, Darlene Zschech",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Meu Jesus, Salvador\nOutro igual não há\nTodos os dias quero louvar\nAs maravilhas de Teu amor\n\nConsolo, abrigo\nForça e refúgio é o Senhor\n\nCom todo o meu ser\nCom tudo o que sou\nSempre Te adorarei\n\nAclame ao Senhor\nToda a Terra e cantemos\nPoder, majestade\nE louvores ao Rei\n\nMontanhas se prostrem\nE rujam os mares\nAo som de Teu nome\n\nAlegre Te louvo\nPor Teus grandes feitos\nFirmado estarei\nSempre Te amarei\n\nIncomparáveis são\nTuas promessas pra mim",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Meu Jesus, Salvador\nOutro igual não há\nTodos os dias quero louvar\nAs maravilhas de Teu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Consolo, abrigo\nForça e refúgio é o Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com todo o meu ser\nCom tudo o que sou\nSempre Te adorarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Aclame ao Senhor\nToda a Terra e cantemos\nPoder, majestade\nE louvores ao Rei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Montanhas se prostrem\nE rujam os mares\nAo som de Teu nome",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Alegre Te louvo\nPor Teus grandes feitos\nFirmado estarei\nSempre Te amarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Incomparáveis são\nTuas promessas pra mim",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1726441422191,
+  "title": "Faz Chover",
+  "artist": "Fernandinho",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Assim como a corça anseia por águas\nComo terra seca precisa da chuva\nMeu coração tem sede de Ti\nRei meu e Deus meu\n2x\n\nFaz chover, Senhor Jesus\nDerrama a chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração\n\n(Faz chover) faz chover, Senhor Jesus\nDerrama chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração\n\nFaz chover\nFaz chover\n\nFaz chover, Senhor Jesus\nDerrama chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração\n\n(Faz chover) faz chover, Senhor Jesus\nDerrama chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração\n\nInundar o meu coração\nInundar, inundar o meu coração\nSim, faz chover\nFaz chover",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Assim como a corça anseia por águas\nComo terra seca precisa da chuva\nMeu coração tem sede de Ti\nRei meu e Deus meu\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Faz chover, Senhor Jesus\nDerrama a chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "(Faz chover) faz chover, Senhor Jesus\nDerrama chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Faz chover\nFaz chover",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Faz chover, Senhor Jesus\nDerrama chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "(Faz chover) faz chover, Senhor Jesus\nDerrama chuva neste lugar\nVem com o Teu rio, Senhor Jesus\nInundar o meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Inundar o meu coração\nInundar, inundar o meu coração\nSim, faz chover\nFaz chover",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

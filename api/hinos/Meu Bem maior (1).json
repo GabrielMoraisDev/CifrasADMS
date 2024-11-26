@@ -1,0 +1,69 @@
+{
+  "id": 1685204489359,
+  "title": "Meu Bem maior",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ao fechar meus olhos\nPosso te encontrar\nAo abrir meus lábios\nTe adorar\nAo jorrar em mim\nO teu amor sem fim\nO teu perfume a me tocar\nMe faz sonhar\nE viajar\n\nNa clareza do teu olhar\nPosso prosseguir\nPosso descansar\nNa sombra da Tua mão\nNo pulsar do coração\nPosso Te ouvir\nMeu bem maior\n\nAo fechar meus olhos\nPosso te encontrar\nAo abrir meus lábios\nTe adorar\nAo jorrar em mim\nO teu amor sem fim\nO teu perfume a me tocar\nMe faz sonhar\nE viajar\n\nNa clareza do teu olhar\nPosso prosseguir\nPosso descansar\nNa sombra da Tua mão\nNo pulsar do coração\nPosso Te ouvir\nMeu bem maior\n3x\n\nNa clareza do teu olhar\nPosso prosseguir\nPosso descansar\nNa sombra da Tua mão\nNo pulsar do coração\nPosso Te ouvir\nMeu bem maior",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ao fechar meus olhos\nPosso te encontrar\nAo abrir meus lábios\nTe adorar\nAo jorrar em mim\nO teu amor sem fim\nO teu perfume a me tocar\nMe faz sonhar\nE viajar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Na clareza do teu olhar\nPosso prosseguir\nPosso descansar\nNa sombra da Tua mão\nNo pulsar do coração\nPosso Te ouvir\nMeu bem maior",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ao fechar meus olhos\nPosso te encontrar\nAo abrir meus lábios\nTe adorar\nAo jorrar em mim\nO teu amor sem fim\nO teu perfume a me tocar\nMe faz sonhar\nE viajar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Na clareza do teu olhar\nPosso prosseguir\nPosso descansar\nNa sombra da Tua mão\nNo pulsar do coração\nPosso Te ouvir\nMeu bem maior\n3x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Na clareza do teu olhar\nPosso prosseguir\nPosso descansar\nNa sombra da Tua mão\nNo pulsar do coração\nPosso Te ouvir\nMeu bem maior",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

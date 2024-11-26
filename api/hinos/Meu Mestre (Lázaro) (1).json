@@ -1,0 +1,83 @@
+{
+  "id": 1637187746124,
+  "title": "Meu Mestre",
+  "artist": "Lázaro",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "A minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre\n2x\n\nA Deus eu entreguei o barco do meu ser\nE entrei no mar afora\nPra longe eu naveguei, não vejo mais o cais\nSó Deus e eu agora\n\nA minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre\n\nNa solidão da lida eu pude perceber\nO quanto Deus me ama\nAs ondas grandes vêm tentando me arrastar\nPra longe da presença dEle\n\nA minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre\n\nNa solidão da lida eu pude perceber\nO quanto Deus me ama\nAs ondas grandes vêm tentando me arrastar\nPra longe da presença dEle\n\nA minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "A minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A Deus eu entreguei o barco do meu ser\nE entrei no mar afora\nPra longe eu naveguei, não vejo mais o cais\nSó Deus e eu agora",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "A minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Na solidão da lida eu pude perceber\nO quanto Deus me ama\nAs ondas grandes vêm tentando me arrastar\nPra longe da presença dEle",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "A minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Na solidão da lida eu pude perceber\nO quanto Deus me ama\nAs ondas grandes vêm tentando me arrastar\nPra longe da presença dEle",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "A minha vida é do Mestre\nMeu coração é do meu Mestre\nO meu caminho é do Mestre\nMinha esperança é meu Mestre",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

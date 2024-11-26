@@ -1,0 +1,125 @@
+{
+  "id": 1630880779084,
+  "title": "Calmaria",
+  "artist": "Canção & Louvor",
+  "author": "Cláudia Canção",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Planos frustrados\nDias nublados\nMe pergunto:\n\"Por que foi que eu sonhei?\"\n\nMar agitado\nTempo fechado\nJá não faz sentido\nAs rotas que tracei\n\nMas o dono deste mar\nTambém é meu dono\nEle não me abandonou\nEu sei, está me ensinando\n\nMe ensinando a depender\nMe ensinando a confiar\nE até a perceber\nQuando é hora de parar\n\nNão parar de avançar\nMas parar pra Lhe escutar\nE entender que lá de cima\nMinha rota Ele vê\n\nE altera o caminho\nE dá rumo ao barquinho\nE assim me guiará\nAo lugar seguro, à calmaria\n\nTenho a promessa\nDe quem não erra\nQue do outro lado, sim\nEu chegarei\n\nNão estou sozinho\nTenho comigo\nA quem nada Lhe resiste\nPois é Rei\n\nSim, o dono deste mar\nTambém é teu dono\nEle não te abandonou\nEu sei, está te ensinando\n\nTe ensinando a depender\nTe ensinando a confiar\nE até a perceber\nQuando é hora de parar\n\nNão parar de avançar\nMas parar pra Lhe escutar\nE entender que lá de cima\nTua rota Ele vê\n\nE altera o caminho\nE dá rumo ao barquinho\nE assim te guiará\nAo lugar seguro, à calmaria\n\nÀ calmaria",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Planos frustrados\nDias nublados\nMe pergunto:\n\"Por que foi que eu sonhei?\"",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mar agitado\nTempo fechado\nJá não faz sentido\nAs rotas que tracei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Mas o dono deste mar\nTambém é meu dono\nEle não me abandonou\nEu sei, está me ensinando",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Me ensinando a depender\nMe ensinando a confiar\nE até a perceber\nQuando é hora de parar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Não parar de avançar\nMas parar pra Lhe escutar\nE entender que lá de cima\nMinha rota Ele vê",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E altera o caminho\nE dá rumo ao barquinho\nE assim me guiará\nAo lugar seguro, à calmaria",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Tenho a promessa\nDe quem não erra\nQue do outro lado, sim\nEu chegarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Não estou sozinho\nTenho comigo\nA quem nada Lhe resiste\nPois é Rei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Sim, o dono deste mar\nTambém é teu dono\nEle não te abandonou\nEu sei, está te ensinando",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Te ensinando a depender\nTe ensinando a confiar\nE até a perceber\nQuando é hora de parar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Não parar de avançar\nMas parar pra Lhe escutar\nE entender que lá de cima\nTua rota Ele vê",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "E altera o caminho\nE dá rumo ao barquinho\nE assim te guiará\nAo lugar seguro, à calmaria",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 13,
+        "description": "",
+        "text": "À calmaria",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1710000514609,
+  "title": "Tua Alegria",
+  "artist": "isadora Pompeo",
+  "author": "",
+  "note": "E",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Pai, eu sei\nTua presença acrescenta paz\nNão há espaço para confusão\nPai, então\nPra que me preocupar com a aflição?\nE com as dores do meu coração?\n\nSe Tua presença só traz alegria\nTua alegria é a minha força\nTua alegria é a minha força\nTua alegria é a minha força\n2X\n\nPai, eu sei\nTua presença acrescenta paz\nNão há espaço para confusão\nPai, então\nPra que me preocupar com a aflição?\nE com as dores do meu coração?\n\nSe Tua presença só traz alegria\nTua alegria é a minha força\nTua alegria é a minha força\nTua alegria é a minha força\n4X\n\nSanto! Santo! Santo!\nSanto! Santo! Santo!\n\nQuero entrar onde os anjos cantam: Santo\nOnde os anjos cantam: Santo\nOnde os anjos cantam: Santo\n2X\n\nSe Tua presença só traz alegria\nTua alegria é a minha força\nTua alegria é a minha força\nTua alegria é a minha força\n2X",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Pai, eu sei\nTua presença acrescenta paz\nNão há espaço para confusão\nPai, então\nPra que me preocupar com a aflição?\nE com as dores do meu coração?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Se Tua presença só traz alegria\nTua alegria é a minha força\nTua alegria é a minha força\nTua alegria é a minha força\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Pai, eu sei\nTua presença acrescenta paz\nNão há espaço para confusão\nPai, então\nPra que me preocupar com a aflição?\nE com as dores do meu coração?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Se Tua presença só traz alegria\nTua alegria é a minha força\nTua alegria é a minha força\nTua alegria é a minha força\n4X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Santo! Santo! Santo!\nSanto! Santo! Santo!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Quero entrar onde os anjos cantam: Santo\nOnde os anjos cantam: Santo\nOnde os anjos cantam: Santo\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Se Tua presença só traz alegria\nTua alegria é a minha força\nTua alegria é a minha força\nTua alegria é a minha força\n2X",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

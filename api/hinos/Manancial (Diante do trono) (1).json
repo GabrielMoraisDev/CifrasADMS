@@ -1,0 +1,69 @@
+{
+  "id": 1717870264243,
+  "title": "Manancial",
+  "artist": "Diante do trono",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Senhor, estou aqui para Te adorar\nEm Tua presença desejo estar\nEu sei que nada sou\nMas vim me humilhar\nPreciso de Ti\nVem me restaurar\n\nEu quero ser\nComo um jardim fechado\nRegado e cuidado\nPelo Teu Espírito\nFlua em mim\nComo um manancial\nDo meu interior\nCom águas vivas\nRestaura o meu ser\nPara o Teu louvor\n\nSenhor, estou aqui para Te adorar\nEm Tua presença desejo estar\nEu sei que nada sou\nMas vim me humilhar\nPreciso de Ti\nVem me restaurar\n\nEu quero ser\nComo um jardim fechado\nRegado e cuidado\nPelo Teu Espírito\nFlua em mim\nComo um manancial\nDo meu interior\nCom águas vivas\nRestaura o meu ser\nPara o Teu louvor\n\nEu te farei\nComo um jardim fechado\nRegado e cuidado\nPelo Meu Espírito\nEu fluirei\nComo um manancial\nDo teu interior\nCom águas vivas\nTe restaurarei\nPara o Meu louvor 2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Senhor, estou aqui para Te adorar\nEm Tua presença desejo estar\nEu sei que nada sou\nMas vim me humilhar\nPreciso de Ti\nVem me restaurar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Eu quero ser\nComo um jardim fechado\nRegado e cuidado\nPelo Teu Espírito\nFlua em mim\nComo um manancial\nDo meu interior\nCom águas vivas\nRestaura o meu ser\nPara o Teu louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Senhor, estou aqui para Te adorar\nEm Tua presença desejo estar\nEu sei que nada sou\nMas vim me humilhar\nPreciso de Ti\nVem me restaurar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu quero ser\nComo um jardim fechado\nRegado e cuidado\nPelo Teu Espírito\nFlua em mim\nComo um manancial\nDo meu interior\nCom águas vivas\nRestaura o meu ser\nPara o Teu louvor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu te farei\nComo um jardim fechado\nRegado e cuidado\nPelo Meu Espírito\nEu fluirei\nComo um manancial\nDo teu interior\nCom águas vivas\nTe restaurarei\nPara o Meu louvor 2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

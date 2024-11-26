@@ -1,0 +1,90 @@
+{
+  "id": 1645142775384,
+  "title": "Eu Profetizo",
+  "artist": "Cristina Mel",
+  "author": "Solange de César, Beno César",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sobre tua vida, meu irmão\nNão vale encantamento\nDeus está limpando\nOs teus olhos\nAcabou teu sofrimento\n\nOuça o som das asas\nEm tua tenda\nEle não te deixa só\nE quem ousará tocar em ti?\nBichinho de Jacó\n\nEu profetizo\nSobre tua vida, meu irmão\nEu profetizo\nQue o tempo da humilhação\nEstá vencido\n\nQue hoje você derramou\nA última lágrima\n\nEu profetizo\nQue caiam por terra agora\nOs inimigos\nQue você vai olhar pro céu\nE vai cantar comigo\n\nUm cântico novo\nCom gosto de vitória\n\nSe for preciso\nUma coluna de fogo\nSe for preciso\nUma nuvem de glória\nDeus vai rompendo\nPra te dar vitória\n\nLevanta a cabeça\nChegou sua hora\nUm anjo desceu\nCom a bênção nas mãos\nVocê foi ungido\nPra ser campeão",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sobre tua vida, meu irmão\nNão vale encantamento\nDeus está limpando\nOs teus olhos\nAcabou teu sofrimento",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ouça o som das asas\nEm tua tenda\nEle não te deixa só\nE quem ousará tocar em ti?\nBichinho de Jacó",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu profetizo\nSobre tua vida, meu irmão\nEu profetizo\nQue o tempo da humilhação\nEstá vencido",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Que hoje você derramou\nA última lágrima",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu profetizo\nQue caiam por terra agora\nOs inimigos\nQue você vai olhar pro céu\nE vai cantar comigo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Um cântico novo\nCom gosto de vitória",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Se for preciso\nUma coluna de fogo\nSe for preciso\nUma nuvem de glória\nDeus vai rompendo\nPra te dar vitória",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Levanta a cabeça\nChegou sua hora\nUm anjo desceu\nCom a bênção nas mãos\nVocê foi ungido\nPra ser campeão",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

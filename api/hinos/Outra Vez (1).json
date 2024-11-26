@@ -1,0 +1,83 @@
+{
+  "id": 1661124978126,
+  "title": "Outra Vez",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quantas vezes quiseste então mudar\nTeu pensar, teu modo de agir\nE ao sentir que nada adiantou, foi tudo em vão\nOh! Irmão eu sei que foi ruim\nMas uma coisa eu quero te dizer\n\nDeus te ama assim como tu és\nMesmo quando muitos dizem\nQue não há mais solução\nMeu Senhor estende a sua mão.\n\nUma vez, outra vez\nVá em frente, e tente um pouco mais\nQuem sabe hoje aqui,  angústias vão ter fim\nE gozarás perfeita paz . 2x\n\nQuantas vezes quiseste então mudar\nTeu pensar, teu modo de agir\nE ao sentir que nada adiantou, foi tudo em vão\nOh! Irmão eu sei que foi ruim\nMas uma coisa eu quero te dizer\n\nDeus te ama assim como tu és\nMesmo quando muitos dizem\nQue não há mais solução\nMeu Senhor estende a sua mão.\n\nUma vez, outra vez\nVá em frente, e tente um pouco mais\nQuem sabe hoje aqui , angústias vão ter fim\nE gozarás perfeita paz. 2x\n\nUma vez, outra vez\nVá em frente, e tente um pouco mais\num pouco mais",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quantas vezes quiseste então mudar\nTeu pensar, teu modo de agir\nE ao sentir que nada adiantou, foi tudo em vão\nOh! Irmão eu sei que foi ruim\nMas uma coisa eu quero te dizer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Deus te ama assim como tu és\nMesmo quando muitos dizem\nQue não há mais solução\nMeu Senhor estende a sua mão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Uma vez, outra vez\nVá em frente, e tente um pouco mais\nQuem sabe hoje aqui,  angústias vão ter fim\nE gozarás perfeita paz . 2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Quantas vezes quiseste então mudar\nTeu pensar, teu modo de agir\nE ao sentir que nada adiantou, foi tudo em vão\nOh! Irmão eu sei que foi ruim\nMas uma coisa eu quero te dizer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Deus te ama assim como tu és\nMesmo quando muitos dizem\nQue não há mais solução\nMeu Senhor estende a sua mão.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Uma vez, outra vez\nVá em frente, e tente um pouco mais\nQuem sabe hoje aqui , angústias vão ter fim\nE gozarás perfeita paz. 2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Uma vez, outra vez\nVá em frente, e tente um pouco mais\num pouco mais",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

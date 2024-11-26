@@ -1,0 +1,76 @@
+{
+  "id": 1659306264335,
+  "title": "Grande é o Senhor",
+  "artist": "Adhemar de Campos",
+  "author": "Adhemar de Campos, Steve McEwan",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Grande é o Senhor\nE mui digno de louvor\nNa cidade do nosso Deus\nSeu Santo monte\n\nAlegria de toda Terra\n\nGrande é o Senhor\nEm quem nós temos a vitória\nE que nos ajuda\nContra o inimigo\n\nPor isso diante dEle\nNos prostramos\n\nQueremos o Teu\nNome engrandecer\nE agradecer-Te\nPor Tua obra em nossas vidas\n\nConfiamos em Teu\nInfinito amor\nPois só Tu és o Deus eterno\nSobre toda terra e céus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Grande é o Senhor\nE mui digno de louvor\nNa cidade do nosso Deus\nSeu Santo monte",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Alegria de toda Terra",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Grande é o Senhor\nEm quem nós temos a vitória\nE que nos ajuda\nContra o inimigo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Por isso diante dEle\nNos prostramos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Queremos o Teu\nNome engrandecer\nE agradecer-Te\nPor Tua obra em nossas vidas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Confiamos em Teu\nInfinito amor\nPois só Tu és o Deus eterno\nSobre toda terra e céus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

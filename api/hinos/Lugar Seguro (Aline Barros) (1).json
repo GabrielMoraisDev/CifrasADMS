@@ -1,0 +1,97 @@
+{
+  "id": 1663885746977,
+  "title": "Lugar Seguro",
+  "artist": "Aline Barros",
+  "author": "Anderson Freire",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vem o temporal\nVem o dia mal\n\nMas Deus me faz assim\nPés sobre a rocha\nEle cuida bem de mim\n\nGuarda a minha saída\nGuarda a minha entrada\nEle é minha sombra\nMão direita que não falha\n\nDurante o dia\nO sol não pode me ferir\nCom Ele, à noite\nEu posso até sorrir\n\nEstou olhando\nPara os montes\nO meu socorro\nVem de Deus\n\nNão paro de olhar\nPros montes\nEle não descansa\nEle é o Guarda de Israel\n\nRei da terra\nE é também dono do céu\n\nMeu lugar seguro\nMinha proteção\nTodo-Poderoso\nDeus da minha salvação\n\nOh, oh\nOh, oh",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vem o temporal\nVem o dia mal",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mas Deus me faz assim\nPés sobre a rocha\nEle cuida bem de mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Guarda a minha saída\nGuarda a minha entrada\nEle é minha sombra\nMão direita que não falha",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Durante o dia\nO sol não pode me ferir\nCom Ele, à noite\nEu posso até sorrir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Estou olhando\nPara os montes\nO meu socorro\nVem de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Não paro de olhar\nPros montes\nEle não descansa\nEle é o Guarda de Israel",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Rei da terra\nE é também dono do céu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Meu lugar seguro\nMinha proteção\nTodo-Poderoso\nDeus da minha salvação",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Oh, oh\nOh, oh",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

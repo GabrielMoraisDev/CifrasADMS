@@ -1,0 +1,76 @@
+{
+  "id": 1723331490323,
+  "title": "Vou Passar Pela Cruz",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Não quero ir por atalhos\nQuero seguir o caminho\nQue tu preparastes pra mim, Senhor\n\nQuero agradar o teu coração\nTe obedecer é sempre o melhor\nNão quero ter tuas bênçãos\nSem antes passar pela cruz\n\nEu vou passar pela cruz\nE me quebrantar\nVou passar pela cruz\nE me arrepender\nVou passar pela cruz\nQue ainda está manchada de sangue\n\nPor tanto me amar\nVou passar pela cruz\nE nela me ver\nVou passar pela cruz\nE erguer um altar\nOnde a oferta sou eu\nCrucifico o meu eu\nTe agradeço, oh, Jesus\nPela cruz\n\nFui comprado na cruz\nGerado na cruz\nRedimido na cruz\nRestaurado na cruz\n\nFui comprado na cruz\nRestaurado na cruz",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Não quero ir por atalhos\nQuero seguir o caminho\nQue tu preparastes pra mim, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quero agradar o teu coração\nTe obedecer é sempre o melhor\nNão quero ter tuas bênçãos\nSem antes passar pela cruz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu vou passar pela cruz\nE me quebrantar\nVou passar pela cruz\nE me arrepender\nVou passar pela cruz\nQue ainda está manchada de sangue",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Por tanto me amar\nVou passar pela cruz\nE nela me ver\nVou passar pela cruz\nE erguer um altar\nOnde a oferta sou eu\nCrucifico o meu eu\nTe agradeço, oh, Jesus\nPela cruz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Fui comprado na cruz\nGerado na cruz\nRedimido na cruz\nRestaurado na cruz",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Fui comprado na cruz\nRestaurado na cruz",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

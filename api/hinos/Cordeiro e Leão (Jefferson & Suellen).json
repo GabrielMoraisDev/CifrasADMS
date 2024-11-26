@@ -1,0 +1,104 @@
+{
+  "id": 1730640049596,
+  "title": "Cordeiro e Leão",
+  "artist": "Jefferson & Suellen",
+  "author": "Jeferson Rodrigo",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Existe um nome\nSobre todo nome\nE esse nome é poderoso, sim\nJesus, Jesus\n\nAquele que morreu\nComo cordeiro\nMas ressuscitou\nComo um leão, Jesus\nAquele que ali\nNa cruz do meio\nLiberou o Seu perdão\nJesus\nAquele que morreu\nMas ressuscitou\nE vivo está pra sempre\nJesus\n\nÓ morte\nOnde está tua vitória?\nEle ressuscitou\nEle ressuscitou\n\nAquele que morreu como Cordeiro\nMas ressuscitou como um Leão, Jesus\nAquele que ali na cruz do meio\nLiberou o Seu perdão, Jesus\nAquele que morreu, mas ressuscitou\nE vivo está pra sempre, Jesus\n\nÔ morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\nÔ morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\n\nCantamos ao Cordeiro que venceu\nSanto, santo\nCantamos ao Cordeiro que venceu\nSanto, santo\n\nQue se ouça na Terra\nO mesmo som que\nOs anjos cantam lá no céu\nSanto, Santo, Santo\nSanto, Santo, Santo\n4x\n\nÔ morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\nÔ morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\n2x\n\nQue se ouça na Terra o mesmo som\nQue os anjos cantam lá no céu\nSanto, santo, santo\nSanto, santo, santo\n2x\n\nCantamos ao Cordeiro que venceu (santo)\nSanto, santo\nCantamos ao Cordeiro que venceu\nSanto, santo",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Existe um nome\nSobre todo nome\nE esse nome é poderoso, sim\nJesus, Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Aquele que morreu\nComo cordeiro\nMas ressuscitou\nComo um leão, Jesus\nAquele que ali\nNa cruz do meio\nLiberou o Seu perdão\nJesus\nAquele que morreu\nMas ressuscitou\nE vivo está pra sempre\nJesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ó morte\nOnde está tua vitória?\nEle ressuscitou\nEle ressuscitou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Aquele que morreu como Cordeiro\nMas ressuscitou como um Leão, Jesus\nAquele que ali na cruz do meio\nLiberou o Seu perdão, Jesus\nAquele que morreu, mas ressuscitou\nE vivo está pra sempre, Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ô morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\nÔ morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Cantamos ao Cordeiro que venceu\nSanto, santo\nCantamos ao Cordeiro que venceu\nSanto, santo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Que se ouça na Terra\nO mesmo som que\nOs anjos cantam lá no céu\nSanto, Santo, Santo\nSanto, Santo, Santo\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Ô morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\nÔ morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Que se ouça na Terra o mesmo som\nQue os anjos cantam lá no céu\nSanto, santo, santo\nSanto, santo, santo\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Cantamos ao Cordeiro que venceu (santo)\nSanto, santo\nCantamos ao Cordeiro que venceu\nSanto, santo",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "https://open.spotify.com/track/4bxDGghFKLGfffrcC311N4",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

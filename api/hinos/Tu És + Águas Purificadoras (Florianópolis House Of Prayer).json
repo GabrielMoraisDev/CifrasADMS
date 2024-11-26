@@ -1,0 +1,139 @@
+{
+  "id": 1728070449022,
+  "title": "Tu És + Águas Purificadoras",
+  "artist": "Florianópolis House Of Prayer",
+  "author": "Eliaquim Benedito, Ester Carvalho, Isabelle de Sousa, Matheus Santana, Patrick Leonardo, Sara Lima, Vinicius Santos, Ana Paula Valadão",
+  "note": "",
+  "copyright": "",
+  "key": "D",
+  "bpm": 71.0,
+  "time_sig": "4/4",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Junto ao poço estava eu\nQuando um homem judeu\n\nViu a sede que havia em mim\n\nSem me ouvir\nConheceu e me ofereceu\n\nUma água que jorra sem fim\n\nDá-me de beber\nPois tenho sede\n\nNão quero mais buscar\nEm outras fontes\n\nNão precisarei aqui voltar\nPra minha sede saciar\n\nUma vez que\nEu já ouvi Teu falar\n\nTu és por quem\nA minh'alma esperou\n\nA fonte da vida\nQue me encontrou\n\nÉs o dom de Deus\nO Messias, o meu Salvador\n\nQuero beber\nDo Teu rio, Senhor\n\nSacia a minha sede\nLava o meu interior\n\nEu quero fluir em Tuas águas\nEu quero beber da Tua fonte\n\nFonte de águas vivas",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Junto ao poço estava eu\nQuando um homem judeu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Viu a sede que havia em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sem me ouvir\nConheceu e me ofereceu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Uma água que jorra sem fim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Dá-me de beber\nPois tenho sede",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Não quero mais buscar\nEm outras fontes",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Não precisarei aqui voltar\nPra minha sede saciar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Uma vez que\nEu já ouvi Teu falar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Tu és por quem\nA minh'alma esperou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "A fonte da vida\nQue me encontrou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "És o dom de Deus\nO Messias, o meu Salvador",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "Quero beber\nDo Teu rio, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 13,
+        "description": "",
+        "text": "Sacia a minha sede\nLava o meu interior",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 14,
+        "description": "",
+        "text": "Eu quero fluir em Tuas águas\nEu quero beber da Tua fonte",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 15,
+        "description": "",
+        "text": "Fonte de águas vivas",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8",
+      "youtube": "https://youtube.com/watch?v=YXnQ02HYB1w",
+      "deezer": "https://deezer.com/track/2589574122"
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

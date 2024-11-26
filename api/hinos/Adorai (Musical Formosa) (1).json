@@ -1,0 +1,97 @@
+{
+  "id": 1648858233585,
+  "title": "Adorai",
+  "artist": "Musical Formosa",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Adorai, o nome do Senhor\nAdorai, o nome do Senhor\n2x\n\nComo anjos viverão, desfrutando plena luz\nOs que lavaram seus vestidos, no sangue de Jesus\n2x\n\nNossos olhos limpará, lá gemidos não haverá\nAdorai, o nome do Senhor\n\nAdorai, o nome do Senhor\nAdorai, o nome do Senhor\n\nMorte mais não haverá, as tristezas findarão\nO Senhor ali estará, sua sombra nos guardará\n2x\n\nEle apascentará os remidos, que estão lá\nAdorai o nome do Senhor\n\nAdorai, o nome do Senhor\nAdorai, o nome do Senhor\n\nEle apascentará os remidos, que estão lá\nAdorai o nome do Senhor\n\nAdorai, o nome do Senhor\nAdorai, o nome do Senhor\nAdorai, o nome do Senhor\nAdorai, o nome do Senhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Adorai, o nome do Senhor\nAdorai, o nome do Senhor\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Como anjos viverão, desfrutando plena luz\nOs que lavaram seus vestidos, no sangue de Jesus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Nossos olhos limpará, lá gemidos não haverá\nAdorai, o nome do Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Adorai, o nome do Senhor\nAdorai, o nome do Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Morte mais não haverá, as tristezas findarão\nO Senhor ali estará, sua sombra nos guardará\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ele apascentará os remidos, que estão lá\nAdorai o nome do Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Adorai, o nome do Senhor\nAdorai, o nome do Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Ele apascentará os remidos, que estão lá\nAdorai o nome do Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Adorai, o nome do Senhor\nAdorai, o nome do Senhor\nAdorai, o nome do Senhor\nAdorai, o nome do Senhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

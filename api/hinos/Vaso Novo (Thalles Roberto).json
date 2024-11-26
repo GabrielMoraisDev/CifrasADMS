@@ -1,0 +1,69 @@
+{
+  "id": 1731021548991,
+  "title": "Vaso Novo",
+  "artist": "Thalles Roberto",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu quero ser, Senhor amado\nComo um vaso nas mãos do oleiro\nQuebra a minha vida e me faça de novo\nEu quero ser, eu quero ser um vaso novo\nUm vaso novo\n\nComo Tu queres, Senhor amado\nTu és o Oleiro, e eu o vaso\nQuebra a minha vida e me faça de novo\nEu quero ser, eu quero ser, um vaso novo\n\nEu quero ser, Senhor amado\nComo um vaso nas mãos do oleiro\nQuebre a minha vida e me faça de novo\nEu quero ser, eu quero ser um vaso novo\n\nEu quero ser, Senhor amado\nComo um vaso nas mãos do oleiro\nQuebre a minha vida e me faça de novo\nEu quero ser, eu quero ser um vaso novo\n\nEu quero ser, Senhor, um vaso novo\nUm vaso novo\nUm vaso novo\nNovo",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu quero ser, Senhor amado\nComo um vaso nas mãos do oleiro\nQuebra a minha vida e me faça de novo\nEu quero ser, eu quero ser um vaso novo\nUm vaso novo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Como Tu queres, Senhor amado\nTu és o Oleiro, e eu o vaso\nQuebra a minha vida e me faça de novo\nEu quero ser, eu quero ser, um vaso novo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu quero ser, Senhor amado\nComo um vaso nas mãos do oleiro\nQuebre a minha vida e me faça de novo\nEu quero ser, eu quero ser um vaso novo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu quero ser, Senhor amado\nComo um vaso nas mãos do oleiro\nQuebre a minha vida e me faça de novo\nEu quero ser, eu quero ser um vaso novo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Eu quero ser, Senhor, um vaso novo\nUm vaso novo\nUm vaso novo\nNovo",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

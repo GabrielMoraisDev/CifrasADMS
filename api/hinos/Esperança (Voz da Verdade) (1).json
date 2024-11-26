@@ -1,0 +1,83 @@
+{
+  "id": 1662592990296,
+  "title": "Esperança",
+  "artist": "Voz da Verdade",
+  "author": "Carlos A. Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Que saudade\nQue nos vem a lembrança\nDaqueles que\nJá partiram para Deus\n\nMas nós temos\nUma viva esperança\nDe revê-los novamente\nLá no céu\n\nLá verei meu pai\nLá verei minha mãe\nLá verei Isaque e Jacó\n\nLá verei Abraão\nE serei seu irmão\nLá verei meu Jesus\nCom as marcas nas mãos\n\nLá verei o meu amigo Paulo\nLá verei Pedro, Tiago e João\nMas primeiro\nQuero ver o meu Mestre\nE amá-lo\nDe todo meu coração\n\nLá verei meu pai\nLá verei minha mãe\nLá verei Isaque e Jacó\n\nLá verei Abraão\nE serei seu irmão\nLá verei meu Jesus\nCom as marcas nas mãos",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Que saudade\nQue nos vem a lembrança\nDaqueles que\nJá partiram para Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mas nós temos\nUma viva esperança\nDe revê-los novamente\nLá no céu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Lá verei meu pai\nLá verei minha mãe\nLá verei Isaque e Jacó",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Lá verei Abraão\nE serei seu irmão\nLá verei meu Jesus\nCom as marcas nas mãos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Lá verei o meu amigo Paulo\nLá verei Pedro, Tiago e João\nMas primeiro\nQuero ver o meu Mestre\nE amá-lo\nDe todo meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Lá verei meu pai\nLá verei minha mãe\nLá verei Isaque e Jacó",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Lá verei Abraão\nE serei seu irmão\nLá verei meu Jesus\nCom as marcas nas mãos",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

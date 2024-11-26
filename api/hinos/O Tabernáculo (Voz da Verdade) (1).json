@@ -1,0 +1,62 @@
+{
+  "id": 1633737183072,
+  "title": "O Tabernáculo",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Passo pelo holocausto\nE eu me limpo no sangue de Jesus\nEntro no santuário\nComo os pães e acende-se uma luz\nEntro no santíssimo\nE vejo o cordeiro assentado, ele é Deus\nE o meu caminho é de sacerdote à Rei\n2X\n\nCura e perdão já recebi, pois o véu se rasgou\nVi a face do meu Jesus, que todo mal levou\nCheio do Espírito hoje sou, pois pelo véu passei\nHoje o meu caminho é de sacerdote à Rei\n\nPasso pelo holocausto\nE eu me limpo no sangue de Jesus\nEntro no santuário\nComo os pães e acende-se uma luz\nEntro no santíssimo\nE vejo o cordeiro assentado, ele é Deus\nE o meu caminho é de sacerdote à Rei\n2x\n\nEntro no santíssimo\nE vejo o cordeiro assentado, ele é Deus\nE o meu caminho é de sacerdote à Rei",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Passo pelo holocausto\nE eu me limpo no sangue de Jesus\nEntro no santuário\nComo os pães e acende-se uma luz\nEntro no santíssimo\nE vejo o cordeiro assentado, ele é Deus\nE o meu caminho é de sacerdote à Rei\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Cura e perdão já recebi, pois o véu se rasgou\nVi a face do meu Jesus, que todo mal levou\nCheio do Espírito hoje sou, pois pelo véu passei\nHoje o meu caminho é de sacerdote à Rei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Passo pelo holocausto\nE eu me limpo no sangue de Jesus\nEntro no santuário\nComo os pães e acende-se uma luz\nEntro no santíssimo\nE vejo o cordeiro assentado, ele é Deus\nE o meu caminho é de sacerdote à Rei\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Entro no santíssimo\nE vejo o cordeiro assentado, ele é Deus\nE o meu caminho é de sacerdote à Rei",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

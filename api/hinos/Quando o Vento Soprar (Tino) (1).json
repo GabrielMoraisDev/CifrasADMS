@@ -1,0 +1,76 @@
+{
+  "id": 1635717104471,
+  "title": "Quando o Vento Soprar",
+  "artist": "Tino",
+  "author": "Beno César, Solange Cesar",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Sopra, Espírito\nLevanta os caídos\n\nRestaura as feridas\nDores antigas\nVem pra curar\n\nSopra, Espírito\nTrazendo vida\nJunta os pedaços\nJá ouço o ruído do Teu agir\n\nFaz levantar do vale\nPõe de pé os ossos secos\nCom Teu poder\nVem restaurar\n\nDa multidão de caídos\nFaz, Senhor, um povo forte\nMarchar sobre a terra\nQuando o vento soprar\n\nQuando o vento soprar\nTudo vai se mover\nTudo volta ao lugar\nQuando o vento soprar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Sopra, Espírito\nLevanta os caídos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Restaura as feridas\nDores antigas\nVem pra curar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Sopra, Espírito\nTrazendo vida\nJunta os pedaços\nJá ouço o ruído do Teu agir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Faz levantar do vale\nPõe de pé os ossos secos\nCom Teu poder\nVem restaurar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Da multidão de caídos\nFaz, Senhor, um povo forte\nMarchar sobre a terra\nQuando o vento soprar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Quando o vento soprar\nTudo vai se mover\nTudo volta ao lugar\nQuando o vento soprar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

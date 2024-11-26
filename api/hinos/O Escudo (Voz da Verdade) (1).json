@@ -1,0 +1,62 @@
+{
+  "id": 1647178143453,
+  "title": "O Escudo",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Por toda a minha vida,\nÓ Senhor te louvarei \nPois meu fôlego é Tua vida \nE nunca me cansarei\n Posso ouvir a Tua voz,\nÉ mais doce do que o mel\nQue me tira desta cova \nE me leva até o céu\n\n Já vi fogo e terremoto\nVento forte que passou\nJá vivi tantos perigos \nMas Tua voz me acalmou \n Tu dás ordens às estrelas\nE ao mar os seu limites\nEu me sinto tão seguro \nNo Teu colo oh, Altíssimo\n\n Não há ferrolhos, nem portas \nQue se fechem diante da Tua voz\nNão há doenças, nem culpa\nQue fique de pé diante de nós\nE a tempestade se acalma\nNa voz Daquele que tudo criou \nPois Tua palavra é pura\nEscudo para os que Nele crêem\n\n Não há ferrolhos, nem portas \nQue se fechem diante da Tua voz\nNão há doenças, nem culpa\nQue fique de pé diante de nós\nE a tempestade se acalma\nNa voz Daquele que tudo criou \nPois Tua palavra é pura\nEscudo para os que Nele crêem",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Por toda a minha vida,\nÓ Senhor te louvarei \nPois meu fôlego é Tua vida \nE nunca me cansarei\n Posso ouvir a Tua voz,\nÉ mais doce do que o mel\nQue me tira desta cova \nE me leva até o céu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": " Já vi fogo e terremoto\nVento forte que passou\nJá vivi tantos perigos \nMas Tua voz me acalmou \n Tu dás ordens às estrelas\nE ao mar os seu limites\nEu me sinto tão seguro \nNo Teu colo oh, Altíssimo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": " Não há ferrolhos, nem portas \nQue se fechem diante da Tua voz\nNão há doenças, nem culpa\nQue fique de pé diante de nós\nE a tempestade se acalma\nNa voz Daquele que tudo criou \nPois Tua palavra é pura\nEscudo para os que Nele crêem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": " Não há ferrolhos, nem portas \nQue se fechem diante da Tua voz\nNão há doenças, nem culpa\nQue fique de pé diante de nós\nE a tempestade se acalma\nNa voz Daquele que tudo criou \nPois Tua palavra é pura\nEscudo para os que Nele crêem",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

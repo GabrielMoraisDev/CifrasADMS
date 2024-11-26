@@ -1,0 +1,90 @@
+{
+  "id": 1729032176039,
+  "title": "O Altar Sou Eu",
+  "artist": "Carol Braga",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Abram-se ó portais\nPara que entre o rei\nEm majestade\n\nVenha sobre nós\nCumpra o teu querer\nTua vontade\n\nCom tua glória\nVem encher este lugar\nVem e manifesta a tua shekinah\n2x\n\nO fogo arderá sobre o altar\nE o altar sou eu\nPode vir queimar\n2x\n\nAbram-se ó portais\nPara que entre o rei\nEm majestade\n\nVenha sobre nós\nCumpra o teu querer\nTua vontade\n\nCom tua glória\nVem encher este lugar\nVem e manifesta a tua shekinah\n2x\n\nO fogo arderá sobre o altar\nE o altar sou eu\nPode vir queimar\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Abram-se ó portais\nPara que entre o rei\nEm majestade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Venha sobre nós\nCumpra o teu querer\nTua vontade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com tua glória\nVem encher este lugar\nVem e manifesta a tua shekinah\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "O fogo arderá sobre o altar\nE o altar sou eu\nPode vir queimar\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Abram-se ó portais\nPara que entre o rei\nEm majestade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Venha sobre nós\nCumpra o teu querer\nTua vontade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Com tua glória\nVem encher este lugar\nVem e manifesta a tua shekinah\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "O fogo arderá sobre o altar\nE o altar sou eu\nPode vir queimar\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

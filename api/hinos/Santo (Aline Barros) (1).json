@@ -1,0 +1,104 @@
+{
+  "id": 1722984362998,
+  "title": "Santo",
+  "artist": "Aline barros",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Te vejo no santuário\nOuço a voz dos Teus anjos\nEles cantam que Tu és Santo\nSenhor dos exércitos\n\nTua glória enche a Terra\nAi de mim, sou pecador\nToca-me nos meus lábios\nPurifica-me\n\nOuço Tua voz (4x)\nEis-me aqui\n\nSanto, Santo, Santo\nDeus poderoso, que está entre nós (4x)\n\nTe vejo no santuário\nOuço a voz dos Teus anjos\nEles cantam que Tu és Santo\nSenhor dos exércitos\n\nTua glória enche a Terra\nAi de mim, sou pecador\nToca-me nos meus lábios\nPurifica-me\n\nOuço Tua voz, (4x)\nEis-me aqui\n\nSanto, Santo, Santo\nDeus poderoso, que está entre nós (2x)\n\nNão vou mais viver\nLonge do Teu amor (2x)\n\nSanto, Santo, Santo\nDeus poderoso, que está entre nós (4x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Te vejo no santuário\nOuço a voz dos Teus anjos\nEles cantam que Tu és Santo\nSenhor dos exércitos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tua glória enche a Terra\nAi de mim, sou pecador\nToca-me nos meus lábios\nPurifica-me",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Ouço Tua voz (4x)\nEis-me aqui",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Santo, Santo, Santo\nDeus poderoso, que está entre nós (4x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Te vejo no santuário\nOuço a voz dos Teus anjos\nEles cantam que Tu és Santo\nSenhor dos exércitos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Tua glória enche a Terra\nAi de mim, sou pecador\nToca-me nos meus lábios\nPurifica-me",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Ouço Tua voz, (4x)\nEis-me aqui",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Santo, Santo, Santo\nDeus poderoso, que está entre nós (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Não vou mais viver\nLonge do Teu amor (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Santo, Santo, Santo\nDeus poderoso, que está entre nós (4x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

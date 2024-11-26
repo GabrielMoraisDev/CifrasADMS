@@ -1,0 +1,83 @@
+{
+  "id": 1680470653664,
+  "title": "Espírito, Enche a Minha Vida",
+  "artist": "Harpa Cristã",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Espírito, enche a minha vida\nEspírito, enche a minha vida\nEnche-me com teu poder\nPois de ti eu quero ser\nEspírito, enche o meu ser\n\nEspírito, enche a minha vida\nEspírito, enche a minha vida\nEnche-me com teu poder\nPois de ti eu quero ser\nEspírito, enche o meu ser\n\nAs minhas mãos eu quero levantar\nEm teu louvor te adorar\nMeu coração eu quero derramar\nDiante do teu altar\n\nEspírito, enche a minha vida\nEspírito, enche a minha vida\nEnche-me com teu poder\nPois de ti eu quero ser\nEspírito, enche o meu ser\n\nAs minhas mãos eu quero levantar\nEm teu louvor te adorar\nMeu coração eu quero derramar\nDiante do teu altar\n\nAs minhas mãos eu quero levantar\nEm teu louvor te adorar\nMeu coração eu quero derramar\nDiante do teu altar\n\nDiante do teu altar\nDiante do teu altar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Espírito, enche a minha vida\nEspírito, enche a minha vida\nEnche-me com teu poder\nPois de ti eu quero ser\nEspírito, enche o meu ser",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Espírito, enche a minha vida\nEspírito, enche a minha vida\nEnche-me com teu poder\nPois de ti eu quero ser\nEspírito, enche o meu ser",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "As minhas mãos eu quero levantar\nEm teu louvor te adorar\nMeu coração eu quero derramar\nDiante do teu altar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Espírito, enche a minha vida\nEspírito, enche a minha vida\nEnche-me com teu poder\nPois de ti eu quero ser\nEspírito, enche o meu ser",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "As minhas mãos eu quero levantar\nEm teu louvor te adorar\nMeu coração eu quero derramar\nDiante do teu altar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "As minhas mãos eu quero levantar\nEm teu louvor te adorar\nMeu coração eu quero derramar\nDiante do teu altar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Diante do teu altar\nDiante do teu altar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

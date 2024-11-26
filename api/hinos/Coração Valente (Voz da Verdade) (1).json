@@ -1,0 +1,62 @@
+{
+  "id": 1654646536392,
+  "title": "Coração Valente",
+  "artist": "Voz da Verdade",
+  "author": "Carlos A. Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Este é o coração valente\nEle ama toda a gente\nEle ama quem não lhe ama\nE ajuda quem não lhe pede\n\nEste coração que queima\nArde o fogo do amor\nFaz o triste ficar contente\nE traz paz ao coração\nFoi à morte por minha causa\nNão pensou nenhum segundo\n\nEste é o amor\nAmor maior do mundo que\nNão pensou nenhum segundo\nPra morrer por mim\nx2\n\nEste é o coração valente\nQue explodiu lá na cruz\nEle continua quente\nEstá no peito de Jesus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Este é o coração valente\nEle ama toda a gente\nEle ama quem não lhe ama\nE ajuda quem não lhe pede",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Este coração que queima\nArde o fogo do amor\nFaz o triste ficar contente\nE traz paz ao coração\nFoi à morte por minha causa\nNão pensou nenhum segundo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Este é o amor\nAmor maior do mundo que\nNão pensou nenhum segundo\nPra morrer por mim\nx2",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Este é o coração valente\nQue explodiu lá na cruz\nEle continua quente\nEstá no peito de Jesus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

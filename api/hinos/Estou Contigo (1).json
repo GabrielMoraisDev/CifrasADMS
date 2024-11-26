@@ -1,0 +1,69 @@
+{
+  "id": 1656888538028,
+  "title": "Estou Contigo",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Estou contigo, oh meu filho!\nNunca te deixo sozinho!\nSou um Deus que dos filhos\nSempre velo muito bem\nE de ti não esqueço também\n\nNão abandones meu amparo\nEu sou um Deus que te guardo!\nEu te amo, pois provei lá na cruz o meu amor\nE pra sempre serei teu senhor!\n\nSe entrares na batalha\nEu contigo lutarei!\nSe pisares nos espinhos\nEu contigo pisarei!\nNão te deixo, oh meu filho\nSeja onde quer que andar\n e ao teu lado para te guiar\n\nPelos terrores abatidos!\nE pela seta ferido!\nEu tão meigo, com carinho lá do mundo te busquei\nE te trouxe para Minha lei\n\nSe entrares na batalha\nEu contigo lutarei!\nSe pisares nos espinhos\nEu contigo pisarei!\nNão te deixo, oh meu filho\nSeja onde quer que andar\n e ao teu lado para te guiar (2x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Estou contigo, oh meu filho!\nNunca te deixo sozinho!\nSou um Deus que dos filhos\nSempre velo muito bem\nE de ti não esqueço também",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Não abandones meu amparo\nEu sou um Deus que te guardo!\nEu te amo, pois provei lá na cruz o meu amor\nE pra sempre serei teu senhor!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Se entrares na batalha\nEu contigo lutarei!\nSe pisares nos espinhos\nEu contigo pisarei!\nNão te deixo, oh meu filho\nSeja onde quer que andar\n e ao teu lado para te guiar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Pelos terrores abatidos!\nE pela seta ferido!\nEu tão meigo, com carinho lá do mundo te busquei\nE te trouxe para Minha lei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se entrares na batalha\nEu contigo lutarei!\nSe pisares nos espinhos\nEu contigo pisarei!\nNão te deixo, oh meu filho\nSeja onde quer que andar\n e ao teu lado para te guiar (2x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

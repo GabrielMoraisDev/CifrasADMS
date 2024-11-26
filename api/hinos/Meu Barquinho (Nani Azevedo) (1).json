@@ -1,0 +1,90 @@
+{
+  "id": 1634252013323,
+  "title": "Meu Barquinho",
+  "artist": "Nani Azevedo",
+  "author": "Moisés Cleyton",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O vento balançou\nMeu barco em alto mar\nO medo me cercou\nE quis me afogar\n\nMas então eu clamei\nAo filho de Davi\nEle me escutou\nPor isso estou aqui\n\nO vento Ele acalmou\nO medo, repreendeu\nQuando Ele ordenou\nO mar obedeceu\n\nNão temo mais o mar\nPois firme está minha fé\nNo meu barquinho está\nJesus de Nazaré\n\nSe o medo me cercar\nOu se o vento soprar\nSeu nome eu clamarei\nEle me guardará\n\nNão temo mais o mar\nPois firme está minha fé\nNo meu barquinho está\nJesus de Nazaré\n\nSe o medo me cercar\nOu se o vento soprar\nSeu nome eu clamarei\nEle me socorrerá\n\nEle me socorrerá",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O vento balançou\nMeu barco em alto mar\nO medo me cercou\nE quis me afogar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Mas então eu clamei\nAo filho de Davi\nEle me escutou\nPor isso estou aqui",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "O vento Ele acalmou\nO medo, repreendeu\nQuando Ele ordenou\nO mar obedeceu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Não temo mais o mar\nPois firme está minha fé\nNo meu barquinho está\nJesus de Nazaré",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se o medo me cercar\nOu se o vento soprar\nSeu nome eu clamarei\nEle me guardará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Não temo mais o mar\nPois firme está minha fé\nNo meu barquinho está\nJesus de Nazaré",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Se o medo me cercar\nOu se o vento soprar\nSeu nome eu clamarei\nEle me socorrerá",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Ele me socorrerá",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1636925001942,
+  "title": "Deixa Eu Te Usar",
+  "artist": "Sarah Farias",
+  "author": "Sarah Farias",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Apesar das feridas\nApesar das decepções\nEu te chamei\nEu te chamei\n\nApesar do passado\nApesar das desilusões\nEu te chamei\nEu te chamei\n\nDeixa eu te usar\nPara curar\nDeixa eu te usar\nPara salvar\nEnquanto eu te uso\nEu cuido de tudo\nQue te faz chorar\n2x\n\nApesar das feridas\nApesar das decepções\nEu te chamei\nEu te chamei\n\nApesar do passado\nApesar das desilusões\nEu te chamei\nEu te chamei\n\nDeixa eu te usar\nPara curar\nDeixa eu te usar\nPara salvar\nEnquanto eu te uso\nEu cuido de tudo\nQue te faz chorar\n2x\n\nEu não te dei\nEspírito de temor\nMas de ousadia\n\nOnde eu te mandar\nTu irás\nOnde eu te colocar\nTu brilharás\n\nE eu te encherei\nE eu te encherei\nE eu te encherei\nVai, vai, vai em paz!\n\nDeixa eu te usar\nPara curar\nDeixa eu te usar\nPara salvar\nEnquanto eu te uso\nEu cuido de tudo\nQue te faz chorar\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Apesar das feridas\nApesar das decepções\nEu te chamei\nEu te chamei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Apesar do passado\nApesar das desilusões\nEu te chamei\nEu te chamei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Deixa eu te usar\nPara curar\nDeixa eu te usar\nPara salvar\nEnquanto eu te uso\nEu cuido de tudo\nQue te faz chorar\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Apesar das feridas\nApesar das decepções\nEu te chamei\nEu te chamei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Apesar do passado\nApesar das desilusões\nEu te chamei\nEu te chamei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Deixa eu te usar\nPara curar\nDeixa eu te usar\nPara salvar\nEnquanto eu te uso\nEu cuido de tudo\nQue te faz chorar\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Eu não te dei\nEspírito de temor\nMas de ousadia",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Onde eu te mandar\nTu irás\nOnde eu te colocar\nTu brilharás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "E eu te encherei\nE eu te encherei\nE eu te encherei\nVai, vai, vai em paz!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Deixa eu te usar\nPara curar\nDeixa eu te usar\nPara salvar\nEnquanto eu te uso\nEu cuido de tudo\nQue te faz chorar\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

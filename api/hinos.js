@@ -28,12 +28,15 @@ function insertData(data) {
   const artista = artist;
   const tom = note;
 
-  const query = `INSERT INTO hinos (id, name, artista, texto, tom) VALUES (?, ?, ?, ?, ?)`;
+  // Utilizando "INSERT OR IGNORE" para ignorar a inserção se o ID já existir
+  const query = `INSERT OR IGNORE INTO hinos (id, name, artista, texto, tom) VALUES (?, ?, ?, ?, ?)`;
   db.run(query, [id, name, artista, formattedText, tom], function (err) {
     if (err) {
       console.error('Erro ao inserir dados:', err.message);
+    } else if (this.changes > 0) {
+      console.log(`Dados inseridos com sucesso: ${id}`);
     } else {
-      console.log(`Dados inseridos com sucesso: ${this.lastID}`);
+      console.log(`ID já existente, dados ignorados: ${id}`);
     }
   });
 }

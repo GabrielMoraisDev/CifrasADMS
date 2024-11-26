@@ -1,0 +1,83 @@
+{
+  "id": 1631226394731,
+  "title": "Descansarei",
+  "artist": "Jotta A.",
+  "author": "Reuben Morgan",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Cobre-me\nCom Tuas mãos\nCom poder\nVem me esconder, Senhor\n\nSe o trovão e o mar\nSe erguendo vêm\nSobre a tempestade\nEu voarei\nSobre as águas\nTu também és Rei\nDescansarei\nPois sei que és Deus\n\nMinh'alma está\nSegura em Ti\nSabes bem\nQue em Cristo firme estou\n\nSe o trovão e o mar\nSe erguendo vêm\nSobre a tempestade\nEu voarei\nSobre as águas\nTu também és Rei\nDescansarei\nPois sei que és Deus\n2x\n\nMinh'alma está\nSegura em Ti\nSabes bem\nQue em Cristo firme estou\n\nSe o trovão e o mar\nSe erguendo vêm\nSobre a tempestade\nEu voarei\nSobre as águas\nTu também és Rei\nDescansarei\nPois sei que és Deus\n3x\n\nDescansarei\nPois sei que és Deus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Cobre-me\nCom Tuas mãos\nCom poder\nVem me esconder, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Se o trovão e o mar\nSe erguendo vêm\nSobre a tempestade\nEu voarei\nSobre as águas\nTu também és Rei\nDescansarei\nPois sei que és Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Minh'alma está\nSegura em Ti\nSabes bem\nQue em Cristo firme estou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Se o trovão e o mar\nSe erguendo vêm\nSobre a tempestade\nEu voarei\nSobre as águas\nTu também és Rei\nDescansarei\nPois sei que és Deus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Minh'alma está\nSegura em Ti\nSabes bem\nQue em Cristo firme estou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Se o trovão e o mar\nSe erguendo vêm\nSobre a tempestade\nEu voarei\nSobre as águas\nTu também és Rei\nDescansarei\nPois sei que és Deus\n3x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Descansarei\nPois sei que és Deus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

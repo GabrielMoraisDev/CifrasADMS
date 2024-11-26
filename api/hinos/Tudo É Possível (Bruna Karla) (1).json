@@ -1,0 +1,104 @@
+{
+  "id": 1631488059579,
+  "title": "Tudo É Possível",
+  "artist": "Bruna Karla",
+  "author": "George de Paula",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando a minha fé se esfriou\nAcendeu Seu fogo em mim\nQuando eu pensei em desistir\nMe deu forças para prosseguir\n\nQuando tudo diz que não\nSua voz me acalma e diz\nPra confiar em Ti\nPra esperar o Teu agir\n\nDeus a minha força\nÉ o Teu poder\nEu sei que tens\nO melhor pra mim\n\nOs Seus planos\nNão se frustrarão\nSua palavra\nVai cumprir em mim\n\nPois não há outro como Tu\nA quem eu devo olhar\nE confiar, não há\n\nUm Deus assim\nTão bom pra mim\nQue me ama\nQue me ama\n\nE foi esse amor\nQue me atraiu\nE trouxe esperança\nPro meu coração\n\nQue aumenta minha fé\nPra crer\nQue aumenta minha fé\nPra ver\n\nQue tudo é possível\nTudo é possível\nTudo é possível para Ti\n\nQue nada é impossível\nNada é impossível\nNada é impossível\nPra quem crê",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando a minha fé se esfriou\nAcendeu Seu fogo em mim\nQuando eu pensei em desistir\nMe deu forças para prosseguir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quando tudo diz que não\nSua voz me acalma e diz\nPra confiar em Ti\nPra esperar o Teu agir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Deus a minha força\nÉ o Teu poder\nEu sei que tens\nO melhor pra mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Os Seus planos\nNão se frustrarão\nSua palavra\nVai cumprir em mim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Pois não há outro como Tu\nA quem eu devo olhar\nE confiar, não há",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Um Deus assim\nTão bom pra mim\nQue me ama\nQue me ama",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "E foi esse amor\nQue me atraiu\nE trouxe esperança\nPro meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Que aumenta minha fé\nPra crer\nQue aumenta minha fé\nPra ver",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Que tudo é possível\nTudo é possível\nTudo é possível para Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Que nada é impossível\nNada é impossível\nNada é impossível\nPra quem crê",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

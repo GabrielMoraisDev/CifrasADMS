@@ -1,0 +1,48 @@
+{
+  "id": 1723332972689,
+  "title": "Tu és Soberano",
+  "artist": "Asaph Borba",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Tu és Soberano sobre a Terra\nSobre os céus tu és Senhor absoluto\nTudo que existe e acontece\nTu o sabes muito bem\nTu és Tremendo\n\nE apesar dessa glória que tens\nTu te importas comigo também\nE este amor tão grande\nEleva-me, amarra-me a ti\nTu és Tremendo",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Tu és Soberano sobre a Terra\nSobre os céus tu és Senhor absoluto\nTudo que existe e acontece\nTu o sabes muito bem\nTu és Tremendo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E apesar dessa glória que tens\nTu te importas comigo também\nE este amor tão grande\nEleva-me, amarra-me a ti\nTu és Tremendo",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

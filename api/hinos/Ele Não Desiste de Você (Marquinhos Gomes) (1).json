@@ -1,0 +1,76 @@
+{
+  "id": 1653262694772,
+  "title": "Ele Não Desiste de Você",
+  "artist": "Marquinhos Gomes",
+  "author": "Marquinhos Gomes",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Não importa quem você é\nNão importa o que você fez\nJesus conhece\nO seu interior também\n\nQuantas vezes você caiu\nTentando acertar\nMas a tristeza e o desespero\nTe fizeram chorar\n\nNão importa pra onde você foi\nSe na escuridão da noite\nEle apaga o seu passado\nE não desiste de você\n\nEle não desiste de você\nEle se importa com você\nEle compreende\nO seu caminhar\n\nNunca vi um amor\nTão grande assim\n\nEle não desiste\nEle não desiste, Ele não desiste",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Não importa quem você é\nNão importa o que você fez\nJesus conhece\nO seu interior também",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quantas vezes você caiu\nTentando acertar\nMas a tristeza e o desespero\nTe fizeram chorar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não importa pra onde você foi\nSe na escuridão da noite\nEle apaga o seu passado\nE não desiste de você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ele não desiste de você\nEle se importa com você\nEle compreende\nO seu caminhar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Nunca vi um amor\nTão grande assim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Ele não desiste\nEle não desiste, Ele não desiste",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

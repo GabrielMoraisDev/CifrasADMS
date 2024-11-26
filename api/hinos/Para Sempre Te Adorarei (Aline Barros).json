@@ -1,0 +1,69 @@
+{
+  "id": 1730382177793,
+  "title": "Para Sempre Te Adorarei",
+  "artist": "Aline Barros",
+  "author": "Alda Célia",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Rei dos reis, aqui estou\nRendo a Ti o meu louvor\nE adoração\nPois Tu és Deus\nAcima dos céus\nAcima de nós\n\nO Universo se formou\nCom a Tua voz\nO mundo inteiro\nVeio a existir\nVerbo de Deus\nPrincípio e Fim\n\nE eu Te louvarei, Senhor\nLevantando a Ti\nMinhas mãos\nCom canções de amor\nTe exaltarei\nMinistrando\nCom meu coração\n\nPara sempre Te adorarei\nPara sempre Te adorarei\n\nNada pode calar\nNada pode deter\nMinha consagração",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Rei dos reis, aqui estou\nRendo a Ti o meu louvor\nE adoração\nPois Tu és Deus\nAcima dos céus\nAcima de nós",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "O Universo se formou\nCom a Tua voz\nO mundo inteiro\nVeio a existir\nVerbo de Deus\nPrincípio e Fim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E eu Te louvarei, Senhor\nLevantando a Ti\nMinhas mãos\nCom canções de amor\nTe exaltarei\nMinistrando\nCom meu coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Para sempre Te adorarei\nPara sempre Te adorarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Nada pode calar\nNada pode deter\nMinha consagração",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE",
+      "youtube": "https://youtube.com/watch?v=q-WoqUqhQ58",
+      "deezer": "https://deezer.com/track/137908205"
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

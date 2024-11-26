@@ -1,0 +1,55 @@
+{
+  "id": 1668982052798,
+  "title": "Vem renovar os nosso dias",
+  "artist": "Vanilda Bordieri",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vem renovar os nossos dias como antes, oh! Senhor\nVem acender a Chama, sim, a chama do primeiro amor\nFortalecer quem está fraco, oh! Preenche o nosso ser\nVem renovar, Senhor, Teu povo com poder\n\nA situação do mundo é fatal\nO comodismo é total\nSó se vê gente chorando\nCertamente que os mancebos cairão\nOs jovens se enfraquecerão\nE o amor de tantos se esfriando\n\nSe o mundo só tristeza te causou\nSe o amigo te deixou, ainda existe solução\nSó aqueles que esperam no Senhor\nTerão forças e Vigor e jamais desistirão\nSó aqueles que esperam no Senhor\nTerão forças e Vigor e jamais desistirão",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vem renovar os nossos dias como antes, oh! Senhor\nVem acender a Chama, sim, a chama do primeiro amor\nFortalecer quem está fraco, oh! Preenche o nosso ser\nVem renovar, Senhor, Teu povo com poder",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "A situação do mundo é fatal\nO comodismo é total\nSó se vê gente chorando\nCertamente que os mancebos cairão\nOs jovens se enfraquecerão\nE o amor de tantos se esfriando",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Se o mundo só tristeza te causou\nSe o amigo te deixou, ainda existe solução\nSó aqueles que esperam no Senhor\nTerão forças e Vigor e jamais desistirão\nSó aqueles que esperam no Senhor\nTerão forças e Vigor e jamais desistirão",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

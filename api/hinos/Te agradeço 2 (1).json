@@ -1,0 +1,76 @@
+{
+  "id": 1704069339619,
+  "title": "Te agradeço 2",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Version:1.0 StartHTML:0000000166 EndHTML:0000041493 StartFragment:0000039421 EndFragment:0000041453 SourceURL:file:///C:/Users/User/Desktop/Te%20Agradeço.docx\n\nPor tudo que tens feito\nPor tudo que vais fazer\nPor tuas promessas e tudo que És\nEu quero te agradecer com todo meu ser (x2)\n\nTe agradeço meu Senhor\nTe agradeço meu Senhor\n\nTe agradeço por me libertar e salvar,\nPor ter morrido em meu lugar te agradeço\nJesus te agradeço, eu te agradeço, te agradeço\n\nPor tudo que tens feito\nPor tudo que vais fazer\nPor tuas promessas e tudo que és\nEu quero te agradecer com todo meu ser (x2)\n\nTe agradeço meu Senhor\nTe agradeço meu Senhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Version:1.0 StartHTML:0000000166 EndHTML:0000041493 StartFragment:0000039421 EndFragment:0000041453 SourceURL:file:///C:/Users/User/Desktop/Te%20Agradeço.docx",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Por tudo que tens feito\nPor tudo que vais fazer\nPor tuas promessas e tudo que És\nEu quero te agradecer com todo meu ser (x2)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Te agradeço meu Senhor\nTe agradeço meu Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Te agradeço por me libertar e salvar,\nPor ter morrido em meu lugar te agradeço\nJesus te agradeço, eu te agradeço, te agradeço",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Por tudo que tens feito\nPor tudo que vais fazer\nPor tuas promessas e tudo que és\nEu quero te agradecer com todo meu ser (x2)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Te agradeço meu Senhor\nTe agradeço meu Senhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

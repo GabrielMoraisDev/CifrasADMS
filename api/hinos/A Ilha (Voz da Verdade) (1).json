@@ -1,0 +1,97 @@
+{
+  "id": 1644760357767,
+  "title": "A Ilha",
+  "artist": "Voz da Verdade",
+  "author": "Carlos A. Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Talvez você esteja\nNum quarto escuro\nA espera de uma luz\nQue não vem\nTalvez você esteja\nNuma ilha\nA procura de uma paz\nQue lá não tem\n2x\n\nTalvez você esteja\nNum dilema sem saída\nQuerendo tirar a própria vida (vida)\nTalvez em suas veias\nCorra o líquido da morte\nAniquilando a vida e a sorte\n\nJesus, Ele é a tua sorte\nJesus, Ele livra-te da morte\nJesus, Ele é o pão da vida\nJesus, Ele tem uma saída\n\nJesus, Ele é o resolve tudo\nJesus, para isso veio ao mundo\nJesus, Ele tem a mão amiga\nJesus, é a vida, é a vida\n\nTalvez você esteja\nNum quarto escuro\nA espera de uma luz\nQue não vem\nTalvez você esteja\nNuma ilha\nA procura de uma paz\nQue lá não tem\n\nTalvez você esteja\nNum dilema sem saída\nQuerendo tirar a própria vida (vida)\nTalvez em suas veias\nCorra o líquido da morte\nAniquilando a vida e a sorte\n\nJesus, Ele é a tua sorte\nJesus, Ele livra-te da morte\nJesus, Ele é o pão da vida\nJesus, Ele tem uma saída\n\nJesus, Ele é o resolve tudo\nJesus, para isso veio ao mundo\nJesus, Ele tem a mão amiga\nJesus, é a vida, é a vida\n\nJesus..",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Talvez você esteja\nNum quarto escuro\nA espera de uma luz\nQue não vem\nTalvez você esteja\nNuma ilha\nA procura de uma paz\nQue lá não tem\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Talvez você esteja\nNum dilema sem saída\nQuerendo tirar a própria vida (vida)\nTalvez em suas veias\nCorra o líquido da morte\nAniquilando a vida e a sorte",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jesus, Ele é a tua sorte\nJesus, Ele livra-te da morte\nJesus, Ele é o pão da vida\nJesus, Ele tem uma saída",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Jesus, Ele é o resolve tudo\nJesus, para isso veio ao mundo\nJesus, Ele tem a mão amiga\nJesus, é a vida, é a vida",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Talvez você esteja\nNum quarto escuro\nA espera de uma luz\nQue não vem\nTalvez você esteja\nNuma ilha\nA procura de uma paz\nQue lá não tem",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Talvez você esteja\nNum dilema sem saída\nQuerendo tirar a própria vida (vida)\nTalvez em suas veias\nCorra o líquido da morte\nAniquilando a vida e a sorte",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Jesus, Ele é a tua sorte\nJesus, Ele livra-te da morte\nJesus, Ele é o pão da vida\nJesus, Ele tem uma saída",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Jesus, Ele é o resolve tudo\nJesus, para isso veio ao mundo\nJesus, Ele tem a mão amiga\nJesus, é a vida, é a vida",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Jesus..",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

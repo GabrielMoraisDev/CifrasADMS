@@ -1,0 +1,90 @@
+{
+  "id": 1652050234559,
+  "title": "Estou Contigo",
+  "artist": "Shirley Carvalhaes",
+  "author": "Daniel Souza",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Estou contigo\nÓ meu filho\nNunca te deixo sozinho\n\nSou um Deus que dos filhos\nSempre velo muito bem\nE de ti não esqueço também\n\nNão abandones\nMeu amparo\nEu sou um Deus\nQue te guardo\n\nEu te amo, pois provei\nLá na cruz o meu amor\nE pra sempre\nSerei teu Senhor\n\nSe entrares na batalha\nEu contigo lutarei\nSe pisares nos espinhos\nEu contigo pisarei\n\nNão te deixo, ó meu filho\nSeja onde quer que andar\nE ao teu lado para te guiar\n\nPelos terrores, abatido\nE pela seta, ferido\n\nEu tão meigo, com carinho\nLá do mundo te busquei\nE te trouxe para Minha lei",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Estou contigo\nÓ meu filho\nNunca te deixo sozinho",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Sou um Deus que dos filhos\nSempre velo muito bem\nE de ti não esqueço também",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não abandones\nMeu amparo\nEu sou um Deus\nQue te guardo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu te amo, pois provei\nLá na cruz o meu amor\nE pra sempre\nSerei teu Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Se entrares na batalha\nEu contigo lutarei\nSe pisares nos espinhos\nEu contigo pisarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Não te deixo, ó meu filho\nSeja onde quer que andar\nE ao teu lado para te guiar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Pelos terrores, abatido\nE pela seta, ferido",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu tão meigo, com carinho\nLá do mundo te busquei\nE te trouxe para Minha lei",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

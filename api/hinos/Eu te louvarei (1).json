@@ -1,0 +1,76 @@
+{
+  "id": 1684014173211,
+  "title": "Eu te louvarei",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Meu coracão e teu, só teu\nPra sempre senhor\nMeu louvor e teu, só teu\nPra sempre, Senhor\n\nAinda que a figueira não floresça\nE não se ache fruto na videira\nAinda que o celeiro se esvazie\nMeu coracão é teu\nTe louvarei, Senhor\n\nEu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nEu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nSenhor\n\nMeu coracão e teu, só teu\nPra sempre senhor\nMeu louvor e teu, só teu\nPra sempre, Senhor\n\nAinda que a figueira não floresça\nE não se ache fruto na videira\nAinda que o celeiro se esvazie\nMeu coracão é teu\nTe louvarei, Senhor\n\nEu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nEu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nSenhor",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Meu coracão e teu, só teu\nPra sempre senhor\nMeu louvor e teu, só teu\nPra sempre, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Ainda que a figueira não floresça\nE não se ache fruto na videira\nAinda que o celeiro se esvazie\nMeu coracão é teu\nTe louvarei, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nEu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nSenhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Meu coracão e teu, só teu\nPra sempre senhor\nMeu louvor e teu, só teu\nPra sempre, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Ainda que a figueira não floresça\nE não se ache fruto na videira\nAinda que o celeiro se esvazie\nMeu coracão é teu\nTe louvarei, Senhor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Eu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nEu te louvarei\nTe adorarei\nEu te amarei com todo o meu amor\nSenhor",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

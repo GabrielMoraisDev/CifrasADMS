@@ -1,0 +1,62 @@
+{
+  "id": 1676154817341,
+  "title": "Pão e Vinho",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Na mesa, o pão, o vinho também\nNo peito, uma dor, com aquilo que vem\nDe um lado, um sorriso, do outro, traição\nEle abençoa e parte o pão\nE lava os pés daqueles fiéis\nE mesmo o traidor recebe assim\nDeu vinho e o pão ao invés de rancor\nLavou nossos pés e enxugou com a dor\n\nNaquele partir estava todo o meu ser\nPartido por mim e pelo meu viver\nNo vinho, o amor; no sangue, o perdão\nEm seu meigo olhar, a minha salvação\n(2X)\n\nUm hino cantou depois de cear\nE era o louvor que vinha preparar\nA maior canção cantada na cruz\nEscrita na Ceia pelo meu Jesus\n\nNaquele partir estava todo o meu ser\nPartido por mim e pelo meu viver\nNo vinho, o amor; no sangue, o perdão\nEm seu meigo olhar, a minha salvação\n(2x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Na mesa, o pão, o vinho também\nNo peito, uma dor, com aquilo que vem\nDe um lado, um sorriso, do outro, traição\nEle abençoa e parte o pão\nE lava os pés daqueles fiéis\nE mesmo o traidor recebe assim\nDeu vinho e o pão ao invés de rancor\nLavou nossos pés e enxugou com a dor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Naquele partir estava todo o meu ser\nPartido por mim e pelo meu viver\nNo vinho, o amor; no sangue, o perdão\nEm seu meigo olhar, a minha salvação\n(2X)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Um hino cantou depois de cear\nE era o louvor que vinha preparar\nA maior canção cantada na cruz\nEscrita na Ceia pelo meu Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Naquele partir estava todo o meu ser\nPartido por mim e pelo meu viver\nNo vinho, o amor; no sangue, o perdão\nEm seu meigo olhar, a minha salvação\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

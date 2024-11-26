@@ -1,0 +1,69 @@
+{
+  "id": 1702139485264,
+  "title": "Passa lá em Casa Jesus",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Senhor, não foi fácil te encontrar\nMinha filha está quase morrendo lá em Casa\nMe falaram que o Senhor pode curar\nSe não for te pedir muito, Jesus, passa lá\nEm casa\n\nPassa lá em casa, Jesus\nVai na minha casa, Jesus\nCura minha família\nTraz vida, Traz vida, Traz vida\nPassa lá em casa, Jesus\nVai na minha casa, Jesus\nMexe na estrutura\nA casa é tua, é tua, é tua\n\nFilho, Eu tô indo lá em direção ao teu\nProblema\nFilho, Eu tô indo lá, pra Mim não existe\nDilema\nA promessa não morreu, a herança está de pé\nNão perca tua fé\nTalita cumi Levanta, menina\nTalita cumi Levanta, tem vida\nTem vida, tem vida\n\nPassa lá em casa, Jesus\nVai na minha casa, Jesus\nCura minha família\nTraz vida, Traz vida, Traz vida\nPassa lá em casa, Jesus\nVai na minha casa, Jesus\nMexe na estrutura\nA casa é tua, é tua, é tua\n4x\n\nPassa lá em casa\nVai na minha casa\nPassa lá em casa\nPode fazer morada\nPassa lá em casa\nfica lá em casa",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Senhor, não foi fácil te encontrar\nMinha filha está quase morrendo lá em Casa\nMe falaram que o Senhor pode curar\nSe não for te pedir muito, Jesus, passa lá\nEm casa",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Passa lá em casa, Jesus\nVai na minha casa, Jesus\nCura minha família\nTraz vida, Traz vida, Traz vida\nPassa lá em casa, Jesus\nVai na minha casa, Jesus\nMexe na estrutura\nA casa é tua, é tua, é tua",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Filho, Eu tô indo lá em direção ao teu\nProblema\nFilho, Eu tô indo lá, pra Mim não existe\nDilema\nA promessa não morreu, a herança está de pé\nNão perca tua fé\nTalita cumi Levanta, menina\nTalita cumi Levanta, tem vida\nTem vida, tem vida",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Passa lá em casa, Jesus\nVai na minha casa, Jesus\nCura minha família\nTraz vida, Traz vida, Traz vida\nPassa lá em casa, Jesus\nVai na minha casa, Jesus\nMexe na estrutura\nA casa é tua, é tua, é tua\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Passa lá em casa\nVai na minha casa\nPassa lá em casa\nPode fazer morada\nPassa lá em casa\nfica lá em casa",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

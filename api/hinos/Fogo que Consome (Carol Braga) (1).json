@@ -1,0 +1,97 @@
+{
+  "id": 1696194843604,
+  "title": "Fogo que Consome",
+  "artist": "Carol Braga",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Espírito de Deus, Sopra sobre nós\nEspírito de Deus, Sopra sobre nós\nToca nossos lábios perdoa os pecados\nEspírito de Deus, Sopra sobre nós\n\nAviva-nos\nAviva-nos\nAviva-nos, Senhor\n2x\n\nVem, Espírito Santo\nVem, Aviva tua igreja\nVem, Espírito Santo\nVem, Aviva tua noiva\n\nA palha seca queimará\nTire as cinzas do altar\nFogo que consome\nSanto é o teu nome\n2x\n\nAviva-nos\nAviva-nos\nAviva-nos, Senhor\n2x\n\nVem, Espírito Santo\nVem, Aviva tua igreja\nVem, Espírito Santo\nVem, Aviva tua noiva\n\nA palha seca queimará\nTire as cinzas do altar\nFogo que consome\nSanto é o teu nome\n3x\n\nAviva-nos\nAviva-nos\nAviva-nos, Senhor\n2x\n\nVem, Espírito Santo\nVem, Aviva tua igreja\nVem, Espírito Santo\nVem, Aviva tua noiva",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Espírito de Deus, Sopra sobre nós\nEspírito de Deus, Sopra sobre nós\nToca nossos lábios perdoa os pecados\nEspírito de Deus, Sopra sobre nós",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Aviva-nos\nAviva-nos\nAviva-nos, Senhor\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vem, Espírito Santo\nVem, Aviva tua igreja\nVem, Espírito Santo\nVem, Aviva tua noiva",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "A palha seca queimará\nTire as cinzas do altar\nFogo que consome\nSanto é o teu nome\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Aviva-nos\nAviva-nos\nAviva-nos, Senhor\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Vem, Espírito Santo\nVem, Aviva tua igreja\nVem, Espírito Santo\nVem, Aviva tua noiva",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "A palha seca queimará\nTire as cinzas do altar\nFogo que consome\nSanto é o teu nome\n3x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Aviva-nos\nAviva-nos\nAviva-nos, Senhor\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Vem, Espírito Santo\nVem, Aviva tua igreja\nVem, Espírito Santo\nVem, Aviva tua noiva",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

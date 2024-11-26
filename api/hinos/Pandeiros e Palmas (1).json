@@ -1,0 +1,83 @@
+{
+  "id": 1658061952969,
+  "title": "Pandeiros e Palmas",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Vamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x\n\nCom muita alegria irmão 3x\nAssim se louva a Deus\n\nAssim, assim, assim\nse louva a Deus\n4x\n\nVamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x\n\nCom muita alegria irmão 3x\nAssim se louva a Deus\n\nAssim, assim, assim \nse louva a Deus \n6x\n(Vamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x)\n\nVamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Vamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Com muita alegria irmão 3x\nAssim se louva a Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Assim, assim, assim\nse louva a Deus\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Com muita alegria irmão 3x\nAssim se louva a Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Assim, assim, assim \nse louva a Deus \n6x\n(Vamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Vamos louvar a Jeová\ncom pandeiros e palmas\n2x\nAqui na terra se canta\nlá no céu se ouve\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

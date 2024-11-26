@@ -1,0 +1,48 @@
+{
+  "id": 1665954260248,
+  "title": "Quero Subir",
+  "artist": "Crianças Diante do Trono",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quero subir ao monte santo de Sião\nE entoar um novo cântico ao meu Deus\nMais que palavras,minha vida eu quero entregar\nPurifica o meu coração para entrar\nEm tua presença\nContemplar tua grandeza\n2x\n\nTe adoro Senhor, em espírito e em verdade\nMe prosto aos teus pés na beleza da santidade\nTe dou meu louvor que seja um cheiro suave\nE um som agradável a ti pois digno tu és\n3x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quero subir ao monte santo de Sião\nE entoar um novo cântico ao meu Deus\nMais que palavras,minha vida eu quero entregar\nPurifica o meu coração para entrar\nEm tua presença\nContemplar tua grandeza\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Te adoro Senhor, em espírito e em verdade\nMe prosto aos teus pés na beleza da santidade\nTe dou meu louvor que seja um cheiro suave\nE um som agradável a ti pois digno tu és\n3x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

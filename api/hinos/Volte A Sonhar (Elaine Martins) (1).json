@@ -1,0 +1,90 @@
+{
+  "id": 1639436868713,
+  "title": "Volte A Sonhar",
+  "artist": "Elaine Martins",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Você diz que está sozinho \nMas Deus diz: \"Estou contigo\"\nVocê diz que não tem jeito não\nMas Deus te diz que tudo é possível\n\nVocê diz: \"eu não posso\"\nvocê diz: \"eu não aguento\"\nDiz: \"meus sonhos estão perdidos\nO que passou não volta mais\"\nMas Deus está dizendo\n\"Eu ainda realizo os sonhos“\n\nVolte a sonhar, volte a sonhar\nDeus ainda realiza sonhos\n\nVocê diz: \"eu não posso\"\nvocê diz: \"eu não aguento\"\nDiz: \"meus sonhos estão perdidos\nO que passou não volta mais\"\nMas Deus está dizendo\n\"Eu ainda realizo os sonhos“\n\nVolte a sonhar,\nSe por um tempo a dor te fez parar\nVolte a sonhar,\nDeus ainda realiza sonhos\nVolte a sonhar,\nSe por um tempo a dor te fez parar\nvolte a sonhar,\nDeus ainda realiza sonhos\n\nSe deu tudo errado pra você\nSe está no leito de um hospital \nOu no chão de uma prisão\nHá tempo de chorar\nHá tempo de sorrir\nDeus é o senhor do tempo\nE Ele ainda realiza sonhos\n\nVolte a sonhar, \nSe por um tempo a dor te fez parar\nVolte a sonhar\nDeus ainda realiza sonhos\nVolte a sonhar,\nDeus ainda realiza sonhos\n\nDeus ainda realiza sonhos",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Você diz que está sozinho \nMas Deus diz: \"Estou contigo\"\nVocê diz que não tem jeito não\nMas Deus te diz que tudo é possível",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Você diz: \"eu não posso\"\nvocê diz: \"eu não aguento\"\nDiz: \"meus sonhos estão perdidos\nO que passou não volta mais\"\nMas Deus está dizendo\n\"Eu ainda realizo os sonhos“",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Volte a sonhar, volte a sonhar\nDeus ainda realiza sonhos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Você diz: \"eu não posso\"\nvocê diz: \"eu não aguento\"\nDiz: \"meus sonhos estão perdidos\nO que passou não volta mais\"\nMas Deus está dizendo\n\"Eu ainda realizo os sonhos“",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Volte a sonhar,\nSe por um tempo a dor te fez parar\nVolte a sonhar,\nDeus ainda realiza sonhos\nVolte a sonhar,\nSe por um tempo a dor te fez parar\nvolte a sonhar,\nDeus ainda realiza sonhos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Se deu tudo errado pra você\nSe está no leito de um hospital \nOu no chão de uma prisão\nHá tempo de chorar\nHá tempo de sorrir\nDeus é o senhor do tempo\nE Ele ainda realiza sonhos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Volte a sonhar, \nSe por um tempo a dor te fez parar\nVolte a sonhar\nDeus ainda realiza sonhos\nVolte a sonhar,\nDeus ainda realiza sonhos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Deus ainda realiza sonhos",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1688341259217,
+  "title": "Quantas Vezes",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quantas vezes você vive a lamentar\nSem saber o que fazer e o que pensar\nQuantas vezes você chora sem ter lágrimas pra derramar\nÉ difícil, é difícil demais\n\nQuantas vezes você vive sem viver\nQuantas vezes você ri pra não chorar\nQuantas vezes os seus pés estão prestes a cair\nÉ difícil, é difícil demais\n\nSó Jesus resolve os problemas\nSó Jesus derruba as barreiras\nSó Jesus dá sentido a sua vida\nE faz dela colorida e o sol passa a brilhar\n\nNo Seu Nome estarão\nSeus problemas resolvidos\nPra sua vida Ele dá sentido\nVida melhor e mais feliz\nVida que é vida\nJesus, seu nome é Jesus\n\nSó Jesus resolve os problemas\nSó Jesus derruba as barreiras\nSó Jesus dá sentido a sua vida\nE faz dela colorida e o sol passa a brilhar\n\nNo Seu Nome estarão\nSeus problemas resolvidos\nPra sua vida Ele dá sentido\nVida melhor e mais feliz\nVida que é vida\nJesus, seu nome é Jesus\n\nJesus, Jesus\nÉ Ele quem resolve os problemas\nJesus, Jesus\nNele você pode confiar\nJesus, Jesus\nÉ Ele quem resolve os problemas\nJesus, Jesus\nNele você pode confiar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quantas vezes você vive a lamentar\nSem saber o que fazer e o que pensar\nQuantas vezes você chora sem ter lágrimas pra derramar\nÉ difícil, é difícil demais",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quantas vezes você vive sem viver\nQuantas vezes você ri pra não chorar\nQuantas vezes os seus pés estão prestes a cair\nÉ difícil, é difícil demais",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Só Jesus resolve os problemas\nSó Jesus derruba as barreiras\nSó Jesus dá sentido a sua vida\nE faz dela colorida e o sol passa a brilhar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "No Seu Nome estarão\nSeus problemas resolvidos\nPra sua vida Ele dá sentido\nVida melhor e mais feliz\nVida que é vida\nJesus, seu nome é Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Só Jesus resolve os problemas\nSó Jesus derruba as barreiras\nSó Jesus dá sentido a sua vida\nE faz dela colorida e o sol passa a brilhar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "No Seu Nome estarão\nSeus problemas resolvidos\nPra sua vida Ele dá sentido\nVida melhor e mais feliz\nVida que é vida\nJesus, seu nome é Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Jesus, Jesus\nÉ Ele quem resolve os problemas\nJesus, Jesus\nNele você pode confiar\nJesus, Jesus\nÉ Ele quem resolve os problemas\nJesus, Jesus\nNele você pode confiar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

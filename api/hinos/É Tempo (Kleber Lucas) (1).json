@@ -1,0 +1,62 @@
+{
+  "id": 1680440172432,
+  "title": "É Tempo",
+  "artist": "Kleber Lucas",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "É tempo de nascer de novo\nÉ tempo de buscar renovo\nÉ tempo de viver a graça\nAntes que se passe o tempo\n\nÉ tempo de plantar\nÉ tempo de colher cem vezes mais\nÉ tempo de se apossar\nDos lugares celestiais\n\nVamos restaurar as brechas\nQue o tempo abriu em nós\nVamos restaurar o templo\nNa unção da nossa voz\nVamos ser a geração\nQue volta pra Jerusalém\nA cidade do grande rei\nLuz de todas as nações\n\nE quando a glória encher\nDe novo este lugar\nO cetro de justiça para governar\nOra, vem, teu trono sobre nós\nHosana\nHosana\nHosana\nHosana",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "É tempo de nascer de novo\nÉ tempo de buscar renovo\nÉ tempo de viver a graça\nAntes que se passe o tempo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "É tempo de plantar\nÉ tempo de colher cem vezes mais\nÉ tempo de se apossar\nDos lugares celestiais",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Vamos restaurar as brechas\nQue o tempo abriu em nós\nVamos restaurar o templo\nNa unção da nossa voz\nVamos ser a geração\nQue volta pra Jerusalém\nA cidade do grande rei\nLuz de todas as nações",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E quando a glória encher\nDe novo este lugar\nO cetro de justiça para governar\nOra, vem, teu trono sobre nós\nHosana\nHosana\nHosana\nHosana",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1673732120553,
+  "title": "Fico Feliz",
+  "artist": "Aline Barros",
+  "author": "Nick Brito, Edson Feitosa",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Fico feliz em vir em Tua casa\nErguer minha voz e cantar\nFico feliz em vir em Tua casa\nErguer minhas mãos e adorar\n\nBendito é o nome do Senhor\nBendito é o nome do Senhor\nBendito é o nome do Senhor\nPra sempre",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Fico feliz em vir em Tua casa\nErguer minha voz e cantar\nFico feliz em vir em Tua casa\nErguer minhas mãos e adorar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Bendito é o nome do Senhor\nBendito é o nome do Senhor\nBendito é o nome do Senhor\nPra sempre",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

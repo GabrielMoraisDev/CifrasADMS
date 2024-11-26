@@ -1,0 +1,69 @@
+{
+  "id": 1682288370440,
+  "title": "Majestade",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Majestade, estou aqui para te adorar\nQuero exaltar Teu nome, sobre o céu, a terra e o mar\nPois só tu és Santo, Teu poder é real\nTeu poder não tem limites, tua glória excede os céus\nTeu andar é nas estrelas, o Teu amor rompeu o véu\n\nÉs um noivo amoroso Teu caminho é a luz\nVou te exaltar, Tua bondade é infinita, meu amado, meu Jesus\nQue me ajuda e faz cantar\nMe amaste de tal forma, que deixaste a Tua glória\nO teu trono é eterno, contigo é certa a vitória\nOhh\n\nMajestade, estou aqui para te adorar\nQuero exaltar Teu nome, sobre o céu, a terra e o mar\nPois só Tu és Santo, Teu poder é real\nTeu poder não tem limites, Tua glória excede os céus\nTeu andar é nas estrelas, o Teu amor rompeu o véu\n\nVive para todo o sempre, amém\nSanto e bendito és o Rei dos Reis\nOnipotente o Deus forte em breve vem\nMajestade sempre eu te louvarei\n\nMajestade",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Majestade, estou aqui para te adorar\nQuero exaltar Teu nome, sobre o céu, a terra e o mar\nPois só tu és Santo, Teu poder é real\nTeu poder não tem limites, tua glória excede os céus\nTeu andar é nas estrelas, o Teu amor rompeu o véu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "És um noivo amoroso Teu caminho é a luz\nVou te exaltar, Tua bondade é infinita, meu amado, meu Jesus\nQue me ajuda e faz cantar\nMe amaste de tal forma, que deixaste a Tua glória\nO teu trono é eterno, contigo é certa a vitória\nOhh",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Majestade, estou aqui para te adorar\nQuero exaltar Teu nome, sobre o céu, a terra e o mar\nPois só Tu és Santo, Teu poder é real\nTeu poder não tem limites, Tua glória excede os céus\nTeu andar é nas estrelas, o Teu amor rompeu o véu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vive para todo o sempre, amém\nSanto e bendito és o Rei dos Reis\nOnipotente o Deus forte em breve vem\nMajestade sempre eu te louvarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Majestade",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

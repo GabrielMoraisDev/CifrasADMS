@@ -1,0 +1,111 @@
+{
+  "id": 1654558337804,
+  "title": "Você É Especial",
+  "artist": "Daniel e Samuel",
+  "author": "Samuel Santos",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "O que se perde pelo ar\nÉ folha e pó\nO que não serve pra usar\nVagueia só\nE você não vive só\nVocê é vaso de valor\n\nQuem já nasceu\nTem que entender\nQue já venceu\nTeve o direito de crescer\nAconteceu\nIsto eu já sei de cor\nVocê é vaso de valor\n\nVocê precisa acreditar\nQue quem é filho é herdeiro\nE quem nasceu pra governar\nDeus usa até no cativeiro\nEsse tempo vai passar\nNão desista de orar\nEle é fiel e verdadeiro\n\nE se você disser para mim\nQue já foi vaso, está quebrado\nE por enquanto esta assim\nJogado aos cantos, encostado\nEu prefiro insistir\nQue o oleiro está aqui\nPra mudar o seu estado\n\nVocê é especial\nQuem te deu a vida\nDestruiu a forma\nNão fez outro igual\n\nVocê ainda não perdeu\nVocê não é folha\nVocê é alguém\nNo coração de Deus\n\nE se você disser para mim\nQue já foi vaso, está quebrado\nE por enquanto esta assim\nJogado aos cantos, encostado\nEu prefiro insistir\nQue o oleiro está aqui\nPra mudar o seu estado\n(2x)\n\nVocê é especial\nQuem te deu a vida\nDestruiu a forma\nNão fez outro igual\n\nVocê ainda não perdeu\nVocê não é folha\nVocê é alguém\nNo coração de Deus\n\nVocê é especial\nQuem te deu a vida\nDestruiu a forma\nNão fez outro igual\n\nVocê ainda não perdeu\nVocê não é folha\nVocê é alguém\nNo coração de Deus\nNo coração de Deus",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "O que se perde pelo ar\nÉ folha e pó\nO que não serve pra usar\nVagueia só\nE você não vive só\nVocê é vaso de valor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quem já nasceu\nTem que entender\nQue já venceu\nTeve o direito de crescer\nAconteceu\nIsto eu já sei de cor\nVocê é vaso de valor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Você precisa acreditar\nQue quem é filho é herdeiro\nE quem nasceu pra governar\nDeus usa até no cativeiro\nEsse tempo vai passar\nNão desista de orar\nEle é fiel e verdadeiro",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E se você disser para mim\nQue já foi vaso, está quebrado\nE por enquanto esta assim\nJogado aos cantos, encostado\nEu prefiro insistir\nQue o oleiro está aqui\nPra mudar o seu estado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Você é especial\nQuem te deu a vida\nDestruiu a forma\nNão fez outro igual",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Você ainda não perdeu\nVocê não é folha\nVocê é alguém\nNo coração de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "E se você disser para mim\nQue já foi vaso, está quebrado\nE por enquanto esta assim\nJogado aos cantos, encostado\nEu prefiro insistir\nQue o oleiro está aqui\nPra mudar o seu estado\n(2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Você é especial\nQuem te deu a vida\nDestruiu a forma\nNão fez outro igual",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Você ainda não perdeu\nVocê não é folha\nVocê é alguém\nNo coração de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Você é especial\nQuem te deu a vida\nDestruiu a forma\nNão fez outro igual",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Você ainda não perdeu\nVocê não é folha\nVocê é alguém\nNo coração de Deus\nNo coração de Deus",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

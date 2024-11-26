@@ -1,0 +1,111 @@
+{
+  "id": 1635717440561,
+  "title": "Eu Cuido de Ti",
+  "artist": "Amanda Wanessa",
+  "author": "Cláudia Canção",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando todos os meus medos\nJá não cabem mais em mim\nQuando o céu está de bronze\nE parece que é o fim\n\nQuando o vento está revolto\nE o mar não quer se acalmar\nQuando as horas do relógio\nSe demoram a passar\n\nMuitas vezes os Seus planos\nNão consigo entender\nMas prefiro confiar\nSem compreender\n\nEu creio em Ti\nEu creio em Ti\nEu olho pra Ti\nE espero em Ti\n\nQuando você sente medo\nDo teu lado Eu estou\nE é bom que você saiba\nQue Eu sinto a sua dor\n\nTambém nunca se esqueça\nQue o mar posso acalmar\nE que Eu sei o tempo certo\nDa vitória te entregar\n\nEste tempo é necessário\nPra te amadurecer\nE depois tem novidades\nPra você\n\nEu cuido de ti\nEu cuido de ti\nDescansa em Mim\nComece a sorrir\n\nO que Eu tenho é bem maior\nPois só Eu sei do amanhã\nEntão recebe o abraço Meu\nPois da tua vida cuido Eu\n\nEu cuido de ti\nEu cuido de ti\nEu cuido de ti\nEu cuido de ti\n\nEu creio em Ti\nEu creio em Ti\nEu olho pra Ti\nE espero em Ti",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando todos os meus medos\nJá não cabem mais em mim\nQuando o céu está de bronze\nE parece que é o fim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Quando o vento está revolto\nE o mar não quer se acalmar\nQuando as horas do relógio\nSe demoram a passar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Muitas vezes os Seus planos\nNão consigo entender\nMas prefiro confiar\nSem compreender",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Eu creio em Ti\nEu creio em Ti\nEu olho pra Ti\nE espero em Ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quando você sente medo\nDo teu lado Eu estou\nE é bom que você saiba\nQue Eu sinto a sua dor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Também nunca se esqueça\nQue o mar posso acalmar\nE que Eu sei o tempo certo\nDa vitória te entregar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Este tempo é necessário\nPra te amadurecer\nE depois tem novidades\nPra você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Eu cuido de ti\nEu cuido de ti\nDescansa em Mim\nComece a sorrir",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "O que Eu tenho é bem maior\nPois só Eu sei do amanhã\nEntão recebe o abraço Meu\nPois da tua vida cuido Eu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Eu cuido de ti\nEu cuido de ti\nEu cuido de ti\nEu cuido de ti",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Eu creio em Ti\nEu creio em Ti\nEu olho pra Ti\nE espero em Ti",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

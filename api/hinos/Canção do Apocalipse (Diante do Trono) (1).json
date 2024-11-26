@@ -1,0 +1,83 @@
+{
+  "id": 1631396687371,
+  "title": "Canção do Apocalipse",
+  "artist": "Diante do Trono",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Digno é o Cordeiro\nQue foi morto\nSanto, Santo Ele é\nUm novo cântico\nAo que se assenta\nSobre o Trono do Céu 2x\n\nSanto, Santo, Santo\nDeus Todo Poderoso\nQue era, e é, e há de vir\nCom a criação eu canto\nLouvores ao Rei dos reis\nÉs tudo para mim\nE eu Te adorarei\n\nEstá vestido do arco-íris\nSons de trovão, luzes, relâmpagos\nLouvores, honra e glória\nForça e poder pra sempre\nAo único Rei eternamente\n\nSanto, Santo, Santo\nDeus Todo Poderoso\nQue era e é e há de vir\nCom a criação eu canto\nLouvores ao Rei dos reis\nÉs tudo para mim\nE eu Te adorarei\n\nMaravilhado, extasiado\nEu fico ao ouvir Teu nome\n\nMaravilhado, extasiado\nEu fico ao ouvir Teu nome\nJesus, Teu nome é força\nÉ fôlego de vida\nMisteriosa Água Viva\n\nSanto, Santo, Santo\nDeus Todo Poderoso\nQue era, e é e há de vir\nCom a criação eu canto\nLouvores ao Rei dos reis\nÉs tudo para mim\nE eu Te adorarei 3X",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Digno é o Cordeiro\nQue foi morto\nSanto, Santo Ele é\nUm novo cântico\nAo que se assenta\nSobre o Trono do Céu 2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Santo, Santo, Santo\nDeus Todo Poderoso\nQue era, e é, e há de vir\nCom a criação eu canto\nLouvores ao Rei dos reis\nÉs tudo para mim\nE eu Te adorarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Está vestido do arco-íris\nSons de trovão, luzes, relâmpagos\nLouvores, honra e glória\nForça e poder pra sempre\nAo único Rei eternamente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Santo, Santo, Santo\nDeus Todo Poderoso\nQue era e é e há de vir\nCom a criação eu canto\nLouvores ao Rei dos reis\nÉs tudo para mim\nE eu Te adorarei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Maravilhado, extasiado\nEu fico ao ouvir Teu nome",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Maravilhado, extasiado\nEu fico ao ouvir Teu nome\nJesus, Teu nome é força\nÉ fôlego de vida\nMisteriosa Água Viva",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Santo, Santo, Santo\nDeus Todo Poderoso\nQue era, e é e há de vir\nCom a criação eu canto\nLouvores ao Rei dos reis\nÉs tudo para mim\nE eu Te adorarei 3X",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1656456393442,
+  "title": "Desapareceu Um Povo",
+  "artist": "Shirley Carvalhaes",
+  "author": "Cecília de Souza",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Muito em breve\nVai sair uma notícia\nDe um povo\nQue desapareceu\n\nEra um povo muito humilde\nQue aqui muito sofreu\nAquele povo\nEra o povo de Deus\n\nOnde está\nAquele povo barulhento?\nOnde está que\nNão se vê nenhum irmão?\n\nAlguém, com voz de lamento\nVai dizer neste momento:\n\"Aquele povo\nFoi embora pra Sião\"\n\nOnde está\nA juventude desta Igreja?\nE as irmãs\nDo círculo de oração\n\nQue a Deus tanto clamavam?\nE as crianças que cantavam?\nElas também foram\nMorar em Sião\n\nDepois deste\nGrande acontecimento\nMuitos crentes desviados\nVão voltar\n\nProcurando os irmãos\nPara reconciliação\nMas infelizmente\nNão vão encontrar",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Muito em breve\nVai sair uma notícia\nDe um povo\nQue desapareceu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Era um povo muito humilde\nQue aqui muito sofreu\nAquele povo\nEra o povo de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Onde está\nAquele povo barulhento?\nOnde está que\nNão se vê nenhum irmão?",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Alguém, com voz de lamento\nVai dizer neste momento:\n\"Aquele povo\nFoi embora pra Sião\"",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Onde está\nA juventude desta Igreja?\nE as irmãs\nDo círculo de oração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Que a Deus tanto clamavam?\nE as crianças que cantavam?\nElas também foram\nMorar em Sião",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Depois deste\nGrande acontecimento\nMuitos crentes desviados\nVão voltar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Procurando os irmãos\nPara reconciliação\nMas infelizmente\nNão vão encontrar",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

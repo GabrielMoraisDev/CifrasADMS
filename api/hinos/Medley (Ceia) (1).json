@@ -1,0 +1,90 @@
+{
+  "id": 1715444090472,
+  "title": "Medley",
+  "artist": "Ceia",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Porque Ele vive, posso crer no amanhã\nPorque Ele vive, temor não há\nMas eu bem sei, eu sei, que a minha vida\nEstá nas mãos do meu Jesus, que vivo está\n2x\n\nPra Te adorar eu vivo\nPra Te adorar eu vivo\nEu vivo só pra ti adorar\n2x\n\nEu sou livre!\nEu sou livre!\nNada além do sangue\nNada além do sangue de Jesus\n2x\n\nAlvo mais que a neve\nAlvo mais que a neve\nSim, neste sangue lavado\nMais alvo que a neve serei\n2x\n\nA morte venceste\nO véu Tu rompeste\nA tumba vazia agora está\nO céu Te adora\nProclama Tua glória\nPois ressuscitaste e vivo estás\n(És invencível..)\n\nÉs invencível\nInigualável\nHoje e pra sempre reinarás\nTeu é o reino\nTua é a glória\nE acima de todo nome estás\n\nNo altar de adoração\nSeja sempre exaltado\nJesus, Filho de Deus\nDeixou Sua glória\nMorreu em meu lugar\nJesus, Filho de Deus\nTu és Jesus, Filho de Deus\n\nSeja exaltado\nEngrandecido\nSeu nome é santo\nPoderoso é\nE não há nada\nQue apague o Seu amor\nJesus me libertou\nJesus me libertou\nJesus me libertou\nJesus me libertou",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Porque Ele vive, posso crer no amanhã\nPorque Ele vive, temor não há\nMas eu bem sei, eu sei, que a minha vida\nEstá nas mãos do meu Jesus, que vivo está\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pra Te adorar eu vivo\nPra Te adorar eu vivo\nEu vivo só pra ti adorar\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Eu sou livre!\nEu sou livre!\nNada além do sangue\nNada além do sangue de Jesus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Alvo mais que a neve\nAlvo mais que a neve\nSim, neste sangue lavado\nMais alvo que a neve serei\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "A morte venceste\nO véu Tu rompeste\nA tumba vazia agora está\nO céu Te adora\nProclama Tua glória\nPois ressuscitaste e vivo estás\n(És invencível..)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "És invencível\nInigualável\nHoje e pra sempre reinarás\nTeu é o reino\nTua é a glória\nE acima de todo nome estás",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "No altar de adoração\nSeja sempre exaltado\nJesus, Filho de Deus\nDeixou Sua glória\nMorreu em meu lugar\nJesus, Filho de Deus\nTu és Jesus, Filho de Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Seja exaltado\nEngrandecido\nSeu nome é santo\nPoderoso é\nE não há nada\nQue apague o Seu amor\nJesus me libertou\nJesus me libertou\nJesus me libertou\nJesus me libertou",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

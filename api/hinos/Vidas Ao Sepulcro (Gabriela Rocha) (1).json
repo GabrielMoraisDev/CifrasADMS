@@ -1,0 +1,104 @@
+{
+  "id": 1679866746457,
+  "title": "Vidas Ao Sepulcro",
+  "artist": "Gabriela Rocha",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "No mundo busquei\nMas não preencheu-me\nCanções tão vazias\nTesouros que um dia se consumarão\n\nEntão Jesus veio\nE me trouxe pra perto\nE todo desejo\nÉ satisfeito em seu amor\n\nNão há nada\nNada melhor\nNão há nada\nNada melhor\nNão há nada\nNada melhor que meu Deus\n\nNão tenho medo\nDe expor minhas fraquezas\nDefeitos e falhas\nNão vou esconder, um amigo encontrei\n\nO Deus das montanhas\nÉ o Deus dos vales\nE não há lugar\nQue a sua graça não possa me achar não\n\nNão há nada\nNada melhor\nNão há nada\nNada melhor\nNão há nada\nNada melhor que meu Deus\n2x\n\nTorna o luto em festa\nA vergonha em glória\nTraz beleza às cinzas\nO senhor pode fazer\n\nTraz a vida aos sepulcros\nFaz de ossos, soldados\nFaz no mar um caminho\nO senhor pode fazer\nSó o senhor pode fazer\n\nNão há nada\nNada melhor\nNão há nada\nNada melhor\nNão há nada\nNada melhor que meu Deus\n2x\n\nTraz a vida aos sepulcros\nFaz de ossos, soldados\nFaz no mar um caminho\nSó o senhor pode fazer \nSó o senhor pode fazer\nO senhor pode fazer",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "No mundo busquei\nMas não preencheu-me\nCanções tão vazias\nTesouros que um dia se consumarão",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Então Jesus veio\nE me trouxe pra perto\nE todo desejo\nÉ satisfeito em seu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não há nada\nNada melhor\nNão há nada\nNada melhor\nNão há nada\nNada melhor que meu Deus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Não tenho medo\nDe expor minhas fraquezas\nDefeitos e falhas\nNão vou esconder, um amigo encontrei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "O Deus das montanhas\nÉ o Deus dos vales\nE não há lugar\nQue a sua graça não possa me achar não",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Não há nada\nNada melhor\nNão há nada\nNada melhor\nNão há nada\nNada melhor que meu Deus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Torna o luto em festa\nA vergonha em glória\nTraz beleza às cinzas\nO senhor pode fazer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Traz a vida aos sepulcros\nFaz de ossos, soldados\nFaz no mar um caminho\nO senhor pode fazer\nSó o senhor pode fazer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Não há nada\nNada melhor\nNão há nada\nNada melhor\nNão há nada\nNada melhor que meu Deus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Traz a vida aos sepulcros\nFaz de ossos, soldados\nFaz no mar um caminho\nSó o senhor pode fazer \nSó o senhor pode fazer\nO senhor pode fazer",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

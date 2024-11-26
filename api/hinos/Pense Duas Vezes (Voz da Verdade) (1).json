@@ -1,0 +1,62 @@
+{
+  "id": 1646350296531,
+  "title": "Pense Duas Vezes",
+  "artist": "Voz da Verdade",
+  "author": "Carlos A. Moysés",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Pense duas vezes\nAntes de desistir\nNão pare e lute\nÉ tempo de vitória\n2x\n\nVocê pode, sim\nVocê consegue, sim\nVocê tem poder\nDeus habita dentro de você\n\nGrite bem alto tua vitória\nProfetize e acontecerá\nTua boca é a boca de Deus\nQue falou e tudo se fez\nQue mandou e tudo apareceu\n\nJá decidi\nNão vou mais desistir\nCristo vai comigo\nVou caminhar\nO alvo vou acertar\nA flecha é o meu Deus\n2x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Pense duas vezes\nAntes de desistir\nNão pare e lute\nÉ tempo de vitória\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Você pode, sim\nVocê consegue, sim\nVocê tem poder\nDeus habita dentro de você",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Grite bem alto tua vitória\nProfetize e acontecerá\nTua boca é a boca de Deus\nQue falou e tudo se fez\nQue mandou e tudo apareceu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Já decidi\nNão vou mais desistir\nCristo vai comigo\nVou caminhar\nO alvo vou acertar\nA flecha é o meu Deus\n2x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

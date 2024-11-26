@@ -1,0 +1,111 @@
+{
+  "id": 1639952812396,
+  "title": "Jesus Vive",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "É madrugada do terceiro dia\nUm novo amanhecer\nAo mundo começa nascer\n\nLá no sepulcro\nOnde Cristo jazia\nNão há mais corpo algum\nO vivente\nEntre os mortos subiu\n\nDois varões\nCom roupas resplandecentes\nAnunciam que\nO Mestre ressuscitou\n\nE Maria e as que\nLá estavam presentes\nCorrem proclamando\nO que se passou, dizendo\n\nJesus vive, Jesus vive\nJesus vive, ressuscitou\n2x\n\nChegando a tarde daquele dia\nSeus discípulos se encontram\nNo mesmo lugar\n\nTodos mui tristes\nPelo acontecido\nEsquecendo que Ele\nHavia de ressuscitar\n\nDe repente\nO Mestre se faz presente\n\nA minha paz\nEsteja com todos vós\nVede as minhas mãos\nE os meus pés\nQue eu sou o mesmo\n\nIde proclamai entre as nações\nQue eu vivo\n\nJesus vive, Jesus vive\nJesus vive, ressuscitou\n4x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "É madrugada do terceiro dia\nUm novo amanhecer\nAo mundo começa nascer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Lá no sepulcro\nOnde Cristo jazia\nNão há mais corpo algum\nO vivente\nEntre os mortos subiu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Dois varões\nCom roupas resplandecentes\nAnunciam que\nO Mestre ressuscitou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E Maria e as que\nLá estavam presentes\nCorrem proclamando\nO que se passou, dizendo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Jesus vive, Jesus vive\nJesus vive, ressuscitou\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Chegando a tarde daquele dia\nSeus discípulos se encontram\nNo mesmo lugar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Todos mui tristes\nPelo acontecido\nEsquecendo que Ele\nHavia de ressuscitar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "De repente\nO Mestre se faz presente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "A minha paz\nEsteja com todos vós\nVede as minhas mãos\nE os meus pés\nQue eu sou o mesmo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Ide proclamai entre as nações\nQue eu vivo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "Jesus vive, Jesus vive\nJesus vive, ressuscitou\n4x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

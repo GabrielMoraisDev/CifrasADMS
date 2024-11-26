@@ -1,0 +1,104 @@
+{
+  "id": 1705872801449,
+  "title": "acende outra vez",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ouço um barulho diferente\nÉ como um vento veemente\nEu vejo línguas como que de fogo\nPousando sobre o ambiente\n\nNós estamos reunidos\nA casa está preparada\nPode soprar o vento\nReacender a brasa (2x)\n\nE me batiza com fogo \nReacende a chama em mim (2x)\n\nOuço um barulho diferente \nÉ como um vento veemente\nEu vejo línguas como que de fogo\nPousando sobre o ambiente \n\nNós estamos reunidos\nA casa está preparada\nPode soprar o vento\nReacender a brasa (2x)\n\nE me batiza com fogo \nReacende a chama em mim (2x)\n\nAcende outra vez\nTua chama em nós\nAviva outra vez, aviva outra vez (4x)\nA nossa geração tem lenha pra queimar\nE pode incendiar e vem nos batizar (4x)\n\nE me batiza com fogo\nReacende a chama em mim (2x)\n\nA nossa geração tem lenha pra queimar\nPode incendiar e vem nos batizar (3x)\n\nE me batiza com fogo\nReacende a chama em mim (2x)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ouço um barulho diferente\nÉ como um vento veemente\nEu vejo línguas como que de fogo\nPousando sobre o ambiente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Nós estamos reunidos\nA casa está preparada\nPode soprar o vento\nReacender a brasa (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "E me batiza com fogo \nReacende a chama em mim (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ouço um barulho diferente \nÉ como um vento veemente\nEu vejo línguas como que de fogo\nPousando sobre o ambiente ",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Nós estamos reunidos\nA casa está preparada\nPode soprar o vento\nReacender a brasa (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "E me batiza com fogo \nReacende a chama em mim (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Acende outra vez\nTua chama em nós\nAviva outra vez, aviva outra vez (4x)\nA nossa geração tem lenha pra queimar\nE pode incendiar e vem nos batizar (4x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "E me batiza com fogo\nReacende a chama em mim (2x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "A nossa geração tem lenha pra queimar\nPode incendiar e vem nos batizar (3x)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "E me batiza com fogo\nReacende a chama em mim (2x)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

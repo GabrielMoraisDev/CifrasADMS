@@ -1,0 +1,90 @@
+{
+  "id": 1688854390964,
+  "title": "Ele vem",
+  "artist": "Kemuel",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "(Aleluia, aleluia, aleluia)\nEle vem, vem me buscar\nEu quero ir com ele morar\nQuanto tempo será que vai demorar?\nOh, meu Jesus, como eu quero te abraçar\n\nVou andar em ruas de ouro\nReceber um lindo tesouro\nFace a face o verei e me prostrarei\nDiante do eterno Rei\n\nSanto, santo, santo, santo\nPara sempre eu cantarei\nE viverei exaltando, adorando\nLouvando na nova Jerusalém\n(Aleluia, aleluia)\n\nEle vem, vem me buscar\nEu quero ir com ele morar\nQuanto tempo será que vai demorar?\nOh, meu Jesus, como eu quero te abraçar, te abraçar\n\nVou andar em ruas de ouro\nReceber um lindo tesouro\nFace a face o verei e me prostrarei\nDiante do eterno rei\n\nSanto, santo, santo, santo\nPara sempre eu cantarei\nE viverei exaltando, adorando\nLouvando na nova Jerusalém\n\nVou andar em ruas de ouro\nReceber um lindo tesouro\nFace a face o verei e me prostrarei\nDiante do eterno rei\n\nSanto, santo, santo, santo\nPara sempre eu cantarei\nE viverei exaltando, adorando\nLouvando na nova Jerusalém\n(Santo! Santo!)",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "(Aleluia, aleluia, aleluia)\nEle vem, vem me buscar\nEu quero ir com ele morar\nQuanto tempo será que vai demorar?\nOh, meu Jesus, como eu quero te abraçar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Vou andar em ruas de ouro\nReceber um lindo tesouro\nFace a face o verei e me prostrarei\nDiante do eterno Rei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Santo, santo, santo, santo\nPara sempre eu cantarei\nE viverei exaltando, adorando\nLouvando na nova Jerusalém\n(Aleluia, aleluia)",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Ele vem, vem me buscar\nEu quero ir com ele morar\nQuanto tempo será que vai demorar?\nOh, meu Jesus, como eu quero te abraçar, te abraçar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Vou andar em ruas de ouro\nReceber um lindo tesouro\nFace a face o verei e me prostrarei\nDiante do eterno rei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Santo, santo, santo, santo\nPara sempre eu cantarei\nE viverei exaltando, adorando\nLouvando na nova Jerusalém",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Vou andar em ruas de ouro\nReceber um lindo tesouro\nFace a face o verei e me prostrarei\nDiante do eterno rei",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Santo, santo, santo, santo\nPara sempre eu cantarei\nE viverei exaltando, adorando\nLouvando na nova Jerusalém\n(Santo! Santo!)",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

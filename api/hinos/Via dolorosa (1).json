@@ -1,0 +1,76 @@
+{
+  "id": 1717863293101,
+  "title": "Via dolorosa",
+  "artist": "",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Pela Via Dolorosa em Jerusalém se viu\nOs soldados conduzindo meu Jesus\nMas o povo se juntava\nPara ver Aquele que levava a cruz\nCom seu corpo já ferido\nE marcado pela dor\nA coroa de espinhos viu então\nMas ouvia a cada passo\nEscárnios a ferir-lhe o coração\n\nPela via dolorosa a sofrer terrível dor\nComo ovelha veio a Cristo Rei e Senhor\nMas quanto amor Jesus mostrou\nMorrendo ali, por ti, por mim\nPela via dolorosa e ao calvário\nSegue em fim\n\nCom seu corpo já ferido\nE marcado pela dor\nA coroa de espinhos viu então\nMas ouvia a cada passo\nEscárnios a ferir-lhe o coração\n\nPela via dolorosa a sofrer terrível dor\nComo ovelha veio a Cristo Rei e Senhor\nMas quanto amor Jesus mostrou\nMorrendo ali, por ti, por mim\nPela via dolorosa ao calvário\nSegue em fim\n\nSeu sangue porém a muitos também\nIria remir à Jerusalém\n\nPela via dolorosa a sofrer terrível dor\nComo ovelha veio a Cristo Rei e Senhor\nQuanto amor Jesus mostrou\nMorrendo ali, por ti e por mim\nPela via dolorosa ao calvário\nSegue em fim",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Pela Via Dolorosa em Jerusalém se viu\nOs soldados conduzindo meu Jesus\nMas o povo se juntava\nPara ver Aquele que levava a cruz\nCom seu corpo já ferido\nE marcado pela dor\nA coroa de espinhos viu então\nMas ouvia a cada passo\nEscárnios a ferir-lhe o coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Pela via dolorosa a sofrer terrível dor\nComo ovelha veio a Cristo Rei e Senhor\nMas quanto amor Jesus mostrou\nMorrendo ali, por ti, por mim\nPela via dolorosa e ao calvário\nSegue em fim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Com seu corpo já ferido\nE marcado pela dor\nA coroa de espinhos viu então\nMas ouvia a cada passo\nEscárnios a ferir-lhe o coração",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Pela via dolorosa a sofrer terrível dor\nComo ovelha veio a Cristo Rei e Senhor\nMas quanto amor Jesus mostrou\nMorrendo ali, por ti, por mim\nPela via dolorosa ao calvário\nSegue em fim",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Seu sangue porém a muitos também\nIria remir à Jerusalém",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Pela via dolorosa a sofrer terrível dor\nComo ovelha veio a Cristo Rei e Senhor\nQuanto amor Jesus mostrou\nMorrendo ali, por ti e por mim\nPela via dolorosa ao calvário\nSegue em fim",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

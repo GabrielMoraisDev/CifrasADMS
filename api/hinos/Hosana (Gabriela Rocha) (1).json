@@ -1,0 +1,90 @@
+{
+  "id": 1718468296120,
+  "title": "Hosana",
+  "artist": "Gabriela Rocha",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Entra, tudo aqui é Teu, a casa está pronta\nEstamos esperando pra Te encontrar\nBrilha Tua Glória e nos envolva com Teu fogo\nVem e toma o Teu lugar\n\nNós invocamos: Acende a chama\nE que venha o Teu Reino\nNós nos rendemos e tudo entregamos\nPra sempre cantaremos\n2x\n\nHosana, Hosana\nO Noivo vem\nO Noivo vem\n2x\n\nEntra, tudo aqui é Teu, a casa está pronta\nEstamos esperando pra Te encontrar\nBrilha com Tua Glória, nos envolva com Teu fogo\nVem e toma o Teu lugar\n\nNós invocamos: Acende a chama\nE que venha o Teu Reino\nNós nos rendemos e tudo entregamos\nPra sempre cantaremos\n2x\n\nHosana, Hosana\nO Noivo vem\nO Noivo vem\n4x\n\nNós invocamos: Acende a chama\nE que venha o Teu Reino\nNós nos rendemos e tudo entregamos\nPra sempre cantaremos\n2x\n\nHosana, Hosana\nO Noivo vem\nO Noivo vem",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Entra, tudo aqui é Teu, a casa está pronta\nEstamos esperando pra Te encontrar\nBrilha Tua Glória e nos envolva com Teu fogo\nVem e toma o Teu lugar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Nós invocamos: Acende a chama\nE que venha o Teu Reino\nNós nos rendemos e tudo entregamos\nPra sempre cantaremos\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Hosana, Hosana\nO Noivo vem\nO Noivo vem\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Entra, tudo aqui é Teu, a casa está pronta\nEstamos esperando pra Te encontrar\nBrilha com Tua Glória, nos envolva com Teu fogo\nVem e toma o Teu lugar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Nós invocamos: Acende a chama\nE que venha o Teu Reino\nNós nos rendemos e tudo entregamos\nPra sempre cantaremos\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Hosana, Hosana\nO Noivo vem\nO Noivo vem\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Nós invocamos: Acende a chama\nE que venha o Teu Reino\nNós nos rendemos e tudo entregamos\nPra sempre cantaremos\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Hosana, Hosana\nO Noivo vem\nO Noivo vem",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

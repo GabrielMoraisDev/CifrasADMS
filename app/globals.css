@@ -10,3 +10,13 @@ body{
 .bg-cyanic{
   background-color: rgb(31, 51, 68);
 }
+
+
+  input[type="range"]::-webkit-slider-thumb {
+    background-color: #c5c5c5; /* cor do botão */
+    width: 20px;
+    height: 20px;
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 50%;
+  }

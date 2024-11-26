@@ -1,0 +1,62 @@
+{
+  "id": 1674918021646,
+  "title": "Recomeçar",
+  "artist": "Voz da Verdade",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Quando tudo está perdido, quando o seu castelo cai\nQuando algo precioso se desfaz,quando toda sua força\nJá não é suficiente e você como um crente se entregou\n\nNada está perdido,Cristo vive agora,\nJá chegou a hora de recomeçar\nO que vale a vida ela é preciosa,\nvale mais que tudo é Jesus\n\nNão se desespere há uma esperança\nUm sorriso de criança você vai sorrir\nVocê é cabeça,nunca será cauda,dentro de você está Jesus\n\nRecomeçar,não importa se você caiu no chão\nRecomeçar é estar de pé com Jesus no coração\n3x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Quando tudo está perdido, quando o seu castelo cai\nQuando algo precioso se desfaz,quando toda sua força\nJá não é suficiente e você como um crente se entregou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Nada está perdido,Cristo vive agora,\nJá chegou a hora de recomeçar\nO que vale a vida ela é preciosa,\nvale mais que tudo é Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Não se desespere há uma esperança\nUm sorriso de criança você vai sorrir\nVocê é cabeça,nunca será cauda,dentro de você está Jesus",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Recomeçar,não importa se você caiu no chão\nRecomeçar é estar de pé com Jesus no coração\n3x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

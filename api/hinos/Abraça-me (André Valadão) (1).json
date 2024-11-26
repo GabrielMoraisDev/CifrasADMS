@@ -1,0 +1,83 @@
+{
+  "id": 1664748006924,
+  "title": "Abraça-me",
+  "artist": "André Valadão",
+  "author": "André Valadão",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Ensina-me a sentir\nTeu coração\nJesus, quero ouvir\nTeu respirar\n\nTirar Teu fôlego\nCom minha fé\nE Te adorar\n\nJesus, Tu és o pão\nQue me alimenta\nO verbo vivo\nQue desceu do céu\n\nVem aquecer\nMeu frio coração\nCom Teu amor\n\nAbraça-me, abraça-me\nCura-me, cura-me\nUnge-me, unge-me\nToca-me, toca-me\n\nVem sobre mim\nCom o Teu manto\nReina em mim\nCom Tua glória\n\nPois ao Teu lado\nÉ o meu lugar\nAleluia, aleluia",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Ensina-me a sentir\nTeu coração\nJesus, quero ouvir\nTeu respirar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Tirar Teu fôlego\nCom minha fé\nE Te adorar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Jesus, Tu és o pão\nQue me alimenta\nO verbo vivo\nQue desceu do céu",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Vem aquecer\nMeu frio coração\nCom Teu amor",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Abraça-me, abraça-me\nCura-me, cura-me\nUnge-me, unge-me\nToca-me, toca-me",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Vem sobre mim\nCom o Teu manto\nReina em mim\nCom Tua glória",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Pois ao Teu lado\nÉ o meu lugar\nAleluia, aleluia",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

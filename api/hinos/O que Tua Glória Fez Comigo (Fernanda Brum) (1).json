@@ -1,0 +1,76 @@
+{
+  "id": 1641765067971,
+  "title": "O que Tua Glória Fez Comigo",
+  "artist": "Fernanda Brum",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Eu me rasgo por inteiro\nFaço tudo, mas vem novamente\nEu mergulho na mirra ardente\nMas peço que Tua presença aumente\n2x\n\nE se eu passar pelo fogo, não temerei\nNa Tua fumaça de glória eu entrarei\nLonge do Santo dos Santos não sei mais viver.\n\nQuem já pisou no Santo dos Santos\nEm outro lugar não sabe viver\nE onde estiver, clamar pela glória\nA glória de Deus.\n2x\n\nGlória, Glória, \nGlória, Glória\nSanto, Santo, \nSanto, Santo\nKadosh, Kadosh\nKadosh, Kadosh\nHoly, Holy\nHoly, Holy\n\nQuem já pisou no Santo dos Santos\nEm outro lugar não sabe viver\nE onde estiver, clamar pela glória\nA glória de Deus. 2x\n\nGlória, Glória, Glória, Glória",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Eu me rasgo por inteiro\nFaço tudo, mas vem novamente\nEu mergulho na mirra ardente\nMas peço que Tua presença aumente\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E se eu passar pelo fogo, não temerei\nNa Tua fumaça de glória eu entrarei\nLonge do Santo dos Santos não sei mais viver.",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Quem já pisou no Santo dos Santos\nEm outro lugar não sabe viver\nE onde estiver, clamar pela glória\nA glória de Deus.\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Glória, Glória, \nGlória, Glória\nSanto, Santo, \nSanto, Santo\nKadosh, Kadosh\nKadosh, Kadosh\nHoly, Holy\nHoly, Holy",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Quem já pisou no Santo dos Santos\nEm outro lugar não sabe viver\nE onde estiver, clamar pela glória\nA glória de Deus. 2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Glória, Glória, Glória, Glória",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

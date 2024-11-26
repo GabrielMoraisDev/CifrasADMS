@@ -1,0 +1,132 @@
+{
+  "id": 1642117596060,
+  "title": "Terra Seca",
+  "artist": "Judson de Oliveira",
+  "author": "Judson de Oliveira",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Senhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto\n\nE até a minha adoração\nJá não passa de canções\nE palavras repetidas\n\nSenhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto\n\nE até a minha adoração\nJá não passa de canções\nE palavras repetidas\n\nAbre os céus, Senhor\nE deixa a chuva descer\n\nA terra seca está aqui\nA terra seca sou eu\n2x\n\nDeixa a água descer\nDeixa a chuva molhar\nEncharcar, encharcar\nEsta terra seca\n2x\n\nSenhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto\n\nE até a minha adoração\nJá não passa de canções\nE palavras repetidas\n\nSenhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto\n\nE até a minha adoração\nJá não passa de canções\nE palavras repetidas\n\nAbre os céus, Senhor\nE deixa a chuva descer\nAbre os céus, Senhor\nE deixa a água descer\n\nA terra seca está aqui\nA terra seca sou eu\n2x\n\nDeixa a água descer\nDeixa a chuva molhar\nEncharcar, encharcar\nEsta terra seca\n6x",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Senhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "E até a minha adoração\nJá não passa de canções\nE palavras repetidas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Senhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "E até a minha adoração\nJá não passa de canções\nE palavras repetidas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Abre os céus, Senhor\nE deixa a chuva descer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "A terra seca está aqui\nA terra seca sou eu\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Deixa a água descer\nDeixa a chuva molhar\nEncharcar, encharcar\nEsta terra seca\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Senhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "E até a minha adoração\nJá não passa de canções\nE palavras repetidas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Senhor, a minha oração\nSe tornou sequidão\nSe tornou um deserto",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "",
+        "text": "E até a minha adoração\nJá não passa de canções\nE palavras repetidas",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "Abre os céus, Senhor\nE deixa a chuva descer\nAbre os céus, Senhor\nE deixa a água descer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 13,
+        "description": "",
+        "text": "A terra seca está aqui\nA terra seca sou eu\n2x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 14,
+        "description": "",
+        "text": "Deixa a água descer\nDeixa a chuva molhar\nEncharcar, encharcar\nEsta terra seca\n6x",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1726331771244,
+  "title": "Em Teu Nome",
+  "artist": "Família Worship",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Elohim, Deus acima de todos\nJireh, Deus provedor\nRafá, tu és o Deus da cura\nYahweh, o grande eu sou\n\nHá poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n2X\n\nElohim, Deus acima de todos\nJireh, Deus provedor\nRafá, tu és o Deus da cura\nYahweh, o grande eu sou\n\nHá poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n2X\n\nTeu nome é grande\nÉ poderoso\nTeu nome é maior que todo nome\nA terra treme ao teu falar\nTeu nome é maior que todo nome\n2X\n\nHá poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n3X\n\nTeu nome é grande\nÉ poderoso\nTeu nome é maior que todo nome\nA terra treme ao teu falar\nTeu nome é maior que todo nome\n2X\n\nHá poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n2X",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Elohim, Deus acima de todos\nJireh, Deus provedor\nRafá, tu és o Deus da cura\nYahweh, o grande eu sou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Há poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Elohim, Deus acima de todos\nJireh, Deus provedor\nRafá, tu és o Deus da cura\nYahweh, o grande eu sou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Há poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Teu nome é grande\nÉ poderoso\nTeu nome é maior que todo nome\nA terra treme ao teu falar\nTeu nome é maior que todo nome\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Há poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n3X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Teu nome é grande\nÉ poderoso\nTeu nome é maior que todo nome\nA terra treme ao teu falar\nTeu nome é maior que todo nome\n2X",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "",
+        "text": "Há poder no nome de Jesus\nHá poder no nome de Jesus\nEm teu nome as muralhas cairão\n2X",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}

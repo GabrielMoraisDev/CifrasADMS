@@ -20,6 +20,11 @@ export default function Item({ id, consul }: ItemProps) {
   const [tomOriginal, setTomOriginal] = useState<string>('C');
   const [troca, setTroca] = useState<boolean>(false);
   // const[color, setColor] = useState('cyan')
+  const [rangeValue, setRangeValue] = useState(50);
+
+  const handleRangeChange = (event) => {
+    setRangeValue(event.target.value);
+  };
 
   const substitutions: Record<string, Record<string, string>> = {
     // Substituições conforme o tom
@@ -138,11 +143,24 @@ const renderParagraphs = (text: string) => {
         <div className={`w-10 h-10 border-2 ${tomOriginal === 'G#' ? `border-cyan-600` : `border-cyan-800`} ${tom === 'G#' ? `bg-cyan-600` : `bg-cyan-800`} rounded-md mx-4 my-2 flex justify-center place-items-center`} onClick={() => { setTom('G#'); setTroca(false); }}>G#</div>
         <div className={`w-10 h-10 border-2 ${tomOriginal === 'A' ? `border-cyan-600` : `border-cyan-800`} ${tom === 'A' ? `bg-cyan-600` : `bg-cyan-800`} rounded-md mx-4 my-2 flex justify-center place-items-center`} onClick={() => { setTom('A'); setTroca(false); }}>A</div>
         <div className={`w-10 h-10 border-2 ${tomOriginal === 'Bb' ? `border-cyan-600` : `border-cyan-800`} ${tom === 'Bb' ? `bg-cyan-600` : `bg-cyan-800`} rounded-md mx-4 my-2 flex justify-center place-items-center`} onClick={() => { setTom('Bb'); setTroca(false); }}>Bb</div>
-
       </div>
+      
       
       <div className='mt-24 mx-3'>{renderParagraphs(data.texto)}</div>
       <div className="h-32"></div>
+
+        <div className="bg-cyanic w-full h-16 m-auto fixed bottom-0 left-0 z-50 flex place-items-center">
+          <input
+            id="default-range"
+            type="range"
+            value={rangeValue}
+            onChange={handleRangeChange}
+            className="w-44 h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer ml-5"
+          />
+          <div className="ml-3 w-8 h-8 bg-red-900"></div>
+          <div className="ml-3 w-8 h-8 bg-green-900"></div>
+        </div>
+
     </div>
   );
 }

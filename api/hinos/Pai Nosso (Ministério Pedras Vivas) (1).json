@@ -1,0 +1,83 @@
+{
+  "id": 1631396609855,
+  "title": "Pai Nosso",
+  "artist": "Ministério Pedras Vivas",
+  "author": "",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "",
+  "lyrics": {
+    "full_text": "Pai nosso, nos Céus\nSanto é o Teu nome\nTeu reino, buscamos\nTua vontade seja feita\n\nNa Terra, como é, nos Céus\nDeixe o Céu descer\nNa Terra, como é, nos Céus\nDeixe o Céu descer\n\nPai nosso, nos Céus\nSanto é o Teu nome\nTeu reino, buscamos\nTua vontade seja feita\n\nNa Terra, como é, nos Céus\nDeixe o Céu descer\nNa Terra, como é, nos Céus\nDeixe o Céu descer\n\nDeixa o Céu descer\nDeixa o Céu descer\nDeixa o Céu descer\n3x\n\nTeu é o Reino\nTeu, o poder\nTua, é a glória\nPra sempre, amém\n4x\n\nTeu é o Reino\nTeu, o poder\nTua, é a glória\nPra sempre, amém\nPra sempre, amém",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "",
+        "text": "Pai nosso, nos Céus\nSanto é o Teu nome\nTeu reino, buscamos\nTua vontade seja feita",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "Na Terra, como é, nos Céus\nDeixe o Céu descer\nNa Terra, como é, nos Céus\nDeixe o Céu descer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Pai nosso, nos Céus\nSanto é o Teu nome\nTeu reino, buscamos\nTua vontade seja feita",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Na Terra, como é, nos Céus\nDeixe o Céu descer\nNa Terra, como é, nos Céus\nDeixe o Céu descer",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Deixa o Céu descer\nDeixa o Céu descer\nDeixa o Céu descer\n3x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Teu é o Reino\nTeu, o poder\nTua, é a glória\nPra sempre, amém\n4x",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "",
+        "text": "Teu é o Reino\nTeu, o poder\nTua, é a glória\nPra sempre, amém\nPra sempre, amém",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}
