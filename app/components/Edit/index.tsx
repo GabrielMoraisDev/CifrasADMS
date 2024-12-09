@@ -22,7 +22,7 @@ export default function Edit({ id, consul }: ItemProps) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://192.168.0.155:3005/${consul}/${id}`);
+        const response = await fetch(`http://localhost:3005/${consul}/${id}`);
         if (!response.ok) {
           console.error('Erro na resposta da API:', response.statusText);
           return;
@@ -56,12 +56,12 @@ export default function Edit({ id, consul }: ItemProps) {
       
       console.log('Dados enviados:', body); // Adicione este log
   
-      const response = await fetch('http://192.168.0.155:3005/editharp', {
+      const response = await fetch('http://localhost:3005/editharp', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify(body),
+        body: JSON.stringify(body), 
       });
       
       if (!response.ok) {

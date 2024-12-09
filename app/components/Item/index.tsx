@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import Link from 'next/link';
 
 interface Data {
@@ -19,15 +19,14 @@ export default function Item({ id, consul }: ItemProps) {
   const [tom, setTom] = useState<string>('C');
   const [tomOriginal, setTomOriginal] = useState<string>('C');
   const [troca, setTroca] = useState<boolean>(false);
-  // const[color, setColor] = useState('cyan')
-  const [rangeValue, setRangeValue] = useState(50);
+  const [rangeValue, setRangeValue] = useState(0);
+  const scrollContainerRef = useRef<HTMLDivElement | null>(null);
 
   const handleRangeChange = (event) => {
     setRangeValue(event.target.value);
   };
 
   const substitutions: Record<string, Record<string, string>> = {
-    // Substituições conforme o tom
     'C': { 'C': 'C', 'D': 'D', 'Dm': 'Dm', 'E': 'E', 'Em': 'Em', 'F': 'F', 'G': 'G', 'A': 'A', 'Am': 'Am', 'Bb': 'Bb', 'B°': 'B°' },
     'C#': { 'C': 'C#', 'D': 'Eb', 'Dm': 'Ebm', 'E': 'F', 'Em': 'Fm', 'F': 'F#', 'G': 'G#', 'A': 'Bb', 'Am': 'Bbm', 'Bb': 'B', 'B°': 'C°' },
     'D': { 'C': 'D', 'D': 'E', 'Dm': 'Em', 'E': 'F#', 'Em': 'F#m', 'F': 'G', 'G': 'A', 'A': 'B', 'Am': 'Bm', 'Bb': 'C', 'B°': 'C#°' },
@@ -45,17 +44,16 @@ export default function Item({ id, consul }: ItemProps) {
   function cifra(tom: string, text: string): string {
     if (!text || !substitutions[tom]) return text;
   
-    // Extrai as cifras e converte conforme o tom
-    return text.replace(/\b[A-G][#bm°]?\b/g, (match) => {
-      return substitutions[tom][match] || match; // Substitui a cifra, se houver correspondência no dicionário
+    return text.replace(/\b([A-Ga-g#b°]+)(4|4m|m4|4M|7|7m|m7|7M|9|9m|m9|9M|m|M|°)?\b/g, (match, note, suffix) => {
+      const newNote = substitutions[tom][note] || note;
+      return newNote + (suffix || '');
     });
   }
   
-
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`https://api-adms-production.up.railway.app/${consul}/${id}`);
+        const response = await fetch(`http://localhost:3005/${consul}/${id}`);
         
         if (!response.ok) {
           console.error('Erro na resposta da API:', response.statusText);
@@ -80,6 +78,28 @@ export default function Item({ id, consul }: ItemProps) {
     fetchData();
   }, [id, consul]);
 
+  useEffect(() => {
+    const scrollContainer = scrollContainerRef.current;
+    if (scrollContainer) {
+      const scrollAmount = rangeValue/2; // A distância de rolagem será proporcional ao valor do range
+      const scrollSpeed = 95; // A velocidade do scroll (ajustável conforme necessário)
+  
+      // Função para rolar a div
+      const smoothScroll = () => {
+        // Se o valor de rangeValue for positivo, rola para baixo
+        scrollContainer.scrollBy(0, scrollAmount);
+      };
+  
+      // Inicia a animação com base no valor do range
+      const intervalId = setInterval(smoothScroll, scrollSpeed); // Intervalo para controlar a rolagem suave
+  
+      // Limpa a animação quando rangeValue for alterado
+      return () => {
+        clearInterval(intervalId);
+      };
+    }
+  }, [rangeValue]);  
+   
 
   if (!data) {
     return (
@@ -124,8 +144,8 @@ const renderParagraphs = (text: string) => {
           </div>
         </Link>
         <div className="absolute left-20 mx-auto">
-          <h1 className='text-sm w-[60vw] truncate capitalize animate-fade-up'>{data.name}</h1> 
-          <h1 className='text-sm text-gray-400 capitalize animate-fade-down'>{data.artista}</h1> 
+          <h1 className='text-sm w-[60vw] truncate capitalize animate-fade-right'>{data.name}</h1> 
+          <h1 className='text-sm text-gray-400 capitalize animate-fade-right'>{data.artista}</h1> 
         </div>
         <div className={`animate-fade-left absolute right-5 w-10 h-10 bg-cyan-700 flex justify-center place-items-center rounded-md`} onClick={() => setTroca(!troca)}>
           {tom}
@@ -146,21 +166,30 @@ const renderParagraphs = (text: string) => {
       </div>
       
       
-      <div className='mt-24 mx-3'>{renderParagraphs(data.texto)}</div>
-      <div className="h-32"></div>
+      <div ref={scrollContainerRef} className='mt-24 mx-3 h-[73vh] overflow-y-scroll'>{renderParagraphs(data.texto)}</div>
 
         <div className="bg-cyanic w-full h-16 m-auto fixed bottom-0 left-0 z-50 flex place-items-center">
           <input
-            id="default-range"
-            type="range"
-            value={rangeValue}
-            onChange={handleRangeChange}
+            type="range" 
+            id="range" 
+            min="1"
+            max="10" 
+            value={rangeValue} 
+            onChange={handleRangeChange} 
             className="w-44 h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer ml-5"
           />
-          <div className="ml-3 w-8 h-8 bg-red-900"></div>
-          <div className="ml-3 w-8 h-8 bg-green-900"></div>
+          <div className="ml-3 w-8 h-8 rounded-lg bg-green-700 flex justify-center place-items-center" onClick={()=>setRangeValue(rangeValue+2)}>
+            <svg xmlns="http://www.w3.org/2000/svg" width="80%" height="80%" fill="currentColor" className="bi bi-play" viewBox="0 0 16 16">
+              <path d="M10.804 8 5 4.633v6.734zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C4.713 12.69 4 12.345 4 11.692V4.308c0-.653.713-.998 1.233-.696z"/>
+            </svg>
+          </div>
+          <div className="ml-3 w-8 h-8 rounded-lg bg-red-700 flex justify-center place-items-center" onClick={()=>setRangeValue(0)}>
+            <svg xmlns="http://www.w3.org/2000/svg" width="80%" height="80%" fill="currentColor" className="bi bi-stop" viewBox="0 0 16 16">
+              <path d="M3.5 5A1.5 1.5 0 0 1 5 3.5h6A1.5 1.5 0 0 1 12.5 5v6a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 11zM5 4.5a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h6a.5.5 0 0 0 .5-.5V5a.5.5 0 0 0-.5-.5z"/>
+            </svg>
+          </div>
         </div>
 
     </div>
-  );
+  ); 
 }

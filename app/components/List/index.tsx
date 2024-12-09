@@ -19,15 +19,15 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
   const [loading, setLoading] = useState(true);
   const [qnt, setQnt] = useState(0);
   // const[color, setColor] = useState('cyan')
-  
+
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://192.168.0.155:3005/${link}`);
+        const response = await fetch(`http://localhost:3005/${link}`);
         if (link === 'harpa') {
           setQnt(632);
         } else {
-          const response2 = await fetch('http://192.168.0.155:3005/qnt');
+          const response2 = await fetch('http://localhost:3005/qnt');
           const result2 = await response2.json();
           setQnt(result2.row.qnt);
         }
@@ -78,14 +78,16 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
     <div className='mt-36 flex flex-col items-center mx-4'>
       <input
         type="text"
-        className={`animate-fade-down left-4 fixed z-10 bg-cyan-950 top-24 text-cyan-100 border-2 border-cyan-800 rounded p-2 mb-4 w-[92%] uppercase mx-auto`}
+        className={`animate-fade-down left-4 fixed z-10 bg-cyan-950 top-20 text-cyan-100 border-2 border-cyan-800 rounded p-2 mb-4 w-[92%] uppercase mx-auto`}
         placeholder={`Pesquise aqui... [ Total ${qnt} ]`}
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
       <ul className='w-full'>
         {filteredData.map(item => (
+          
           <li key={item.id}>
+            <hr className={`text-white animate-fade-right border-cyan-600 w-full`}/>
             <div className="flex relative my-3 overflow-hidden">
               <Link href={`${link}/${item.id}`} className='flex'>
                 <div className={`animate-fade-right w-12 h-10 flex justify-center items-center m-auto text-center bg-cyan-800 text-md mr-2 rounded-md overflow-hidden`}>{item.tom? item.tom :'X'}</div>
@@ -110,8 +112,6 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
                 </div>
               </Link> */}
             </div>
-
-            <hr className={`text-white animate-fade-right border-cyan-600 w-full`}/>
           </li>
         ))}
       </ul>

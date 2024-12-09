@@ -41,8 +41,8 @@ export default function Home() {
         <div className={`${btn2 ? 'animate-fade-up' : 'opacity-0'} w-auto px-3 py-2 rounded-md my-7 text-2xl bg-cyan-800`}>
           <Link href={`/harpa/edit/tom/${id}`}>Editar Tom</Link>
         </div>
-        <div className={`${btn3 ? 'animate-fade-up' : 'opacity-0'} w-auto px-3 py-2 rounded-md my-7 text-2xl bg-slate-600`}>
-          Editar Letra
+        <div className={`${btn3 ? 'animate-fade-up' : 'opacity-0'} w-auto px-3 py-2 rounded-md my-7 text-2xl bg-cyan-800`}>
+          <Link href={`/harpa/edit/letra/${id}`}>Editar Letra</Link>
         </div>
       </div>
     </>
