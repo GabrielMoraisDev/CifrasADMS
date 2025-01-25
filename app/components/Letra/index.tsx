@@ -22,7 +22,7 @@ export default function Edit({ id, consul }: ItemProps) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://localhost:3005/${consul}/${id}`);
+        const response = await fetch(`https://api-adms.onrender.com/${consul}/${id}`);
         if (!response.ok) {
           console.error('Erro na resposta da API:', response.statusText);
           return;

@@ -22,8 +22,8 @@ export default function Item({ id, consul }: ItemProps) {
   const [rangeValue, setRangeValue] = useState(0);
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
 
-  const handleRangeChange = (event) => {
-    setRangeValue(event.target.value);
+  const handleRangeChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setRangeValue(Number(event.target.value));
   };
 
   const substitutions: Record<string, Record<string, string>> = {
@@ -53,7 +53,7 @@ export default function Item({ id, consul }: ItemProps) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://localhost:3005/${consul}/${id}`);
+        const response = await fetch(`https://api-adms.onrender.com/${consul}/${id}`);
         
         if (!response.ok) {
           console.error('Erro na resposta da API:', response.statusText);
@@ -100,6 +100,7 @@ export default function Item({ id, consul }: ItemProps) {
     }
   }, [rangeValue]);  
    
+  console.log(data)
 
   if (!data) {
     return (
@@ -115,27 +116,69 @@ export default function Item({ id, consul }: ItemProps) {
     );
   }
 
-const renderParagraphs = (text: string) => {
-  const lines = text.split('\n');
-  const cifras = data.cifra ? data.cifra.split('][').map(cifra => cifra.replace(/[\[\]]/g, '')) : [];
+  const renderParagraphs = (text: string) => {
+    const lines = text.split('\n');
+    const cifras = data.cifra ? data.cifra.split('][').map(cifra => cifra.replace(/[\[\]]/g, '')) : [];
+  
+    let isHighlighted = false;
+    let spacer = false;
+    let spacerStart = false;
+  
+    return (
+      <div>
+        {lines.map((line, index) => {
 
+          if(spacer){
+            spacer = false;
+          }
+
+          if(isHighlighted){
+            spacer = false;
+          }
+
+          if(spacerStart){
+            spacerStart = false;
+          }
+
+          if (line.startsWith('[*')) {
+            isHighlighted = true;
+            spacer = true;
+          }
+          else if (line.startsWith('[')) {
+            isHighlighted = false;
+            spacerStart = true;
+
+            if(spacer){
+              spacer = false;
+            }
+          }
+          
+
+          const processedLine = line.replace(/\*/g, '').replace(/[\[\]]/g, '');
+  
+          return (
+            <div key={index} className={`relative ${isHighlighted ? 'ml-5' : 'mt-0'} ${spacer ? 'mt-14' : ''}`}>
+              {spacerStart && index > 0 ? <><div className='h-7 '></div><div className='w-20 h-[0.2rem] bg-white absolute left-[0rem] top-4'></div></> : ''}
+              {spacer ? <><div className='h-7 absolute top-[-1.1rem] left-[-1.2rem] font-bold'>REFRÃO</div><div className='w-20 h-[0.2rem] bg-white absolute left-[-1.2rem] top-2'></div></> : ''}
+              <input 
+                readOnly 
+                className="text-cyan-500 mt-6 bg-cyanic w-full cursor-none outline-none border-none" 
+                value={cifra(tom, cifras[index] || '')}
+              />
+              <p className={isHighlighted ? 'text-white font-bold' : ''}>{processedLine}</p>
+              {isHighlighted ? <div className="h-20 w-[0.2rem] bg-white absolute left-[-1.2rem] top-2"></div> : ''}
+            </div>
+          );
+        })}
+      </div>
+    );
+  };
+  
+  
+  
   return (
     <div>
-      {lines.map((line, index) => (
-        <div key={index}>
-          <input readOnly className={`text-cyan-500 mt-6 bg-cyanic w-full cursor-none outline-none border-none`} value={cifra(tom, cifras[index] || '')}/>
-          <p>{line.replace(/[\[\]]/g, '')}</p>
-        </div>
-      ))}
-    </div>
-  );
-};
-
-  console.log(tomOriginal)
-
-  return (
-    <div>
-      <nav className={`w-full h-20 bg-cyan-900 fixed top-0 flex place-items-center auto justify-left z-20`}> 
+      <nav className={`w-full h-20 bg-cyan-900 fixed top-0 flex place-items-center auto justify-left z-30`}> 
         <Link href={`/${consul}`}>
           <div className="animate-fade-right w-auto mx-3 rounded-md flex justify-left place-items-center ml-5">
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" className="bi bi-arrow-left-square" viewBox="0 0 16 16">
@@ -152,7 +195,7 @@ const renderParagraphs = (text: string) => {
         </div>
       </nav>
 
-      <div className={`ml-0 fixed ${troca?'top-[5rem]':'top-[-5rem]'} w-full h-auto bg-cyan-900 pb-3 grid grid-cols-5 grid-rows-2 gap-0 duration-300`}>
+      <div className={`ml-0 fixed ${troca?'top-[5rem]':'top-[-5rem]'} w-full h-auto bg-cyan-900 pb-3 grid grid-cols-5 grid-rows-2 gap-0 duration-300 z-20`}>
         <div className={`w-10 h-10 border-2 ${tomOriginal === 'C' ? `border-cyan-600` : `border-cyan-800`} ${tom === 'C' ? `bg-cyan-600` : `bg-cyan-800`} rounded-md mx-4 my-2 flex justify-center place-items-center`} onClick={() => { setTom('C'); setTroca(false); }}>C</div>
         <div className={`w-10 h-10 border-2 ${tomOriginal === 'C#' ? `border-cyan-600` : `border-cyan-800`} ${tom === 'C#' ? `bg-cyan-600` : `bg-cyan-800`} rounded-md mx-4 my-2 flex justify-center place-items-center`} onClick={() => { setTom('C#'); setTroca(false); }}>C#</div>
         <div className={`w-10 h-10 border-2 ${tomOriginal === 'D' ? `border-cyan-600` : `border-cyan-800`} ${tom === 'D' ? `bg-cyan-600` : `bg-cyan-800`} rounded-md mx-4 my-2 flex justify-center place-items-center`} onClick={() => { setTom('D'); setTroca(false); }}>D</div>

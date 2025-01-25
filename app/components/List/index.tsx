@@ -23,11 +23,11 @@ const Lista: React.FC<ListaProps> = ({ link }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://localhost:3005/${link}`);
+        const response = await fetch(`https://api-adms.onrender.com/${link}`);
         if (link === 'harpa') {
           setQnt(632);
         } else {
-          const response2 = await fetch('http://localhost:3005/qnt');
+          const response2 = await fetch('https://api-adms.onrender.com/qnt');
           const result2 = await response2.json();
           setQnt(result2.row.qnt);
         }
